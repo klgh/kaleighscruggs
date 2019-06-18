@@ -10,6 +10,10 @@ const IndexPage = () => (
     <p>Welcome to my portfolio</p>
     <p>Check out my other sites</p>
     <p>thanks</p>
+    <a href="https://dev.to/kaleigh">
+      <i class="fab fa-dev" title="kaleigh's DEV Profile"></i>
+    </a>
+
     <Link to="/resume/">resume</Link>
   </Layout>
 )
