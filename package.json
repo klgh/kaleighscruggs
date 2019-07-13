@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "kaleigh",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Kaleigh Scruggs Portfolio",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Kaleigh Scruggs <kaleighscruggs@gmail.com>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
@@ -18,7 +18,9 @@
     "gatsby-plugin-offline": "^2.2.4",
     "gatsby-plugin-react-helmet": "^3.1.2",
     "gatsby-plugin-sharp": "^2.2.7",
+    "gatsby-remark-images": "^3.1.6",
     "gatsby-source-filesystem": "^2.1.5",
+    "gatsby-transformer-remark": "^2.6.5",
     "gatsby-transformer-sharp": "^2.2.3",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
