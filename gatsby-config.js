@@ -3,6 +3,7 @@ module.exports = {
     title: `Kaleigh Scruggs`,
     description: `portfolio site`,
     author: `@kaleighscruggs`,
+    siteUrl: "https://kaleighscruggs.com",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -11,6 +12,13 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `posts`,
+        path: `${__dirname}/src/posts`,
       },
     },
     `gatsby-transformer-sharp`,
@@ -29,10 +37,15 @@ module.exports = {
     },
     {
       resolve: "gatsby-plugin-google-analytics",
-      options: { trackingId: "UA-85166082-3" },
+      options: {
+        trackingId: "UA-85166082-3",
+      },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-favicon`,
+      options: {
+        logo: "./src/images/favicon.png",
+      },
+    },
   ],
 }
