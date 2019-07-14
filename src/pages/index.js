@@ -70,7 +70,7 @@ const IndexPage = () => (
         />
       </a>{" "}
       <a href="https://kaleighblogs.com/">
-        <FontAwesomeIcon title="kaleigh's blog" icon={["fab", "blog"]} />
+        <FontAwesomeIcon title="kaleigh's blog" icon={["fab", "wordpress"]} />
       </a>{" "}
     </p>
     <br />

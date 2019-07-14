@@ -1,6 +1,10 @@
+body {
+  margin: 0px;
+}
+
 .header {
   margin-bottom: 1.45rem;
-  background: #679499;
+  background: $mainColor;
   padding: 0.5em 30px;
 }
 .header-links {
