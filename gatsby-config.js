@@ -3,7 +3,7 @@ module.exports = {
     title: `Kaleigh Scruggs`,
     description: `portfolio site`,
     author: `@kaleighscruggs`,
-    siteUrl: "https://kaleighscruggs.com",
+    siteUrl: "https://ecstatic-banach-93bdc7.netlify.com",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
