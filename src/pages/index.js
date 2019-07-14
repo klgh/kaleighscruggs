@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
@@ -73,11 +72,6 @@ const IndexPage = () => (
         <FontAwesomeIcon title="kaleigh's blog" icon={["fab", "wordpress"]} />
       </a>{" "}
     </p>
-    <br />
-
-    <br />
-    <Link to="/resume/">resume</Link>
-    <br />
   </Layout>
 )
 

@@ -3,7 +3,7 @@ module.exports = {
     title: `Kaleigh Scruggs`,
     description: `portfolio site`,
     author: `@kaleighscruggs`,
-    siteUrl: "https://kaleighscruggs.com",
+    siteUrl: "https://ecstatic-banach-93bdc7.netlify.com",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -12,13 +12,6 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `posts`,
-        path: `${__dirname}/src/posts`,
       },
     },
     `gatsby-plugin-sass`,
@@ -41,6 +34,16 @@ module.exports = {
       resolve: "gatsby-plugin-google-analytics",
       options: {
         trackingId: "UA-85166082-3",
+      },
+    },
+    {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `PT Sans`,
+          },
+        ],
       },
     },
     {
