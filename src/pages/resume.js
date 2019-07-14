@@ -7,7 +7,6 @@ const Resume = () => (
   <Layout>
     <SEO title="Resume" />
     <h1>This is my resume and portfolio</h1>
-    <p>Welcome to page it!</p>
     <Link to="/"> back</Link>
   </Layout>
 )
