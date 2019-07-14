@@ -44,6 +44,16 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `PT Sans`,
+          },
+        ],
+      },
+    },
+    {
       resolve: `gatsby-plugin-favicon`,
       options: {
         logo: "./src/images/favicon.png",
