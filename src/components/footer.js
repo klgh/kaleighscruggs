@@ -7,21 +7,8 @@ library.add(fab)
 
 const Footer = () => (
   <div>
-    <div
-      className="footer"
-      style={{
-        background: "#679499",
-        padding: "0.5em 30px",
-      }}
-    >
-      <div
-        className="footer-links"
-        style={{
-          maxWidth: "960px",
-          textAlign: "right",
-          margin: "0 auto",
-        }}
-      >
+    <div className="footer">
+      <div className="footer-links">
         <ul className="social">
           <li>
             <a href="https://twitter.com/kaleighscruggs">
