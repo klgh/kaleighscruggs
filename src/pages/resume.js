@@ -6,8 +6,7 @@ import SEO from "../components/seo"
 const Resume = () => (
   <Layout>
     <SEO title="Resume" />
-    <h1>This is my resume and portfolio</h1>
-    <Link to="/"> back</Link>
+    <h1>Resume</h1>
   </Layout>
 )
 
