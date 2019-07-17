@@ -6,11 +6,6 @@ body {
 .header {
   background: $mainColor;
   padding: 0.5em 30px;
-}
-.header-links {
-  max-width: 960px;
-  margin: 0 auto;
-  text-align: left;
   a:link,
   a:visited,
   a:hover,
@@ -18,6 +13,20 @@ body {
     color: white;
     text-decoration: none;
   }
+}
+.header-links {
+  max-width: 400px;
+  text-align: left;
+  position: absolute;
+  margin-top: 6px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+}
+
+.siteName {
+  text-align: center;
+  font-size: 24px;
 }
 
 .mainBody {
@@ -30,13 +39,6 @@ body {
 .footer {
   background: $mainColor;
   padding: 0.5em 30px;
-}
-
-.footer-links {
-  text-align: center;
-  max-width: 960px;
-  margin: 0 auto;
-  color: white;
   a:link,
   a:visited,
   a:hover,
@@ -44,6 +46,13 @@ body {
     color: white;
     text-decoration: none;
   }
+}
+
+.footer-links {
+  text-align: center;
+  max-width: 960px;
+  margin: 0 auto;
+  color: white;
 }
 
 ul {

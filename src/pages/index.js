@@ -21,12 +21,31 @@ const IndexPage = () => (
             </span>
           </h1>
           <p>
-            Kaleigh Scruggs is an Atlanta native. She has been working in the
-            technology field since graduating from Georgia Southern University
-            with a BS in IT. She also has a Masters in Internet Technology from
-            the University of Georgia. She enjoys stand-up comedy, kayaking on
-            the Chattahoochee River, Brazilian Jiu-Jitsu, and Hiking with her
-            husband and dogs.
+            Hey, I'm Kaleigh Scruggs. I'm one of those rare Atlanta natives.
+          </p>
+          <p>
+            Ever since I graduated from Georgia Southern University in 2012,
+            I've been working in tech. I later earned my Masters in Internet
+            Technology from The University of Georgia in 2014.{" "}
+          </p>
+          <p>
+            When I'm not in front of the computer, I'm usually at the gym doing
+            Brazilian Jiu-Jitsu.{" "}
+          </p>
+          <p>
+            If you can't find me there, then I'm{" "}
+            <a
+              href="http://kaleighcomedy.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              writing and performing stand-up comedy
+            </a>{" "}
+            around Atlanta.{" "}
+          </p>
+          <p>
+            When the weather's nice I love to go kayaking on the Chattahoochee
+            River and hike with my husband and 2 dogs.
           </p>
           <p>
             If you're looking for my dev site,{" "}
@@ -39,16 +58,7 @@ const IndexPage = () => (
             </a>
             .
           </p>
-          <p>
-            If you like to laugh,{" "}
-            <a
-              href="http://kaleighcomedy.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              check me out in Atlanta!
-            </a>
-          </p>
+
           <p>
             Connect with me!{" "}
             <span role="img" aria-label="down arrow">

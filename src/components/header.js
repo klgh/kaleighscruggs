@@ -8,6 +8,9 @@ const Header = ({ siteTitle }) => (
       <Link to="/">Home</Link> &nbsp;
       <Link to="/resume">Resume</Link>
     </div>
+    <div className="siteName">
+      <Link to="/">Kaleigh Scruggs</Link>
+    </div>
   </div>
 )
 
