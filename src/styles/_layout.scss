@@ -9,7 +9,7 @@ body {
   a:link,
   a:visited,
   a:hover,
-  :active {
+  a:active {
     color: white;
     text-decoration: none;
   }
@@ -40,10 +40,27 @@ body {
   a:link,
   a:visited,
   a:hover,
-  :active {
+  a:active {
     color: $mainColor;
     text-decoration: none;
   }
+}
+
+.hpIntro {
+  font-size: 40px;
+}
+
+.bio {
+  font-size: 16px;
+}
+
+.connect {
+  font-size: 20px;
+  margin-top: 36px;
+}
+
+.faIcons {
+  font-size: 30px;
 }
 
 .footer {
@@ -52,7 +69,7 @@ body {
   a:link,
   a:visited,
   a:hover,
-  :active {
+  a:active {
     color: white;
     text-decoration: none;
   }
