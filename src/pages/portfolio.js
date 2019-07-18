@@ -2,11 +2,11 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const Resume = () => (
+const Portfolio = () => (
   <Layout>
-    <SEO title="Resume" />
-    <h1>Resume</h1>
+    <SEO title="Portfolio" />
+    <h1>Portfolio</h1>
   </Layout>
 )
 
-export default Resume
+export default Portfolio
