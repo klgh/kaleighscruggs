@@ -7,12 +7,14 @@ import Img from "gatsby-image"
 const NotFoundPage = props => (
   <Layout>
     <SEO title="404: Not found" />
-    <h1>NOT FOUND</h1>
-    <p>You just hit a page that doesn&#39;t exist... the sadness! </p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Img fluid={props.data.saddog.childImageSharp.fluid} />
+    <div class="fourohfourpage">
+      <h1>NOT FOUND</h1>
+      <p>You just hit a page that doesn&#39;t exist... the sadness! </p>
+      <Link to="/">Go home and try again</Link>
+      <div class="imgfourohfour">
+        <Img fluid={props.data.saddog.childImageSharp.fluid} />
+      </div>
     </div>
-    <Link to="/">Go back home</Link>
   </Layout>
 )
 
