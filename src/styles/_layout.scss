@@ -36,6 +36,16 @@ body {
   text-align: left;
 }
 
+.hpBio {
+  a:link,
+  a:visited,
+  a:hover,
+  :active {
+    color: $mainColor;
+    text-decoration: none;
+  }
+}
+
 .footer {
   background: $mainColor;
   padding: 0.5em 30px;

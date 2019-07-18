@@ -13,7 +13,7 @@ const IndexPage = () => (
     <SEO title="Kaleigh Scruggs | web developer, comedian, human" />
     <div class="container">
       <div class="row">
-        <div class="col">
+        <div class="col hpBio">
           <h1>
             Hi{" "}
             <span role="img" aria-label="wave">
