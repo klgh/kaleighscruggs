@@ -1,0 +1,18 @@
+.portfolioTitle {
+  margin-top: 20px;
+  text-align: center;
+  a:link,
+  a:visited,
+  a:hover,
+  a:active {
+    color: $mainColor;
+    text-decoration: none;
+  }
+}
+.kelundra,
+.hawkpest,
+.yogaposies,
+.laurensfloral {
+  border-bottom: 5px solid $mainColor;
+  margin-bottom: 40px;
+}
