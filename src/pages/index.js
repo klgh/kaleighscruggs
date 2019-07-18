@@ -104,7 +104,7 @@ const IndexPage = () => (
             </p>
           </div>
         </div>
-        <div class="col">
+        <div class="col hpImage">
           <Image />
         </div>
       </div>

@@ -1,4 +1,6 @@
 $mainColor: #679499;
+
+/* Media Queries */
 @mixin for-size($size) {
   @if $size == phone-only {
     @media (max-width: 599px) {

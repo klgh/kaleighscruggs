@@ -24,6 +24,7 @@ body {
   margin-left: auto;
   @include for-size(phone-only) {
     margin-top: 12px;
+    margin-left: -19px;
     font-size: 12px;
   }
 }
@@ -48,10 +49,16 @@ body {
     color: $mainColor;
     text-decoration: none;
   }
+  @include for-size(phone-only) {
+    flex-basis: auto;
+  }
 }
 
 .hpIntro {
   font-size: 40px;
+  @include for-size(phone-only) {
+    text-align: center;
+  }
 }
 
 .bio {
@@ -61,10 +68,24 @@ body {
 .connect {
   font-size: 20px;
   margin-top: 36px;
+  @include for-size(phone-only) {
+    text-align: center;
+  }
 }
 
 .faIcons {
   font-size: 30px;
+}
+
+.hpImage {
+  .gatsby-image-wrapper {
+    @include for-size(phone-only) {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+  }
 }
 
 .footer {
