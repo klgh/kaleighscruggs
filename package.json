@@ -2,7 +2,7 @@
   "name": "kaleigh",
   "private": true,
   "description": "Kaleigh Scruggs Portfolio",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Kaleigh Scruggs <kaleighscruggs@gmail.com>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
@@ -24,7 +24,7 @@
     "gatsby-plugin-sharp": "^2.2.8",
     "gatsby-remark-images": "^3.1.6",
     "gatsby-source-filesystem": "^2.1.5",
-    "gatsby-transformer-remark": "^2.6.6",
+    "gatsby-transformer-remark": "^2.6.7",
     "gatsby-transformer-sharp": "^2.2.4",
     "node-sass": "^4.12.0",
     "prop-types": "^15.7.2",
