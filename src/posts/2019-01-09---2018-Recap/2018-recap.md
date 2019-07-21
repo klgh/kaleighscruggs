@@ -1,7 +1,7 @@
 ---
 path: "/blog/2018-Recap"
 date: "2019-01-09"
-draft: false
+draft: true
 title: "2018 Recap"
 featuredImage: "jan.jpg"
 category: "conferences"
