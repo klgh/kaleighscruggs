@@ -1,5 +1,23 @@
-.blog-image-container {
-  max-height: 400px;
-  width: 100%;
+.blogPostList {
+}
+.postPreview {
+}
+
+.blogPost {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
+}
+.blogTitle {
+  text-align: center;
+}
+
+.blogMainImage {
+  width: 25%;
+  margin: 0 auto;
   overflow: hidden;
+}
+.blogText {
+}
+.blogPostText {
 }

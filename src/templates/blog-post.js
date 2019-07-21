@@ -12,24 +12,23 @@ export default function Template({ data }) {
   const blogPath = post.frontmatter.path.split("/").pop()
   return (
     <BlogLayout>
-      <div className="blog-image-container">
-        <Img sizes={post.frontmatter.featuredImage.childImageSharp.sizes} />
-      </div>
       <SEO
         title={`${post.frontmatter.title}`}
         description={post.frontmatter.description}
         image={`${imagePath}${blogPath}.jpg`}
         card={`summary_large_image`}
       />
-      <div className="blog-post-container">
+      <div className="blogPost">
         <Helmet title={`${post.frontmatter.title}`} />
-        <div className="siteHeader">
+        <div className="blogTitle">
           <h1>{post.frontmatter.title}</h1>
         </div>
-
-        <div className="blog-post">
+        <div className="blogMainImage">
+          <Img sizes={post.frontmatter.featuredImage.childImageSharp.sizes} />
+        </div>
+        <div className="blogText">
           <div
-            className="blog-post-content"
+            className="blogPostText"
             dangerouslySetInnerHTML={{ __html: post.html }}
           />
         </div>

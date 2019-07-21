@@ -10,21 +10,19 @@ export default function Blog({ data }) {
   return (
     <Layout>
       <SEO title="Blog &mdash; Kaleigh Scruggs" />
-      <div className="siteHeader">
-        <h1>Blog</h1>
-      </div>
-      <div className="blog-posts">
+      <h1>Blog</h1>
+      <div className="blogPostList">
         {posts
           .filter(post => post.node.frontmatter.title.length > 0)
           .map(({ node: post }) => {
             return (
-              <div className="blog-post-preview" key={post.id}>
-                <h2>
+              <div className="postPreview" key={post.id}>
+                <h3>
                   <Link to={post.frontmatter.path}>
                     {post.frontmatter.title}
                   </Link>
-                </h2>
-                <h3>{post.frontmatter.date}</h3>
+                </h3>
+                <em>{post.frontmatter.date}</em>
                 <p>{post.frontmatter.description}</p>
               </div>
             )
