@@ -3,14 +3,13 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-
-/* import "../components/blog.scss" */
+import "../styles/styles.scss"
 
 export default function Blog({ data }) {
   const { edges: posts } = data.allMarkdownRemark
   return (
     <Layout>
-      <SEO title="Kelly Vaughn &mdash; Blog" />
+      <SEO title="Blog &mdash; Kaleigh Scruggs" />
       <div className="siteHeader">
         <h1>Blog</h1>
       </div>
