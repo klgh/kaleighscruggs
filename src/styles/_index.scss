@@ -1,0 +1,46 @@
+.hpBio {
+  a:link,
+  a:visited,
+  a:hover,
+  a:active {
+    color: $mainColor;
+    text-decoration: none;
+  }
+  @include for-size(phone-only) {
+    flex-basis: auto;
+  }
+}
+
+.hpIntro {
+  font-size: 40px;
+  @include for-size(phone-only) {
+    text-align: center;
+  }
+}
+
+.bio {
+  font-size: 16px;
+}
+
+.connect {
+  font-size: 20px;
+  margin-top: 36px;
+  @include for-size(phone-only) {
+    text-align: center;
+  }
+}
+
+.faIcons {
+  font-size: 30px;
+}
+
+.hpImage {
+  .gatsby-image-wrapper {
+    @include for-size(phone-only) {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+  }
+}
