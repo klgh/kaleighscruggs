@@ -22,6 +22,7 @@ export default function Template({ data }) {
         <Helmet title={`${post.frontmatter.title}`} />
         <div className="blogTitle">
           <h1>{post.frontmatter.title}</h1>
+          <em>{post.frontmatter.date}</em>
         </div>
         <div className="blogMainImage">
           <Img sizes={post.frontmatter.featuredImage.childImageSharp.sizes} />

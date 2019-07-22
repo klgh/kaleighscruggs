@@ -2,6 +2,15 @@
 }
 .postPreview {
 }
+.postTitle {
+  a:link,
+  a:visited,
+  a:hover,
+  a:active {
+    color: $mainColor;
+    text-decoration: none;
+  }
+}
 
 .blogPost {
   margin: 0 auto;
@@ -10,14 +19,16 @@
 }
 .blogTitle {
   text-align: center;
+  color: $mainColor;
 }
 
 .blogMainImage {
-  width: 25%;
+  width: 50%;
   margin: 0 auto;
   overflow: hidden;
 }
 .blogText {
+  margin-top: 10px;
 }
 .blogPostText {
 }
