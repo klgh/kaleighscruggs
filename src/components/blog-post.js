@@ -2,8 +2,8 @@ import React from "react"
 import Helmet from "react-helmet"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
-import SEO from "../components/seo"
-import BlogLayout from "../components/bloglayout"
+import SEO from "./seo"
+import BlogLayout from "./bloglayout"
 import "../styles/styles.scss"
 
 export default function Template({ data }) {
