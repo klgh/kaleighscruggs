@@ -21,6 +21,7 @@ First, I was trying to complete my 30 Before 30 list...that didn't really happen
 It snowed in Atlanta (again), and I went to California for my nephew's 6th birthday! I celebrated my 3 year anniversary at State Farm, and overall just froze in Atlanta. It was so cold!
 
 ![beach](https://raw.githubusercontent.com/klgh/kaleighscruggs/blog/src/posts/2019-01-09---2018-Recap/beach.jpg)
+![beach2](./beach.jpg)
 
 ##February  
 I started the month by going to Tampa with my mom to visit my Grandma. We had a fun girls weekend with tea and face masks!
