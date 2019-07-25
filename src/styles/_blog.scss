@@ -23,7 +23,7 @@
 }
 
 .blogMainImage {
-  width: 25%;
+  width: 50%;
   margin: 0 auto;
   overflow: hidden;
 }
@@ -31,8 +31,8 @@
   margin-top: 10px;
 }
 .blogPostText {
-  img {
-    width: 50%;
+  .gatsby-resp-image-wrapper {
+    max-width: 500px !important;
     margin: 0 auto;
     overflow: hidden;
   }
