@@ -14,24 +14,76 @@ body {
     text-decoration: none;
   }
 }
-.header-links {
-  max-width: 400px;
-  text-align: left;
-  position: absolute;
-  margin-top: 6px;
-  margin-right: auto;
-  margin-bottom: 0px;
-  margin-left: auto;
+.header-links-left {
+  margin-top: 7px;
+
+  @include for-size(small-desk) {
+    margin-top: 7px;
+    margin-left: -19px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  @include for-size(tablet-only) {
+    max-width: fit-content;
+    margin-top: 7px;
+    margin-left: -19px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
   @include for-size(phone-only) {
-    margin-top: 12px;
+    max-width: fit-content;
+    margin-top: 7px;
     margin-left: -19px;
     font-size: 12px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
+.header-links-right {
+  margin-top: 7px;
+  text-align: right;
+  padding-left: 50px;
+  @include for-size(small-desk) {
+    margin-top: 7px;
+    margin-left: -19px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  @include for-size(phone-only) {
+    max-width: fit-content;
+    margin-left: auto;
+    font-size: 12px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
   }
 }
 
 .siteName {
   text-align: center;
   font-size: 24px;
+  max-width: fit-content;
+  @include for-size(phone-small) {
+    font-size: 18px;
+  }
+  @include for-size(phone-only) {
+    font-size: 18px !important;
+    margin-top: 7px;
+    margin: auto;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  @include for-size(tablet-only) {
+    text-align: center;
+    font-size: 24px !important;
+    max-width: fit-content;
+    margin-top: 7px;
+    margin: auto;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  @include for-size(tab-desk) {
+    margin-left: 175px;
+  }
 }
 
 .mainBody {
@@ -39,53 +91,6 @@ body {
   max-width: 960px;
   padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
   text-align: left;
-}
-
-.hpBio {
-  a:link,
-  a:visited,
-  a:hover,
-  a:active {
-    color: $mainColor;
-    text-decoration: none;
-  }
-  @include for-size(phone-only) {
-    flex-basis: auto;
-  }
-}
-
-.hpIntro {
-  font-size: 40px;
-  @include for-size(phone-only) {
-    text-align: center;
-  }
-}
-
-.bio {
-  font-size: 16px;
-}
-
-.connect {
-  font-size: 20px;
-  margin-top: 36px;
-  @include for-size(phone-only) {
-    text-align: center;
-  }
-}
-
-.faIcons {
-  font-size: 30px;
-}
-
-.hpImage {
-  .gatsby-image-wrapper {
-    @include for-size(phone-only) {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      width: 50%;
-    }
-  }
 }
 
 .fourohfourpage {
@@ -121,8 +126,4 @@ body {
   max-width: 960px;
   margin: 0 auto;
   color: white;
-}
-
-ul {
-  list-style: none;
 }
