@@ -1,7 +1,7 @@
 ---
 path: "/blog/2018-Recap"
 date: "2019-01-09"
-draft: true
+draft: false
 title: "2018 Recap"
 featuredImage: "jan.jpg"
 category: "recap"
@@ -9,7 +9,7 @@ tags:
   - "conferences"
   - "refactr.tech"
   - "Atlanta"
-description: "description HERE"
+description: ""
 ---
 
 Somehow it's 2019. I'm not sure how that happened since it just became 2018, but ok. I wanted to share a recap of 2018, as it was one wild year. Not a lot of "blog" moments, but maybe hopefully I'll change that in 2019.

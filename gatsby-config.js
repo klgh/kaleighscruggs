@@ -24,6 +24,7 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-catch-links`,
     `gatsby-transformer-sharp`,
+    "gatsby-plugin-draft",
     {
       resolve: `gatsby-plugin-sharp`,
       options: {
