@@ -4,8 +4,8 @@ import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import SEO from "./seo"
 import { Link } from "gatsby"
-import BlogLayout from "./bloglayout"
-import "../styles/styles.scss"
+import BlogPostLayout from "./blog-post-layout"
+//import "../styles/styles.scss"
 /* Page layout for a blog post */
 
 export default function Template({ data }) {
@@ -13,7 +13,7 @@ export default function Template({ data }) {
   const imagePath = `https://kaleighscruggs.com/images/`
   const blogPath = post.frontmatter.path.split("/").pop()
   return (
-    <BlogLayout>
+    <BlogPostLayout>
       <SEO
         title={`${post.frontmatter.title}`}
         description={post.frontmatter.description}
@@ -39,7 +39,7 @@ export default function Template({ data }) {
           <Link to="/blog">back to blog</Link>
         </div>
       </div>
-    </BlogLayout>
+    </BlogPostLayout>
   )
 }
 

@@ -4,16 +4,14 @@ import { StaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import Footer from "./footer"
 import "../styles/styles.scss"
-/* Main Layout for a blog post */
 
-const BlogLayout = ({ featuredImage, description, children }) => (
+const PageLayout = ({ children }) => (
   <StaticQuery
     query={graphql`
-      query BlogTitleQuery {
+      query SiteTitleQuery {
         site {
           siteMetadata {
             title
-            siteUrl
           }
         }
       }
@@ -21,15 +19,17 @@ const BlogLayout = ({ featuredImage, description, children }) => (
     render={data => (
       <>
         <Header siteTitle={data.site.siteMetadata.title} />
-        <div>{children}</div>
+        <div className="mainBody">
+          <main>{children}</main>
+        </div>
         <Footer />
       </>
     )}
   />
 )
 
-BlogLayout.propTypes = {
+PageLayout.propTypes = {
   children: PropTypes.node.isRequired,
 }
 
-export default BlogLayout
+export default PageLayout
