@@ -6,7 +6,7 @@ import Footer from "./footer"
 import "../styles/styles.scss"
 /* Main Layout for a blog post */
 
-const BlogPostLayout = ({ featuredImage, description, children }) => (
+const BlogPostLayout = ({ children }) => (
   <StaticQuery
     query={graphql`
       query BlogTitleQuery {
@@ -21,7 +21,7 @@ const BlogPostLayout = ({ featuredImage, description, children }) => (
     render={data => (
       <>
         <Header siteTitle={data.site.siteMetadata.title} />
-        <div className="blog-layout">{children}</div>
+        <div className="blog-post-layout">{children}</div>
         <Footer />
       </>
     )}
