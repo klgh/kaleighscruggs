@@ -1,9 +1,9 @@
 ---
 path: "/blog/2018-Recap"
-date: "2019-01-09"
-draft: false
 title: "2018 Recap"
+date: "2019-01-09"
 featuredImage: "jan.jpg"
+draft: false
 category: "recap"
 tags:
   - "conferences"
@@ -19,6 +19,8 @@ First, I was trying to complete my 30 Before 30 list...that didn't really happen
 ##January
 
 It snowed in Atlanta (again), and I went to California for my nephew's 6th birthday! I celebrated my 3 year anniversary at State Farm, and overall just froze in Atlanta. It was so cold!
+
+![beach](jan.jpg)
 
 ##February  
 I started the month by going to Tampa with my mom to visit my Grandma. We had a fun girls weekend with tea and face masks!

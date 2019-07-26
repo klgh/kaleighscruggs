@@ -1,14 +1,13 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-
-import Layout from "../components/layout"
+import BlogPageLayout from "../components/blog-page-layout"
 import SEO from "../components/seo"
-import "../styles/styles.scss"
+/* page for kaleighscruggs.com/blog */
 
 export default function Blog({ data }) {
   const { edges: posts } = data.allMarkdownRemark
   return (
-    <Layout>
+    <BlogPageLayout>
       <SEO title="Blog &mdash; Kaleigh Scruggs" />
       <h1>Blog</h1>
       <div className="blogPostList">
@@ -28,7 +27,7 @@ export default function Blog({ data }) {
             )
           })}
       </div>
-    </Layout>
+    </BlogPageLayout>
   )
 }
 
