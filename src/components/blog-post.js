@@ -3,8 +3,10 @@ import Helmet from "react-helmet"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import SEO from "./seo"
+import { Link } from "gatsby"
 import BlogLayout from "./bloglayout"
 import "../styles/styles.scss"
+/* Page layout for a blog post */
 
 export default function Template({ data }) {
   const post = data.markdownRemark
@@ -32,6 +34,9 @@ export default function Template({ data }) {
             className="blogPostText"
             dangerouslySetInnerHTML={{ __html: post.html }}
           />
+        </div>
+        <div className="back-to-blog">
+          <Link to="/blog">back to blog</Link>
         </div>
       </div>
     </BlogLayout>

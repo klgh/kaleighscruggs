@@ -1,9 +1,9 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import "../styles/styles.scss"
+/* layout for kaleighscruggs.com/blog */
 
 export default function Blog({ data }) {
   const { edges: posts } = data.allMarkdownRemark
