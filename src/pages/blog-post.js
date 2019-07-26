@@ -2,11 +2,10 @@ import React from "react"
 import Helmet from "react-helmet"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
-import SEO from "./seo"
+import SEO from "../components/seo"
 import { Link } from "gatsby"
-import BlogPostLayout from "./blog-post-layout"
-//import "../styles/styles.scss"
-/* Page layout for a blog post */
+import BlogPostLayout from "../components/blog-post-layout"
+/* Post Page for a blog post */
 
 export default function Template({ data }) {
   const post = data.markdownRemark

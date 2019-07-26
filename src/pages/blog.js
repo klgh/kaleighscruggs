@@ -2,7 +2,6 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import BlogPageLayout from "../components/blog-page-layout"
 import SEO from "../components/seo"
-import "../styles/styles.scss"
 /* page for kaleighscruggs.com/blog */
 
 export default function Blog({ data }) {

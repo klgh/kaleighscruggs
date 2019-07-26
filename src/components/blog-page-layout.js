@@ -4,6 +4,7 @@ import { StaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import Footer from "./footer"
 import "../styles/styles.scss"
+/* the layout for kaleighscruggs.com/blog */
 
 const BlogPageLayout = ({ children }) => (
   <StaticQuery
@@ -19,7 +20,7 @@ const BlogPageLayout = ({ children }) => (
     render={data => (
       <>
         <Header siteTitle={data.site.siteMetadata.title} />
-        <div className="mainBody">
+        <div className="blog-page-layout mainBody">
           <main>{children}</main>
         </div>
         <Footer />
