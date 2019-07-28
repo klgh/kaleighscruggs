@@ -5,7 +5,10 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import "../styles/styles.scss"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of eec0d33... more layout org
 /* page for kaleighscruggs.com/blog */
 >>>>>>> parent of eec0d33... more layout org
 
