@@ -11,8 +11,8 @@ import "../styles/styles.scss"
 =======
 >>>>>>> parent of eec0d33... more layout org:src/components/blog-post.js
 import { Link } from "gatsby"
-import BlogPostLayout from "./blog-post-layout"
-//import "../styles/styles.scss"
+import BlogLayout from "./bloglayout"
+import "../styles/styles.scss"
 /* Page layout for a blog post */
 <<<<<<< HEAD:src/components/blog-post.js
 >>>>>>> parent of eec0d33... more layout org:src/components/blog-post.js

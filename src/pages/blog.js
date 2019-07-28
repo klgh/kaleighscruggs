@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+<<<<<<< HEAD
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -11,6 +12,12 @@ import "../styles/styles.scss"
 >>>>>>> parent of eec0d33... more layout org
 /* page for kaleighscruggs.com/blog */
 >>>>>>> parent of eec0d33... more layout org
+=======
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+import "../styles/styles.scss"
+/* layout for kaleighscruggs.com/blog */
+>>>>>>> parent of 8c62c04... layouts
 
 export default function Blog({ data }) {
   const { edges: posts } = data.allMarkdownRemark
