@@ -4,6 +4,7 @@ import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import SEO from "./seo"
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD:src/components/blog-post.js
 <<<<<<< HEAD:src/components/blog-post.js
 import BlogLayout from "./bloglayout"
@@ -19,6 +20,10 @@ import "../styles/styles.scss"
 >>>>>>> parent of eec0d33... more layout org:src/components/blog-post.js
 =======
 >>>>>>> parent of eec0d33... more layout org:src/components/blog-post.js
+=======
+import BlogLayout from "./bloglayout"
+import "../styles/styles.scss"
+>>>>>>> parent of b48ff39... layouts
 =======
 import BlogLayout from "./bloglayout"
 import "../styles/styles.scss"
