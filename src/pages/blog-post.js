@@ -4,7 +4,7 @@ import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import SEO from "../components/seo"
 import { Link } from "gatsby"
-import BlogPostLayout from "../components/blog-page-layout"
+import BlogPostLayout from "../components/blog-post-layout"
 /* Post Page for a blog post */
 
 export default function Template({ data }) {
