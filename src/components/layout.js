@@ -1,12 +1,12 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { StaticQuery, graphql } from "gatsby"
+
 import Header from "./header"
 import Footer from "./footer"
 import "../styles/styles.scss"
-/* Layout for pages */
 
-const PageLayout = ({ children }) => (
+const Layout = ({ children }) => (
   <StaticQuery
     query={graphql`
       query SiteTitleQuery {
@@ -29,8 +29,8 @@ const PageLayout = ({ children }) => (
   />
 )
 
-PageLayout.propTypes = {
+Layout.propTypes = {
   children: PropTypes.node.isRequired,
 }
 
-export default PageLayout
+export default Layout

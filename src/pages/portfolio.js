@@ -1,10 +1,10 @@
 import React from "react"
-import PageLayout from "../components/page-layout"
+import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Img from "gatsby-image"
 
 const Portfolio = props => (
-  <PageLayout>
+  <Layout>
     <SEO title="Portfolio" />
     <h1>Portfolio</h1>
     <h2>Freelance Sites</h2>
@@ -72,7 +72,7 @@ const Portfolio = props => (
         </a>
       </h4>
     </div>
-  </PageLayout>
+  </Layout>
 )
 
 export default Portfolio

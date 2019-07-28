@@ -1,9 +1,3 @@
-.blog-page-layout{
-  h1{
-    color: $mainColor;
-  }
-}
-
 .blogPostList {
 }
 .postPreview {
@@ -41,17 +35,5 @@
     max-width: 500px !important;
     margin: 0 auto;
     overflow: hidden;
-  }
-}
-
-.back-to-blog {
-  margin: 0 auto;
-  text-align: center;
-  a:link,
-  a:visited,
-  a:hover,
-  a:active {
-    color: $mainColor;
-    text-decoration: none;
   }
 }
