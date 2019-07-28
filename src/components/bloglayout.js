@@ -4,15 +4,15 @@ import { StaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import Footer from "./footer"
 import "../styles/styles.scss"
-/* the layout for kaleighscruggs.com/blog */
 
-const BlogPageLayout = ({ children }) => (
+const BlogLayout = ({ featuredImage, description, children }) => (
   <StaticQuery
     query={graphql`
-      query BlogPageQuery {
+      query BlogTitleQuery {
         site {
           siteMetadata {
             title
+            siteUrl
           }
         }
       }
@@ -20,17 +20,15 @@ const BlogPageLayout = ({ children }) => (
     render={data => (
       <>
         <Header siteTitle={data.site.siteMetadata.title} />
-        <div className="blog-page-layout mainBody">
-          <main>{children}</main>
-        </div>
+        <div>{children}</div>
         <Footer />
       </>
     )}
   />
 )
 
-BlogPageLayout.propTypes = {
+BlogLayout.propTypes = {
   children: PropTypes.node.isRequired,
 }
 
-export default BlogPageLayout
+export default BlogLayout

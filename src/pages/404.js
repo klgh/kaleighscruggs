@@ -1,11 +1,11 @@
 import React from "react"
 import { Link } from "gatsby"
-import PageLayout from "../components/page-layout"
+import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Img from "gatsby-image"
 
 const NotFoundPage = props => (
-  <PageLayout>
+  <Layout>
     <SEO title="404: Not found" />
     <div class="fourohfourpage">
       <h1>NOT FOUND</h1>
@@ -15,7 +15,7 @@ const NotFoundPage = props => (
         <Img fluid={props.data.saddog.childImageSharp.fluid} />
       </div>
     </div>
-  </PageLayout>
+  </Layout>
 )
 
 export default NotFoundPage
