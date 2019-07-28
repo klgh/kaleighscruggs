@@ -1,5 +1,5 @@
 ---
-path: "/blog/2018-Recap/"
+path: "/blog/2018-Recap"
 title: "2018 Recap"
 date: "2019-01-09"
 featuredImage: "jan.jpg"
