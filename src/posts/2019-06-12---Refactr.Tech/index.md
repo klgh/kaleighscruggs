@@ -1,5 +1,5 @@
 ---
-path: "/blog/refactr-tech-2019"
+path: "/blog/refactr-tech-2019/"
 title: Refactr.Tech 2019
 date: "2019-06-14"
 featuredImage: "./images/refactrnextyear.jpg"
