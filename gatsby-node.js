@@ -18,6 +18,7 @@ exports.createPages = ({ actions, graphql }) => {
               path
               title
               description
+              featuredImage
             }
           }
         }

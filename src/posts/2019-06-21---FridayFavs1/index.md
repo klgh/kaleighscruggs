@@ -1,12 +1,12 @@
 ---
-path: "/blog/fridayfavs1/"
+path: '/blog/fridayfavs1/'
 title: Friday Favs - 6/21
-date: "2019-06-21"
+date: '2019-06-21'
 featuredImage: "friday.jpeg"
-category: "friday-favs"
+category: 'friday-favs'
 tags:
-  - "favorites"
-description: "favorites from this week"
+  - 'favorites'
+description: 'favorites from this week'
 ---
 
 Hey and Happy Friday!
@@ -34,7 +34,7 @@ So, here are my favorite links from this past week! And of course, please share 
 
 ⭐️ [Free online testing tools for your website](https://adamgreenough.me/blog/free-online-testing-tools-for-your-website/) _by Adam Greenough_
 
-⭐️ [Dr. Mario is in (on iOS and Android) July 10](https://techcrunch.com/2019/06/18/dr-mario-is-in-on-ios-and-android-july-10/) (super excited for this!) _via techcrunch_
+⭐️ [Dr. Mario is in (on iOS and Android) July 10](https://techcrunch.com/2019/06/18/dr-mario-is-in-on-ios-and-android-july-10/) (super excited for this!) _via techcrunch_  
 
 ⭐️ [Up your Git game and clean up your history](https://dev.to/christopherkade/up-your-git-game-and-clean-up-your-history-4j3j) _by Christopher Kade right here on dev.to_
 
