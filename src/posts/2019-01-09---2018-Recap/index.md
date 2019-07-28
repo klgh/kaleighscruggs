@@ -5,9 +5,10 @@ date: "2019-01-09"
 featuredImage: "jan.jpg"
 category: "recap"
 tags:
-  - "recap"
-  - "2018"
-description: "Recap of 2018"
+  - "conferences"
+  - "refactr.tech"
+  - "Atlanta"
+description: ""
 ---
 
 Somehow it's 2019. I'm not sure how that happened since it just became 2018, but ok. I wanted to share a recap of 2018, as it was one wild year. Not a lot of "blog" moments, but maybe hopefully I'll change that in 2019.
