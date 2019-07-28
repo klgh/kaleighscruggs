@@ -3,8 +3,15 @@ import Helmet from "react-helmet"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import SEO from "./seo"
+<<<<<<< HEAD:src/components/blog-post.js
 import BlogLayout from "./bloglayout"
 import "../styles/styles.scss"
+=======
+import { Link } from "gatsby"
+import BlogPostLayout from "./blog-post-layout"
+//import "../styles/styles.scss"
+/* Page layout for a blog post */
+>>>>>>> parent of eec0d33... more layout org:src/components/blog-post.js
 
 export default function Template({ data }) {
   const post = data.markdownRemark
