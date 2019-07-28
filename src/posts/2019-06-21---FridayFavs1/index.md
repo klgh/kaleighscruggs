@@ -1,5 +1,5 @@
 ---
-path: "/blog/fridayfavs1/"
+path: "/blog/fridayfavs1"
 title: Friday Favs - 6/21
 date: "2019-06-21"
 featuredImage: "friday.jpeg"

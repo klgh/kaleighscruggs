@@ -6,7 +6,7 @@ import Footer from "./footer"
 import "../styles/styles.scss"
 /* Main Layout for a blog post */
 
-const BlogPostLayout = ({ children }) => (
+const BlogPostLayout = ({ featuredImage, description, children }) => (
   <StaticQuery
     query={graphql`
       query BlogTitleQuery {
