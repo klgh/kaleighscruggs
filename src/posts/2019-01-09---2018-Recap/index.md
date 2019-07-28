@@ -3,6 +3,7 @@ path: "/blog/2018-Recap"
 title: "2018 Recap"
 date: "2019-01-09"
 featuredImage: "jan.jpg"
+draft: false
 category: "recap"
 tags:
   - "conferences"
@@ -59,11 +60,11 @@ I went to another conference- WeRise by Women Who Code Atlanta. So much fun.
 I was also really busy with work-planning Women in Technology events, and getting ready to move to a new team. I was also (and had been) actively trying to find a new job, going to the conference did help.
 
 ##July  
-Not my favorite month in 2018. July 1st we lost my grandfather who I was really close with. I don't know what else to say other than it really really sucked.
+Not my favorite month in 2018. July 1st we lost my grandfather who I was really close with. I don't know what else to say other than it really really sucked.  
 
-After having to change our entire summer trip because of the timing of my grandfather and starting my new position at work, we ended up flying back to San Jose with my brother and went to Yosemite. That was amazing.
+After having to change our entire summer trip because of the timing of my grandfather and starting my new position at work, we ended up flying back to San Jose with my brother and went to Yosemite. That was amazing.  
 
-![yosemite](images/yosemite.jpg)
+![yosemite](images/yosemite.jpg)  
 
 Also, I just wanted to mention, Delta gets a lot of hate for their change fees but they were insanely nice to me when I called to tell them why I needed to cancel my flight and then helped me get my miles back faster so I could re-book my new trip. They were so understanding and made it painless.
 
@@ -71,7 +72,7 @@ Also, I just wanted to mention, Delta gets a lot of hate for their change fees b
 
 I competed in my first ever jiu-jitsu tournament and lost my butt off...but had fun and learned so much while getting my a\$\$ handed to me.
 
-![newbreed](images/newbreed.jpg)
+![newbreed](images/newbreed.jpg)  
 
 I also signed up for improv (finally) and was in my first improv show!
 
@@ -79,32 +80,32 @@ I also signed up for improv (finally) and was in my first improv show!
 
 I competed in my 2nd jiu-jitsu tournament and got my butt kicked in all my matches yet again. But it was still fun! Our team won the team trophy for most points.
 
-![ibjjf](images/ibjjf.jpg)
+![ibjjf](images/ibjjf.jpg)  
 
 We also did our annual campout on the Chattahoochee with REI, and I did another improv show! Shaun and I celebrated 8 years together!
 
 ##October  
 We went to Asheville to see The Milk Carton Kids, and also went to Athens to see The Oh Hellos and Samantha Crane. We also celebrated our 4th wedding anniversary and found out we needed to get the bump on Biscuit's arm, which turned out to be a tumor, removed sooner rather than later. So we scheduled her surgery.
 
-![asheville](images/asheville.jpg)
+![asheville](images/asheville.jpg)  
 
 ##November
 Biscuit had her surgery, and she was a rockstar. She did great and had no issues with anything! We were so worried and slept downstairs with her the first week until we realized she was fine and could come upstairs with us.
 
-I also accepted a position as a senior web developer at a company in Buckhead. I was so stressed out trying to make this decision, and even asking for more money than they originally offered me, but in the end, it all worked out!
+I also accepted a position as a senior web developer at a company in Buckhead. I was so stressed out trying to make this decision, and even asking for more money than they originally offered me, but in the end, it all worked out! 
 
-![dogs](images/doggos.jpg)
+![dogs](images/doggos.jpg)  
 
 We also went to Orlando for Thanksgiving, and finally bought a new TV and a Nintendo Switch!
 
 ##December
-I turned 30! A TON of my friends came out to Slow Pour Brewing and we had all the fun!
+I turned 30! A TON of my friends came out to Slow Pour Brewing and we had all the fun!  
 
-![birthday party](images/30.jpeg)
+![birthday party](images/30.jpeg) 
 
-I had my last day at State Farm the day before my birthday (#strategy) and started my new job the Monday after. After 2 weeks of work, it was time for Christmas....which I spent in London with my parents and brother! Shaun wasn't able to come, but he knew I'd have major FOMO if my family was in my favorite city without me.
+I had my last day at State Farm the day before my birthday (#strategy) and started my new job the Monday after. After 2 weeks of work, it was time for Christmas....which I spent in London with my parents and brother! Shaun wasn't able to come, but he knew I'd have major FOMO if my family was in my favorite city without me.  
 
-![london](images/london.jpg)
+![london](images/london.jpg) 
 
 And boom! That's it. Well, that's not EVERYTHING, but you know what I mean...Some major stuff, the stuff I can remember, and the stuff I want to mention.
 
