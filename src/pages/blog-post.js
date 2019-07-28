@@ -2,16 +2,17 @@ import React from "react"
 import Helmet from "react-helmet"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
-import SEO from "./seo"
-import BlogLayout from "./bloglayout"
-import "../styles/styles.scss"
+import SEO from "../components/seo"
+import { Link } from "gatsby"
+import BlogPostLayout from "../components/blog-post-layout"
+/* Post Page for a blog post */
 
 export default function Template({ data }) {
   const post = data.markdownRemark
   const imagePath = `https://kaleighscruggs.com/images/`
   const blogPath = post.frontmatter.path.split("/").pop()
   return (
-    <BlogLayout>
+    <BlogPostLayout>
       <SEO
         title={`${post.frontmatter.title}`}
         description={post.frontmatter.description}
@@ -33,8 +34,11 @@ export default function Template({ data }) {
             dangerouslySetInnerHTML={{ __html: post.html }}
           />
         </div>
+        <div className="back-to-blog">
+          <Link to="/blog">back to blog</Link>
+        </div>
       </div>
-    </BlogLayout>
+    </BlogPostLayout>
   )
 }
 

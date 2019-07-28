@@ -1,5 +1,5 @@
 import React from "react"
-import Layout from "../components/layout"
+import PageLayout from "../components/page-layout"
 import SEO from "../components/seo"
 import Image from "../components/image"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
@@ -9,7 +9,7 @@ import { fab } from "@fortawesome/free-brands-svg-icons"
 library.add(fab)
 
 const IndexPage = () => (
-  <Layout>
+  <PageLayout>
     <SEO title="Kaleigh Scruggs | web developer, comedian, human" />
     <div class="container">
       <div class="row">
@@ -109,7 +109,7 @@ const IndexPage = () => (
         </div>
       </div>
     </div>
-  </Layout>
+  </PageLayout>
 )
 
 export default IndexPage
