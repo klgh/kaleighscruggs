@@ -3,6 +3,7 @@ import Helmet from "react-helmet"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import SEO from "./seo"
+<<<<<<< HEAD
 <<<<<<< HEAD:src/components/blog-post.js
 <<<<<<< HEAD:src/components/blog-post.js
 import BlogLayout from "./bloglayout"
@@ -18,6 +19,10 @@ import "../styles/styles.scss"
 >>>>>>> parent of eec0d33... more layout org:src/components/blog-post.js
 =======
 >>>>>>> parent of eec0d33... more layout org:src/components/blog-post.js
+=======
+import BlogLayout from "./bloglayout"
+import "../styles/styles.scss"
+>>>>>>> parent of b48ff39... layouts
 
 export default function Template({ data }) {
   const post = data.markdownRemark
