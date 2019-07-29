@@ -16,6 +16,7 @@ export default function Template({ data }) {
     url: `${blogPath}`,
     title: post.title,
   }
+ 
 
   return (
     <BlogPostLayout>
@@ -30,6 +31,11 @@ export default function Template({ data }) {
         <div className="blogTitle">
           <h1>{post.frontmatter.title}</h1>
           <em>{post.frontmatter.date}</em>
+          <h6>
+            <Link to={`/category/${post.frontmatter.category}`}>
+              {post.frontmatter.category}
+            </Link>
+          </h6>
         </div>
         <div className="blogMainImage">
           <Img sizes={post.frontmatter.featuredImage.childImageSharp.sizes} />
@@ -41,7 +47,7 @@ export default function Template({ data }) {
           />
         </div>
         <div className="back-to-blog">
-          <Link to="/blog">back to blog</Link>
+          <Link to="categoryLink">back to blog</Link>
         </div>
         <div className="blogComments">
           <CommentCount config={disqusConfig} placeholder={"..."} />
@@ -63,6 +69,7 @@ export const postQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        category
         description
         featuredImage {
           childImageSharp {
