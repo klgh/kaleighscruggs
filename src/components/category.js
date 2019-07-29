@@ -1,22 +1,41 @@
 import React from "react"
-import { graphql } from "gatsby"
-import Layout from "./page-layout"
+import { Link, graphql } from "gatsby"
+import BlogPageLayout from "./blog-page-layout"
 import SEO from "./seo"
-import PostsList from "./blog-page-layout"
 
 const CategoryTemplate = ({ location, pageContext, data }) => {
   const { category } = pageContext
-  return (
-    <Layout location={location} title={`Posts in category "${category}"`}>
-      <div className="category-container">
-        <SEO title={`Posts in category "${category}"`} />
+  const PostsList = ({ postEdges }) => {
+    return postEdges.map(({ node }) => {
+      return <PostsListCard key={node.fields.slug} {...node} />
+    })
+  }
+  const PostsListCard = ({ frontmatter, fields }) => {
+    const title = frontmatter.title || fields.slug
 
-        <div className="categoryList">
-          <h1>Category: {category}</h1>
-          <PostsList postEdges={data.allMarkdownRemark.edges} />
-        </div>
+    return (
+      <>
+        <div
+          dangerouslySetInnerHTML={{
+            __html: frontmatter.description,
+          }}
+        />
+        <Link to={`/${frontmatter.path}/`}>{title}</Link>
+      </>
+    )
+  }
+
+  return (
+    <BlogPageLayout
+      location={location}
+      title={`Posts in category "${category}"`}
+    >
+      <div className="category-container">
+        <SEO title={`${category}`} />
+        <h1>more {category}</h1>
+        <PostsList postEdges={data.allMarkdownRemark.edges} />
       </div>
-    </Layout>
+    </BlogPageLayout>
   )
 }
 
@@ -32,11 +51,10 @@ export const pageQuery = graphql`
           fields {
             category
           }
-
           frontmatter {
+            path
             title
             date
-            category
           }
         }
       }
