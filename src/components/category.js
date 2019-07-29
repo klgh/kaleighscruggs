@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { Container } from "react-bootstrap"
 import Layout from "./page-layout"
 import SEO from "./seo"
 import PostsList from "./blog-page-layout"
@@ -12,10 +11,10 @@ const CategoryTemplate = ({ location, pageContext, data }) => {
       <div className="category-container">
         <SEO title={`Posts in category "${category}"`} />
 
-        <Container>
+        <div className="categoryList">
           <h1>Category: {category}</h1>
           <PostsList postEdges={data.allMarkdownRemark.edges} />
-        </Container>
+        </div>
       </div>
     </Layout>
   )
@@ -33,11 +32,11 @@ export const pageQuery = graphql`
           fields {
             category
           }
-          excerpt
-          timeToRead
+
           frontmatter {
             title
             date
+            category
           }
         }
       }
