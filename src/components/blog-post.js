@@ -5,12 +5,18 @@ import Img from "gatsby-image"
 import SEO from "../components/seo"
 import { Link } from "gatsby"
 import BlogPostLayout from "../components/blog-post-layout"
+import { Disqus, CommentCount } from "gatsby-plugin-disqus"
 /* Post Page for a blog post */
 
 export default function Template({ data }) {
   const post = data.markdownRemark
   const imagePath = `https://kaleighscruggs.com/images/`
   const blogPath = post.frontmatter.path.split("/").pop()
+  const disqusConfig = {
+    url: `${blogPath}`,
+    title: post.title,
+  }
+
   return (
     <BlogPostLayout>
       <SEO
@@ -33,6 +39,13 @@ export default function Template({ data }) {
             className="blogPostText"
             dangerouslySetInnerHTML={{ __html: post.html }}
           />
+        </div>
+        <div className="back-to-blog">
+          <Link to="/blog">back to blog</Link>
+        </div>
+        <div className="blogComments">
+          <CommentCount config={disqusConfig} placeholder={"..."} />
+          <Disqus config={disqusConfig} />
         </div>
         <div className="back-to-blog">
           <Link to="/blog">back to blog</Link>
