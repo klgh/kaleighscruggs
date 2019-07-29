@@ -47,6 +47,9 @@ export default function Template({ data }) {
           <CommentCount config={disqusConfig} placeholder={"..."} />
           <Disqus config={disqusConfig} />
         </div>
+        <div className="back-to-blog">
+          <Link to="/blog">back to blog</Link>
+        </div>
       </div>
     </BlogPostLayout>
   )
