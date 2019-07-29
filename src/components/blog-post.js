@@ -12,12 +12,11 @@ export default function Template({ data }) {
   const post = data.markdownRemark
   const imagePath = `https://kaleighscruggs.com/images/`
   const blogPath = post.frontmatter.path.split("/").pop()
-  const PostTemplate = () => {
-  let disqusConfig = {
-    url: `${config.siteUrl+location.pathname}`,
-    identifier: post.id,
+  const disqusConfig = {
+    url: `${blogPath}`,
     title: post.title,
   }
+
   return (
     <BlogPostLayout>
       <SEO
@@ -41,13 +40,12 @@ export default function Template({ data }) {
             dangerouslySetInnerHTML={{ __html: post.html }}
           />
         </div>
-        <div className="comments">
-        <CommentCount config={disqusConfig} placeholder={'...'} />
-      /* Post Contents */
-      <Disqus config={disqusConfig} />
-        </div>
         <div className="back-to-blog">
           <Link to="/blog">back to blog</Link>
+        </div>
+        <div className="blogComments">
+          <CommentCount config={disqusConfig} placeholder={"..."} />
+          <Disqus config={disqusConfig} />
         </div>
       </div>
     </BlogPostLayout>
