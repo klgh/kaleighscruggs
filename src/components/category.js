@@ -12,28 +12,17 @@ const CategoryTemplate = ({ location, pageContext, data }) => {
   }
   const PostsListCard = ({ frontmatter, fields }) => {
     const title = frontmatter.title || fields.slug
-
-    return (
-      <>
-        <div
-          dangerouslySetInnerHTML={{
-            __html: frontmatter.description,
-          }}
-        />
-        <Link to={`/${frontmatter.path}/`}>{title}</Link>
-      </>
-    )
+    return <Link to={`${frontmatter.path}`}>{title}</Link>
   }
 
   return (
-    <BlogPageLayout
-      location={location}
-      title={`Posts in category "${category}"`}
-    >
+    <BlogPageLayout>
       <div className="category-container">
         <SEO title={`${category}`} />
         <h1>more {category}</h1>
-        <PostsList postEdges={data.allMarkdownRemark.edges} />
+        <p>
+          <PostsList postEdges={data.allMarkdownRemark.edges} />
+        </p>
       </div>
     </BlogPageLayout>
   )
