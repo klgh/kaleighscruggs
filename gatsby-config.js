@@ -3,7 +3,9 @@ module.exports = {
     title: `Kaleigh Scruggs`,
     description: `portfolio site`,
     author: `@kaleighscruggs`,
+    twitterUsername: "kaleighscruggs",
     siteUrl: "https://kaleighscruggs.com",
+    image: "/images/photo.jpg",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
