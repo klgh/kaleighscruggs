@@ -36,8 +36,8 @@ export default function Template({ data }) {
             </Link>
           </h6>
           <h6>
-            <Link to={`/tags/${post.frontmatter.tag}`}>
-              {post.frontmatter.tag}
+            <Link to={`/tags/${post.frontmatter.tags}`}>
+              {post.frontmatter.tags}
             </Link>
           </h6>
         </div>

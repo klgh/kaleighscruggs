@@ -4,7 +4,7 @@ import BlogPageLayout from "./blog-page-layout"
 import SEO from "./seo"
 
 const TagTemplate = ({ location, pageContext, data }) => {
-  const { tags } = pageContext
+  const { tag } = pageContext
   const PostsList = ({ postEdges }) => {
     return postEdges.map(({ node }) => {
       return <PostsListCard key={node.fields.slug} {...node} />
@@ -18,8 +18,8 @@ const TagTemplate = ({ location, pageContext, data }) => {
   return (
     <BlogPageLayout>
       <div className="tag-container">
-        <SEO title={`${tags}`} />
-        <h1>more {tags}</h1>
+        <SEO title={`${tag}`} />
+        <h1>more {tag}</h1>
         <p>
           <PostsList postEdges={data.allMarkdownRemark.edges} />
         </p>
@@ -29,21 +29,19 @@ const TagTemplate = ({ location, pageContext, data }) => {
 }
 
 export const pageQuery = graphql`
-         query TagPage($tags: String) {
+         query TagPage($tag: String) {
            allMarkdownRemark(
              limit: 1000
-             filter: { fields: { tags: { eq: $tags } } }
+             filter: { fields: { tags: { eq: $tag } } }
            ) {
              totalCount
              edges {
                node {
-                 fields {
-                   tags
-                 }
                  frontmatter {
                    path
                    title
                    date
+                   tags
                  }
                }
              }
