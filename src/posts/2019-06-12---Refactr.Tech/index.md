@@ -4,7 +4,7 @@ title: Refactr.Tech 2019
 date: "2019-06-14"
 featuredImage: "./images/refactrnextyear.jpg"
 category: "conferences"
-description: "My experience at Refactr.Tech 2019"
+description: "My experience at the Refactr.Tech conference"
 tags:
   - "conferences"
   - "refactr.tech"

@@ -20,7 +20,7 @@ const BlogPageLayout = ({ children }) => (
     render={data => (
       <>
         <Header siteTitle={data.site.siteMetadata.title} />
-        <div className="blog-page-layout mainBody">
+        <div className="blog-page-layout">
           <main>{children}</main>
         </div>
         <Footer />
