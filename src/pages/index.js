@@ -94,12 +94,6 @@ const IndexPage = () => (
                     icon={["fab", "instagram"]}
                   />
                 </a>{" "}
-                <a href="https://kaleighblogs.com/">
-                  <FontAwesomeIcon
-                    title="kaleigh's blog"
-                    icon={["fab", "wordpress"]}
-                  />
-                </a>{" "}
               </div>
             </p>
           </div>

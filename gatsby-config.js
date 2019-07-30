@@ -1,12 +1,15 @@
 module.exports = {
   siteMetadata: {
     title: `Kaleigh Scruggs`,
-    description: `portfolio site`,
+    description: `web developer, comedian, human`,
     author: `@kaleighscruggs`,
+    twitterUsername: "kaleighscruggs",
     siteUrl: "https://kaleighscruggs.com",
+    image: "/images/photo.jpg",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
