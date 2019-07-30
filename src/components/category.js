@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 import BlogPageLayout from "./blog-page-layout"
 import SEO from "./seo"
 
-const CategoryTemplate = ({ location, pageContext, data }) => {
+const CategoryTemplate = ({ pageContext, data }) => {
   const { category } = pageContext
   const PostsList = ({ postEdges }) => {
     return postEdges.map(({ node }) => {

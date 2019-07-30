@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 import BlogPageLayout from "./blog-page-layout"
 import SEO from "./seo"
 
-const TagTemplate = ({ location, pageContext, data }) => {
+const TagTemplate = ({ pageContext, data }) => {
   const { tag } = pageContext
   const PostsList = ({ postEdges }) => {
     return postEdges.map(({ node }) => {
@@ -29,24 +29,21 @@ const TagTemplate = ({ location, pageContext, data }) => {
 }
 
 export const pageQuery = graphql`
-         query TagPage($tag: String) {
-           allMarkdownRemark(
-             limit: 1000
-             filter: { fields: { tags: { eq: $tag } } }
-           ) {
-             totalCount
-             edges {
-               node {
-                 frontmatter {
-                   path
-                   title
-                   date
-                   tags
-                 }
-               }
-             }
-           }
-         }
-       `
+  query TagPage($tag: String) {
+    allMarkdownRemark(limit: 1000, filter: { fields: { tags: { eq: $tag } } }) {
+      totalCount
+      edges {
+        node {
+          frontmatter {
+            path
+            title
+            date
+            tags
+          }
+        }
+      }
+    }
+  }
+`
 
 export default TagTemplate

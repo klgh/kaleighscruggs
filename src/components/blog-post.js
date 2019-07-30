@@ -51,7 +51,7 @@ export default function Template({ data }) {
           />
         </div>
         <div className="back-to-blog">
-          <Link to="categoryLink">back to blog</Link>
+          <Link to="/blog">back to blog</Link>
         </div>
         <div className="blogComments">
           <CommentCount config={disqusConfig} placeholder={"..."} />
