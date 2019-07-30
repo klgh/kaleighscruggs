@@ -22,30 +22,33 @@
   }
 }
 
-.blogPost {
-  margin: 0 auto;
-  max-width: 960px;
-  padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
-}
-.blogTitle {
-  text-align: center;
-  color: $mainColor;
-}
-
-.blogMainImage {
-  width: 50%;
-  margin: 0 auto;
-  overflow: hidden;
-}
-.blogText {
-  margin-top: 10px;
-}
-.blogPostText {
-  .gatsby-resp-image-wrapper,
-  img {
-    max-width: 500px !important;
+.blog-post-layout {
+  .blogPost {
     margin: 0 auto;
-    overflow: hidden;
+    max-width: 960px;
+    padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
+
+    .blogTitle {
+      text-align: center;
+      color: $mainColor;
+    }
+
+    .blogMainImage {
+      width: 50%;
+      margin: 0 auto;
+      overflow: hidden;
+    }
+    .blogText {
+      margin-top: 10px;
+      .blogPostText {
+        .gatsby-resp-image-wrapper,
+        img {
+          max-width: 500px !important;
+          margin: 0 auto;
+          overflow: hidden;
+        }
+      }
+    }
   }
 }
 
