@@ -8,7 +8,7 @@ export default function Blog({ data }) {
   const { edges: posts } = data.allMarkdownRemark
   return (
     <BlogPageLayout>
-      <SEO title="Blog &mdash; Kaleigh Scruggs" />
+      <SEO title="Blog" />
       <h1>Kaleigh's Blog</h1>
       <div className="blogPostList container">
         {posts
