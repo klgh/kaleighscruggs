@@ -9,29 +9,24 @@
   @include for-size(phone-only) {
     flex-basis: auto;
   }
-}
 
-.hpIntro {
-  font-size: 40px;
-  @include for-size(phone-only) {
-    text-align: center;
+  .hpIntro {
+    font-size: 40px;
+    @include for-size(phone-only) {
+      text-align: center;
+    }
   }
-}
-
-.bio {
-  font-size: 16px;
-}
-
-.connect {
-  font-size: 20px;
-  margin-top: 36px;
-  @include for-size(phone-only) {
-    text-align: center;
+  .bio {
+    font-size: 16px;
   }
-}
 
-.faIcons {
-  font-size: 30px;
+  .connect {
+    font-size: 20px;
+    margin-top: 36px;
+    @include for-size(phone-only) {
+      text-align: center;
+    }
+  }
 }
 
 .hpImage {

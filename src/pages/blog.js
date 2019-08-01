@@ -8,21 +8,23 @@ export default function Blog({ data }) {
   const { edges: posts } = data.allMarkdownRemark
   return (
     <BlogPageLayout>
-      <SEO title="Blog &mdash; Kaleigh Scruggs" />
-      <h1>Blog</h1>
-      <div className="blogPostList">
+      <SEO title="Blog" />
+      <h1>Kaleigh's Blog</h1>
+      <div className="blogPostList container">
         {posts
           .filter(post => post.node.frontmatter.title.length > 0)
           .map(({ node: post }) => {
             return (
-              <div className="postPreview" key={post.id}>
-                <h3 className="postTitle">
-                  <Link to={post.frontmatter.path}>
-                    {post.frontmatter.title}
-                  </Link>
-                </h3>
-                <em>{post.frontmatter.date}</em>
-                <p>{post.frontmatter.description}</p>
+              <div className="postPreview row" key={post.id}>
+                <div className="col">
+                  <h3 className="postTitle">
+                    <Link to={post.frontmatter.path}>
+                      {post.frontmatter.title}
+                    </Link>
+                  </h3>
+                  <em>{post.frontmatter.date}</em>
+                  <p>{post.frontmatter.description}</p>
+                </div>
               </div>
             )
           })}

@@ -3,8 +3,8 @@ path: "/blog/refactr-tech-2019/"
 title: Refactr.Tech 2019
 date: "2019-06-14"
 featuredImage: "./images/refactrnextyear.jpg"
-category: "friday-favs"
-description: "My experience at Refactr.Tech 2019"
+category: "conferences"
+description: "My experience at the Refactr.Tech conference"
 tags:
   - "conferences"
   - "refactr.tech"
