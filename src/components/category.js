@@ -17,8 +17,8 @@ const CategoryTemplate = ({ pageContext, data }) => {
 
   return (
     <BlogPageLayout>
-      <div className="category-container">
-        <SEO title={`${category}`} />
+      <SEO title={`${category}`} />
+      <div className="blogPostList">
         <h1>more {category}</h1>
         <p>
           <PostsList postEdges={data.allMarkdownRemark.edges} />
@@ -41,9 +41,10 @@ export const pageQuery = graphql`
             category
           }
           frontmatter {
-            path
             title
-            date
+            date(formatString: "MMMM DD, YYYY")
+            path
+            description
           }
         }
       }
