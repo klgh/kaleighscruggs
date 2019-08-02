@@ -7,7 +7,7 @@ const CategoryTemplate = ({ pageContext, data }) => {
   const { category } = pageContext
   const PostsList = ({ postEdges }) => {
     return postEdges.map(({ node }) => {
-      return <PostsListCard key={node.fields.slug} {...node} />
+      return <PostsListCard key={node.fields.title} {...node} />
     })
   }
   const PostsListCard = ({ frontmatter, fields }) => {
