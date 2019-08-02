@@ -5,8 +5,6 @@ date: "2019-06-21"
 featuredImage: "friday.jpeg"
 category: "friday-favs"
 description: "Internet favorites from the week of June 21, 2019"
-tags:
-  - "favorites"
 ---
 
 Hey and Happy Friday!
@@ -17,7 +15,7 @@ So back in the day (ok, like 7 years ago but I can't belive it's been that long)
 
 No, but I would do this thing on Thursdays where I would share my favorite links and news in tech for the week. It was fun for me because not only did I require myself to keep up, but I liked being a part of the tech comminity. Throw in some life and exhausting jobs and I stopped all that.
 
-But now, I'm back!  
+But now, I'm back!
 
 ![gif](https://media.giphy.com/media/119gdJbeNRRepO/giphy.gif)
 

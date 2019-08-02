@@ -35,11 +35,6 @@ export default function Template({ data }) {
               {post.frontmatter.category}
             </Link>
           </h6>
-          <h6>
-            <Link to={`/tags/${post.frontmatter.tags}`}>
-              {post.frontmatter.tags}
-            </Link>
-          </h6>
         </div>
         <div className="blogMainImage">
           <Img sizes={post.frontmatter.featuredImage.childImageSharp.sizes} />
@@ -74,7 +69,6 @@ export const postQuery = graphql`
         path
         title
         category
-        tags
         description
         featuredImage {
           childImageSharp {

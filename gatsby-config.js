@@ -172,11 +172,5 @@ module.exports = {
         templatePath: `${__dirname}/src/components/category.js`,
       },
     },
-    {
-      resolve: "gatsby-plugin-tags",
-      options: {
-        templatePath: `${__dirname}/src/components/tags.js`,
-      },
-    },
   ],
 }
