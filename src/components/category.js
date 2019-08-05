@@ -20,9 +20,9 @@ const CategoryTemplate = ({ pageContext, data }) => {
       <SEO title={`${category}`} />
       <div className="blogPostList">
         <h1>more {category}</h1>
-        <p>
+        <h3>
           <PostsList postEdges={data.allMarkdownRemark.edges} />
-        </p>
+        </h3>
       </div>
     </BlogPageLayout>
   )

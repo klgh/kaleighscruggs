@@ -6,9 +6,10 @@
   }
   .blogPostList {
     text-align: center;
+    @extend %linkStyle;
     .postPreview {
       .postTitle {
-        @extend %linkStyle;
+        margin-bottom: 0px;
       }
     }
   }

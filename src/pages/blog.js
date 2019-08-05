@@ -9,7 +9,7 @@ export default function Blog({ data }) {
   return (
     <BlogPageLayout>
       <SEO title="Blog" />
-      <h1>Kaleigh's Blog</h1>
+      <h1>The Blog</h1>
       <div className="blogPostList container">
         {posts
           .filter(post => post.node.frontmatter.title.length > 0)
@@ -22,8 +22,8 @@ export default function Blog({ data }) {
                       {post.frontmatter.title}
                     </Link>
                   </h3>
-                  <em>{post.frontmatter.date}</em>
-                  <p>{post.frontmatter.description}</p>
+                  <em className="postDate">{post.frontmatter.date}</em>
+                  <p className="postDescription">{post.frontmatter.description}</p>
                 </div>
               </div>
             )
