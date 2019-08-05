@@ -1,11 +1,5 @@
 .hpBio {
-  a:link,
-  a:visited,
-  a:hover,
-  a:active {
-    color: $mainColor;
-    text-decoration: none;
-  }
+  @extend %linkStyle;
   @include for-size(phone-only) {
     flex-basis: auto;
   }

@@ -166,5 +166,11 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: "gatsby-plugin-categories",
+      options: {
+        templatePath: `${__dirname}/src/components/category.js`,
+      },
+    },
   ],
 }

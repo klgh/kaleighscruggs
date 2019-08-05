@@ -30,6 +30,11 @@ export default function Template({ data }) {
         <div className="blogTitle">
           <h1>{post.frontmatter.title}</h1>
           <em>{post.frontmatter.date}</em>
+          <p className="catLink">
+            <Link to={`/category/${post.frontmatter.category}`}>
+              {post.frontmatter.category}
+            </Link>
+          </p>
         </div>
         <div className="blogMainImage">
           <Img sizes={post.frontmatter.featuredImage.childImageSharp.sizes} />
@@ -63,6 +68,7 @@ export const postQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        category
         description
         featuredImage {
           childImageSharp {

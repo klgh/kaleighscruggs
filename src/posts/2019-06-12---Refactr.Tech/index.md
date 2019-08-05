@@ -5,10 +5,6 @@ date: "2019-06-14"
 featuredImage: "./images/refactrnextyear.jpg"
 category: "conferences"
 description: "My experience at the Refactr.Tech conference"
-tags:
-  - "conferences"
-  - "refactr.tech"
-  - "Atlanta"
 ---
 
 Last week I attended [REFACTR.TECH](http://refactr.tech/) in Atlanta. REFACTR is all about diversity &amp; inclusion in tech. It was amazing to see all the companies who attended that have huge D&amp;I initiatives looking to hire attendees.
