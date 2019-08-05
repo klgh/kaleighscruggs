@@ -99,13 +99,7 @@ body {
 
 .footer {
   padding: 0.5em 30px;
-  a:link,
-  a:visited,
-  a:hover,
-  a:active {
-    color: $mainColor;
-    text-decoration: none;
-  }
+  @extend %linkStyle;
   .footer-links {
     text-align: center;
     max-width: 960px;

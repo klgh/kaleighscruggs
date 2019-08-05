@@ -1,13 +1,7 @@
 .portfolioTitle {
   margin-top: 20px;
   text-align: center;
-  a:link,
-  a:visited,
-  a:hover,
-  a:active {
-    color: $mainColor;
-    text-decoration: none;
-  }
+  @extend %linkStyle;
 }
 .kelundra,
 .hawkpest,

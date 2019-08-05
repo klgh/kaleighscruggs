@@ -8,15 +8,7 @@
     text-align: center;
     .postPreview {
       .postTitle {
-        a:link,
-        a:visited,
-        a:active {
-          color: $mainColor;
-          text-decoration: none;
-        }
-        a:hover {
-          color: $lightMainColor;
-        }
+        @extend %linkStyle;
       }
     }
   }
@@ -33,6 +25,12 @@
       color: $mainColor;
     }
 
+    .catLink {
+      margin-top: 0.5em;
+      font-size: 14px;
+      @extend %linkStyle;
+    }
+
     .blogMainImage {
       width: 50%;
       margin: 0 auto;
@@ -46,7 +44,9 @@
           max-width: 500px !important;
           margin: 0 auto;
           overflow: hidden;
+          display: block;
         }
+        @extend %linkStyle;
       }
     }
   }
@@ -55,11 +55,5 @@
 .back-to-blog {
   margin: 0 auto;
   text-align: center;
-  a:link,
-  a:visited,
-  a:hover,
-  a:active {
-    color: $mainColor;
-    text-decoration: none;
-  }
+  @extend %linkStyle;
 }
