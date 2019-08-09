@@ -24,75 +24,23 @@ body {
     color: white;
     text-decoration: none;
   }
-
-  .siteName {
-    text-align: center;
-    font-size: 24px;
-    max-width: fit-content;
-    @include for-size(phone-small) {
-      font-size: 18px;
-    }
-    @include for-size(phone-only) {
-      font-size: 18px !important;
-      margin-top: 7px;
-      margin: auto;
-      padding-left: 0px !important;
-      padding-right: 0px !important;
-    }
-    @include for-size(tablet-only) {
-      text-align: center;
-      font-size: 24px !important;
-      max-width: fit-content;
-      margin-top: 7px;
-      margin: auto;
-      padding-left: 0px !important;
-      padding-right: 0px !important;
-    }
-    @include for-size(tab-desk) {
-      margin-left: 175px;
-    }
-  }
-  .header-links-left {
-    margin-top: 7px;
-
-    @include for-size(small-desk) {
-      margin-top: 7px;
-      margin-left: -19px;
-      padding-left: 0px !important;
-      padding-right: 0px !important;
-    }
-    @include for-size(tablet-only) {
-      max-width: fit-content;
-      margin-top: 7px;
-      margin-left: -19px;
-      padding-left: 0px !important;
-      padding-right: 0px !important;
-    }
-    @include for-size(phone-only) {
-      max-width: fit-content;
-      margin-top: 7px;
-      margin-left: -19px;
-      font-size: 12px;
-      padding-left: 0px !important;
-      padding-right: 0px !important;
-    }
-  }
-  .header-links-right {
-    margin-top: 7px;
+  .header-links {
+    max-width: 960px;
     text-align: right;
-    padding-left: 50px;
-    @include for-size(small-desk) {
-      margin-top: 7px;
-      margin-left: -19px;
-      padding-left: 0px !important;
-      padding-right: 0px !important;
-    }
-    @include for-size(phone-only) {
-      max-width: fit-content;
-      margin-left: auto;
-      font-size: 12px;
-      padding-left: 0px !important;
-      padding-right: 0px !important;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    
+    .links {
+      color: #ffffff;
+      text-decoration: none;
+      font-size: 0.9em;
+      letter-spacing: 0.5px;
+      font-weight: 300;
+      margin: 0 0 4px 16px;
+      display: inline-block;
     }
   }
 }
