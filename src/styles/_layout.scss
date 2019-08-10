@@ -1,6 +1,7 @@
 body {
   margin: 0px;
   font-family: "PT Sans", sans-serif;
+  background-color: $secondMainColor;
 }
 
 .mainBody {
@@ -21,7 +22,7 @@ body {
   a:visited,
   a:hover,
   a:active {
-    color: white;
+    color: $secondMainColor;
     text-decoration: none;
   }
   .header-links {
