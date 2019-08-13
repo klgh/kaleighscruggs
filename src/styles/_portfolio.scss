@@ -1,12 +1,21 @@
-.portfolioTitle {
-  margin-top: 20px;
-  text-align: center;
-  @extend %linkStyle;
-}
-.kelundra,
-.hawkpest,
-.yogaposies,
-.laurensfloral {
-  border-bottom: 5px solid $mainColor;
-  margin-bottom: 40px;
+.portfolio {
+  h1 {
+    color: $subColor;
+  }
+  h2,
+  h4 {
+    color: $subColor2;
+  }
+  .websiteTitle {
+    margin-top: 20px;
+    text-align: center;
+    @extend %linkStyle;
+  }
+  .kelundra,
+  .hawkpest,
+  .yogaposies,
+  .laurensfloral {
+    border-bottom: 5px solid $mainColor;
+    margin-bottom: 40px;
+  }
 }
