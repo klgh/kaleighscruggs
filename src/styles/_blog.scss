@@ -1,15 +1,30 @@
 .blog-page-layout {
   padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
   h1 {
-    color: $mainColor;
+    color: $subColor;
     text-align: center;
   }
   .blogPostList {
     text-align: center;
     @extend %linkStyle;
-    .postPreview {
+    .col {
+      position: relative;
+      margin-bottom: 50px;
+      flex-direction: column;
+      padding-bottom: 50px;
+      border-bottom: 1px solid $mainColor;
+
       .postTitle {
         margin-bottom: 0px;
+        a:link,
+        a:visited,
+        a:active {
+          color: $subColor2;
+          text-decoration: none;
+        }
+        a:hover {
+          color: $subColor;
+        }
       }
     }
   }
