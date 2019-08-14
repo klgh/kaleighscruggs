@@ -6,71 +6,81 @@ import Img from "gatsby-image"
 const Portfolio = props => (
   <PageLayout>
     <SEO title="Portfolio" />
-    <h1>Portfolio</h1>
-    <h2>Freelance Sites</h2>
-    <div class="kelundra">
-      <a href="https://kelundra.com/" target="_blank" rel="noopener noreferrer">
-        <Img fluid={props.data.kelundra.childImageSharp.fluid} />
-      </a>
-      <h4 class="portfolioTitle">
+    <div className="portfolio">
+      <h1>Portfolio</h1>
+      <h2>Freelance Sites</h2>
+      <div class="kelundra">
         <a
           href="https://kelundra.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Kelundra Smith
+          <Img fluid={props.data.kelundra.childImageSharp.fluid} />
         </a>
-      </h4>
-    </div>
-    <div class="hawkpest">
-      <a href="https://hawkpest.com/" target="_blank" rel="noopener noreferrer">
-        <Img fluid={props.data.hawkpest.childImageSharp.fluid} />
-      </a>
-      <h4 class="portfolioTitle">
+        <h4 class="websiteTitle">
+          <a
+            href="https://kelundra.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Kelundra Smith
+          </a>
+        </h4>
+      </div>
+      <div class="hawkpest">
         <a
           href="https://hawkpest.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hawk Pest Control
+          <Img fluid={props.data.hawkpest.childImageSharp.fluid} />
         </a>
-      </h4>
-    </div>
-    <div class="yogaposies">
-      <a
-        href="http://yogaposies.com/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <Img fluid={props.data.yogaposies.childImageSharp.fluid} />
-      </a>
-      <h4 class="portfolioTitle">
+        <h4 class="websiteTitle">
+          <a
+            href="https://hawkpest.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Hawk Pest Control
+          </a>
+        </h4>
+      </div>
+      <div class="yogaposies">
         <a
           href="http://yogaposies.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          YogaPosies
+          <Img fluid={props.data.yogaposies.childImageSharp.fluid} />
         </a>
-      </h4>
-    </div>
-    <div class="laurensfloral">
-      <a
-        href="http://laurensfloralart.com/"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <Img fluid={props.data.laurensfloralart.childImageSharp.fluid} />
-      </a>
-      <h4 class="portfolioTitle">
+        <h4 class="websiteTitle">
+          <a
+            href="http://yogaposies.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            YogaPosies
+          </a>
+        </h4>
+      </div>
+      <div class="laurensfloral">
         <a
           href="http://laurensfloralart.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Laurens Floral Art
+          <Img fluid={props.data.laurensfloralart.childImageSharp.fluid} />
         </a>
-      </h4>
+        <h4 class="websiteTitle">
+          <a
+            href="http://laurensfloralart.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Laurens Floral Art
+          </a>
+        </h4>
+      </div>
     </div>
   </PageLayout>
 )

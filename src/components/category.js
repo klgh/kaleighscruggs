@@ -12,17 +12,26 @@ const CategoryTemplate = ({ pageContext, data }) => {
   }
   const PostsListCard = ({ frontmatter, fields }) => {
     const title = frontmatter.title || fields.slug
-    return <Link to={`${frontmatter.path}`}>{title}</Link>
+    const date = frontmatter.date
+    const description = frontmatter.description
+    return (
+      <Link to={`${frontmatter.path}`}>
+        <p className="catTitle">{title}</p>
+        <p className="catDate">{date}</p>
+        <p className="catDesc">{description}</p>
+        <p className="catReadMore">read more</p>
+      </Link>
+    )
   }
 
   return (
     <BlogPageLayout>
       <SEO title={`${category}`} />
-      <div className="blogPostList">
-        <h1>more {category}</h1>
-        <h3>
+      <div className="blogPageLayout">
+        <h1>more posts in: {category}</h1>
+        <p className="postPreview">
           <PostsList postEdges={data.allMarkdownRemark.edges} />
-        </h3>
+        </p>
       </div>
     </BlogPageLayout>
   )

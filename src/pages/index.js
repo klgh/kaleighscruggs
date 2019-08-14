@@ -48,17 +48,6 @@ const IndexPage = () => (
               When the weather's nice I love to go kayaking on the Chattahoochee
               River and hike with my husband and 2 dogs.
             </p>
-            <p>
-              If you're looking for my dev site,{" "}
-              <a
-                href="https://kaleigh.dev/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                you can find it here
-              </a>
-              .
-            </p>
           </div>
           <div class="connect">
             <p>

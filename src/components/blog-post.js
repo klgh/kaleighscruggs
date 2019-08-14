@@ -27,6 +27,9 @@ export default function Template({ data }) {
       />
       <div className="blogPost">
         <Helmet title={`${post.frontmatter.title}`} />
+        <div className="back-to-blog">
+          <Link to="/blog">back to blog</Link>
+        </div>
         <div className="blogTitle">
           <h1>{post.frontmatter.title}</h1>
           <em>{post.frontmatter.date}</em>

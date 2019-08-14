@@ -1,29 +1,87 @@
-.blog-page-layout {
-  padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
-  h1 {
+.blogPageLayout {
+  line-height: 1.5;
+  margin: 0px auto;
+  max-width: 960px;
+  padding: 0px 20px 10px;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+
+  a:link,
+  a:visited,
+  a:active,
+  a:hover {
     color: $mainColor;
-    text-align: center;
+    text-decoration: none;
   }
-  .blogPostList {
-    text-align: center;
-    @extend %linkStyle;
-    .postPreview {
-      .postTitle {
-        margin-bottom: 0px;
-      }
+
+  h1 {
+    color: $subColor;
+  }
+
+  .postPreview {
+    position: relative;
+    display: flex;
+    margin-bottom: 50px;
+    flex-direction: column;
+    border-bottom: 1px solid $mainColor;
+
+    .postTitle,
+    .catTitle {
+      font-size: 28px;
+      margin: 0;
+    }
+
+    .postDate,
+    .catDate {
+      color: $subColor;
+      margin: 5px 0px 10px;
+      font-size: 16px;
+      font-weight: bold;
+    }
+
+    .postDescription,
+    .catDesc {
+      display: inline-block;
+      font-size: 16px;
+    }
+
+    .readMore,
+    .catReadMore {
+      font-size: 14px;
+      text-decoration: underline;
     }
   }
 }
 
 .blog-post-layout {
+  line-height: 1.5;
+  margin: 0px auto;
+  max-width: 960px;
+  padding: 0px 20px 10px;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+
   .blogPost {
     margin: 0 auto;
     max-width: 960px;
-    padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
+
+    @include for-size(phone-only) {
+      max-width: 300px;
+    }
 
     .blogTitle {
-      text-align: center;
-      color: $mainColor;
+      h1 {
+        font-size: 38px;
+        color: $mainColor;
+        margin-top: 20px;
+      }
+
+      em {
+        font-size: 16px;
+        color: $subColor2;
+      }
     }
 
     .catLink {
@@ -34,27 +92,39 @@
 
     .blogMainImage {
       width: 50%;
-      margin: 0 auto;
+      margin: 0 auto 10px auto;
       overflow: hidden;
+      @include for-size(phone-only) {
+        width: 80%;
+      }
     }
     .blogText {
-      margin-top: 10px;
       .blogPostText {
+        h1,
+        h2,
+        h3,
+        h4 {
+          color: $subColor;
+        }
         .gatsby-resp-image-wrapper,
         img {
           max-width: 500px !important;
           margin: 0 auto;
           overflow: hidden;
           display: block;
+          @include for-size(phone-only) {
+            max-width: 300px !important;
+          }
         }
         @extend %linkStyle;
       }
     }
+    .back-to-blog {
+      display: flex;
+      font-size: 14px;
+      color: $linkColor;
+      text-decoration: none;
+      @extend %linkStyle;
+    }
   }
-}
-
-.back-to-blog {
-  margin: 0 auto;
-  text-align: center;
-  @extend %linkStyle;
 }

@@ -1,7 +1,11 @@
 $mainColor: #bd8e83;
-$lightMainColor: #ac8e60;
-$secondMainColor: #f1e8db;
-$hoverColor: #e9dac4;
+$subColor: #d48a87;
+$subColor2: #c9819c;
+
+$linkColor: #ac8e60;
+
+$My-Color-Theme-1-hexda: #c9a381;
+$My-Color-Theme-2-hex: #d4a187;
 
 /* Media Queries */
 @mixin for-size($size) {
@@ -42,6 +46,6 @@ $hoverColor: #e9dac4;
     text-decoration: none;
   }
   a:hover {
-    color: $lightMainColor;
+    color: $linkColor;
   }
 }
