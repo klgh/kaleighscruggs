@@ -17,9 +17,7 @@ const CategoryTemplate = ({ pageContext, data }) => {
     return (
       <Link to={`${frontmatter.path}`}>
         <p className="catTitle">{title}</p>
-        <br />
         <p className="catDate">{date}</p>
-        <br />
         <p className="catDesc">{description}</p>
         <p className="catReadMore">read more</p>
       </Link>

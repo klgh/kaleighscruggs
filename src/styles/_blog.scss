@@ -66,7 +66,6 @@
   .blogPost {
     margin: 0 auto;
     max-width: 960px;
-    padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
 
     .blogTitle {
       h1 {
@@ -93,8 +92,13 @@
       overflow: hidden;
     }
     .blogText {
-      margin-top: 10px;
       .blogPostText {
+        h1,
+        h2,
+        h3,
+        h4 {
+          color: $subColor;
+        }
         .gatsby-resp-image-wrapper,
         img {
           max-width: 500px !important;
@@ -107,7 +111,7 @@
     }
     .back-to-blog {
       display: flex;
-      font-size: 0.8em;
+      font-size: 14px;
       color: $linkColor;
       text-decoration: none;
       @extend %linkStyle;
