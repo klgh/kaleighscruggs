@@ -67,6 +67,10 @@
     margin: 0 auto;
     max-width: 960px;
 
+    @include for-size(phone-only) {
+      max-width: 300px;
+    }
+
     .blogTitle {
       h1 {
         font-size: 38px;
@@ -88,8 +92,11 @@
 
     .blogMainImage {
       width: 50%;
-      margin: 0 auto;
+      margin: 0 auto 10px auto;
       overflow: hidden;
+      @include for-size(phone-only) {
+        width: 80%;
+      }
     }
     .blogText {
       .blogPostText {
@@ -105,6 +112,9 @@
           margin: 0 auto;
           overflow: hidden;
           display: block;
+          @include for-size(phone-only) {
+            max-width: 300px !important;
+          }
         }
         @extend %linkStyle;
       }
