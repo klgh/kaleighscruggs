@@ -2,7 +2,7 @@
 path: "/blog/3-month-check-in"
 title: "3 Month Check-In"
 date: "2018-03-07"
-featuredImage: "lunas.jpg"
+featuredImage: "goodword.jpg"
 category: "30 before 30"
 description: "Happy Wednesday! I can’t believe we’re 3 months into my 30 Before 30 countdown! Crazy! So in these 3 months, I’ve checked off a sold 2 items. GREAT! No, it’s okay though because I’ve been working on a lot more, just haven’t gotten to the crossed off part yet."
 ---
@@ -37,7 +37,8 @@ We were thisclose, but then our plans changed.
 
 **9. Make our backyard look super awesome**
 Thanks to the warm weather, we’ve been able to get outside and clean up some tree branches, leaves, and made a firepit! It’s definitely looking better already!
-![firepit](firepit.jpg)
+
+![firepit](images/firepit.jpg)
 
 **10. Pay off all our credit cards**
 Getting closer! I love watching that number go down in Mint (do you use Mint? if not…get on that!)
@@ -85,6 +86,7 @@ We just keep visiting the same ones. I’ve been to Cherry Street, Wild Heaven, 
 
 **25. ~~Try different types of food~~**
 I’ve been trying Venezuelan food, Korean Barbeque, and Brazilian food!
+
 ![goodword brewing](goodword.jpg)
 
 **26. Visit Monday Night Brewing**

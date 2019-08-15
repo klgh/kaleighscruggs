@@ -2,7 +2,7 @@
 path: "/blog/friday-favs2/"
 title: "Friday Favorites #2"
 date: "2018-06-08"
-featuredImage: "lunas.jpg"
+featuredImage: "FridayFavorites.png"
 category: "friday-favs"
 description: "Happy Friday!! Today’s Friday Favorites is a bit different because yesterday marked 6 months into my 30 Before 30 challenge! Here’s an update on how it’s going!"
 ---
@@ -46,7 +46,7 @@ They just opened a couple of weeks ago, so a friend from the gym and I are plann
 
 **13. ~~Get cookies at Luna’s Cookie Studio~~**
 
-![lunas cookie studio](lunas.jpg)
+![lunas cookie studio](images/lunas.jpg)
 
 **14. Go on or at least plan for another cruise**
 Still trying to figure when we’ll do this, but I feel like it may be Alaska!
@@ -99,5 +99,3 @@ Working on it! I’ve been watching a lot of videos, and using more apps to play
 yeaaa..
 
 So now I’ve got 10/30 things crossed off of my list! Not exactly halfway the list at the halfway point, but better than nothing! I’ll be posting more about each one I’ve crossed off, and of course about our awesome trip coming up.
-
-![friday favorites](FridayFavorites.png)
