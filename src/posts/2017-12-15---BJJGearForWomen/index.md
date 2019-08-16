@@ -1,5 +1,5 @@
 ---
-path: "/blog/jiu-jitsu-gear-women//"
+path: "/blog/jiu-jitsu-gear-women/"
 title: "Jiu-Jitsu: Gear for Women"
 date: "2017-12-15"
 featuredImage: "JiuJitsu_GearforWomen.png"
