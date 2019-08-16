@@ -3,7 +3,7 @@ path: "/blog/fridayfavs1/"
 title: Friday Favs - 6/21
 date: "2019-06-21"
 featuredImage: "friday.jpeg"
-category: "friday-favs"
+category: "friday-favs" 
 description: "Hey and Happy Friday!
 
 So back in the day (ok, like 7 years ago but I can't belive it's been that long) when I started my Masters degree, it was required that we had a blog for one of our classes. I named mine Kaleigh's Keynotes and would blog more than was required for my class. #teacherspet"

@@ -3,7 +3,7 @@ path: "/blog/50-days-until-im-30/"
 title: "50 Days Until I’m 30!"
 date: "2018-10-18"
 featuredImage: "johnlennonquote.jpg"
-category: "30 Before 30"
+category: "30-before-30"
 description: "That is just super crazy! 50 days until I’m 30! This year has been flying by. I thought it was time to do a quick update!"
 ---
 

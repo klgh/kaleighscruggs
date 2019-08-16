@@ -3,7 +3,7 @@ path: "/blog/30-before-30/"
 title: "30 Things To Do Before I’m 30"
 date: "2017-12-07"
 featuredImage: "30-Before-30.png"
-category: "30 before 30"
+category: "30-before-30"
 description: "Today is my birthday! I’m 29. TWENTY-NINE! How does this happen? It feels like I just turned 25, and everyone thinks I’m still 12. What a fun time!"
 ---
 

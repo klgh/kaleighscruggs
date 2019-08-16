@@ -3,7 +3,7 @@ path: "/blog/checking-in-february/"
 title: "Checking In: February"
 date: "2018-02-16"
 featuredImage: "FridayFavorites.png"
-category: "30 before 30"
+category: "30-before-30"
 description: "Happy Friday!! Today’s Friday Favorites is a bit different because yesterday marked 6 months into my 30 Before 30 challenge! Here’s an update on how it’s going!"
 ---
 

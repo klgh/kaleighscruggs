@@ -3,7 +3,7 @@ path: "/blog/3-month-check-in"
 title: "3 Month Check-In"
 date: "2018-03-07"
 featuredImage: "goodword.jpg"
-category: "30 before 30"
+category: "30-before-30"
 description: "Happy Wednesday! I can’t believe we’re 3 months into my 30 Before 30 countdown! Crazy! So in these 3 months, I’ve checked off a sold 2 items. GREAT! No, it’s okay though because I’ve been working on a lot more, just haven’t gotten to the crossed off part yet."
 ---
 
