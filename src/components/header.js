@@ -11,11 +11,7 @@ const Header = ({ siteTitle }) => (
     <section>
       <ul className="header-links">
         <li>
-          <Link
-            to="/"
-            className="linkItem"
-            activeClassName="linkItemActive"
-          >
+          <Link to="/" className="linkItem" activeClassName="linkItemActive">
             home
           </Link>
         </li>

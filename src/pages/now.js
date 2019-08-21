@@ -7,10 +7,7 @@ const Now = props => (
     <SEO title="Now" />
     <div className="now">
       <h1>Now</h1>
-      <h1 class="hpIntro">
-        Hi{" "}
-        
-      </h1>
+      <h1 class="hpIntro">Hi </h1>
     </div>
   </PageLayout>
 )
