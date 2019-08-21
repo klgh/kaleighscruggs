@@ -70,12 +70,12 @@ Gym Bag. I use my Kavu Duffy bag. Just like with any Kavu bag, there are a ton o
 
 ![kavu bag](images/kavubag.png)
 
-Mouth guard & case. So far I’ve used 2 different mouth guards. The first one I used was a Shock Doctor Gel Max. It’s bulky but makes you feel protected. I used it for about 8 months and then Shaun bought the SISU Mouth Guard Max 2.4mmand after he used it once, I bought one for myself. You can talk easily in it (it’s like when you wore a retainer as an awkward kid) and can even drink water without taking it out. Since it’s so low profile, I leave it in the entire class, as opposed to the Shock Doctor, when I would wait until we rolled to wear it, and then would have to take it out to talk.
+Mouth guard & case. So far I’ve used 2 different mouth guards. The first one I used was a Shock Doctor Gel Max. It’s bulky but makes you feel protected. I used it for about 8 months and then Shaun bought the [SISU Mouth Guard Max 2](https://amzn.to/31ZjwRL) and after he used it once, I bought one for myself. You can talk easily in it (it’s like when you wore a retainer as an awkward kid) and can even drink water without taking it out. Since it’s so low profile, I leave it in the entire class, as opposed to the Shock Doctor, when I would wait until we rolled to wear it, and then would have to take it out to talk.
 
 ![sisu](images/sisu.jpg)
 the SISU
 
-http://amzn.to/2zrtGfOThis is the case we both use. I like it because I can clip it to my water bottle and not have to lose it or get it mixed up with someone else’s!
+[This the case we both use](https://amzn.to/2Zj0tzO). I like it because I can clip it to my water bottle and not have to lose it or get it mixed up with someone else’s!
 
 Water bottle. You will need it. Keep it full & icy. I love my Hydro Flask!
 

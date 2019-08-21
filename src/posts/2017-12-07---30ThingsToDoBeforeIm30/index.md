@@ -21,7 +21,7 @@ I thought it’d be fun (and very Pinteresty of me) to create a 30 before 30 lis
 
 ##### 1. Go back to Europe (and climb Arthur’s Seat in Edinburgh)
 
-##### 2. Get another tattoo!
+##### 2. Get another tattoo
 
 ##### 3. Go camping somewhere with some awesome views
 
