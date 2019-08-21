@@ -1,7 +1,0 @@
-{
-    "plugins": {
-        "remark-lint": {
-              "maximum-line-length": ["error", 80]
-        }
-    }
-}
