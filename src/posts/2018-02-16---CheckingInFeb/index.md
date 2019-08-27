@@ -31,4 +31,4 @@ galentine's day
 
 Of course, there’s been more in between, but I felt like a quick post is better than no post!
 
-Follow me on Instagram & Pinterest!
+Follow me on [Instagram](https://www.instagram.com/klgh.js/) and [Pinterest](https://www.pinterest.com/klghshaun/)!

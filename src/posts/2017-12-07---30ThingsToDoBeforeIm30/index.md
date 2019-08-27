@@ -59,7 +59,7 @@ I thought it’d be fun (and very Pinteresty of me) to create a 30 before 30 lis
 
 ##### 20. Move to a different project at work (I’ve been on the same one for 3 years)
 
-##### Be more consistent with my stand-up comedy
+##### 21. Be more consistent with my stand-up comedy
 
 ##### 22. Visit more tea rooms in Atlanta
 
@@ -81,4 +81,4 @@ I thought it’d be fun (and very Pinteresty of me) to create a 30 before 30 lis
 
 After all of this is done and, to celebrate my 30th birthday, I want to have a sleepover with a sloth in Oregon. I’ve been looking forward to that since I discovered it was possible (while Insta-stalking people who have done this and I might have cried a little).
 
--Once I created this list I realized it’s not all “jumping out of airplanes” and “bungee jump” type stuff, but it’s realistic stuff I want to do within the next year, and I believe I can do! So follow along if you’re interested. I’ll be using the hashtag #klgh30before30, and posting videos on YouTube!
+_Once I created this list I realized it’s not all “jumping out of airplanes” and “bungee jump” type stuff, but it’s realistic stuff I want to do within the next year, and I believe I can do! So follow along if you’re interested. I’ll be using the hashtag [#klgh30before30](https://www.instagram.com/explore/tags/klgh30before30/), and try to post videos on YouTube!_

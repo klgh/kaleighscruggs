@@ -87,4 +87,4 @@ Jiu Jitsu Gear for Women
 
 If you have questions or comments, please let me know!
 
-Follow me on: Instagram | Pinterest (I even have a jiu-jitsu board!)
+Follow me on: [Instagram](https://www.instagram.com/klgh.js/) | [Pinterest](https://www.pinterest.com/klghshaun/) (I even have a [jiu-jitsu board](https://www.pinterest.com/klghshaun/brazilian-jiu-jitsu/)!)

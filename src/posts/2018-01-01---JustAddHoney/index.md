@@ -54,4 +54,6 @@ The food was great! The green cilantro sauce was amazing, and the cheese for the
 
 ![lunas](images/curbmarketsign.jpg)
 
-As always, thanks for reading! Be sure to follow along by subscribing to this blog via RSS and of course Instagram! Happy New Year!!
+As always, thanks for reading! Be sure to follow me daily on [Instagram](https://www.instagram.com/klgh.js/).
+
+Happy New Year!!
