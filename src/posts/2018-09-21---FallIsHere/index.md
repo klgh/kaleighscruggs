@@ -27,4 +27,4 @@ Here are 7 helpful tips to turn that 80-degree climate into a most basic dream!
 
 7. Buy at least 12 pumpkins to decorate your house with. When pumpkin picking, you’ll need to wear your Fall Best so be sure to pack a mini fan and some ice cubes. DON’T PUSS OUT BECAUSE OF THE HEAT INDEX
 
-I hope you enjoyed this post, as always you can find me on [Instagram](https://www.instagram.com/klgh.js/)!
+I hope you enjoyed this post, as always you can find me on [Instagram](https://www.instagram.com/klgh.js/) and check out my [comedy site](https://kaleighcomedy.com/)!

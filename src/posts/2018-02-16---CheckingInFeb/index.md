@@ -11,23 +11,21 @@ Long time no blog…so I wanted to check in and let you know what I’ve been up
 
 It snowed in Atlanta…again
 
-snow dogs
-
 I thought I’d find warmer weather in California….it was actually a little colder than home. WHAT?!
 
-golden gate bridge
+![golden gate bridge](images/2.jpg)
 
 Saw some sweet sunrises at work:
 
-sunrise
+![sunrise](images/3.jpg)
 
 Then I finally got to enjoy some warmer weather in Florida
 
-florida coffe
+![coffee](images/4.jpg)
 
 Last weekend, I went to Galentine’s Day at Wild Heaven
 
-galentine's day
+![galentines day](images/5.jpg)
 
 Of course, there’s been more in between, but I felt like a quick post is better than no post!
 

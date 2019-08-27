@@ -63,7 +63,7 @@ I don’t remember how I discovered this app, but I’ve been using it for years
 
 I love Southwest, so of course, this app is super helpful with planning trips, tracking your flight, and pulling up your boarding pass. I like it because it’s easy to check in and check on my family’s flights as well. When we’ve had to cancel and rebook flights before, it is so easy to do it on the app. Everything works so smoothly.
 
-![google translate](images/Google_translate.png)
+![google translate](images/Google_Translate.png)
 
 Google Translate is of course insanely helpful when you’re traveling abroad! When we were in Belgium, it was a huge help when we were reading menus and maps. Now they have the feature where it will translate live through your camera for you. I haven’t tested this out in the wild yet, but whenever we get food from Super H Mart or someone brings food in from trips to my office, it’s fun to test it out!
 
