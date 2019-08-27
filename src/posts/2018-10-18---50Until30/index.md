@@ -9,7 +9,7 @@ description: "That is just super crazy! 50 days until I’m 30! This year has be
 
 That is just super crazy! 50 days until I’m 30! This year has been flying by. I thought it was time to do a quick update!
 
-For my 30 before 30 list, I’ve done about half of it…as I mentioned in my last update, I know for a fact I won’t be completing it. It sucks, but as I’ve been learning, that’s life-plans change, needs/wants change, and you just have to roll with it. I’m not super bummed about it though, don’t get me wrong. There are parts of it that when I look at now I’m like “meh, ok”. Plus, as John Lennon says,
+For my [30 Before 30](https://kaleighscruggs.com/blog/30-before-30/) list, I’ve done about half of it…as I mentioned in my last update, I know for a fact I won’t be completing it. It sucks, but as I’ve been learning, that’s life-plans change, needs/wants change, and you just have to roll with it. I’m not super bummed about it though, don’t get me wrong. There are parts of it that when I look at now I’m like “meh, ok”. Plus, as John Lennon says,
 
 ![john lennon quote](images/johnlennonquote.jpg)
 

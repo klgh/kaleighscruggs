@@ -9,7 +9,7 @@ description: "Somehow it's 2019. I'm not sure how that happened since it just be
 
 Somehow it's 2019. I'm not sure how that happened since it just became 2018, but ok. I wanted to share a recap of 2018, as it was one wild year. Not a lot of "blog" moments, but maybe hopefully I'll change that in 2019.
 
-First, I was trying to complete my 30 Before 30 list...that didn't really happen. I did complete 50% of it, which to me is better than nothing! 2018 was a pretty wild year so I feel like I did my best - I still got to do things I wanted to do but didn't put in the list, and I got to do things I didn't think I would do. So to me, 50% isn't a failure, it's me saying "you can't follow plans perfectly". Because you can't!
+First, I was trying to complete my [30 Before 30](https://kaleighscruggs.com/blog/30-before-30/) list...that didn't really happen. I did complete 50% of it, which to me is better than nothing! 2018 was a pretty wild year so I feel like I did my best - I still got to do things I wanted to do but didn't put in the list, and I got to do things I didn't think I would do. So to me, 50% isn't a failure, it's me saying "you can't follow plans perfectly". Because you can't!
 
 ## January
 

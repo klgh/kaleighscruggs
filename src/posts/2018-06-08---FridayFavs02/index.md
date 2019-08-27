@@ -7,7 +7,7 @@ category: "friday-favs"
 description: "Happy Friday!! Today’s Friday Favorites is a bit different because yesterday marked 6 months into my 30 Before 30 challenge! Here’s an update on how it’s going!"
 ---
 
-Happy Friday!! Today’s Friday Favorites is a bit different because yesterday marked 6 months into my 30 Before 30 challenge! Here’s an update on how it’s going!
+Happy Friday!! Today’s Friday Favorites is a bit different because yesterday marked 6 months into my [30 Before 30](https://kaleighscruggs.com/blog/30-before-30/) challenge! Here’s an update on how it’s going!
 
 **1. Go back to Europe**
 Still no plans yet. We’re just now making summer travel plans and I don’t think a proper Europe trip would fit into our schedules right now. Maybe for Thanksgiving??

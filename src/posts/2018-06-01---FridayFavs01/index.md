@@ -29,4 +29,4 @@ It’s been raining for at least 2 weeks now, and I’m about over it. So anytim
 ![rain coming](images/view.jpg)
 
 rain in the distance 🙁  
-A short list for a short week, but I’ll be back next week, so be sure to follow me on Instagram or sign up for my emails so you don’t miss it!
+A short list for a short week, but I’ll be back next week, so be sure to follow me on [Instagram](https://www.instagram.com/klgh.js/)!

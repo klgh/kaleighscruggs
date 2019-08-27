@@ -33,10 +33,11 @@ export default function Template({ data }) {
         <div className="blogTitle">
           <h1>{post.frontmatter.title}</h1>
           <p className="catLink">
+            <em>{post.frontmatter.date}</em> |
             <Link to={`/category/${post.frontmatter.category}`}>
+              {" "}
               {post.frontmatter.category}
-            </Link>{" "}
-            | <em>{post.frontmatter.date}</em>
+            </Link>
           </p>
         </div>
         <div className="blogMainImage">

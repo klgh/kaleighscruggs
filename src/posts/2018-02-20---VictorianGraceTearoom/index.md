@@ -56,6 +56,4 @@ I love manatees…they’re super fun to watch! That night we watched the Superb
 
 ![coffee](images/coffee.jpg)
 
-Be sure to join my mailing list to be notified of new posts, or subscribe via however you read blogs.
-
 Follow me on [Instagram](https://www.instagram.com/klgh.js/) and [Pinterest](https://www.pinterest.com/klghshaun/)!

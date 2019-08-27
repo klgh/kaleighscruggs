@@ -7,7 +7,7 @@ category: "tea"
 description: "This past Saturday I was able to cross something off of my 30 Before 30 list! My mom and I went to Just Add Honey Tea Company in the Sweet Auburn Curb Market. I had never heard of Curb Market before, but it was in downtown Atlanta, by Georgia State."
 ---
 
-This past Saturday I was able to cross something off of my 30 Before 30 list! My mom and I went to Just Add Honey Tea Company in the Sweet Auburn Curb Market. I had never heard of Curb Market before, but it was in downtown Atlanta, by Georgia State.
+This past Saturday I was able to cross something off of my [30 Before 30](https://kaleighscruggs.com/blog/30-before-30/) list! My mom and I went to [Just Add Honey Tea Company](https://justaddhoney.net/) in the Sweet Auburn Curb Market. I had never heard of [Curb Market](https://municipalmarketatl.com/) before, but it was in downtown Atlanta, by Georgia State.
 
 ![lunas](images/curbmarketoutside.jpg)
 
@@ -41,7 +41,7 @@ After we left, we walked around the market. Most shops were closed, but there wa
 
 ![lunas](images/curbmarketinside.jpg)
 
-We came across Arepa Mia, which is a Venezuelan restaurant. The menu looked so good, so we got in line and ordered Pollo La Catira empanadas and tostones. Everything is gluten-free, but the empanadas did have cheese on it.
+We came across [Arepa Mia](http://www.arepamiaatlanta.com/), which is a Venezuelan restaurant. The menu looked so good, so we got in line and ordered Pollo La Catira empanadas and tostones. Everything is gluten-free, but the empanadas did have cheese on it.
 
 ![lunas](images/ArepaMiaMenu.jpg)
 
@@ -50,7 +50,7 @@ While we waited, we met some people who are Venezuelan visiting Atlanta from Lou
 ![lunas](images/food1.jpg)
 left is the tostones right is the empanadas
 
-The food was great! The green cilantro sauce was amazing, and the cheese for the empanadas was just as good. Eating this made me realize, not only did I cross off #12 of my 30 before 30 list, but also this is helping cross off #25 which is to try different types of food! Of course, I will still keep trying new foods, but this is definitely a 2 in 1 day!
+The food was great! The green cilantro sauce was amazing, and the cheese for the empanadas was just as good. Eating this made me realize, not only did I cross off #12 of my [30 Before 30](https://kaleighscruggs.com/blog/30-before-30/) list, but also this is helping cross off #25 which is to try different types of food! Of course, I will still keep trying new foods, but this is definitely a 2 in 1 day!
 
 ![lunas](images/curbmarketsign.jpg)
 
