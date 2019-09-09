@@ -1,3 +1,12 @@
+---
+path: "/blog/updated-bjj-gear-for-women/"
+title: Friday Favs - 6/21
+date: "2019-09-20"
+featuredImage: "alma.jpg"
+category: "friday-favs"
+description: "My previous all-bjj post, Jiu-Jitsu: Gear for Women has been a huge hit via Pinterest. It’s kind of wild, and I love it. I wanted to write a sort of “update” because That post is over a year old, and I wrote it long before I ever published it. So I felt like a lot has changed with the jiu-jitsu gear that I love."
+---
+
 My previous all-bjj post, Jiu-Jitsu: Gear for Women has been a huge hit via Pinterest. It’s kind of wild, and I love it. I wanted to write a sort of “update” because That post is over a year old, and I wrote it long before I ever published it. So I felt like a lot has changed with the jiu-jitsu gear that I love.
 
 Gi
