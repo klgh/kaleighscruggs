@@ -65,7 +65,7 @@ module.exports = {
         ],
       },
     },
-   /*  {
+    /*  {
       resolve: `gatsby-plugin-favicon`,
       options: {
         logo: "./src/images/favicon.png",
@@ -172,9 +172,6 @@ module.exports = {
         templatePath: `${__dirname}/src/components/category.js`,
       },
     },
-     * Gatsby's data processing layer begins with “source”
-     * plugins. Here the site sources its data from WordPress.
-     */
     {
       resolve: "gatsby-source-wordpress",
       options: {
@@ -198,7 +195,6 @@ module.exports = {
           "**/media",
           "**/tags",
           "**/taxonomies",
-          "**/users",
         ],
         // Blacklisted routes using glob patterns
         excludedRoutes: [],
