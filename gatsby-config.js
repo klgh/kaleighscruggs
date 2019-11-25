@@ -172,5 +172,42 @@ module.exports = {
         templatePath: `${__dirname}/src/components/category.js`,
       },
     },
+     * Gatsby's data processing layer begins with “source”
+     * plugins. Here the site sources its data from WordPress.
+     */
+    {
+      resolve: "gatsby-source-wordpress",
+      options: {
+        baseUrl: "kaleighblogs.com",
+        protocol: "https",
+        hostingWPCOM: false,
+        useACF: true,
+        acfOptionPageIds: [],
+        verboseOutput: false,
+        perPage: 100,
+        searchAndReplaceContentUrls: {
+          sourceUrl: "https://kaleighblogs.com",
+          replacementUrl: "https://localhost:8000",
+        },
+        // Set how many simultaneous requests are sent at once.
+        concurrentRequests: 10,
+        includedRoutes: [
+          "**/categories",
+          "**/posts",
+          "**/pages",
+          "**/media",
+          "**/tags",
+          "**/taxonomies",
+          "**/users",
+        ],
+        // Blacklisted routes using glob patterns
+        excludedRoutes: [],
+        keepMediaSizes: false,
+        // use a custom normalizer which is applied after the built-in ones.
+        normalizer: function({ entities }) {
+          return entities
+        },
+      },
+    },
   ],
 }
