@@ -11,7 +11,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/react-fontawesome": "^0.1.7",
     "bootstrap": "^4.3.1",
-    "gatsby": "^2.18.0",
+    "gatsby": "^2.18.3",
     "gatsby-cli": "^2.8.12",
     "gatsby-image": "^2.2.33",
     "gatsby-plugin-catch-links": "^2.1.17",
@@ -21,11 +21,11 @@
     "gatsby-plugin-feed": "^2.3.21",
     "gatsby-plugin-google-analytics": "^2.1.28",
     "gatsby-plugin-manifest": "^2.2.29",
-    "gatsby-plugin-offline": "^3.0.22",
+    "gatsby-plugin-offline": "^3.0.23",
     "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
     "gatsby-plugin-react-helmet": "^3.1.15",
     "gatsby-plugin-sass": "^2.1.23",
-    "gatsby-plugin-sharp": "^2.3.2",
+    "gatsby-plugin-sharp": "^2.3.3",
     "gatsby-plugin-sitemap": "^2.2.21",
     "gatsby-plugin-tags": "^2.3.7",
     "gatsby-remark-external-links": "0.0.4",
@@ -43,7 +43,7 @@
     "remark-preset-lint-recommended": "^3.0.3"
   },
   "devDependencies": {
-    "eslint": "^6.6.0",
+    "eslint": "^6.7.1",
     "eslint-plugin-markdown": "^1.0.1",
     "eslint-plugin-react": "^7.16.0",
     "prettier": "^1.19.1"
