@@ -1,37 +1,53 @@
-const path = require("path")
-exports.createPages = ({ actions, graphql }) => {
+const path = require(`path`)
+const { createFilePath } = require(`gatsby-source-filesystem`)
+
+exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
-  const blogPostTemplate = path.resolve(`src/components/blog-post.js`)
+  const BlogPostTemplate = path.resolve("./src/templates/BlogPost.js")
+  const PageTemplate = path.resolve("./src/templates/Page.js")
+
   return graphql(`
     {
-      allMarkdownRemark(
-        sort: { order: DESC, fields: [frontmatter___date] }
-        limit: 1000
-      ) {
+      allWordpressPost {
         edges {
           node {
-            excerpt(pruneLength: 250)
-            html
-            id
-            frontmatter {
-              date
-              path
-              title
-              description
-            }
+            slug
+            wordpress_id
+          }
+        }
+      }
+      allWordpressPage {
+        edges {
+          node {
+            slug
+            wordpress_id
           }
         }
       }
     }
   `).then(result => {
     if (result.errors) {
-      return Promise.reject(result.errors)
+      throw result.errors
     }
-    result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    const BlogPosts = result.data.allWordpressPost.edges
+    BlogPosts.forEach(post => {
       createPage({
-        path: node.frontmatter.path,
-        component: blogPostTemplate,
-        context: {}, // additional data can be passed via context
+        path: `/post/${post.node.slug}`,
+        component: BlogPostTemplate,
+        context: {
+          id: post.node.wordpress_id,
+        },
+      })
+
+      const Pages = result.data.allWordpressPage.edges
+      Pages.forEach(page => {
+        createPage({
+          path: `/${page.node.slug}`,
+          component: PageTemplate,
+          context: {
+            id: page.node.wordpress_id,
+          },
+        })
       })
     })
   })
