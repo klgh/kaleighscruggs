@@ -1,51 +1,52 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import BlogPageLayout from "../components/blog-page-layout"
+import Layout from "../components/page-layout"
 import SEO from "../components/seo"
 /* page for kaleighscruggs.com/blog */
 
-export default function Blog({ data }) {
-  const { edges: posts } = data.allMarkdownRemark
-  return (
-    <BlogPageLayout>
-      <SEO title="Blog" />
-      <div className="blogPageLayout container">
-        {posts
-          .filter(post => post.node.frontmatter.title.length > 0)
-          .map(({ node: post }) => {
-            return (
-              <Link to={post.frontmatter.path} className="postPreview">
-                <div className="row" key={post.id}>
-                  <div className="col">
-                    <h2 className="postTitle">{post.frontmatter.title}</h2>
-                    <p className="postDate">{post.frontmatter.date}</p>
-                    <p className="postDescription">
-                      {post.frontmatter.description}
-                    </p>
-                    <p className="readMore">Read more</p>
-                  </div>
-                </div>
-              </Link>
-            )
-          })}
-      </div>
-    </BlogPageLayout>
-  )
-}
+const Blog = ({ data }) => (
+  <Layout>
+    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <ul style={{ listStyle: "none" }}>
+      {data.allWordpressPost.edges.map(post => (
+        <li style={{ padding: "20px 0", borderBottom: "1px solid #ccc" }}>
+          <Link
+            to={`/post/${post.node.slug}`}
+            style={{ display: "flex", color: "black", textDecoration: "none" }}
+          >
+            {/* <Img
+              sizes={post.node.acf.feat_img.localFile.childImageSharp.sizes}
+              alt={post.note.title}
+              style={{ width: "25%", marginRight: 20 }}
+            /> */}
+            <div style={{ width: "75%" }}>
+              <h3
+                dangerouslySetInnerHTML={{ __html: post.node.title }}
+                style={{ marginBottom: 0 }}
+              />
+              <p style={{ margin: 0, color: "grey" }}>
+                Written by me on {post.node.date}
+              </p>
+              <div dangerouslySetInnerHTML={{ __html: post.node.excerpt }} />
+            </div>
+          </Link>
+        </li>
+      ))}
+    </ul>
+  </Layout>
+)
 
-export const pageQuery = graphql`
-  query BlogQuery {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+export default Blog
+
+export const query = graphql`
+  query {
+    allWordpressPost {
       edges {
         node {
-          excerpt(pruneLength: 250)
-          id
-          frontmatter {
-            title
-            date(formatString: "MMMM DD, YYYY")
-            path
-            description
-          }
+          title
+          excerpt
+          slug
+          date(formatString: "MMMM DD, YYYY")
         }
       }
     }

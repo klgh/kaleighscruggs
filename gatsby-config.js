@@ -10,6 +10,10 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sitemap`,
+    `gatsby-plugin-sass`,
+    `gatsby-plugin-catch-links`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-draft`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -17,17 +21,6 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `posts`,
-        path: `${__dirname}/src/posts`,
-      },
-    },
-    `gatsby-plugin-sass`,
-    `gatsby-plugin-catch-links`,
-    `gatsby-transformer-sharp`,
-    "gatsby-plugin-draft",
     {
       resolve: `gatsby-plugin-sharp`,
       options: {
@@ -65,12 +58,6 @@ module.exports = {
         ],
       },
     },
-    /*  {
-      resolve: `gatsby-plugin-favicon`,
-      options: {
-        logo: "./src/images/favicon.png",
-      },
-    }, */
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -164,12 +151,6 @@ module.exports = {
             match: "^/blog/",
           },
         ],
-      },
-    },
-    {
-      resolve: "gatsby-plugin-categories",
-      options: {
-        templatePath: `${__dirname}/src/components/category.js`,
       },
     },
     {
