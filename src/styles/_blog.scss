@@ -1,4 +1,4 @@
-.blogPageLayout {
+.blogPage {
   line-height: 1.5;
   margin: 0px auto;
   max-width: 960px;
@@ -19,11 +19,15 @@
     color: $subColor;
   }
 
+  ul {
+    list-style: none;
+  }
+
   .postPreview {
     position: relative;
     display: flex;
     margin-bottom: 50px;
-    flex-direction: column-reverse;
+    flex-direction: column;
     border-bottom: 1px solid $mainColor;
 
     .postTitle,
@@ -37,7 +41,6 @@
       color: $subColor;
       margin: 5px 0px 10px;
       font-size: 16px;
-      font-weight: bold;
     }
 
     .postDescription,
@@ -100,25 +103,24 @@
       }
     }
     .blogText {
-      .blogPostText {
-        h1,
-        h2,
-        h3,
-        h4 {
-          color: $subColor;
-        }
-        .gatsby-resp-image-wrapper,
-        img {
-          max-width: 500px !important;
-          margin: 0 auto;
-          overflow: hidden;
-          display: block;
-          @include for-size(phone-only) {
-            max-width: 300px !important;
-          }
-        }
-        @extend %linkStyle;
+      margin-top: 20px;
+      h1,
+      h2,
+      h3,
+      h4 {
+        color: $subColor;
       }
+
+      img {
+        max-width: 500px !important;
+        margin: 0 auto;
+        overflow: hidden;
+        display: block;
+        @include for-size(phone-only) {
+          max-width: 300px !important;
+        }
+      }
+      @extend %linkStyle;
     }
     .back-to-blog {
       display: flex;

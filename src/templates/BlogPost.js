@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Layout from "../components/page-layout"
 import SEO from "../components/seo"
 import "../styles/styles.scss"
@@ -10,13 +10,23 @@ const BlogPostTemplate = ({ data }) => (
       title={data.wordpressPost.title}
       description={data.wordpressPost.excerpt}
     />
-    <h1>{data.wordpressPost.title}</h1>
-    <p>Written on {data.wordpressPost.date}</p>
+    <div className="blog-post-layout">
+      <div className="blogPost">
+        <div className="blogTitle">
+          <h1>{data.wordpressPost.title}</h1>
+          <em>{data.wordpressPost.date}</em>
+        </div>
 
-    <div
-      style={{ marginTop: 20 }}
-      dangerouslySetInnerHTML={{ __html: data.wordpressPost.content }}
-    />
+        <div
+          className="blogText"
+          dangerouslySetInnerHTML={{ __html: data.wordpressPost.content }}
+        />
+
+        <div className="back-to-blog">
+          <Link to="/blog">back to blog</Link>
+        </div>
+      </div>
+    </div>
   </Layout>
 )
 
