@@ -1,3 +1,5 @@
+require("dotenv").config()
+
 module.exports = {
   siteMetadata: {
     title: `Kaleigh Scruggs`,
@@ -67,16 +69,20 @@ module.exports = {
     {
       resolve: "gatsby-source-wordpress",
       options: {
-        baseUrl: "kaleighblogs.com",
-        protocol: "https",
-        hostingWPCOM: false,
-        useACF: true,
+        baseUrl: process.env.WORDPRESS_BASE_URL,
+        protocol: process.env.WORDPRESS_PROTOCOL,
+        hostingWPCOM: (process.env.WORDPRESS_HOSTING_WPCOM === 'true'),
+        useACF:  (process.env.WORDPRESS_USE_ACF === 'true'),
         acfOptionPageIds: [],
-        verboseOutput: false,
+        verboseOutput: (process.env.WORDPRESS_VERBOSE_OUTPUT === 'true'),
         perPage: 100,
         searchAndReplaceContentUrls: {
           sourceUrl: "https://kaleighblogs.com",
           replacementUrl: "https://localhost:8000",
+        },
+        auth: {
+          wpcom_user: process.env.WORDPRESS_USER,
+          wpcom_pass: process.env.WORDPRESS_PASSWORD,
         },
         // Set how many simultaneous requests are sent at once.
         concurrentRequests: 10,
