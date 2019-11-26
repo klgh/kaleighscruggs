@@ -94,14 +94,6 @@
       @extend %linkStyle;
     }
 
-    .blogMainImage {
-      width: 50%;
-      margin: 0 auto 10px auto;
-      overflow: hidden;
-      @include for-size(phone-only) {
-        width: 80%;
-      }
-    }
     .blogText {
       margin-top: 20px;
       h1,
