@@ -38,17 +38,29 @@ exports.createPages = async ({ graphql, actions }) => {
           id: post.node.wordpress_id,
         },
       })
+    })
 
-      const Pages = result.data.allWordpressPage.edges
-      Pages.forEach(page => {
-        createPage({
-          path: `/${page.node.slug}`,
-          component: PageTemplate,
-          context: {
-            id: page.node.wordpress_id,
-          },
-        })
+    const Pages = result.data.allWordpressPage.edges
+    Pages.forEach(page => {
+      createPage({
+        path: `/${page.node.slug}`,
+        component: PageTemplate,
+        context: {
+          id: page.node.wordpress_id,
+        },
       })
     })
+
+    const Category = result.data.allWordpressCategory.edges
+    Category.forEach(category => {
+      createCategory({
+        path: `/category/${category.node.slug}`,
+        component: CategoryTemplate,
+        context: {
+          id: category.node.wordpress_id,
+        },
+      })
+    })
+
   })
 }

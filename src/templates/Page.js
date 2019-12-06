@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/page-layout"
 import SEO from "../components/seo"
+import "../styles/styles.scss"
 
 const PageTemplate = ({ data }) => (
   <Layout>
