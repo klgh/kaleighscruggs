@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 import Layout from "../components/page-layout"
 import SEO from "../components/seo"
 import "../styles/styles.scss"
@@ -11,7 +11,6 @@ const CategoryTemplate = ({ data }) => (
       /* description={data.wordpressCategory.excerpt} */
     />
     <h2>{data.wordpressCategory.name}</h2>
-  
   </Layout>
 )
 
