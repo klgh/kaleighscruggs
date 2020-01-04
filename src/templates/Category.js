@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { Link, graphql } from "gatsby"
 import Layout from "../components/page-layout"
 import SEO from "../components/seo"
 import "../styles/styles.scss"
@@ -9,9 +9,25 @@ const CategoryTemplate = ({ data }) => (
     <SEO title={data.wordpressCategory.name} />
     <div className="categoryPage">
       <h2 className="categoryHeader">{data.wordpressCategory.name}</h2>
-      <div
-        dangerouslySetInnerHTML={{ __html: data.wordpressCategory.count }}
-      ></div>
+      <ul>
+        {data.allWordpressPost.edges.map(post => (
+          <li>
+            <Link to={`/post/${post.node.slug}`}>
+              <div className="postPreview">
+                <h1
+                  className="postTitle"
+                  dangerouslySetInnerHTML={{ __html: post.node.title }}
+                />
+                <p className="postDate">{post.node.date}</p>
+                <div
+                  className="postDescription"
+                  dangerouslySetInnerHTML={{ __html: post.node.excerpt }}
+                />
+              </div>
+            </Link>
+          </li>
+        ))}
+      </ul>
     </div>
   </Layout>
 )
@@ -19,10 +35,23 @@ const CategoryTemplate = ({ data }) => (
 export default CategoryTemplate
 
 export const query = graphql`
-  query($id: Int!) {
-    wordpressCategory(wordpress_id: { eq: $id }) {
-      name
-      count
-    }
-  }
-`
+         query($id: Int!) {
+           wordpressCategory(wordpress_id: { eq: $id }) {
+             name
+           }
+           allWordpressPost(
+             filter: {
+               categories: { elemMatch: { wordpress_id: { eq: $id } } }
+             }
+           ) {
+             edges {
+               node {
+                 title
+                 excerpt
+                 slug
+                 date(formatString: "MMMM DD, YYYY")
+               }
+             }
+           }
+         }
+       `
