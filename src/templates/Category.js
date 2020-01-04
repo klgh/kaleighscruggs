@@ -12,7 +12,7 @@ const CategoryTemplate = ({ data }) => (
       <ul>
         {data.allWordpressPost.edges.map(post => (
           <li>
-            <Link to={`/post/${post.node.slug}`}>
+            <Link to={`/blog/${post.node.slug}`}>
               <div className="postPreview">
                 <h2
                   className="postTitle"
