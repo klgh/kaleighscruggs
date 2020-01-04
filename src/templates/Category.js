@@ -7,10 +7,12 @@ import "../styles/styles.scss"
 const CategoryTemplate = ({ data }) => (
   <Layout>
     <SEO title={data.wordpressCategory.name} />
-    <h2>{data.wordpressCategory.name}</h2>
-    <div
-      dangerouslySetInnerHTML={{ __html: data.wordpressCategory.count }}
-    ></div>
+    <div className="categoryPage">
+      <h2 className="categoryHeader">{data.wordpressCategory.name}</h2>
+      <div
+        dangerouslySetInnerHTML={{ __html: data.wordpressCategory.count }}
+      ></div>
+    </div>
   </Layout>
 )
 

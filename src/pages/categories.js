@@ -7,14 +7,14 @@ import SEO from "../components/seo"
 const Categories = ({ data }) => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-    <div className="blogPage">
+    <div className="categoryPage">
       <ul>
         {data.allWordpressCategory.edges.map(category => (
           <li>
             <Link to={`/category/${category.node.slug}`}>
-              <div className="postPreview">
-                <h1
-                  className="postTitle"
+              <div className="categoryName">
+                <p
+                  className="catTitle"
                   dangerouslySetInnerHTML={{ __html: category.node.name }}
                 />
               </div>
