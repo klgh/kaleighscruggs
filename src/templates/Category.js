@@ -8,13 +8,13 @@ const CategoryTemplate = ({ data }) => (
   <Layout>
     <SEO title={data.wordpressCategory.name} />
     <div className="categoryPage">
-      <h2 className="categoryHeader">{data.wordpressCategory.name}</h2>
+      <h1 className="categoryHeader">{data.wordpressCategory.name}</h1>
       <ul>
         {data.allWordpressPost.edges.map(post => (
           <li>
             <Link to={`/post/${post.node.slug}`}>
               <div className="postPreview">
-                <h1
+                <h2
                   className="postTitle"
                   dangerouslySetInnerHTML={{ __html: post.node.title }}
                 />

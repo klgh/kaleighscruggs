@@ -1,9 +1,9 @@
-.categoryPage {
+.categoryPage,
+.categories {
   line-height: 1.5;
   margin: 0px auto;
   max-width: 960px;
   padding: 0px 20px 10px;
-  margin-top: 50px;
   display: flex;
   flex-direction: column;
   color: $mainColor;
@@ -20,6 +20,7 @@
     color: $subColor;
   }
 
+
   ul {
     list-style: none;
   }
@@ -30,5 +31,8 @@
 
   .categoryHeader {
     font-size: 32px;
+    color: $subColor;
+    text-align: center;
+    margin-bottom: 50px;
   }
 }

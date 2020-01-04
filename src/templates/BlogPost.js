@@ -15,7 +15,6 @@ const BlogPostTemplate = ({ data }) => (
         <div className="blogTitle">
           <h1>{data.wordpressPost.title}</h1>
           <em>{data.wordpressPost.date}</em>
-          <em>{data.wordpressPost.categories.name}</em>
         </div>
 
         <div

@@ -8,12 +8,16 @@ const Blog = ({ data }) => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <div className="blogPage">
+      <h1>Blog</h1>
+      <h4>
+        <Link to={`/categories/`}>Categories</Link>
+      </h4>
       <ul>
         {data.allWordpressPost.edges.map(post => (
           <li>
             <Link to={`/post/${post.node.slug}`}>
               <div className="postPreview">
-                <h1
+                <h2
                   className="postTitle"
                   dangerouslySetInnerHTML={{ __html: post.node.title }}
                 />

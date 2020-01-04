@@ -7,7 +7,8 @@ import SEO from "../components/seo"
 const Categories = ({ data }) => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-    <div className="categoryPage">
+    <div className="categories">
+      <h1 className="categoryHeader">Categories</h1>
       <ul>
         {data.allWordpressCategory.edges.map(category => (
           <li>
