@@ -9,18 +9,18 @@ const Blog = ({ data }) => (
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <div className="blogPage">
       <ul>
-        {data.allWordpressPost.edges.map(post => (
+        {data.allWordpressPost.edges.map(blog => (
           <li>
-            <Link to={`/post/${post.node.slug}`}>
+            <Link to={`/blog/${blog.node.slug}`}>
               <div className="postPreview">
                 <h1
                   className="postTitle"
-                  dangerouslySetInnerHTML={{ __html: post.node.title }}
+                  dangerouslySetInnerHTML={{ __html: blog.node.title }}
                 />
-                <p className="postDate">{post.node.date}</p>
+                <p className="postDate">{blog.node.date}</p>
                 <div
                   className="postDescription"
-                  dangerouslySetInnerHTML={{ __html: post.node.excerpt }}
+                  dangerouslySetInnerHTML={{ __html: blog.node.excerpt }}
                 />
               </div>
             </Link>
