@@ -9,7 +9,7 @@ const CategoryTemplate = ({ data }) => (
     <SEO title={data.wordpressCategory.name} />
     <h2>{data.wordpressCategory.name}</h2>
     <div
-      dangerouslySetInnerHTML={{ __html: data.wordpressCategory.path }}
+      dangerouslySetInnerHTML={{ __html: data.wordpressCategory.count }}
     ></div>
   </Layout>
 )
@@ -20,7 +20,7 @@ export const query = graphql`
   query($id: Int!) {
     wordpressCategory(wordpress_id: { eq: $id }) {
       name
-      path
+      count
     }
   }
 `
