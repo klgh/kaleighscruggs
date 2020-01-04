@@ -3,7 +3,6 @@
   margin: 0px auto;
   max-width: 960px;
   padding: 0px 20px 10px;
-  margin-top: 50px;
   display: flex;
   flex-direction: column;
 
@@ -17,6 +16,13 @@
 
   h1 {
     color: $subColor;
+    text-align: center;
+  }
+  h4 {
+    color: $subColor;
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 14px;
   }
 
   ul {

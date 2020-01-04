@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/page-layout"
 import SEO from "../components/seo"
+import "../styles/styles.scss"
 
 const PageTemplate = ({ data }) => (
   <Layout>
@@ -9,8 +10,12 @@ const PageTemplate = ({ data }) => (
       title={data.wordpressPage.title}
       description={data.wordpressPage.excerpt}
     />
-    <h2>{data.wordpressPage.title}</h2>
-    <div dangerouslySetInnerHTML={{ __html: data.wordpressPage.content }}></div>
+    <div className={data.wordpressPage.slug}>
+      <h2>{data.wordpressPage.title}</h2>
+      <div
+        dangerouslySetInnerHTML={{ __html: data.wordpressPage.content }}
+      ></div>
+    </div>
   </Layout>
 )
 
@@ -22,6 +27,7 @@ export const query = graphql`
       title
       excerpt
       content
+      slug
     }
   }
 `
