@@ -10,7 +10,7 @@ const Blog = ({ data }) => (
     <div className="blogPage">
       <h1>Blog</h1>
       <h4>
-        <Link to={`/categories/`}>Categories</Link>
+        <Link to={`/category/`}>Categories</Link>
       </h4>
       <ul>
         {data.allWordpressPost.edges.map(blog => (
