@@ -32,13 +32,15 @@ body {
 }
 
 .header {
+  @extend %linkStyle;
   padding: 20px 20px 0px;
+  padding-top: 20px;
   margin-bottom: 0;
   display: flex;
-  justify-content: space-between;
+  justify-content: normal;
   overflow: hidden;
   align-items: center;
-  flex-direction: column;
+  flex-direction: row;
 
   .kslogo {
     margin-bottom: 0;
@@ -50,9 +52,9 @@ body {
     margin: 0;
     display: flex;
     font-size: 0.9em;
+    padding-left: 200px;
 
     > li {
-      margin: 10px 0px;
       padding: 0px 20px;
     }
 
@@ -61,8 +63,22 @@ body {
       text-decoration: none;
     }
 
+    .portfolio,
+    .now,
+    .blog,
+    .contact {
+      margin-top: 20px;
+    }
+
     .linkItemActive {
       color: $subColor;
+    }
+  }
+
+  .connect {
+    margin-bottom: 8px;
+    @include for-size(phone-only) {
+      text-align: center;
     }
   }
 
