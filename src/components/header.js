@@ -5,6 +5,7 @@ import logo from "../images/1.png"
 
 const Header = ({ siteTitle }) => (
   <div className="header">
+    <meta name="p:domain_verify" content="a4c7d63ea227f5f072c29d1e7e03d1a2" />
     <Link to="/">
       <img className="kslogo" src={logo} alt="logo" />
     </Link>
