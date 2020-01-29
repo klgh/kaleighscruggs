@@ -10,12 +10,12 @@ module.exports = {
     image: "/images/photo.jpg",
   },
   plugins: [
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-sitemap`,
-    `gatsby-plugin-sass`,
     `gatsby-plugin-catch-links`,
-    `gatsby-transformer-sharp`,
     `gatsby-plugin-draft`,
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sass`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -71,10 +71,10 @@ module.exports = {
       options: {
         baseUrl: process.env.WORDPRESS_BASE_URL,
         protocol: process.env.WORDPRESS_PROTOCOL,
-        hostingWPCOM: (process.env.WORDPRESS_HOSTING_WPCOM === 'true'),
-        useACF:  (process.env.WORDPRESS_USE_ACF === 'true'),
+        hostingWPCOM: process.env.WORDPRESS_HOSTING_WPCOM === "true",
+        useACF: process.env.WORDPRESS_USE_ACF === "true",
         acfOptionPageIds: [],
-        verboseOutput: (process.env.WORDPRESS_VERBOSE_OUTPUT === 'true'),
+        verboseOutput: process.env.WORDPRESS_VERBOSE_OUTPUT === "true",
         perPage: 100,
         searchAndReplaceContentUrls: {
           sourceUrl: "https://kaleighblogs.com",
@@ -101,6 +101,14 @@ module.exports = {
         normalizer: function({ entities }) {
           return entities
         },
+      },
+    },
+    {
+      resolve: "gatsby-plugin-robots-txt",
+      options: {
+        host: "https://kaleighscruggs.com",
+        sitemap: "https://kaleighscruggs.com/sitemap.xml",
+        policy: [{ userAgent: "*", allow: "/" }],
       },
     },
   ],
