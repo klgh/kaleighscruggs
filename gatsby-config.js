@@ -59,6 +59,9 @@ module.exports = {
           {
             family: `PT Sans`,
           },
+          {
+            family: `Over the Rainbow`,
+          },
         ],
       },
     },
