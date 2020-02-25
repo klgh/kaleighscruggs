@@ -27,6 +27,9 @@
 
   ul {
     list-style: none;
+    @include for-size(phone-only){
+      padding-left: 0px;
+    }
   }
 
   .postPreview {
@@ -72,6 +75,9 @@
   margin-top: 50px;
   display: flex;
   flex-direction: column;
+  @include for-size(phone-only){
+    margin-top: 0px;
+  }
 
   .blogPost {
     margin: 0 auto;

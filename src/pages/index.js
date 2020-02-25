@@ -14,20 +14,13 @@ const IndexPage = () => (
     <div class="container">
       <div class="row">
         <div class="col hpBio">
-          <h1 class="hpIntro">
-            Hi{" "}
-            <span role="img" aria-label="wave">
-              👋
-            </span>
-          </h1>
           <div class="bio">
+            <h1>Hey! 👋 I'm Kaleigh.</h1>
             <p>
-              Hey, I'm Kaleigh Scruggs. I'm one of those rare Atlanta natives.
-            </p>
-            <p>
-              Ever since I graduated from Georgia Southern University in 2012,
-              I've been working in tech. I later earned my Masters in Internet
-              Technology from The University of Georgia in 2014.{" "}
+              I'm one of those rare Atlanta natives. Ever since I graduated from
+              Georgia Southern University in 2012, I've been working in tech. I
+              later earned my Masters in Internet Technology from The University
+              of Georgia in 2014.{" "}
             </p>
             <p>
               When I'm not in front of the computer, I'm usually at the gym
@@ -49,49 +42,16 @@ const IndexPage = () => (
               River and hike with my husband and 2 dogs.
             </p>
           </div>
-          <div class="connect">
-            <p>
-              Connect with me! <br />
-              <div class="faIcons">
-                <a href="https://www.linkedin.com/in/kaleigh/">
-                  <FontAwesomeIcon
-                    title="kaleigh's linkedin"
-                    icon={["fab", "linkedin"]}
-                  />
-                </a>{" "}
-                <a href="https://github.com/klgh">
-                  <FontAwesomeIcon
-                    title="kaleigh's github"
-                    icon={["fab", "github"]}
-                  />
-                </a>{" "}
-                <a href="https://dev.to/kaleigh">
-                  <FontAwesomeIcon
-                    title="kaleigh's DEV Profile"
-                    icon={["fab", "dev"]}
-                  />
-                </a>{" "}
-                <a href="https://twitter.com/kaleighscruggs">
-                  <FontAwesomeIcon
-                    title="kaleigh's twitter"
-                    icon={["fab", "twitter"]}
-                  />
-                </a>{" "}
-                <a href="https://www.instagram.com/klgh.js/">
-                  <FontAwesomeIcon
-                    title="kaleigh's instagram"
-                    icon={["fab", "instagram"]}
-                  />
-                </a>{" "}
-              </div>
-            </p>
-          </div>
         </div>
         <div class="col hpImage">
           <Image />
+          {/* <img src="https://www.fillmurray.com/200/300" /> */}
         </div>
       </div>
     </div>
+    <div class="find-me"></div>
+    <div class="from-the-blog"></div>
+    <div class="work-together"></div>
   </PageLayout>
 )
 
