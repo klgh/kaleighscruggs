@@ -40,15 +40,28 @@ header {
     @include for-size(phone-only) {
       margin-right: 0px;
     }
+    @include for-size(tab-desk) {
+      margin-right: 5px;
+    }
 
     .faIcons {
       font-size: 18px;
+      @include for-size(phone-only) {
+        line-height: 1px;
+      }
     }
   }
 
   .navigation {
     flex-grow: 2;
     display: flex;
+    margin-left: 85px;
+    @include for-size(phone-only) {
+      margin-left: 20px;
+    }
+    @include for-size(tab-desk) {
+      margin-left: 0px;
+    }
 
     ul {
       display: flex;

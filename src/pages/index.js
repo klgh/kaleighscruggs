@@ -45,6 +45,7 @@ const IndexPage = () => (
         </div>
         <div class="col hpImage">
           <Image />
+          {/* <img src="https://www.fillmurray.com/200/300" /> */}
         </div>
       </div>
     </div>
