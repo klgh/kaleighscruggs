@@ -1,3 +1,99 @@
+.home-intro {
+  background: rgb(212, 161, 135);
+  background: -moz-linear-gradient(
+    90deg,
+    rgba(212, 161, 135, 0.45) 0%,
+    rgba(212, 161, 135, 0.45) 50%,
+    rgba(212, 161, 135, 0.45) 100%
+  );
+  background: -webkit-linear-gradient(
+    90deg,
+    rgba(212, 161, 135, 0.45) 0%,
+    rgba(212, 161, 135, 0.45) 50%,
+    rgba(212, 161, 135, 0.45) 100%
+  );
+  background: linear-gradient(
+    90deg,
+    rgba(212, 161, 135, 0.45) 0%,
+    rgba(212, 161, 135, 0.45) 50%,
+    rgba(212, 161, 135, 0.45) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d4a187",endColorstr="#d4a187",GradientType=1);
+}
+
+.home-main,
+.find-me,
+.blog-cards,
+.work-together {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.home-main {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
+  text-align: left;
+
+  .home-image {
+    padding-right: 50px;
+    img {
+      border: 15px solid white;
+    }
+  }
+  .home-text {
+    align-self: flex-end;
+    background-color: white;
+    border: 15px solid white;
+  }
+}
+
+.find-me {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  .box-2 {
+    margin-right: 30px;
+    margin-left: 30px;
+  }
+  .find-me-box {
+    background-color: $mainColor;
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+
+    .text-box {
+      background-color: white;
+      border: 15px solid white;
+      margin-top: 60px;
+      margin-left: 30%;
+      width: max-content;
+    }
+  }
+}
+
+.from-the-blog {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
+  text-align: center;
+
+  .blog-cards {
+    .card {
+      margin-right: 30px;
+      margin-left: 30px;
+    }
+  }
+}
+
+.work-together {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
+  text-align: center;
+}
+
+/* 
 .hpBio {
   @extend %linkStyle;
   @include for-size(phone-only) {
@@ -13,8 +109,6 @@
   .bio {
     font-size: 16px;
   }
-
-  
 }
 
 .hpImage {
@@ -27,3 +121,4 @@
     }
   }
 }
+ */
