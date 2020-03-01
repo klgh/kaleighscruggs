@@ -35,7 +35,7 @@
     "gatsby-source-filesystem": "^2.1.48",
     "gatsby-source-wordpress": "^3.1.63",
     "gatsby-transformer-remark": "^2.6.53",
-    "gatsby-transformer-sharp": "^2.3.14",
+    "gatsby-transformer-sharp": "^2.3.16",
     "node-sass": "^4.13.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
