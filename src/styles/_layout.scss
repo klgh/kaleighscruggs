@@ -36,7 +36,7 @@ header {
 
   .connect {
     flex-grow: 1;
-    margin-right: 80px;
+    margin-right: 20%;
     @include for-size(phone-only) {
       margin-right: 0px;
     }

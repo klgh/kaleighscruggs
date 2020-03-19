@@ -82,6 +82,24 @@
     .card {
       margin-right: 30px;
       margin-left: 30px;
+      .postPreview {
+        padding: 10px 10px;
+        .postTitle {
+          margin-bottom: 5px;
+        }
+        .postDate {
+          margin-bottom: 5px;
+        }
+        .postDescription {
+          width: 300px;
+          p {
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+          }
+        }
+      }
     }
   }
 }
