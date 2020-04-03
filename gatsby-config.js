@@ -36,7 +36,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `kaleigh scruggs`,
-        short_name: `klgh.js`,
+        short_name: `kaleighcodes`,
         start_url: `/`,
         background_color: `white`,
         theme_color: `#bd8e83`,
