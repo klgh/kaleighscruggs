@@ -82,7 +82,7 @@ module.exports = {
         verboseOutput: process.env.WORDPRESS_VERBOSE_OUTPUT === "true",
         perPage: 100,
         searchAndReplaceContentUrls: {
-          sourceUrl: "https://kaleighblogs.com",
+          sourceUrl: "https://blog.kaleighscruggs.com",
           replacementUrl: "https://localhost:8000",
         },
         auth: {
