@@ -22,8 +22,9 @@ const IndexPage = ({ data }) => (
           <p>
             I'm one of those rare Atlanta natives. Ever since I graduated from
             Georgia Southern University in 2012, I've been working in tech. I
-            later earned my Masters in Internet Technology from The University of Georgia in 2014.
-        </p>
+            later earned my Masters in Internet Technology from The University
+            of Georgia in 2014.
+          </p>
         </div>
       </div>
     </div>
@@ -49,11 +50,14 @@ const IndexPage = ({ data }) => (
     <div className="from-the-blog">
       <h3>from the blog</h3>
       <div className="blog-cards">
-
         {data.allWordpressPost.edges.map(blog => (
           <div className="card">
             <Link to={`/blog/${blog.node.slug}`}>
               <div className="postPreview">
+                <img
+                  src={`${blog.node.featured_media.source_url}`}
+                  className="blog-card-img"
+                />
                 <h4
                   className="postTitle"
                   dangerouslySetInnerHTML={{ __html: blog.node.title }}
@@ -89,6 +93,9 @@ export const query = graphql`
           date(formatString: "MMMM DD, YYYY")
           categories {
             name
+          }
+          featured_media {
+            source_url
           }
         }
       }
