@@ -1,23 +1,23 @@
 body {
   margin: 0px;
-  font-family: "PT Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
   background-color: white;
 }
 
 .ks-logo-name {
-  font-family: "Over the Rainbow";
+  font-family: "Montserrat", sans-serif;
   font-size: 40px;
   @include for-size(phone-only) {
     font-size: 30px;
   }
 }
 
- .mainBody {
+.mainBody {
   margin: 0 auto;
   max-width: 960px;
   padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
   text-align: left;
-} 
+}
 
 header {
   @extend %linkStyle;

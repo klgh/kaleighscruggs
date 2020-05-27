@@ -41,7 +41,7 @@ module.exports = {
         background_color: `white`,
         theme_color: `#bd8e83`,
         display: `minimal-ui`,
-        icon: `src/images/favicon.png`,
+        icon: `src/images/favicon.ico`,
         image: `src/images/photo.jpg`,
       },
     },
@@ -61,6 +61,12 @@ module.exports = {
           },
           {
             family: `Over the Rainbow`,
+          },
+          {
+            family: `Montserrat`,
+          },
+          {
+            family: `Raleway`,
           },
         ],
       },
