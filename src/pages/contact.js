@@ -4,17 +4,22 @@ import PageLayout from "../components/page-layout"
 
 const ContactPage = () => (
     <PageLayout>
-        <div className="home-intro">
+        <div className="contact-form">
+            <div>
+                <p>
+                    What's up? Like something you see? Do I have a weird typo? Let me know!
+                </p>
+            </div>
             <form name="contact" method="POST" data-netlify="true" action="/success">
                 <p>
-                    <label>Your Name: <input type="text" name="name" required/></label>
+                    <input type="text" name="name" required placeholder="Your Name" />
                 </p>
                 <p>
-                    <label>Your Email: <input type="email" name="email" required/></label>
+                    <input type="email" name="email" required placeholder="Your Email" />
                 </p>
-                
+
                 <p>
-                    <label>Message: <textarea name="message" required></textarea></label>
+                    <textarea name="message" required placeholder="Your Message" style={{ marginLeft: '4px' }}></textarea>
                 </p>
                 <p>
                     <button type="submit">Send</button>

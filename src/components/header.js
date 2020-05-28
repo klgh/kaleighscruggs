@@ -62,7 +62,7 @@ const Header = ({ siteTitle }) => (
         </li>
         <li>
           <Link to="/" className="ks-logo-name">
-            Kaleigh Scruggs
+            {siteTitle}
           </Link>
         </li>
 
@@ -77,7 +77,7 @@ const Header = ({ siteTitle }) => (
         </li>
         <li>
           <Link
-            to="/"
+            to="/contact"
             className="linkItem contact"
             activeClassName="linkItemActive"
           >
