@@ -35,23 +35,21 @@ const CategoryTemplate = ({ data }) => (
 export default CategoryTemplate
 
 export const query = graphql`
-         query($id: Int!) {
-           wordpressCategory(wordpress_id: { eq: $id }) {
-             name
-           }
-           allWordpressPost(
-             filter: {
-               categories: { elemMatch: { wordpress_id: { eq: $id } } }
-             }
-           ) {
-             edges {
-               node {
-                 title
-                 excerpt
-                 slug
-                 date(formatString: "MMMM DD, YYYY")
-               }
-             }
-           }
-         }
-       `
+  query($id: Int!) {
+    wordpressCategory(wordpress_id: { eq: $id }) {
+      name
+    }
+    allWordpressPost(
+      filter: { categories: { elemMatch: { wordpress_id: { eq: $id } } } }
+    ) {
+      edges {
+        node {
+          title
+          excerpt
+          slug
+          date(formatString: "MMMM DD, YYYY")
+        }
+      }
+    }
+  }
+`

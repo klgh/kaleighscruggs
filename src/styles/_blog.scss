@@ -27,7 +27,7 @@
 
   ul {
     list-style: none;
-    @include for-size(phone-only){
+    @include for-size(phone-only) {
       padding-left: 0px;
     }
   }
@@ -75,7 +75,7 @@
   margin-top: 50px;
   display: flex;
   flex-direction: column;
-  @include for-size(phone-only){
+  @include for-size(phone-only) {
     margin-top: 0px;
   }
 

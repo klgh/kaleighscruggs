@@ -4,13 +4,20 @@ import React from "react"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { library } from "@fortawesome/fontawesome-svg-core"
 import { fab } from "@fortawesome/free-brands-svg-icons"
+import kslogo from "../images/kslogo.svg"
 
 library.add(fab)
 
 const Header = ({ siteTitle }) => (
   <header>
+    <div>
+      <img src={kslogo} alt="kaleigh scruggs" style={{ width: "88px" }} />
+      <Link to="/" className="ks-logo-name">
+        {siteTitle}
+      </Link>
+    </div>
     <div className="connect">
-      <div class="faIcons">
+      <div className="faIcons">
         <a href="https://www.linkedin.com/in/kaleigh/">
           <FontAwesomeIcon
             title="kaleigh's linkedin"
@@ -60,12 +67,6 @@ const Header = ({ siteTitle }) => (
             now
           </Link>
         </li>
-        <li>
-          <Link to="/" className="ks-logo-name">
-            {siteTitle}
-          </Link>
-        </li>
-
         <li>
           <Link
             to="/blog"
