@@ -10,43 +10,13 @@ library.add(fab)
 
 const Header = ({ siteTitle }) => (
   <header>
-    <div>
-      <img src={kslogo} alt="kaleigh scruggs" style={{ width: "88px" }} />
-      <Link to="/" className="ks-logo-name">
+    <div className="site-logo">
+      <img src={kslogo} alt="kaleigh scruggs" className="ks-logo" />
+      <Link to="/" className="ks-name">
         {siteTitle}
       </Link>
     </div>
-    <div className="connect">
-      <div className="faIcons">
-        <a href="https://www.linkedin.com/in/kaleigh/">
-          <FontAwesomeIcon
-            title="kaleigh's linkedin"
-            icon={["fab", "linkedin"]}
-          />
-        </a>{" "}
-        <a href="https://github.com/klgh">
-          <FontAwesomeIcon title="kaleigh's github" icon={["fab", "github"]} />
-        </a>{" "}
-        <a href="https://dev.to/kaleigh">
-          <FontAwesomeIcon
-            title="kaleigh's DEV Profile"
-            icon={["fab", "dev"]}
-          />
-        </a>{" "}
-        <a href="https://twitter.com/kaleighscruggs">
-          <FontAwesomeIcon
-            title="kaleigh's twitter"
-            icon={["fab", "twitter"]}
-          />
-        </a>{" "}
-        <a href="https://www.instagram.com/kaleighcodes/">
-          <FontAwesomeIcon
-            title="kaleigh's instagram"
-            icon={["fab", "instagram"]}
-          />
-        </a>{" "}
-      </div>
-    </div>
+
     <div className="navigation">
       <ul>
         <li>
@@ -87,7 +57,37 @@ const Header = ({ siteTitle }) => (
         </li>
       </ul>
     </div>
-    {/* social icons */}
+    <div className="connect">
+      <div className="faIcons">
+        <a href="https://www.linkedin.com/in/kaleigh/">
+          <FontAwesomeIcon
+            title="kaleigh's linkedin"
+            icon={["fab", "linkedin"]}
+          />
+        </a>{" "}
+        <a href="https://github.com/klgh">
+          <FontAwesomeIcon title="kaleigh's github" icon={["fab", "github"]} />
+        </a>{" "}
+        <a href="https://dev.to/kaleigh">
+          <FontAwesomeIcon
+            title="kaleigh's DEV Profile"
+            icon={["fab", "dev"]}
+          />
+        </a>{" "}
+        <a href="https://twitter.com/kaleighscruggs">
+          <FontAwesomeIcon
+            title="kaleigh's twitter"
+            icon={["fab", "twitter"]}
+          />
+        </a>{" "}
+        <a href="https://www.instagram.com/kaleighcodes/">
+          <FontAwesomeIcon
+            title="kaleigh's instagram"
+            icon={["fab", "instagram"]}
+          />
+        </a>{" "}
+      </div>
+    </div>
   </header>
 )
 

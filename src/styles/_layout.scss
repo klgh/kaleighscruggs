@@ -4,21 +4,6 @@ body {
   background-color: white;
 }
 
-.ks-logo-name {
-  font-family: "Montserrat", sans-serif;
-  font-size: 40px;
-  @include for-size(phone-only) {
-    font-size: 30px;
-  }
-}
-
-.mainBody {
-  margin: 0 auto;
-  max-width: 960px;
-  padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
-  text-align: left;
-}
-
 header {
   @extend %linkStyle;
   display: flex;
@@ -32,6 +17,25 @@ header {
   @include for-size(phone-only) {
     flex-direction: column-reverse;
     align-items: center;
+  }
+
+  .site-logo {
+    display: flex;
+    flex: auto;
+
+    .ks-logo {
+      width: 50px;
+      margin-bottom: 20px;
+      margin-right: 10px;
+    }
+
+    .ks-name {
+      font-family: "Montserrat", sans-serif;
+      font-size: 40px;
+      @include for-size(phone-only) {
+        font-size: 30px;
+      }
+    }
   }
 
   .connect {
@@ -87,6 +91,13 @@ header {
       }
     }
   }
+}
+
+.mainBody {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
+  text-align: left;
 }
 
 .footer {
