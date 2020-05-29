@@ -36,10 +36,18 @@
   padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
   text-align: left;
 
+  @include for-size(phone-only) {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
   .home-image {
     padding-right: 50px;
     img {
       border: 15px solid white;
+      @include for-size(phone-only) {
+        width: 300px;
+      }
     }
   }
   .home-text {
@@ -52,9 +60,17 @@
 .find-me {
   margin-top: 30px;
   margin-bottom: 30px;
+
+  @include for-size(phone-only) {
+    display: flex;
+    flex-direction: column;
+  }
   .box-2 {
     margin-right: 30px;
     margin-left: 30px;
+    @include for-size(phone-only) {
+      margin-left: 0px;
+    }
   }
   .find-me-box {
     background-color: $mainColor;
@@ -63,12 +79,27 @@
     padding: 40px;
     text-transform: capitalize;
 
+    @include for-size(phone-only) {
+      width: 340px;
+      height: 100px;
+      padding: 0px;
+      margin-bottom: 12px;
+    }
+
     .text-box {
       background-color: white;
       border: 15px solid white;
       margin-top: 80px;
       text-align: center;
       @extend %linkStyle;
+
+      @include for-size(phone-only) {
+        border: 0px solid white;
+        margin-top: 35px;
+        margin-bottom: 26px;
+        width: 50%;
+        margin-left: 86px;
+      }
 
       p {
         margin-bottom: 0px;
@@ -89,6 +120,11 @@
       margin-left: 30px;
       border-color: white;
       @extend %linkStyle;
+
+      @include for-size(phone-only) {
+        display: flex;
+        flex-direction: column;
+      }
       .postPreview {
         padding: 10px 10px;
 
@@ -157,6 +193,9 @@
 
 .contact-form {
   display: flex;
+  @include for-size(phone-only) {
+    flex-direction: column;
+  }
   h1 {
     color: $subColor;
   }
