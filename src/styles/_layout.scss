@@ -8,25 +8,49 @@ header {
   @extend %linkStyle;
   display: flex;
   align-items: stretch;
-  > div {
-    margin: 10px;
-    text-align: center;
-    line-height: 75px;
-  }
 
   @include for-size(phone-only) {
-    flex-direction: column-reverse;
+    flex-direction: column;
     align-items: center;
+  }
+
+  > div {
+    margin: 10px;
+    line-height: 75px;
+    @include for-size(phone-only) {
+      margin: 0px;
+      height: 30px;
+      line-height: 60px;
+    }
   }
 
   .site-logo {
     display: flex;
     flex: auto;
+    flex: 2;
+    padding-left: 80px;
+
+    @include for-size(phone-only) {
+      padding-left: 0px;
+    }
+
+    @include for-size(tablet-only) {
+      padding-left: 0px;
+      line-height: 38px;
+    }
+
+    @include for-size(small-desk) {
+      padding-left: 0px;
+    }
 
     .ks-logo {
       width: 50px;
       margin-bottom: 20px;
       margin-right: 10px;
+      @include for-size(phone-only) {
+        margin-top: 2px;
+        margin-bottom: 0px;
+      }
     }
 
     .ks-name {
@@ -38,26 +62,10 @@ header {
     }
   }
 
-  .connect {
-    flex-grow: 1;
-    @include for-size(phone-only) {
-      margin-right: 0px;
-    }
-    @include for-size(tab-desk) {
-      margin-right: 5px;
-    }
-
-    .faIcons {
-      font-size: 18px;
-      @include for-size(phone-only) {
-        line-height: 1px;
-      }
-    }
-  }
-
   .navigation {
     flex-grow: 1.5;
     display: flex;
+    // flex: 4;
     @include for-size(phone-only) {
       margin-left: 20px;
     }
@@ -69,10 +77,11 @@ header {
       display: flex;
       flex-direction: row;
       list-style: none;
-      padding-left: 2px;
+      padding-left: 0px;
+
       @include for-size(phone-only) {
         align-items: center;
-        margin-top: 15px;
+        margin-top: 0px;
       }
 
       li {
@@ -88,6 +97,28 @@ header {
       }
       .linkItemActive {
         color: $subColor;
+      }
+    }
+  }
+
+  .connect {
+    flex-grow: 1;
+    flex: 1;
+
+    @include for-size(phone-only) {
+      margin-right: 0px;
+    }
+    @include for-size(tab-desk) {
+      margin-right: 5px;
+    }
+    @include for-size(tablet-only) {
+      flex-basis: max-content;
+    }
+
+    .faIcons {
+      font-size: 18px;
+      @include for-size(phone-only) {
+        line-height: 1px;
       }
     }
   }

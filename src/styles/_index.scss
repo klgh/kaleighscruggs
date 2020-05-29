@@ -156,8 +156,17 @@
  */
 
 .contact-form {
-  text-align: center;
+  display: flex;
+  h1 {
+    color: $subColor;
+  }
   margin-left: 4px;
+  .content-left {
+    width: 50%;
+  }
+  .content-right {
+    margin-top: 50px;
+  }
 }
 
 .success-form {
