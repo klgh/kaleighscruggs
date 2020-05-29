@@ -1,24 +1,5 @@
 .home-intro {
-  background: rgb(212, 161, 135);
-  background: -moz-linear-gradient(
-    90deg,
-    rgba(212, 161, 135, 0.45) 0%,
-    rgba(212, 161, 135, 0.45) 50%,
-    rgba(212, 161, 135, 0.45) 100%
-  );
-  background: -webkit-linear-gradient(
-    90deg,
-    rgba(212, 161, 135, 0.45) 0%,
-    rgba(212, 161, 135, 0.45) 50%,
-    rgba(212, 161, 135, 0.45) 100%
-  );
-  background: linear-gradient(
-    90deg,
-    rgba(212, 161, 135, 0.45) 0%,
-    rgba(212, 161, 135, 0.45) 50%,
-    rgba(212, 161, 135, 0.45) 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d4a187",endColorstr="#d4a187",GradientType=1);
+  background: $subColor2;
 }
 
 .home-main,

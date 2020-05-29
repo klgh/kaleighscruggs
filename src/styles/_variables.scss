@@ -1,11 +1,16 @@
-$mainColor: #9a6b60;
-$subColor: #ac625f;
-$subColor2: #b8897e;
+$mainColor: #f2a7c3;
+$subColor: #f29199;
+$subColor2: #f2dedc;
+$subColor3: #f26052;
 
-$linkColor: #ac8e60;
+$linkColor: #f26a4b;
 
-$My-Color-Theme-1-hexda: #c9a381;
-$My-Color-Theme-2-hex: #d4a187;
+/* Color Theme Swatches in Hex */
+//$New-KS-Theme-1-hex: #f29199;
+//$New-KS-Theme-2-hex: #f2a7c3;
+//$New-KS-Theme-3-hex: #f26a4b;
+$New-KS-Theme-4-hex: #f26052;
+//$New-KS-Theme-5-hex: #f2dedc;
 
 /* Media Queries */
 @mixin for-size($size) {
@@ -46,6 +51,6 @@ $My-Color-Theme-2-hex: #d4a187;
     text-decoration: none;
   }
   a:hover {
-    color: $subColor2;
+    color: $linkColor;
   }
 }
