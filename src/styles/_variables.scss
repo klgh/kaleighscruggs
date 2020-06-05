@@ -2,15 +2,7 @@ $mainColor: #f2a7c3;
 $subColor: #f29199;
 $subColor2: #f2dedc;
 $subColor3: #f26052;
-
-$linkColor: #f26a4b;
-
-/* Color Theme Swatches in Hex */
-//$New-KS-Theme-1-hex: #f29199;
-//$New-KS-Theme-2-hex: #f2a7c3;
-//$New-KS-Theme-3-hex: #f26a4b;
-$New-KS-Theme-4-hex: #f26052;
-//$New-KS-Theme-5-hex: #f2dedc;
+$subColor4: #f26a4b;
 
 /* Media Queries */
 @mixin for-size($size) {
@@ -51,6 +43,6 @@ $New-KS-Theme-4-hex: #f26052;
     text-decoration: none;
   }
   a:hover {
-    color: $linkColor;
+    color: $subColor4;
   }
 }

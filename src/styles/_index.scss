@@ -16,6 +16,7 @@
   max-width: 960px;
   padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
   text-align: left;
+  height: 400px;
 
   @include for-size(phone-only) {
     display: flex;
@@ -23,7 +24,10 @@
   }
 
   .home-image {
-    padding-right: 50px;
+    padding-right: 300px;
+    background-image: url(../images/photo.jpg);
+    background-size: cover;
+    margin-right: 20px;
     img {
       border: 15px solid white;
       @include for-size(phone-only) {
@@ -31,6 +35,16 @@
       }
     }
   }
+  /*   .hpImage {
+    .gatsby-image-wrapper {
+      @include for-size(phone-only) {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+    }
+  } */
   .home-text {
     align-self: flex-end;
     background-color: white;
@@ -54,7 +68,7 @@
     }
   }
   .find-me-box {
-    background-color: $mainColor;
+    background-color: $subColor2;
     width: 400px;
     height: 300px;
     padding: 40px;
@@ -86,6 +100,19 @@
         margin-bottom: 0px;
       }
     }
+  }
+
+  .box-1 {
+    background-image: url(../images/laptop.jpg);
+    background-size: cover;
+  }
+  .box-2 {
+    background-image: url(../images/kelundra.png);
+    background-size: cover;
+  }
+  .box-3 {
+    background-image: url(../images/grandcanyon.jpg);
+    background-size: cover;
   }
 }
 
@@ -141,36 +168,6 @@
   padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
   text-align: center;
 }
-
-/* 
-.hpBio {
-  @extend %linkStyle;
-  @include for-size(phone-only) {
-    flex-basis: auto;
-  }
-
-  .hpIntro {
-    font-size: 40px;
-    @include for-size(phone-only) {
-      text-align: center;
-    }
-  }
-  .bio {
-    font-size: 16px;
-  }
-}
-
-.hpImage {
-  .gatsby-image-wrapper {
-    @include for-size(phone-only) {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      width: 50%;
-    }
-  }
-}
- */
 
 .contact-form {
   display: flex;

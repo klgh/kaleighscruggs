@@ -56,6 +56,7 @@ header {
     .ks-name {
       font-family: "Montserrat", sans-serif;
       font-size: 40px;
+      color: $subColor3;
       @include for-size(phone-only) {
         font-size: 30px;
       }
@@ -92,11 +93,14 @@ header {
         }
       }
       .linkItem {
-        color: $mainColor;
+        color: $subColor4;
         text-decoration: none;
       }
+      .linkItem:hover {
+        color: $mainColor;
+      }
       .linkItemActive {
-        color: $subColor;
+        color: $mainColor;
       }
     }
   }

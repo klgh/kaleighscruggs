@@ -97,7 +97,7 @@
 
       em {
         font-size: 16px;
-        color: $subColor2;
+        color: $subColor;
       }
     }
 
@@ -129,7 +129,7 @@
     .back-to-blog {
       display: flex;
       font-size: 14px;
-      color: $linkColor;
+      color: $subColor4;
       text-decoration: none;
       @extend %linkStyle;
     }

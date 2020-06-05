@@ -12,9 +12,7 @@ const IndexPage = ({ data }) => (
     <SEO title="Kaleigh Scruggs | web developer, comedian, human" />
     <div className="home-intro">
       <div className="home-main">
-        <div className="home-image">
-          <img src="https://www.placecage.com/400/400" />
-        </div>
+        <div className="home-image"></div>
         <div className="home-text">
           <h3>Hey! 👋 I'm Kaleigh</h3>
           <p>
