@@ -1,61 +1,72 @@
 body {
   margin: 0px;
-  font-family: "PT Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
   background-color: white;
-}
-
-.ks-logo-name {
-  font-family: "Over the Rainbow";
-  font-size: 40px;
-  @include for-size(phone-only) {
-    font-size: 30px;
-  }
-}
-
-.mainBody {
-  margin: 0 auto;
-  max-width: 960px;
-  padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
-  text-align: left;
 }
 
 header {
   @extend %linkStyle;
   display: flex;
   align-items: stretch;
-  > div {
-    margin: 10px;
-    text-align: center;
-    line-height: 75px;
-  }
 
   @include for-size(phone-only) {
-    flex-direction: column-reverse;
+    flex-direction: column;
     align-items: center;
   }
 
-  .connect {
-    flex-grow: 1;
-    margin-right: 80px;
+  > div {
+    margin: 10px;
+    line-height: 75px;
     @include for-size(phone-only) {
-      margin-right: 0px;
+      margin: 0px;
+      height: 30px;
+      line-height: 60px;
     }
-    @include for-size(tab-desk) {
-      margin-right: 5px;
+  }
+
+  .site-logo {
+    display: flex;
+    flex: auto;
+    flex: 2;
+    padding-left: 80px;
+
+    @include for-size(phone-only) {
+      padding-left: 0px;
     }
 
-    .faIcons {
-      font-size: 18px;
+    @include for-size(tablet-only) {
+      padding-left: 0px;
+      line-height: 38px;
+    }
+
+    @include for-size(small-desk) {
+      padding-left: 0px;
+    }
+
+    .ks-logo {
+      width: 50px;
+      margin-bottom: 20px;
+      margin-right: 10px;
       @include for-size(phone-only) {
-        line-height: 1px;
+        margin-top: 2px;
+        margin-bottom: 0px;
+      }
+    }
+
+    .ks-name {
+      font-family: "Montserrat", sans-serif;
+      font-size: 40px;
+      color: $subColor3;
+      @include for-size(phone-only) {
+        font-size: 30px;
       }
     }
   }
 
   .navigation {
-    flex-grow: 2;
+    flex-grow: 1.5;
     display: flex;
-    margin-left: 85px;
+    // flex: 4;
     @include for-size(phone-only) {
       margin-left: 20px;
     }
@@ -67,10 +78,11 @@ header {
       display: flex;
       flex-direction: row;
       list-style: none;
-      padding-left: 2px;
+      padding-left: 0px;
+
       @include for-size(phone-only) {
         align-items: center;
-        margin-top: 15px;
+        margin-top: 0px;
       }
 
       li {
@@ -81,14 +93,46 @@ header {
         }
       }
       .linkItem {
-        color: $mainColor;
+        color: $subColor4;
         text-decoration: none;
       }
+      .linkItem:hover {
+        color: $mainColor;
+      }
       .linkItemActive {
-        color: $subColor;
+        color: $mainColor;
       }
     }
   }
+
+  .connect {
+    flex-grow: 1;
+    flex: 1;
+
+    @include for-size(phone-only) {
+      margin-right: 0px;
+    }
+    @include for-size(tab-desk) {
+      margin-right: 5px;
+    }
+    @include for-size(tablet-only) {
+      flex-basis: max-content;
+    }
+
+    .faIcons {
+      font-size: 18px;
+      @include for-size(phone-only) {
+        line-height: 1px;
+      }
+    }
+  }
+}
+
+.mainBody {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
+  text-align: left;
 }
 
 .footer {

@@ -8,6 +8,7 @@ module.exports = {
     twitterUsername: "kaleighscruggs",
     siteUrl: "https://kaleighscruggs.com",
     image: "/images/photo.jpg",
+    logo: "/images/kslogo.png",
   },
   plugins: [
     `gatsby-plugin-catch-links`,
@@ -41,7 +42,6 @@ module.exports = {
         background_color: `white`,
         theme_color: `#bd8e83`,
         display: `minimal-ui`,
-        icon: `src/images/favicon.png`,
         image: `src/images/photo.jpg`,
       },
     },
@@ -61,6 +61,12 @@ module.exports = {
           },
           {
             family: `Over the Rainbow`,
+          },
+          {
+            family: `Montserrat`,
+          },
+          {
+            family: `Raleway`,
           },
         ],
       },
@@ -103,7 +109,7 @@ module.exports = {
         excludedRoutes: [],
         keepMediaSizes: false,
         // use a custom normalizer which is applied after the built-in ones.
-        normalizer: function({ entities }) {
+        normalizer: function ({ entities }) {
           return entities
         },
       },
@@ -168,6 +174,12 @@ module.exports = {
             link: "https://feeds.feedburner.com/KaleighScruggs",
           },
         ],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-favicon`,
+      options: {
+        logo: "./src/images/favicon.png",
       },
     },
   ],

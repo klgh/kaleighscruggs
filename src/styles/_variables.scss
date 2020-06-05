@@ -1,11 +1,8 @@
-$mainColor: #bd8e83;
-$subColor: #d48a87;
-$subColor2: #c9819c;
-
-$linkColor: #ac8e60;
-
-$My-Color-Theme-1-hexda: #c9a381;
-$My-Color-Theme-2-hex: #d4a187;
+$mainColor: #f2a7c3;
+$subColor: #f29199;
+$subColor2: #f2dedc;
+$subColor3: #f26052;
+$subColor4: #f26a4b;
 
 /* Media Queries */
 @mixin for-size($size) {
@@ -46,6 +43,6 @@ $My-Color-Theme-2-hex: #d4a187;
     text-decoration: none;
   }
   a:hover {
-    color: $linkColor;
+    color: $subColor4;
   }
 }

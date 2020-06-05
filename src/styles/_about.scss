@@ -5,12 +5,19 @@
   h3 {
     color: $subColor;
   }
-  
+
   a:link,
   a:visited,
   a:active,
   a:hover {
     color: $mainColor;
     text-decoration: none;
+  }
+}
+
+.now,
+.uses {
+  h2 {
+    font-size: 40px;
   }
 }
