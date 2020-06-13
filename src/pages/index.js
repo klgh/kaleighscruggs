@@ -16,10 +16,28 @@ const IndexPage = ({ data }) => (
         <div className="home-text">
           <h3>Hey! 👋 I'm Kaleigh</h3>
           <p>
-            I'm one of those rare Atlanta natives. Ever since I graduated from
-            Georgia Southern University in 2012, I've been working in tech. I
-            later earned my Masters in Internet Technology from The University
-            of Georgia in 2014.
+            I'm a front-end web developer with over 10 years of experience
+            creating and styling websites. My most recent role was with North
+            Highland working as a senior web developer within the Technology
+            Capability{" "}
+            <span className="currently-looking">
+              (I'm currently looking for a new role){" "}
+            </span>
+            . I worked on a variety of projects with clients using their content
+            management systems (WordPress, Drupal, Netlify CMS) to implement new
+            designs and features. I have also worked on web apps using Angular,
+            React, and Gatsby. I've acted as both a developer and lead developer
+            on client-facing projects and am very comfortable in those roles.{" "}
+          </p>
+          <p>
+            I have a passion for diversity and inclusion and at both North
+            Highland and State Farm helped establish Women In Technology
+            employee groups. These groups offered networking, awareness, and
+            events for employees as well as activities for younger (school-aged)
+            girls to learn more about careers in STEM. I am also a founding
+            member of Tech Ladies and involved with Women Who Code Atlanta as a
+            host for the Gwinnett meetups and the Women Who Code Front End track
+            as an evangelist and volunteer.
           </p>
         </div>
       </div>

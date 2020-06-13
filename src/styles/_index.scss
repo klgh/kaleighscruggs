@@ -16,7 +16,7 @@
   max-width: 960px;
   padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
   text-align: left;
-  height: 400px;
+  height: 600px;
 
   @include for-size(phone-only) {
     display: flex;
@@ -28,6 +28,7 @@
     background-image: url(../images/photo.jpg);
     background-size: cover;
     margin-right: 20px;
+    background-position: center;
     img {
       border: 15px solid white;
       @include for-size(phone-only) {
@@ -46,9 +47,12 @@
     }
   } */
   .home-text {
-    align-self: flex-end;
+    align-self: flex-start;
     background-color: white;
     border: 15px solid white;
+    .currently-looking {
+      color: $subColor3;
+    }
   }
 }
 
@@ -121,6 +125,20 @@
   max-width: 960px;
   padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
   text-align: center;
+
+  .from-the-blog-link {
+    color: $mainColor;
+    text-decoration: none;
+    a:link,
+    a:visited,
+    a:active {
+      color: $mainColor;
+      text-decoration: none;
+    }
+    a:hover {
+      color: $subColor4;
+    }
+  }
 
   .blog-cards {
     .card {
