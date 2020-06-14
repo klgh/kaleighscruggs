@@ -10,16 +10,16 @@
   a:visited,
   a:active,
   a:hover {
-    color: $mainColor;
+    color: $color1;
     text-decoration: none;
   }
 
   h1 {
-    color: $subColor;
+    color: $color2;
     // text-align: center;
   }
   h4 {
-    color: $subColor;
+    color: $color2;
     //text-align: center;
     margin-bottom: 50px;
     font-size: 14px;
@@ -38,7 +38,7 @@
     display: flex;
     margin-bottom: 50px;
     flex-direction: column;
-    border-bottom: 1px solid $mainColor;
+    border-bottom: 1px solid $color1;
 
     .postTitle,
     .catTitle {
@@ -48,7 +48,7 @@
 
     .postDate,
     .catDate {
-      color: $subColor;
+      color: $color2;
       margin: 5px 0px 10px;
       font-size: 16px;
     }
@@ -91,13 +91,13 @@
     .blogTitle {
       h1 {
         font-size: 38px;
-        color: $mainColor;
+        color: $color1;
         margin-top: 20px;
       }
 
       em {
         font-size: 16px;
-        color: $subColor;
+        color: $color2;
       }
     }
 
@@ -113,7 +113,7 @@
       h2,
       h3,
       h4 {
-        color: $subColor;
+        color: $color2;
       }
 
       img {
@@ -129,7 +129,7 @@
     .back-to-blog {
       display: flex;
       font-size: 14px;
-      color: $subColor4;
+      color: $color5;
       text-decoration: none;
       @extend %linkStyle;
     }

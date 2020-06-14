@@ -56,7 +56,7 @@ header {
     .ks-name {
       font-family: "Montserrat", sans-serif;
       font-size: 40px;
-      color: $subColor3;
+      color: $color4;
       @include for-size(phone-only) {
         font-size: 30px;
       }
@@ -93,14 +93,14 @@ header {
         }
       }
       .linkItem {
-        color: $subColor4;
+        color: $color4;
         text-decoration: none;
       }
       .linkItem:hover {
-        color: $mainColor;
+        color: $color5;
       }
       .linkItemActive {
-        color: $mainColor;
+        color: $color5;
       }
     }
   }
@@ -142,13 +142,13 @@ header {
     text-align: center;
     max-width: 960px;
     margin: 0 auto;
-    color: $mainColor;
+    color: $color1;
   }
 }
 
 .fourohfourpage {
   a {
-    color: $mainColor;
+    color: $color1;
     text-decoration: none;
   }
   text-align: center;

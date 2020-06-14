@@ -1,5 +1,10 @@
 .home-intro {
-  background: $subColor2;
+  background: $color2;
+
+  @include for-size(phone-only) {
+    height: 622px;
+    padding-top: 50px;
+  }
 }
 
 .home-main,
@@ -35,6 +40,8 @@
         width: 300px;
       }
     }
+    @include for-size(phone-only) {
+    }
   }
   /*   .hpImage {
     .gatsby-image-wrapper {
@@ -51,7 +58,12 @@
     background-color: white;
     border: 15px solid white;
     .currently-looking {
-      color: $subColor3;
+      color: $color4;
+    }
+    @include for-size(phone-only) {
+      p {
+        font-size: 14px;
+      }
     }
   }
 }
@@ -63,6 +75,7 @@
   @include for-size(phone-only) {
     display: flex;
     flex-direction: column;
+    margin-left: 30px;
   }
   .box-2 {
     margin-right: 30px;
@@ -72,7 +85,7 @@
     }
   }
   .find-me-box {
-    background-color: $subColor2;
+    background-color: $color2;
     width: 400px;
     height: 300px;
     padding: 40px;
@@ -125,22 +138,26 @@
   max-width: 960px;
   padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
   text-align: center;
+  background: $color3;
 
   .from-the-blog-link {
-    color: $mainColor;
+    color: $color4;
     text-decoration: none;
     a:link,
     a:visited,
     a:active {
-      color: $mainColor;
+      color: $color4;
       text-decoration: none;
     }
     a:hover {
-      color: $subColor4;
+      color: $color4;
     }
   }
 
   .blog-cards {
+    @include for-size(phone-only) {
+      flex-direction: column;
+    }
     .card {
       margin-right: 30px;
       margin-left: 30px;
@@ -148,8 +165,7 @@
       @extend %linkStyle;
 
       @include for-size(phone-only) {
-        display: flex;
-        flex-direction: column;
+        margin-bottom: 10px;
       }
       .postPreview {
         padding: 10px 10px;
@@ -193,7 +209,7 @@
     flex-direction: column;
   }
   h1 {
-    color: $subColor;
+    color: $color2;
   }
   margin-left: 4px;
   .content-left {
@@ -208,5 +224,20 @@
   text-align: center;
   img {
     width: 40%;
+  }
+}
+
+.resume {
+  text-align: center;
+  .resumeinfo {
+    @extend %linkStyle;
+  }
+  .resumepage {
+    background-image: url(../images/KaleighScruggs_WebRes.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 80px;
+    height: 1000px;
+    width: 1545px;
   }
 }

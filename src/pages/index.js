@@ -20,9 +20,10 @@ const IndexPage = ({ data }) => (
             creating and styling websites. My most recent role was with North
             Highland working as a senior web developer within the Technology
             Capability{" "}
-            <span className="currently-looking">
+            <Link to="/resume" className="currently-looking">
+              {" "}
               (I'm currently looking for a new role){" "}
-            </span>
+            </Link>
             . I worked on a variety of projects with clients using their content
             management systems (WordPress, Drupal, Netlify CMS) to implement new
             designs and features. I have also worked on web apps using Angular,
@@ -88,10 +89,6 @@ const IndexPage = ({ data }) => (
                   dangerouslySetInnerHTML={{ __html: blog.node.title }}
                 />
                 <p className="postDate">{blog.node.date}</p>
-                <div
-                  className="postDescription"
-                  dangerouslySetInnerHTML={{ __html: blog.node.excerpt }}
-                />
               </div>
             </Link>
           </div>
@@ -110,7 +107,6 @@ export const query = graphql`
         node {
           title
           slug
-          excerpt
           date(formatString: "MMMM DD, YYYY")
           categories {
             name
