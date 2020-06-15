@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="90px" viewBox="0 0 120 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>default-monochrome</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#E6A1DD" offset="0%"></stop>
+            <stop stop-color="#9FACFD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="default-monochrome" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="ad8cd67c-8b3c-460b-aaf3-2ed2bf5f06d0">
+                <path d="M59.7675,0 L45,88.83 L44.7675,90 L60.24,90 L75.0075,1.17 L75.24,0 L59.7675,0 Z M37.5,13.5975 L33.5175,16.1775 L3.5175,34.9275 L0,37.035 L0,52.98 L3.5175,55.0875 L33.5175,73.8375 L37.5,76.4175 L37.5,58.605 L15.705,45.0075 L37.5,31.41 L37.5,13.5975 Z M82.5,13.5975 L82.5,31.41 L104.295,45.0075 L82.5,58.605 L82.5,76.4175 L86.4825,73.8375 L116.4825,55.0875 L120,52.98 L120,37.035 L116.4825,34.9275 L86.4825,16.1775 L82.5,13.5975 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

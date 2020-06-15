@@ -107,28 +107,28 @@ const IndexPage = ({ data }) => (
 export default IndexPage
 
 export const query = graphql`
-         query {
-           allWordpressPost(limit: 2) {
-             edges {
-               node {
-                 title
-                 slug
-                 date(formatString: "MMMM DD, YYYY")
-                 categories {
-                   name
-                 }
-                 featured_media {
-                   source_url
-                 }
-               }
-             }
-           }
-           kaleighscruggs: file(relativePath: { eq: "kaleighscruggs.jpg" }) {
-             childImageSharp {
-               fixed {
-                 ...GatsbyImageSharpFixed
-               }
-             }
-           }
-         }
-       `
+  query {
+    allWordpressPost(limit: 2) {
+      edges {
+        node {
+          title
+          slug
+          date(formatString: "MMMM DD, YYYY")
+          categories {
+            name
+          }
+          featured_media {
+            source_url
+          }
+        }
+      }
+    }
+    kaleighscruggs: file(relativePath: { eq: "kaleighscruggs.jpg" }) {
+      childImageSharp {
+        fixed {
+          ...GatsbyImageSharpFixed
+        }
+      }
+    }
+  }
+`
