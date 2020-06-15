@@ -83,7 +83,7 @@ const IndexPage = ({ data }) => (
       </h3>
       <div className="blog-cards">
         {data.allWordpressPost.edges.map(blog => (
-          <div className="card">
+          <div className="card" key={blog.node.slug}>
             <Link to={`/blog/${blog.node.slug}`}>
               <div className="postPreview">
                 <img
@@ -107,28 +107,28 @@ const IndexPage = ({ data }) => (
 export default IndexPage
 
 export const query = graphql`
-         query {
-           allWordpressPost(limit: 2) {
-             edges {
-               node {
-                 title
-                 slug
-                 date(formatString: "MMMM DD, YYYY")
-                 categories {
-                   name
-                 }
-                 featured_media {
-                   source_url
-                 }
-               }
-             }
-           }
-           kaleighscruggs: file(relativePath: { eq: "kaleighscruggs.jpg" }) {
-             childImageSharp {
-               fluid(maxWidth: 600) {
-                 ...GatsbyImageSharpFluid
-               }
-             }
-           }
-         }
-       `
+  query {
+    allWordpressPost(limit: 2) {
+      edges {
+        node {
+          title
+          slug
+          date(formatString: "MMMM DD, YYYY")
+          categories {
+            name
+          }
+          featured_media {
+            source_url
+          }
+        }
+      }
+    }
+    kaleighscruggs: file(relativePath: { eq: "kaleighscruggs.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 600) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+  }
+`
