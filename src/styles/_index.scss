@@ -1,5 +1,10 @@
 .home-intro {
-  background: $subColor2;
+  background: $color2;
+
+  @include for-size(phone-only) {
+    // height: 622px;
+    //padding-top: 50px;
+  }
 }
 
 .home-main,
@@ -16,7 +21,6 @@
   max-width: 960px;
   padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
   text-align: left;
-  height: 400px;
 
   @include for-size(phone-only) {
     display: flex;
@@ -24,31 +28,52 @@
   }
 
   .home-image {
-    padding-right: 300px;
-    background-image: url(../images/photo.jpg);
-    background-size: cover;
-    margin-right: 20px;
-    img {
-      border: 15px solid white;
+    padding-right: 15px;
+    display: flex;
+    flex-direction: column;
+    .gatsby-image-wrapper {
+      width: 240px !important;
+      height: 440px !important;
       @include for-size(phone-only) {
-        width: 300px;
+        width: 353px !important;
       }
+      @include for-size(tablet-only) {
+        height: 475px !important;
+      }
+    }
+    .introimg {
+      img {
+        border: 15px solid white;
+        @include for-size(phone-only) {
+          width: 300px;
+        }
+      }
+    }
+    @include for-size(phone-only) {
     }
   }
-  /*   .hpImage {
-    .gatsby-image-wrapper {
-      @include for-size(phone-only) {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-      }
-    }
-  } */
   .home-text {
-    align-self: flex-end;
+    align-self: flex-start;
     background-color: white;
     border: 15px solid white;
+    height: 439px;
+    display: flex;
+    flex-direction: column;
+    .currently-looking {
+      color: $color4;
+    }
+    @include for-size(phone-only) {
+      height: auto;
+      margin-bottom: 10px;
+
+      p {
+        font-size: 14px;
+      }
+    }
+    @include for-size(tablet-only) {
+      font-size: 14px;
+      height: 475px;
+    }
   }
 }
 
@@ -59,6 +84,7 @@
   @include for-size(phone-only) {
     display: flex;
     flex-direction: column;
+    margin-left: 30px;
   }
   .box-2 {
     margin-right: 30px;
@@ -68,7 +94,7 @@
     }
   }
   .find-me-box {
-    background-color: $subColor2;
+    background-color: $color2;
     width: 400px;
     height: 300px;
     padding: 40px;
@@ -121,8 +147,26 @@
   max-width: 960px;
   padding: 1.45rem 1.0875rem 1.45rem 1.0875rem;
   text-align: center;
+  background: $color3;
+
+  .from-the-blog-link {
+    color: $color4;
+    text-decoration: none;
+    a:link,
+    a:visited,
+    a:active {
+      color: $color4;
+      text-decoration: none;
+    }
+    a:hover {
+      color: $color4;
+    }
+  }
 
   .blog-cards {
+    @include for-size(phone-only) {
+      flex-direction: column;
+    }
     .card {
       margin-right: 30px;
       margin-left: 30px;
@@ -130,8 +174,7 @@
       @extend %linkStyle;
 
       @include for-size(phone-only) {
-        display: flex;
-        flex-direction: column;
+        margin-bottom: 10px;
       }
       .postPreview {
         padding: 10px 10px;
@@ -175,14 +218,20 @@
     flex-direction: column;
   }
   h1 {
-    color: $subColor;
+    color: $color2;
   }
   margin-left: 4px;
   .content-left {
     width: 50%;
+    @include for-size(phone-only) {
+      width: 100%;
+    }
   }
   .content-right {
     margin-top: 50px;
+    @include for-size(phone-only) {
+      text-align: center;
+    }
   }
 }
 
@@ -190,5 +239,20 @@
   text-align: center;
   img {
     width: 40%;
+  }
+}
+
+.resume {
+  text-align: center;
+  .resumeinfo {
+    @extend %linkStyle;
+  }
+  .resumepage {
+    background-image: url(../images/KaleighScruggs_WebRes.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 80px;
+    height: 1000px;
+    width: 1545px;
   }
 }

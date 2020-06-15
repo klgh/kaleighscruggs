@@ -3,14 +3,14 @@
 .uses {
   h2,
   h3 {
-    color: $subColor;
+    color: $color4;
   }
 
   a:link,
   a:visited,
   a:active,
   a:hover {
-    color: $mainColor;
+    color: $color5;
     text-decoration: none;
   }
 }

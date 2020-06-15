@@ -7,7 +7,7 @@ module.exports = {
     author: `@kaleighscruggs`,
     twitterUsername: "kaleighscruggs",
     siteUrl: "https://kaleighscruggs.com",
-    image: "/images/photo.jpg",
+    image: "/images/kaleighscruggs.jpg",
     logo: "/images/kslogo.png",
   },
   plugins: [
@@ -42,7 +42,7 @@ module.exports = {
         background_color: `white`,
         theme_color: `#bd8e83`,
         display: `minimal-ui`,
-        image: `src/images/photo.jpg`,
+        image: `src/images/kaleighscruggs.jpg`,
       },
     },
     `gatsby-plugin-offline`,
@@ -56,12 +56,6 @@ module.exports = {
       resolve: `gatsby-plugin-prefetch-google-fonts`,
       options: {
         fonts: [
-          {
-            family: `PT Sans`,
-          },
-          {
-            family: `Over the Rainbow`,
-          },
           {
             family: `Montserrat`,
           },
@@ -109,7 +103,7 @@ module.exports = {
         excludedRoutes: [],
         keepMediaSizes: false,
         // use a custom normalizer which is applied after the built-in ones.
-        normalizer: function ({ entities }) {
+        normalizer: function({ entities }) {
           return entities
         },
       },

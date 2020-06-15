@@ -1,8 +1,8 @@
-$mainColor: #f2a7c3;
-$subColor: #f29199;
-$subColor2: #f2dedc;
-$subColor3: #f26052;
-$subColor4: #f26a4b;
+$color1: #d9fac3;
+$color2: #e3d08f;
+$color3: #f9ded0;
+$color4: #e6a1dd;
+$color5: #9facfd;
 
 /* Media Queries */
 @mixin for-size($size) {
@@ -39,10 +39,10 @@ $subColor4: #f26a4b;
   a:link,
   a:visited,
   a:active {
-    color: $mainColor;
+    color: $color5;
     text-decoration: none;
   }
   a:hover {
-    color: $subColor4;
+    color: $color4;
   }
 }
