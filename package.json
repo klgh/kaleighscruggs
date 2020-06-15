@@ -10,6 +10,7 @@
     "@fortawesome/free-regular-svg-icons": "^5.13.0",
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/react-fontawesome": "^0.1.10",
+    "@netlify/plugin-lighthouse": "^1.1.0",
     "bootstrap": "^4.5.0",
     "dotenv": "^8.2.0",
     "gatsby": "^2.23.1",
