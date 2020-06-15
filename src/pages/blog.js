@@ -6,7 +6,7 @@ import SEO from "../components/seo"
 
 const Blog = ({ data }) => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="Blog" keywords={[`gatsby`, `application`, `react`]} />
     <div className="blogPage">
       <h1>Blog</h1>
       <h4>

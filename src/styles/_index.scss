@@ -63,7 +63,7 @@
       color: $color4;
     }
     @include for-size(phone-only) {
-      height: auto;
+      height: 680px;;
       margin-bottom: 10px;
 
       p {
@@ -72,7 +72,7 @@
     }
     @include for-size(tablet-only) {
       font-size: 14px;
-      height: 475px;
+      height: 680;
     }
   }
 }
@@ -254,5 +254,9 @@
     background-position-x: 80px;
     height: 1000px;
     width: 1545px;
+    @include for-size(phone-only) {
+      width: 353px;
+      background-position-x: center;
+    }
   }
 }

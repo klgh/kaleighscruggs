@@ -1,8 +1,10 @@
 import React from "react"
 import PageLayout from "../components/page-layout"
+import SEO from "../components/seo"
 
 const Resume = () => (
   <PageLayout>
+    <SEO title="Resume" keywords={[`kaleigh scruggs`, `resume`]} />
     <div className="resume">
       <div className="resumeinfo">
         <p>

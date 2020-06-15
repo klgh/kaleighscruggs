@@ -1,8 +1,10 @@
 import React from "react"
 import PageLayout from "../components/page-layout"
+import SEO from "../components/seo"
 
 const ContactPage = () => (
   <PageLayout>
+    <SEO title="Contact" keywords={[`gatsby`, `application`, `react`]} />
     <div className="contact-form">
       <div className="content-left">
         <h1>Contact Me</h1>

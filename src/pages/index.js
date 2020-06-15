@@ -10,7 +10,7 @@ library.add(fab)
 
 const IndexPage = ({ data }) => (
   <PageLayout>
-    <SEO title="Kaleigh Scruggs | web developer, comedian, human" />
+    <SEO title="Home" />
     <div className="home-intro">
       <div className="home-main">
         <div className="home-image">
