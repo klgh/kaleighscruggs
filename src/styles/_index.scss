@@ -25,18 +25,12 @@
   @include for-size(phone-only) {
     display: flex;
     flex-direction: column-reverse;
-    // height: auto;
   }
 
   .home-image {
     padding-right: 15px;
-    //height: 439px;
     display: flex;
     flex-direction: column;
-    // background-image: url(../images/photo.jpg);
-    //background-size: cover;
-    // margin-right: 20px;
-    //background-position: center;
     .gatsby-image-wrapper {
       width: 240px !important;
       height: 440px !important;
@@ -50,9 +44,6 @@
     .introimg {
       img {
         border: 15px solid white;
-        // width: 245px !important;
-        //  height: 114px !important;
-        //  position: inherit !important;
         @include for-size(phone-only) {
           width: 300px;
         }
@@ -61,16 +52,6 @@
     @include for-size(phone-only) {
     }
   }
-  /*   .hpImage {
-    .gatsby-image-wrapper {
-      @include for-size(phone-only) {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-      }
-    }
-  } */
   .home-text {
     align-self: flex-start;
     background-color: white;
