@@ -4,6 +4,7 @@ import SEO from "../components/seo"
 import { library } from "@fortawesome/fontawesome-svg-core"
 import { fab } from "@fortawesome/free-brands-svg-icons"
 import { Link, graphql } from "gatsby"
+import Img from "gatsby-image"
 
 library.add(fab)
 
@@ -12,7 +13,12 @@ const IndexPage = ({ data }) => (
     <SEO title="Kaleigh Scruggs | web developer, comedian, human" />
     <div className="home-intro">
       <div className="home-main">
-        <div className="home-image"></div>
+        <div className="home-image">
+          <Img
+            fluid={data.kaleighscruggs.childImageSharp.fluid}
+            className="introimg"
+          />
+        </div>
         <div className="home-text">
           <h3>Hey! 👋 I'm Kaleigh</h3>
           <p>
@@ -101,21 +107,28 @@ const IndexPage = ({ data }) => (
 export default IndexPage
 
 export const query = graphql`
-  query {
-    allWordpressPost(limit: 2) {
-      edges {
-        node {
-          title
-          slug
-          date(formatString: "MMMM DD, YYYY")
-          categories {
-            name
-          }
-          featured_media {
-            source_url
-          }
-        }
-      }
-    }
-  }
-`
+         query {
+           allWordpressPost(limit: 2) {
+             edges {
+               node {
+                 title
+                 slug
+                 date(formatString: "MMMM DD, YYYY")
+                 categories {
+                   name
+                 }
+                 featured_media {
+                   source_url
+                 }
+               }
+             }
+           }
+           kaleighscruggs: file(relativePath: { eq: "kaleighscruggs.jpg" }) {
+             childImageSharp {
+               fluid(maxWidth: 600) {
+                 ...GatsbyImageSharpFluid
+               }
+             }
+           }
+         }
+       `
