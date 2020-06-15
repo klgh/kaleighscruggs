@@ -2,8 +2,8 @@
   background: $color2;
 
   @include for-size(phone-only) {
-    height: 622px;
-    padding-top: 50px;
+    // height: 622px;
+    //padding-top: 50px;
   }
 }
 
@@ -25,22 +25,34 @@
   @include for-size(phone-only) {
     display: flex;
     flex-direction: column-reverse;
-    height: 600px;
+    // height: auto;
   }
 
   .home-image {
     padding-right: 15px;
-    height: 439px;
+    //height: 439px;
+    display: flex;
+    flex-direction: column;
     // background-image: url(../images/photo.jpg);
     //background-size: cover;
     // margin-right: 20px;
     //background-position: center;
+    .gatsby-image-wrapper {
+      width: 240px !important;
+      height: 440px !important;
+      @include for-size(phone-only) {
+        width: 353px !important;
+      }
+      @include for-size(tablet-only) {
+        height: 475px !important;
+      }
+    }
     .introimg {
       img {
         border: 15px solid white;
-        width: 245px !important;
-        height: 114px !important;
-        position: inherit !important;
+        // width: 245px !important;
+        //  height: 114px !important;
+        //  position: inherit !important;
         @include for-size(phone-only) {
           width: 300px;
         }
@@ -64,13 +76,22 @@
     background-color: white;
     border: 15px solid white;
     height: 439px;
+    display: flex;
+    flex-direction: column;
     .currently-looking {
       color: $color4;
     }
     @include for-size(phone-only) {
+      height: auto;
+      margin-bottom: 10px;
+
       p {
         font-size: 14px;
       }
+    }
+    @include for-size(tablet-only) {
+      font-size: 14px;
+      height: 475px;
     }
   }
 }
@@ -221,9 +242,15 @@
   margin-left: 4px;
   .content-left {
     width: 50%;
+    @include for-size(phone-only) {
+      width: 100%;
+    }
   }
   .content-right {
     margin-top: 50px;
+    @include for-size(phone-only) {
+      text-align: center;
+    }
   }
 }
 

@@ -10,12 +10,12 @@
   a:visited,
   a:active,
   a:hover {
-    color: $color1;
+    color: $color5;
     text-decoration: none;
   }
 
   h1 {
-    color: $color2;
+    color: $color5;
     // text-align: center;
   }
   h4 {
@@ -44,6 +44,7 @@
     .catTitle {
       font-size: 28px;
       margin: 0;
+      color: $color4;
     }
 
     .postDate,
@@ -55,7 +56,7 @@
 
     .postDescription,
     .catDesc {
-      color: gray;
+      color: black;
       display: inline-block;
       font-size: 16px;
     }
@@ -91,7 +92,7 @@
     .blogTitle {
       h1 {
         font-size: 38px;
-        color: $color1;
+        color: $color4;
         margin-top: 20px;
       }
 

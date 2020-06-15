@@ -15,7 +15,7 @@ const IndexPage = ({ data }) => (
       <div className="home-main">
         <div className="home-image">
           <Img
-            fluid={data.kaleighscruggs.childImageSharp.fluid}
+            fixed={data.kaleighscruggs.childImageSharp.fixed}
             className="introimg"
           />
         </div>
@@ -107,28 +107,28 @@ const IndexPage = ({ data }) => (
 export default IndexPage
 
 export const query = graphql`
-  query {
-    allWordpressPost(limit: 2) {
-      edges {
-        node {
-          title
-          slug
-          date(formatString: "MMMM DD, YYYY")
-          categories {
-            name
-          }
-          featured_media {
-            source_url
-          }
-        }
-      }
-    }
-    kaleighscruggs: file(relativePath: { eq: "kaleighscruggs.jpg" }) {
-      childImageSharp {
-        fluid(maxWidth: 600) {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
-  }
-`
+         query {
+           allWordpressPost(limit: 2) {
+             edges {
+               node {
+                 title
+                 slug
+                 date(formatString: "MMMM DD, YYYY")
+                 categories {
+                   name
+                 }
+                 featured_media {
+                   source_url
+                 }
+               }
+             }
+           }
+           kaleighscruggs: file(relativePath: { eq: "kaleighscruggs.jpg" }) {
+             childImageSharp {
+               fixed {
+                 ...GatsbyImageSharpFixed
+               }
+             }
+           }
+         }
+       `
