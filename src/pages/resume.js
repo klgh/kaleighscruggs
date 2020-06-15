@@ -1,10 +1,7 @@
 import React from "react"
-import { Link } from "gatsby"
 import PageLayout from "../components/page-layout"
-import Img from "gatsby-image"
-import { graphql } from "gatsby"
 
-const Resume = props => (
+const Resume = () => (
   <PageLayout>
     <div className="resume">
       <div className="resumeinfo">
