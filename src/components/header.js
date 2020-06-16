@@ -46,7 +46,7 @@ const Header = ({ siteTitle }) => (
             blog
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link
             to="/contact"
             className="linkItem contact"
@@ -54,7 +54,7 @@ const Header = ({ siteTitle }) => (
           >
             contact
           </Link>
-        </li>
+        </li> */}
       </ul>
     </div>
     <div className="connect">
