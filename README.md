@@ -4,20 +4,32 @@
 
 ## Tech Stack
 
-[Gatsby](https://www.gatsbyjs.org/)
-[React](https://reactjs.org/)
-[WordPress](https://wordpress.org/) as my headless CMS for the blog and some pages
-[Sass](https://sass-lang.com/)
-[Bootstrap](https://getbootstrap.com/)
-[FortAwesome](https://github.com/FortAwesome)
-[Netlify](https://www.netlify.com/) (which makes this easy to deploy to both kaleighscruggs.com and [kaleigh.dev](kaleigh.dev))
-[ESLint](https://eslint.org/)
+[Gatsby](https://www.gatsbyjs.org/) 
+
+[React](https://reactjs.org/) 
+
+[WordPress](https://wordpress.org/) as my headless CMS for the blog and some pages 
+
+[Sass](https://sass-lang.com/) 
+
+[Bootstrap](https://getbootstrap.com/) 
+
+[FortAwesome](https://github.com/FortAwesome) 
+
+[Netlify](https://www.netlify.com/) (which makes this easy to deploy to both kaleighscruggs.com and [kaleigh.dev](kaleigh.dev)) 
+
+[ESLint](https://eslint.org/) 
+
 [Prettier](https://prettier.io/)
 
 ## Gatsby Plugins
 
 [gatsby-plugin-catch-links](https://www.gatsbyjs.org/packages/gatsby-plugin-catch-links/#gatsby-plugin-catch-links)
+
 [gatsby-plugin-react-helmet](https://www.gatsbyjs.org/packages/gatsby-plugin-react-helmet/?=gatsby-plugin-react-helmet#gatsby-plugin-react-helmet)
+
 [gatsby-plugin-sass](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-sass)
+
 [gatsby-plugin-feed](https://www.gatsbyjs.org/packages/gatsby-plugin-feed/?=gatsby-plugin-feed)
+
 [gatsby-source-wordpress](https://www.gatsbyjs.org/packages/gatsby-source-wordpress/#gatsby-source-wordpress)
