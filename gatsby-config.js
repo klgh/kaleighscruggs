@@ -3,10 +3,10 @@ require("dotenv").config()
 module.exports = {
   siteMetadata: {
     title: `Kaleigh Scruggs`,
-    description: `web developer, comedian, human`,
+    description: `web developer`,
     author: `@kaleighscruggs`,
     twitterUsername: "kaleighscruggs",
-    siteUrl: "https://kaleighscruggs.com",
+    siteUrl: "https://kaleigh.dev",
     image: "/images/kaleighscruggs.jpg",
     logo: "/images/kslogo.png",
   },
@@ -17,7 +17,7 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
-
+    `gatsby-remark-social-cards`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -40,7 +40,7 @@ module.exports = {
         short_name: `kaleighcodes`,
         start_url: `/`,
         background_color: `white`,
-        theme_color: `#bd8e83`,
+        theme_color: `#f9ded0`,
         display: `minimal-ui`,
         image: `src/images/kaleighscruggs.jpg`,
       },
@@ -83,7 +83,7 @@ module.exports = {
         perPage: 100,
         searchAndReplaceContentUrls: {
           sourceUrl: "https://blog.kaleighscruggs.com",
-          replacementUrl: "https://blog.kaleighscruggs.com",
+          replacementUrl: "https://kaleigh.dev",
         },
         auth: {
           wpcom_user: process.env.WORDPRESS_USER,
@@ -111,8 +111,8 @@ module.exports = {
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
-        host: "https://kaleighscruggs.com",
-        sitemap: "https://kaleighscruggs.com/sitemap.xml",
+        host: "https://kaleigh.dev",
+        sitemap: "https://kaleigh.dev/sitemap.xml",
         policy: [{ userAgent: "*", allow: "/" }],
       },
     },
