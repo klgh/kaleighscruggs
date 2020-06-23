@@ -19,6 +19,10 @@ function SEO({ description, lang, meta, title }) {
             title
             description
             author
+            image
+            twitterUsername
+            siteUrl
+            logo
           }
         }
       }
@@ -61,11 +65,15 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:title`,
-          content: title,
+          content: site.siteMetadata.title,
         },
         {
           name: `twitter:description`,
           content: metaDescription,
+        },
+        {
+          name: `twitter:image`,
+          content: site.siteMetadata.logo,
         },
         {
           name: "google-site-verification",
@@ -83,7 +91,7 @@ function SEO({ description, lang, meta, title }) {
 SEO.defaultProps = {
   lang: `en`,
   meta: [],
-  description: ``,
+  description: `web developer`,
 }
 
 SEO.propTypes = {

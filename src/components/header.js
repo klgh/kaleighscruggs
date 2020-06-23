@@ -46,15 +46,6 @@ const Header = ({ siteTitle }) => (
             blog
           </Link>
         </li>
-        {/* <li>
-          <Link
-            to="/contact"
-            className="linkItem contact"
-            activeClassName="linkItemActive"
-          >
-            contact
-          </Link>
-        </li> */}
       </ul>
     </div>
     <div className="connect">

@@ -3,12 +3,12 @@ require("dotenv").config()
 module.exports = {
   siteMetadata: {
     title: `Kaleigh Scruggs`,
-    description: `web developer, comedian, human`,
+    description: `web developer`,
     author: `@kaleighscruggs`,
     twitterUsername: "kaleighscruggs",
-    siteUrl: "https://kaleighscruggs.com",
+    siteUrl: "https://kaleigh.dev",
     image: "/images/kaleighscruggs.jpg",
-    logo: "/images/kslogo.png",
+    logo: "/images/ksLogo.png",
   },
   plugins: [
     `gatsby-plugin-catch-links`,
@@ -17,7 +17,51 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
-
+    {
+      resolve: `gatsby-remark-social-cards`,
+      options: {
+        title: {
+          // This is the frontmatter field the title should come from
+          field: "title",
+          // Currently only supports DejaVuSansCondensed
+          // More fonts coming soon!
+          font: "DejaVuSansCondensed",
+          color: "black", // black|white
+          size: 48, // 16|24|32|48|64
+          style: "bold", // normal|bold|italic
+          x: null, // Will default to xMargin
+          y: null, // Will default to yMargin
+        },
+        meta: {
+          // The parts array is what generates the bottom text
+          // Pass an array with strings and objects
+          // The following array will generate:
+          // "- Author Name » September 13"
+          // The objects are used to pull data from your markdown's
+          // frontmatter. { field: "author" } pulls the author set
+          // in the frontmatter. { field: "category" } would pull
+          // the category set. Any field can be used as parts
+          // Note: Only pass the "format" property on date fields
+          parts: [
+            "- ",
+            { field: "author" },
+            " » ",
+            { field: "date", format: "mmmm dS" },
+          ],
+          // Currently only supports DejaVuSansCondensed
+          // More fonts coming soon!
+          font: "DejaVuSansCondensed",
+          color: "black", // black|white
+          size: 24, // 16|24|32|48|64
+          style: "normal", // normal|bold|italic
+          x: null, // Will default to xMargin
+          y: null, // Will default to cardHeight - yMargin - size
+        },
+        background: "#FFFFFF", // Background color for the card
+        xMargin: 24, // Edge margin used when x value is not set
+        yMargin: 24, // Edge margin used when y value is not set
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -40,7 +84,7 @@ module.exports = {
         short_name: `kaleighcodes`,
         start_url: `/`,
         background_color: `white`,
-        theme_color: `#bd8e83`,
+        theme_color: `#f9ded0`,
         display: `minimal-ui`,
         image: `src/images/kaleighscruggs.jpg`,
       },
@@ -83,7 +127,7 @@ module.exports = {
         perPage: 100,
         searchAndReplaceContentUrls: {
           sourceUrl: "https://blog.kaleighscruggs.com",
-          replacementUrl: "https://blog.kaleighscruggs.com",
+          replacementUrl: "https://kaleigh.dev",
         },
         auth: {
           wpcom_user: process.env.WORDPRESS_USER,
@@ -111,8 +155,8 @@ module.exports = {
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
-        host: "https://kaleighscruggs.com",
-        sitemap: "https://kaleighscruggs.com/sitemap.xml",
+        host: "https://kaleigh.dev",
+        sitemap: "https://kaleigh.dev/sitemap.xml",
         policy: [{ userAgent: "*", allow: "/" }],
       },
     },
