@@ -8,7 +8,7 @@ module.exports = {
     twitterUsername: "kaleighscruggs",
     siteUrl: "https://kaleigh.dev",
     image: "/images/kaleighscruggs.jpg",
-    logo: "/images/kslogo.png",
+    logo: "/images/ksLogo.png",
   },
   plugins: [
     `gatsby-plugin-catch-links`,

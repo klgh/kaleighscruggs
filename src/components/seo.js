@@ -73,7 +73,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:image`,
-          content: site.siteMetadata.image,
+          content: site.siteMetadata.logo,
         },
         {
           name: "google-site-verification",
