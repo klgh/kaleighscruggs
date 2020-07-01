@@ -247,8 +247,8 @@
   .resumeinfo {
     @extend %linkStyle;
   }
-  .resumepage {
-    background-image: url(../images/KaleighScruggs_WebRes.png);
+  .resumepage1 {
+    background-image: url(../images/KaleighScruggs_WebRes1.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position-x: 80px;
@@ -256,6 +256,20 @@
     width: 1545px;
     @include for-size(phone-only) {
       width: 353px;
+      height: 400px;
+      background-position-x: center;
+    }
+  }
+  .resumepage2 {
+    background-image: url(../images/KaleighScruggs_WebRes2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 80px;
+    height: 1000px;
+    width: 1545px;
+    @include for-size(phone-only) {
+      width: 353px;
+      height: 400px;
       background-position-x: center;
     }
   }

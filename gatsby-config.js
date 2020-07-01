@@ -127,7 +127,7 @@ module.exports = {
         perPage: 100,
         searchAndReplaceContentUrls: {
           sourceUrl: "https://blog.kaleighscruggs.com",
-          replacementUrl: "https://kaleigh.dev",
+          replacementUrl: "https://blog.kaleighscruggs.com",
         },
         auth: {
           wpcom_user: process.env.WORDPRESS_USER,
