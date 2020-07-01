@@ -15,7 +15,8 @@ const Resume = () => (
           !
         </p>
       </div>
-      <div className="resumepage"></div>
+      <div className="resumepage1"></div>
+      <div className="resumepage2"></div>
     </div>
   </PageLayout>
 )
