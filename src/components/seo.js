@@ -73,7 +73,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:image`,
-          content: site.siteMetadata.logo,
+          content: "https://kaleigh.dev/images/ksLogo.png",
         },
         {
           name: "google-site-verification",
