@@ -83,6 +83,10 @@ function SEO({ description, lang, meta, title }) {
           name: "p:domain_verify",
           content: "a4c7d63ea227f5f072c29d1e7e03d1a2",
         },
+        {
+          name: "pinterest-rich-pin",
+          content: "true",
+        },
       ].concat(meta)}
     />
   )
