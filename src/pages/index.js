@@ -28,7 +28,7 @@ const IndexPage = ({ data }) => (
             Capability{" "}
             <Link to="/resume" className="currently-looking">
               {" "}
-              (I'm currently looking for a new role){" "}
+              (I'm currently looking for a new role)
             </Link>
             . I worked on a variety of projects with clients using their content
             management systems (WordPress, Drupal, Netlify CMS) to implement new
@@ -42,8 +42,30 @@ const IndexPage = ({ data }) => (
             employee groups. These groups offered networking, awareness, and
             events for employees as well as activities for younger (school-aged)
             girls to learn more about careers in STEM. I am also a founding
-            member of Tech Ladies and involved with Women Who Code Atlanta as a
-            host for the Gwinnett meetups and the Women Who Code Front End track
+            member of{" "}
+            <a
+              href="https://www.hiretechladies.com/"
+              alt="tech ladies website"
+              className="currently-looking"
+            >
+              Tech Ladies
+            </a>{" "}
+            and involved with{" "}
+            <a
+              href="https://www.womenwhocode.com/atlanta"
+              alt="women who code atlanta"
+              className="currently-looking"
+            >
+              Women Who Code Atlanta
+            </a>{" "}
+            as a host for the Gwinnett meetups and the{" "}
+            <a
+              href="https://www.womenwhocode.com/frontend"
+              alt="women who code frontend track"
+              className="currently-looking"
+            >
+              Women Who Code Front End track
+            </a>{" "}
             as an evangelist and volunteer.
           </p>
         </div>
