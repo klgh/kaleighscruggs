@@ -122,7 +122,8 @@
         overflow: hidden;
         display: block;
         @include for-size(phone-only) {
-          max-width: 300px !important;
+          width: 75%;
+          height: 75%;
         }
       }
       @extend %linkStyle;
