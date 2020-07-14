@@ -81,7 +81,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `kaleigh scruggs`,
-        short_name: `kaleighcodes`,
+        short_name: `kaleigh.dev`,
         start_url: `/`,
         background_color: `white`,
         theme_color: `#f9ded0`,
@@ -107,12 +107,6 @@ module.exports = {
             family: `Raleway`,
           },
         ],
-      },
-    },
-    {
-      resolve: `gatsby-plugin-disqus`,
-      options: {
-        shortname: `kaleigh-scruggs`,
       },
     },
     {

@@ -121,8 +121,13 @@
         margin: 0 auto;
         overflow: hidden;
         display: block;
+        @include for-size(tablet-only) {
+          width: 50%;
+          height: 50%;
+        }
         @include for-size(phone-only) {
-          max-width: 300px !important;
+          width: 75%;
+          height: 75%;
         }
       }
       @extend %linkStyle;
