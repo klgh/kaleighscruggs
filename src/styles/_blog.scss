@@ -121,6 +121,10 @@
         margin: 0 auto;
         overflow: hidden;
         display: block;
+        @include for-size(tablet-only) {
+          width: 50%;
+          height: 50%;
+        }
         @include for-size(phone-only) {
           width: 75%;
           height: 75%;

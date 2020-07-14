@@ -63,7 +63,7 @@
       color: $color4;
     }
     @include for-size(phone-only) {
-      height: 680px;;
+      height: 680px;
       margin-bottom: 10px;
 
       p {
@@ -72,7 +72,7 @@
     }
     @include for-size(tablet-only) {
       font-size: 14px;
-      height: 680;
+      height: 500px !important;
     }
   }
 }
@@ -254,6 +254,10 @@
     background-position-x: 80px;
     height: 1000px;
     width: 1545px;
+    @include for-size(tab-desk) {
+      width: 100%;
+      background-position-x: center;
+    }
     @include for-size(phone-only) {
       width: 353px;
       height: 400px;
@@ -267,6 +271,10 @@
     background-position-x: 80px;
     height: 1000px;
     width: 1545px;
+    @include for-size(tab-desk) {
+      width: 100%;
+      background-position-x: center;
+    }
     @include for-size(phone-only) {
       width: 353px;
       height: 400px;
