@@ -81,7 +81,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: "p:domain_verify",
-          content: "a4c7d63ea227f5f072c29d1e7e03d1a2",
+          content: "5c338206562787efbe4a130871429456",
         },
         {
           name: "pinterest-rich-pin",
