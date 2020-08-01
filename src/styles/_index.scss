@@ -61,6 +61,7 @@
     flex-direction: column;
     .currently-looking {
       color: $color4;
+      font-weight: bold;
     }
     @include for-size(phone-only) {
       height: 680px;
