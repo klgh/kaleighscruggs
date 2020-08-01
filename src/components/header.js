@@ -71,7 +71,7 @@ const Header = ({ siteTitle }) => (
             icon={["fab", "twitter"]}
           />
         </a>{" "}
-        <a href="https://www.instagram.com/kaleighcodes/">
+        <a href="https://www.instagram.com/klgh.js/">
           <FontAwesomeIcon
             title="kaleigh's instagram"
             icon={["fab", "instagram"]}
