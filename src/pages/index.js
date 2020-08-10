@@ -22,19 +22,14 @@ const IndexPage = ({ data }) => (
         <div className="home-text">
           <h3>Hey! 👋 I'm Kaleigh</h3>
           <p>
-            I'm a front-end web developer with over 10 years of experience
-            creating and styling websites. My most recent role was with North
-            Highland working as a senior web developer within the Technology
-            Capability{" "}
-            <Link to="/resume" className="currently-looking">
-              {" "}
-              (I'm currently looking for a new role)
-            </Link>
-            . I worked on a variety of projects with clients using their content
-            management systems (WordPress, Drupal, Netlify CMS) to implement new
-            designs and features. I have also worked on web apps using Angular,
-            React, and Gatsby. I've acted as both a developer and lead developer
-            on client-facing projects and am very comfortable in those roles.{" "}
+            I'm a software engineer with over ten years of experience creating
+            and styling websites. I'm now a Senior Consultant with Daugherty
+            Business Solutions. Previously I worked at North Highland Consulting
+            as a Senior Consultant Web Developer within the Technology
+            Capability. <br /> I worked on various projects with clients using
+            their content management systems (WordPress, Drupal, Netlify CMS) to
+            implement new designs and features. I have also worked on web apps
+            using Angular, React, and Gatsby.
           </p>
           <p>
             I have a passion for diversity and inclusion and at both North
