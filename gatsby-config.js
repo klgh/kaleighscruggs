@@ -110,39 +110,28 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-source-wordpress",
+      resolve: `gatsby-source-wordpress-experimental`,
       options: {
-        baseUrl: process.env.WORDPRESS_BASE_URL,
-        protocol: process.env.WORDPRESS_PROTOCOL,
-        hostingWPCOM: process.env.WORDPRESS_HOSTING_WPCOM === "true",
-        useACF: process.env.WORDPRESS_USE_ACF === "true",
-        acfOptionPageIds: [],
-        verboseOutput: process.env.WORDPRESS_VERBOSE_OUTPUT === "true",
-        perPage: 100,
-        searchAndReplaceContentUrls: {
-          sourceUrl: "https://blog.kaleighscruggs.com",
-          replacementUrl: "https://blog.kaleighscruggs.com",
+        url:
+          // allows a fallback url if WPGRAPHQL_URL is not set in the env, this may be a local or remote WP instance.
+          process.env.WPGRAPHQL_URL || `https://blog.kaleighscruggs.com/graphql`,
+        schema: {
+          //Prefixes all WP Types with "Wp" so "Post and allPost" become "WpPost and allWpPost".
+          typePrefix: `Wp`,
         },
-        auth: {
-          wpcom_user: process.env.WORDPRESS_USER,
-          wpcom_pass: process.env.WORDPRESS_PASSWORD,
+        develop: {
+          //caches media files outside of Gatsby's default cache an thus allows them to persist through a cache reset.
+          hardCacheMediaFiles: true,
         },
-        // Set how many simultaneous requests are sent at once.
-        concurrentRequests: 10,
-        includedRoutes: [
-          "**/categories",
-          "**/posts",
-          "**/pages",
-          "**/media",
-          "**/tags",
-          "**/taxonomies",
-        ],
-        // Blacklisted routes using glob patterns
-        excludedRoutes: [],
-        keepMediaSizes: false,
-        // use a custom normalizer which is applied after the built-in ones.
-        normalizer: function({ entities }) {
-          return entities
+        type: {
+          Post: {
+            limit:
+              process.env.NODE_ENV === `development`
+                ? // Lets just pull 50 posts in development to make it easy on ourselves (aka. faster).
+                  50
+                : // and we don't actually need more than 5000 in production for this particular site
+                  5000,
+          },
         },
       },
     },
@@ -171,8 +160,8 @@ module.exports = {
         `,
         feeds: [
           {
-            serialize: ({ query: { site, allWordpressPost } }) => {
-              return allWordpressPost.edges.map(edge => {
+            serialize: ({ query: { site, allWpPost } }) => {
+              return allWpPost.edges.map(edge => {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
                   date: edge.node.date,
@@ -183,7 +172,7 @@ module.exports = {
             },
             query: `
               {
-                allWordpressPost {
+                allWpPost {
                   edges {
                     node {
                       title

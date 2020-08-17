@@ -4,43 +4,40 @@ import Layout from "../components/page-layout"
 import SEO from "../components/seo"
 import "../styles/styles.scss"
 
-const BlogPostTemplate = ({ data }) => (
-  <Layout>
-    <SEO
-      title={data.wordpressPost.title}
-      description={data.wordpressPost.excerpt}
-    />
-    <div className="blog-post-layout">
-      <div className="blogPost">
-        <div className="blogTitle">
-          <h1>{data.wordpressPost.title}</h1>
-          <em>{data.wordpressPost.date}</em>
-        </div>
+export default function BlogPostTemplate({ data }) {
+  const post = data.allWpPost.nodes[0]
+  return (
+    <Layout>
+      <SEO title={post.title} description={post.excerpt} />
+      <div className="blog-post-layout">
+        <div className="blogPost">
+          <div className="blogTitle">
+            <h1>{post.title}</h1>
+            <em>{post.date}</em>
+          </div>
 
-        <div
-          className="blogText"
-          dangerouslySetInnerHTML={{ __html: data.wordpressPost.content }}
-        />
+          <div className="blogText">{post.content}</div>
 
-        <div className="back-to-blog">
-          <Link to="/blog">back to blog</Link>
+          <div className="back-to-blog">
+            <Link to="/blog">back to blog</Link>
+          </div>
         </div>
       </div>
-    </div>
-  </Layout>
-)
-
-export default BlogPostTemplate
+    </Layout>
+  )
+}
 
 export const query = graphql`
-  query($id: Int!) {
-    wordpressPost(wordpress_id: { eq: $id }) {
-      title
-      content
-      excerpt
-      date(formatString: "MMMM DD, YYYY")
-      categories {
-        name
+  query($slug: String!) {
+    allWpPost(filter: { slug: { eq: $slug } }) {
+      nodes {
+        title
+        content
+        excerpt
+        date(formatString: "MMMM DD, YYYY")
+        categories {
+          name
+        }
       }
     }
   }

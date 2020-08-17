@@ -8,7 +8,7 @@ const PageTemplate = ({ data }) => (
   <Layout>
     <SEO
       title={data.wordpressPage.title}
-      description={data.wordpressPage.excerpt}
+      description={data.wordpressPage.title}
     />
     <div className={data.wordpressPage.slug}>
       <h2>{data.wordpressPage.title}</h2>
@@ -22,12 +22,13 @@ const PageTemplate = ({ data }) => (
 export default PageTemplate
 
 export const query = graphql`
-  query($id: Int!) {
-    wordpressPage(wordpress_id: { eq: $id }) {
-      title
-      excerpt
-      content
-      slug
+  query($slug: String!) {
+    allWpPage(filter: { slug: { eq: $slug } }) {
+      nodes {
+        title
+        content
+        slug
+      }
     }
   }
 `

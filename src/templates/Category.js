@@ -10,7 +10,7 @@ const CategoryTemplate = ({ data }) => (
     <div className="categoryPage">
       <h1 className="categoryHeader">{data.wordpressCategory.name}</h1>
       <ul>
-        {data.allWordpressPost.edges.map(post => (
+        {data.allWpPost.edges.map(post => (
           <li>
             <Link to={`/blog/${post.node.slug}`}>
               <div className="postPreview">
@@ -39,16 +39,14 @@ export const query = graphql`
     wordpressCategory(wordpress_id: { eq: $id }) {
       name
     }
-    allWordpressPost(
+    allWpPost(
       filter: { categories: { elemMatch: { wordpress_id: { eq: $id } } } }
     ) {
-      edges {
-        node {
-          title
-          excerpt
-          slug
-          date(formatString: "MMMM DD, YYYY")
-        }
+      node {
+        title
+        excerpt
+        slug
+        date(formatString: "MMMM DD, YYYY")
       }
     }
   }

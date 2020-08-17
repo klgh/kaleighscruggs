@@ -1,5 +1,4 @@
 const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
@@ -9,28 +8,26 @@ exports.createPages = async ({ graphql, actions }) => {
 
   return graphql(`
     {
-      allWordpressPost {
-        edges {
-          node {
-            slug
-            wordpress_id
-          }
+      allWpPost(sort: { fields: [date] }) {
+        nodes {
+          title
+          excerpt
+          content
+          slug
+          uri
         }
       }
-      allWordpressPage {
-        edges {
-          node {
-            slug
-            wordpress_id
-          }
+      allWpPage {
+        nodes {
+          title
+          content
+          slug
         }
       }
-      allWordpressCategory {
-        edges {
-          node {
-            slug
-            wordpress_id
-          }
+      allWpCategory {
+        nodes {
+          name
+          slug
         }
       }
     }
@@ -38,35 +35,35 @@ exports.createPages = async ({ graphql, actions }) => {
     if (result.errors) {
       throw result.errors
     }
-    const BlogPosts = result.data.allWordpressPost.edges
+    const BlogPosts = result.data.allWpPost.nodes
     BlogPosts.forEach(post => {
       createPage({
-        path: `/blog/${post.node.slug}`,
+        path: `/blog/${post.nodes.slug}`,
         component: BlogPostTemplate,
         context: {
-          id: post.node.wordpress_id,
+          slug: nodes.slug,
         },
       })
     })
 
-    const Pages = result.data.allWordpressPage.edges
+    const Pages = result.data.allWpPage.nodes
     Pages.forEach(page => {
       createPage({
-        path: `/${page.node.slug}`,
+        path: `/${page.nodes.slug}`,
         component: PageTemplate,
         context: {
-          id: page.node.wordpress_id,
+          slug: nodes.slug,
         },
       })
     })
 
-    const Category = result.data.allWordpressCategory.edges
+    const Category = result.data.allWpCategory.nodes
     Category.forEach(category => {
       createPage({
-        path: `/category/${category.node.slug}`,
+        path: `/category/${category.nodes.slug}`,
         component: CategoryTemplate,
         context: {
-          id: category.node.wordpress_id,
+          slug: nodes.slug,
         },
       })
     })

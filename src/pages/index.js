@@ -24,10 +24,10 @@ const IndexPage = ({ data }) => (
           <p>
             I'm a software engineer with over ten years of experience creating
             and styling websites. I'm now a Senior Consultant with Daugherty
-            Business Solutions. <br /> I've worked on various projects with clients using
-            their content management systems (WordPress, Drupal, Netlify CMS) to
-            implement new designs and features. I have also worked on web apps
-            using Angular, React, and Gatsby.
+            Business Solutions. <br /> I've worked on various projects with
+            clients using their content management systems (WordPress, Drupal,
+            Netlify CMS) to implement new designs and features. I have also
+            worked on web apps using Angular, React, and Gatsby.
           </p>
           <p>
             I have a passion for diversity and inclusion and at both North
@@ -97,7 +97,7 @@ const IndexPage = ({ data }) => (
         </Link>
       </h3>
       <div className="blog-cards">
-        {data.allWordpressPost.edges.map(blog => (
+        {data.allWpPost.nodes.map(blog => (
           <div className="card" key={blog.node.slug}>
             <Link to={`/blog/${blog.node.slug}`}>
               <div className="postPreview">
@@ -123,18 +123,16 @@ export default IndexPage
 
 export const query = graphql`
   query {
-    allWordpressPost(limit: 2) {
-      edges {
-        node {
-          title
-          slug
-          date(formatString: "MMMM DD, YYYY")
-          categories {
-            name
-          }
-          featured_media {
-            source_url
-          }
+    allWpPost(limit: 2) {
+      node {
+        title
+        slug
+        date(formatString: "MMMM DD, YYYY")
+        categories {
+          name
+        }
+        featured_media {
+          source_url
         }
       }
     }

@@ -13,14 +13,11 @@ const Categories = ({ data }) => (
     <div className="categories">
       <h1 className="categoryHeader">Categories</h1>
       <ul>
-        {data.allWordpressCategory.edges.map(category => (
+        {data.allWpCategory.nodes.map(category => (
           <li>
-            <Link to={`/category/${category.node.slug}`}>
+            <Link to={`/category/${category.slug}`}>
               <div className="categoryName">
-                <p
-                  className="catTitle"
-                  dangerouslySetInnerHTML={{ __html: category.node.name }}
-                />
+                <p>{category.name}</p>
               </div>
             </Link>
           </li>
@@ -34,12 +31,10 @@ export default Categories
 
 export const query = graphql`
   query {
-    allWordpressCategory {
-      edges {
-        node {
-          name
-          slug
-        }
+    allWpCategory {
+      nodes {
+        name
+        slug
       }
     }
   }

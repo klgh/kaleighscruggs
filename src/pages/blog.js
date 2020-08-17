@@ -13,19 +13,13 @@ const Blog = ({ data }) => (
         <Link to={`/category/`}>Categories</Link>
       </h4>
       <ul>
-        {data.allWordpressPost.edges.map(blog => (
+        {data.allWpPost.nodes.map(node => (
           <li>
-            <Link to={`/blog/${blog.node.slug}`}>
-              <div className="postPreview">
-                <h2
-                  className="postTitle"
-                  dangerouslySetInnerHTML={{ __html: blog.node.title }}
-                />
-                <p className="postDate">{blog.node.date}</p>
-                <div
-                  className="postDescription"
-                  dangerouslySetInnerHTML={{ __html: blog.node.excerpt }}
-                />
+            <Link to={`/blog/${node.uri}`}>
+              <div className="postPreview" key={node.uri}>
+                <h2 className="postTitle">{node.title}</h2>
+                <p className="postDate">{node.date}</p>
+                <div className="postDescription">{node.excerpt}</div>
               </div>
             </Link>
           </li>
@@ -39,14 +33,12 @@ export default Blog
 
 export const query = graphql`
   query {
-    allWordpressPost {
-      edges {
-        node {
-          title
-          excerpt
-          slug
-          date(formatString: "MMMM DD, YYYY")
-        }
+    allWpPost(sort: { fields: [date] }) {
+      nodes {
+        title
+        excerpt
+        uri
+        date(formatString: "MMMM DD, YYYY")
       }
     }
   }
