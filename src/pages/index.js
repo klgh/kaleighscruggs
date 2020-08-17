@@ -24,9 +24,7 @@ const IndexPage = ({ data }) => (
           <p>
             I'm a software engineer with over ten years of experience creating
             and styling websites. I'm now a Senior Consultant with Daugherty
-            Business Solutions. Previously I worked at North Highland Consulting
-            as a Senior Consultant Web Developer within the Technology
-            Capability. <br /> I worked on various projects with clients using
+            Business Solutions. <br /> I've worked on various projects with clients using
             their content management systems (WordPress, Drupal, Netlify CMS) to
             implement new designs and features. I have also worked on web apps
             using Angular, React, and Gatsby.
