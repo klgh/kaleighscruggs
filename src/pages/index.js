@@ -98,18 +98,15 @@ const IndexPage = ({ data }) => (
       </h3>
       <div className="blog-cards">
         {data.allWpPost.nodes.map(blog => (
-          <div className="card" key={blog.node.slug}>
-            <Link to={`/blog/${blog.node.slug}`}>
+          <div className="card" key={blog.uri}>
+            <Link to={`/blog/${blog.uri}`}>
               <div className="postPreview">
                 <img
-                  src={`${blog.node.featured_media.source_url}`}
+                  src={`${blog.featuredImage.node.source_url}`}
                   className="blog-card-img"
                 />
-                <h4
-                  className="postTitle"
-                  dangerouslySetInnerHTML={{ __html: blog.node.title }}
-                />
-                <p className="postDate">{blog.node.date}</p>
+                <h4 className="postTitle">{blog.title}</h4>
+                <p className="postDate">{blog.date}</p>
               </div>
             </Link>
           </div>
@@ -124,15 +121,19 @@ export default IndexPage
 export const query = graphql`
   query {
     allWpPost(limit: 2) {
-      node {
+      nodes {
         title
-        slug
+        uri
         date(formatString: "MMMM DD, YYYY")
         categories {
-          name
+          nodes {
+            name
+          }
         }
-        featured_media {
-          source_url
+        featuredImage {
+          node {
+            sourceUrl
+          }
         }
       }
     }

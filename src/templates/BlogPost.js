@@ -35,9 +35,6 @@ export const query = graphql`
         content
         excerpt
         date(formatString: "MMMM DD, YYYY")
-        categories {
-          name
-        }
       }
     }
   }

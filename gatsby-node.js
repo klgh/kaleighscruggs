@@ -1,6 +1,6 @@
 const path = require(`path`)
 
-exports.createPages = async ({ graphql, actions }) => {
+exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
   const BlogPostTemplate = path.resolve("./src/templates/BlogPost.js")
   const PageTemplate = path.resolve("./src/templates/Page.js")
@@ -22,12 +22,14 @@ exports.createPages = async ({ graphql, actions }) => {
           title
           content
           slug
+          uri
         }
       }
       allWpCategory {
         nodes {
           name
           slug
+          uri
         }
       }
     }
@@ -38,10 +40,10 @@ exports.createPages = async ({ graphql, actions }) => {
     const BlogPosts = result.data.allWpPost.nodes
     BlogPosts.forEach(post => {
       createPage({
-        path: `/blog/${post.nodes.slug}`,
+        path: `/blog/${post.slug}`,
         component: BlogPostTemplate,
         context: {
-          slug: nodes.slug,
+          slug: post.slug,
         },
       })
     })
@@ -49,10 +51,10 @@ exports.createPages = async ({ graphql, actions }) => {
     const Pages = result.data.allWpPage.nodes
     Pages.forEach(page => {
       createPage({
-        path: `/${page.nodes.slug}`,
+        path: `/${page.slug}`,
         component: PageTemplate,
         context: {
-          slug: nodes.slug,
+          slug: page.slug,
         },
       })
     })
@@ -60,10 +62,10 @@ exports.createPages = async ({ graphql, actions }) => {
     const Category = result.data.allWpCategory.nodes
     Category.forEach(category => {
       createPage({
-        path: `/category/${category.nodes.slug}`,
+        path: `/category/${category.slug}`,
         component: CategoryTemplate,
         context: {
-          slug: nodes.slug,
+          slug: category.slug,
         },
       })
     })

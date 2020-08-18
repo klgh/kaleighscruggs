@@ -12,16 +12,16 @@ const CategoryTemplate = ({ data }) => (
       <ul>
         {data.allWpPost.edges.map(post => (
           <li>
-            <Link to={`/blog/${post.node.slug}`}>
+            <Link to={`/blog/${post.slug}`}>
               <div className="postPreview">
                 <h2
                   className="postTitle"
-                  dangerouslySetInnerHTML={{ __html: post.node.title }}
+                  dangerouslySetInnerHTML={{ __html: post.title }}
                 />
-                <p className="postDate">{post.node.date}</p>
+                <p className="postDate">{post.date}</p>
                 <div
                   className="postDescription"
-                  dangerouslySetInnerHTML={{ __html: post.node.excerpt }}
+                  dangerouslySetInnerHTML={{ __html: post.excerpt }}
                 />
               </div>
             </Link>
@@ -35,14 +35,14 @@ const CategoryTemplate = ({ data }) => (
 export default CategoryTemplate
 
 export const query = graphql`
-  query($id: Int!) {
-    wordpressCategory(wordpress_id: { eq: $id }) {
+  query($slug: String!) {
+    wpCategory(id: { eq: $slug }) {
       name
     }
     allWpPost(
-      filter: { categories: { elemMatch: { wordpress_id: { eq: $id } } } }
+      filter: { categories: { nodes: { elemMatch: { id: { eq: $slug } } } } }
     ) {
-      node {
+      nodes {
         title
         excerpt
         slug
