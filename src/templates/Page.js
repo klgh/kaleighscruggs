@@ -7,14 +7,12 @@ import "../styles/styles.scss"
 const PageTemplate = ({ data }) => (
   <Layout>
     <SEO
-      title={data.wordpressPage.title}
-      description={data.wordpressPage.title}
+      title={data.allWpPage.title}
+      description={data.allWpPage.title}
     />
-    <div className={data.wordpressPage.slug}>
-      <h2>{data.wordpressPage.title}</h2>
-      <div
-        dangerouslySetInnerHTML={{ __html: data.wordpressPage.content }}
-      ></div>
+    <div className={data.allWpPage.slug}>
+      <h2>{data.allWpPage.title}</h2>
+      <div dangerouslySetInnerHTML={{ __html: data.allWpPage.content }} />
     </div>
   </Layout>
 )

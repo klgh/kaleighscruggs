@@ -16,7 +16,10 @@ export default function BlogPostTemplate({ data }) {
             <em>{post.date}</em>
           </div>
 
-          <div className="blogText">{post.content}</div>
+          <div
+            className="blogText"
+            dangerouslySetInnerHTML={{ __html: post.content }}
+          />
 
           <div className="back-to-blog">
             <Link to="/blog">back to blog</Link>

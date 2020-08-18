@@ -19,7 +19,10 @@ const Blog = ({ data }) => (
               <div className="postPreview" key={node.uri}>
                 <h2 className="postTitle">{node.title}</h2>
                 <p className="postDate">{node.date}</p>
-                <div className="postDescription">{node.excerpt}</div>
+                <div
+                  className="postDescription"
+                  dangerouslySetInnerHTML={{ __html: node.excerpt }}
+                />
               </div>
             </Link>
           </li>

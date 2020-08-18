@@ -102,7 +102,7 @@ const IndexPage = ({ data }) => (
             <Link to={`/blog/${blog.uri}`}>
               <div className="postPreview">
                 <img
-                  src={`${blog.featuredImage.node.source_url}`}
+                  src={`${blog.featuredImage.node.sourceUrl}`}
                   className="blog-card-img"
                 />
                 <h4 className="postTitle">{blog.title}</h4>
