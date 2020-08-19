@@ -36,7 +36,7 @@ export default Blog
 
 export const query = graphql`
   query {
-    allWpPost(sort: { fields: [date] }) {
+    allWpPost(sort: { fields: [date], order: DESC }) {
       nodes {
         title
         excerpt

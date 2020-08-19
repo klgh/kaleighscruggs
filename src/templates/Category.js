@@ -6,14 +6,14 @@ import "../styles/styles.scss"
 
 const CategoryTemplate = ({ data }) => (
   <Layout>
-    <SEO title={data.wordpressCategory.name} />
+    <SEO title={data.wpCategory.name} />
     <div className="categoryPage">
-      <h1 className="categoryHeader">{data.wordpressCategory.name}</h1>
+      <h1 className="categoryHeader">{data.wpCategory.name}</h1>
       <ul>
-        {data.allWpPost.edges.map(post => (
+        {data.allWpPost.nodes.map(post => (
           <li>
             <Link to={`/blog/${post.slug}`}>
-              <div className="postPreview">
+              <div className="postPreview" key={post.slug}>
                 <h2
                   className="postTitle"
                   dangerouslySetInnerHTML={{ __html: post.title }}
@@ -36,8 +36,9 @@ export default CategoryTemplate
 
 export const query = graphql`
   query($slug: String!) {
-    wpCategory(id: { eq: $slug }) {
+    wpCategory(slug: { eq: $slug }) {
       name
+      slug
     }
     allWpPost(
       filter: { categories: { nodes: { elemMatch: { id: { eq: $slug } } } } }
