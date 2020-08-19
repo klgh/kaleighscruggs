@@ -15,8 +15,8 @@ const Blog = ({ data }) => (
       <ul>
         {data.allWpPost.nodes.map(node => (
           <li>
-            <Link to={`/blog/${node.uri}`}>
-              <div className="postPreview" key={node.uri}>
+            <Link to={`/blog/${node.slug}`}>
+              <div className="postPreview" key={node.slug}>
                 <h2 className="postTitle">{node.title}</h2>
                 <p className="postDate">{node.date}</p>
                 <div
@@ -40,7 +40,7 @@ export const query = graphql`
       nodes {
         title
         excerpt
-        uri
+        slug
         date(formatString: "MMMM DD, YYYY")
       }
     }
