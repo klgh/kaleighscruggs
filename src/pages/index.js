@@ -22,12 +22,12 @@ const IndexPage = ({ data }) => (
         <div className="home-text">
           <h3>Hey! 👋 I'm Kaleigh</h3>
           <p>
-            I'm a software engineer with over ten years of experience creating
-            and styling websites. I'm now a Senior Consultant with Daugherty
-            Business Solutions. <br /> I've worked on various projects with clients using
-            their content management systems (WordPress, Drupal, Netlify CMS) to
-            implement new designs and features. I have also worked on web apps
-            using Angular, React, and Gatsby.
+            I'm a developer with over ten years of experience creating and
+            styling websites and applications. I received my master's degree in
+            Business and Technology from UGA and my undergrad at Georgia
+            Southern. I'm currently a senior consultant at Daugherty Business
+            Solutions. I've worked on various projects using WordPress, Drupal,
+            Angular, ReactJS, and GatsbyJS, Ember.JS, and more.
           </p>
           <p>
             I have a passion for diversity and inclusion and at both North

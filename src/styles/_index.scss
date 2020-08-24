@@ -63,6 +63,11 @@
       color: $color4;
       font-weight: bold;
     }
+
+    @include for-size(tablet-only) {
+      font-size: 14px;
+      height: 520px !important;
+    }
     @include for-size(phone-only) {
       height: 680px;
       margin-bottom: 10px;
@@ -70,10 +75,6 @@
       p {
         font-size: 14px;
       }
-    }
-    @include for-size(tablet-only) {
-      font-size: 14px;
-      height: 500px !important;
     }
   }
 }
