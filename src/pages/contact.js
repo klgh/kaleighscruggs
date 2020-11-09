@@ -13,38 +13,7 @@ const ContactPage = () => (
           know!
         </p>
       </div>
-      <div className="content-right">
-        <form
-          name="contact"
-          method="POST"
-          data-netlify="true"
-          action="/success"
-        >
-          <p>
-            <input type="text" name="name" required placeholder="Your Name" />
-          </p>
-          <p>
-            <input
-              type="email"
-              name="email"
-              required
-              placeholder="Your Email"
-            />
-          </p>
-
-          <p>
-            <textarea
-              name="message"
-              required
-              placeholder="Your Message"
-              style={{ marginLeft: "4px" }}
-            ></textarea>
-          </p>
-          <p>
-            <button type="submit">Send</button>
-          </p>
-        </form>
-      </div>
+      <div className="content-right"></div>
     </div>
   </PageLayout>
 )
