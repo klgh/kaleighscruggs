@@ -86,7 +86,6 @@ module.exports = {
         background_color: `white`,
         theme_color: `#f9ded0`,
         display: `minimal-ui`,
-        image: `src/images/kaleighscruggs.jpg`,
       },
     },
     `gatsby-plugin-offline`,
@@ -114,7 +113,8 @@ module.exports = {
       options: {
         url:
           // allows a fallback url if WPGRAPHQL_URL is not set in the env, this may be a local or remote WP instance.
-          process.env.WPGRAPHQL_URL || `https://blog.kaleighscruggs.com/graphql`,
+          process.env.WPGRAPHQL_URL ||
+          `https://blog.kaleighscruggs.com/graphql`,
         schema: {
           //Prefixes all WP Types with "Wp" so "Post and allPost" become "WpPost and allWpPost".
           typePrefix: `Wp`,
