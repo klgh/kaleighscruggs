@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import Layout from "../components/page-layout"
+import Layout from "../layouts/page-layout"
 import SEO from "../components/seo"
 import "../styles/styles.scss"
 
@@ -10,7 +10,7 @@ const CategoryTemplate = ({ data }) => (
     <div className="categoryPage">
       <h1 className="categoryHeader">{data.wordpressCategory.name}</h1>
       <ul>
-        {data.allWordpressPost.edges.map(post => (
+        {data.allWordpressPost.edges.map((post) => (
           <li>
             <Link to={`/blog/${post.node.slug}`}>
               <div className="postPreview">

@@ -1,10 +1,10 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { StaticQuery, graphql } from "gatsby"
-import Header from "./header"
-import Footer from "./footer"
+import Header from "../components/header"
+import Footer from "../components/footer"
 import "../styles/styles.scss"
-/* Layout for pages */
+/* Standard layout for pages */
 
 const PageLayout = ({ children }) => (
   <StaticQuery
@@ -17,14 +17,14 @@ const PageLayout = ({ children }) => (
         }
       }
     `}
-    render={data => (
-      <>
+    render={(data) => (
+      <div className="page-layout">
         <Header siteTitle={data.site.siteMetadata.title} />
-        <div className="mainBody">
+        <div className="content">
           <main>{children}</main>
         </div>
         <Footer />
-      </>
+      </div>
     )}
   />
 )

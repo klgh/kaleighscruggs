@@ -1,5 +1,5 @@
 import React from "react"
-import PageLayout from "../components/page-layout"
+import PageLayout from "../layouts/page-layout"
 import SEO from "../components/seo"
 import { library } from "@fortawesome/fontawesome-svg-core"
 import { fab } from "@fortawesome/free-brands-svg-icons"
@@ -97,7 +97,7 @@ const IndexPage = ({ data }) => (
         </Link>
       </h3>
       <div className="blog-cards">
-        {data.allWordpressPost.edges.map(blog => (
+        {data.allWordpressPost.edges.map((blog) => (
           <div className="card" key={blog.node.slug}>
             <Link to={`/blog/${blog.node.slug}`}>
               <div className="postPreview">

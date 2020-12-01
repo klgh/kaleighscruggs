@@ -1,0 +1,11 @@
+.links-layout {
+  .links {
+    display: flex;
+    flex-direction: column;
+    p {
+      line-height: 3em;
+      margin: 0px auto;
+      @extend %linkStyle;
+    }
+  }
+}

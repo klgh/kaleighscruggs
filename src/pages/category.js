@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import Layout from "../components/page-layout"
+import Layout from "../layouts/page-layout"
 import SEO from "../components/seo"
 /* page for categories */
 
@@ -13,7 +13,7 @@ const Categories = ({ data }) => (
     <div className="categories">
       <h1 className="categoryHeader">Categories</h1>
       <ul>
-        {data.allWordpressCategory.edges.map(category => (
+        {data.allWordpressCategory.edges.map((category) => (
           <li>
             <Link to={`/category/${category.node.slug}`}>
               <div className="categoryName">

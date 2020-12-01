@@ -1,0 +1,41 @@
+.menu {
+  flex-grow: 1.5;
+  display: flex;
+  // flex: 4;
+  @include for-size(phone-only) {
+    margin-left: 20px;
+  }
+  @include for-size(tab-desk) {
+    margin-left: 0px;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding-left: 0px;
+
+    @include for-size(phone-only) {
+      align-items: center;
+      margin-top: 0px;
+    }
+
+    li {
+      margin-right: 20px;
+      @include for-size(phone-only) {
+        font-size: 14px;
+        line-height: 28px;
+      }
+    }
+    .linkItem {
+      color: $color4;
+      text-decoration: none;
+    }
+    .linkItem:hover {
+      color: $color5;
+    }
+    .linkItemActive {
+      color: $color5;
+    }
+  }
+}
