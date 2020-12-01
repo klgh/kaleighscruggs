@@ -30,7 +30,7 @@
     "gatsby-plugin-robots-txt": "^1.5.3",
     "gatsby-plugin-sass": "^2.3.22",
     "gatsby-plugin-sharp": "^2.6.43",
-    "gatsby-plugin-sitemap": "^2.4.17",
+    "gatsby-plugin-sitemap": "^2.7.0",
     "gatsby-plugin-tags": "^2.3.7",
     "gatsby-remark-social-cards": "^0.4.1",
     "gatsby-source-filesystem": "^2.3.37",
