@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import Layout from "../components/page-layout"
+import Layout from "../layouts/page-layout"
 import SEO from "../components/seo"
 /* page for kaleighscruggs.com/blog */
 
@@ -13,7 +13,7 @@ const Blog = ({ data }) => (
         <Link to={`/category/`}>Categories</Link>
       </h4>
       <ul>
-        {data.allWordpressPost.edges.map(blog => (
+        {data.allWordpressPost.edges.map((blog) => (
           <li>
             <Link to={`/blog/${blog.node.slug}`}>
               <div className="postPreview">

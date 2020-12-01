@@ -1,11 +1,11 @@
 import React from "react"
 import { Link } from "gatsby"
-import PageLayout from "../components/page-layout"
+import PageLayout from "../layouts/page-layout"
 import SEO from "../components/seo"
 import Img from "gatsby-image"
 import { graphql } from "gatsby"
 
-const NotFoundPage = props => (
+const NotFoundPage = (props) => (
   <PageLayout>
     <SEO title="404: Not found" />
     <div className="fourohfourpage">
