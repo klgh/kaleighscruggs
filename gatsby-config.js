@@ -97,16 +97,11 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: "gatsby-plugin-web-font-loader",
       options: {
-        fonts: [
-          {
-            family: `Montserrat`,
-          },
-          {
-            family: `Raleway`,
-          },
-        ],
+        google: {
+          families: ["Montserrat", "Raleway"],
+        },
       },
     },
     {
@@ -141,7 +136,7 @@ module.exports = {
         excludedRoutes: [],
         keepMediaSizes: false,
         // use a custom normalizer which is applied after the built-in ones.
-        normalizer: function({ entities }) {
+        normalizer: function ({ entities }) {
           return entities
         },
       },
@@ -172,7 +167,7 @@ module.exports = {
         feeds: [
           {
             serialize: ({ query: { site, allWordpressPost } }) => {
-              return allWordpressPost.edges.map(edge => {
+              return allWordpressPost.edges.map((edge) => {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
                   date: edge.node.date,
