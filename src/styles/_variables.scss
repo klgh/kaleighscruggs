@@ -4,6 +4,12 @@ $color3: #f9ded0;
 $color4: #e6a1dd;
 $color5: #9facfd;
 
+body {
+  margin: 0px;
+  font-family: "Raleway", sans-serif;
+  background-color: white;
+}
+
 /* Media Queries */
 @mixin for-size($size) {
   @if $size == phone-only {

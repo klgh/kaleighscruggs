@@ -86,6 +86,7 @@ module.exports = {
         background_color: `white`,
         theme_color: `#f9ded0`,
         display: `minimal-ui`,
+        icon: `src/images/kaleighscruggs.jpg`,
       },
     },
     `gatsby-plugin-offline`,
@@ -96,16 +97,11 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: "gatsby-plugin-web-font-loader",
       options: {
-        fonts: [
-          {
-            family: `Montserrat`,
-          },
-          {
-            family: `Raleway`,
-          },
-        ],
+        google: {
+          families: ["Montserrat", "Raleway"],
+        },
       },
     },
     {
@@ -160,8 +156,8 @@ module.exports = {
         `,
         feeds: [
           {
-            serialize: ({ query: { site, allWpPost } }) => {
-              return allWpPost.edges.map(edge => {
+            serialize: ({ query: { site, allWordpressPost } }) => {
+              return allWordpressPost.edges.map((edge) => {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
                   date: edge.node.date,

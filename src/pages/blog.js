@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import Layout from "../components/page-layout"
+import Layout from "../layouts/page-layout"
 import SEO from "../components/seo"
 /* page for kaleighscruggs.com/blog */
 
@@ -13,7 +13,7 @@ const Blog = ({ data }) => (
         <Link to={`/category/`}>Categories</Link>
       </h4>
       <ul>
-        {data.allWpPost.nodes.map(node => (
+        {data.allWpPost.nodes.map((node) => (
           <li>
             <Link to={`/blog/${node.slug}`}>
               <div className="postPreview" key={node.slug}>

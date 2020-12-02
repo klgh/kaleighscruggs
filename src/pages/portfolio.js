@@ -1,10 +1,10 @@
 import React from "react"
-import PageLayout from "../components/page-layout"
+import PageLayout from "../layouts/page-layout"
 import SEO from "../components/seo"
 import Img from "gatsby-image"
 import { graphql } from "gatsby"
 
-const Portfolio = props => (
+const Portfolio = (props) => (
   <PageLayout>
     <SEO title="Portfolio" />
     <div className="portfolio">

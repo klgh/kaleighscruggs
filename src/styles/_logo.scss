@@ -1,0 +1,41 @@
+.site-logo {
+  display: flex;
+  flex: auto;
+  flex: 2;
+  padding-left: 80px;
+
+  @include for-size(phone-only) {
+    padding-left: 0px;
+  }
+
+  @include for-size(tablet-only) {
+    padding-left: 0px;
+    line-height: 38px;
+  }
+
+  @include for-size(small-desk) {
+    padding-left: 0px;
+  }
+
+  .ks-logo {
+    width: 50px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    @include for-size(phone-only) {
+      margin-top: 2px;
+      margin-bottom: 0px;
+    }
+  }
+
+  .ks-name {
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    color: $color4;
+    @include for-size(phone-only) {
+      font-size: 30px;
+    }
+    @include for-size(tablet-only) {
+      font-size: 28px;
+    }
+  }
+}
