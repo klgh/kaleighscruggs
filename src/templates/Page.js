@@ -6,10 +6,7 @@ import "../styles/styles.scss"
 
 const PageTemplate = ({ data }) => (
   <Layout>
-    <SEO
-      title={data.allWpPage.title}
-      description={data.allWpPage.title}
-    />
+    <SEO title={data.allWpPage.title} description={data.allWpPage.title} />
     <div className={data.allWpPage.slug}>
       <h2>{data.allWpPage.title}</h2>
       <div dangerouslySetInnerHTML={{ __html: data.allWpPage.content }} />
