@@ -1,15 +1,16 @@
 .links-layout {
-  margin: 0px auto;
-  .links {
-    display: flex;
-    flex-direction: column;
-    .site-logo {
-      margin: 0px auto;
-    }
-    p {
-      line-height: 3em;
-      margin: 0px auto;
-      @extend %linkStyle;
-    }
-  }
+  @extend %linkStyle;
+  // margin: 0px auto;
+  // .links {
+  //   display: flex;
+  //   flex-direction: column;
+  //   .site-logo {
+  //     margin: 0px auto;
+  //   }
+  //   p {
+  //     line-height: 3em;
+  //     margin: 0px auto;
+  //     @extend %linkStyle;
+  //   }
+  // }
 }

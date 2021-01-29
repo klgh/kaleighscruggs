@@ -1,21 +1,16 @@
 .social {
-  flex-grow: 1;
-  flex: 1;
+  display: flex;
+  flex-direction: row;
+  flex: 1 1 auto;
+  align-self: center;
+  @extend %linkStyle;
 
-  @include for-size(phone-only) {
-    margin-right: 0px;
-  }
-  @include for-size(tab-desk) {
-    margin-right: 5px;
-  }
-  @include for-size(tablet-only) {
-    flex-basis: auto;
+  @include for-size(tablet-up) {
+    // flex-direction: column;
   }
 
-  .faIcons {
-    font-size: 18px;
-    @include for-size(phone-only) {
-      line-height: 1px;
-    }
+  a {
+    padding-right: 10px;
+    font-size: 20px;
   }
 }

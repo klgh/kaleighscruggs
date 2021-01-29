@@ -9,6 +9,11 @@ const Portfolio = (props) => (
     <SEO title="Portfolio" />
     <div className="portfolio">
       <h1>Portfolio</h1>
+      <h2>Professional Sites</h2>
+      <p>
+        To view/hear about work done within my consulting career, please contact
+        me.
+      </p>
       <h2>Freelance Sites</h2>
       <div className="kelundra">
         <a
