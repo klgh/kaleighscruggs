@@ -1,11 +1,50 @@
-.home-intro {
-  background: $color2;
+.home-index {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 60em;
 
-  @include for-size(phone-only) {
-    // height: 622px;
-    //padding-top: 50px;
+  .home-intro {
+    background: $color2;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 1.45rem 1.0875rem;
+    max-width: 60em;
+
+    @include for-size(phone-only) {
+      flex-direction: column;
+      max-width: 30em;
+    }
+
+    .home-image {
+      //padding-right: 15px;
+      margin: 1em;
+      .gatsby-image-wrapper {
+        //width: 240px !important;
+        max-height: 30.6em !important;
+        img {
+          max-height: 100% !important;
+          max-width: 100% !important;
+        }
+      }
+    }
+    .home-text {
+      padding: 1em;
+      margin: 1em;
+      background-color: white;
+    }
+  }
+  .find-me {
+    display: flex;
+    flex-direction: row;
+  }
+  .from-the-blog {
+    display: flex;
   }
 }
+
+/* 
 
 .home-main,
 .find-me,
@@ -284,3 +323,4 @@
     }
   }
 }
+ */

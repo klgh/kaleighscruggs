@@ -11,8 +11,8 @@ library.add(fab)
 const IndexPage = ({ data }) => (
   <PageLayout>
     <SEO title="Home" />
-    <div className="home-intro">
-      <div className="home-main">
+    <div className="home-index">
+      <div className="home-intro">
         <div className="home-image">
           <Img
             fixed={data.kaleighscruggs.childImageSharp.fixed}
@@ -63,58 +63,58 @@ const IndexPage = ({ data }) => (
           </p>
         </div>
       </div>
-    </div>
 
-    <div className="find-me">
-      <div className="find-me-box box-1">
-        <div className="text-box">
-          <Link to="/uses">
-            <p>Find out what I use</p>
-          </Link>
-        </div>
-      </div>
-      <div className="find-me-box box-2">
-        <div className="text-box">
-          <Link to="/portfolio">
-            <p>Check out my work</p>
-          </Link>
-        </div>
-      </div>
-      <div className="find-me-box box-3">
-        <div className="text-box">
-          <Link to="/now">
-            <p>See what I'm up to</p>
-          </Link>
-        </div>
-      </div>
-    </div>
-
-    <div className="from-the-blog">
-      <h3>
-        lately from the{" "}
-        <Link to="/blog" className="from-the-blog-link">
-          blog
-        </Link>
-      </h3>
-      <div className="blog-cards">
-        {data.allWordpressPost.edges.map((blog) => (
-          <div className="card" key={blog.node.slug}>
-            <Link to={`/blog/${blog.node.slug}`}>
-              <div className="postPreview">
-                <img
-                  src={`${blog.node.featured_media.source_url}`}
-                  className="blog-card-img"
-                />
-                <h4
-                  className="postTitle"
-                  dangerouslySetInnerHTML={{ __html: blog.node.title }}
-                />
-                <p className="postDate">{blog.node.date}</p>
-              </div>
+      {/* <div className="find-me">
+        <div className="find-me-box box-1">
+          <div className="text-box">
+            <Link to="/uses">
+              <p>Find out what I use</p>
             </Link>
           </div>
-        ))}
+        </div>
+        <div className="find-me-box box-2">
+          <div className="text-box">
+            <Link to="/portfolio">
+              <p>Check out my work</p>
+            </Link>
+          </div>
+        </div>
+        <div className="find-me-box box-3">
+          <div className="text-box">
+            <Link to="/now">
+              <p>See what I'm up to</p>
+            </Link>
+          </div>
+        </div>
       </div>
+
+      <div className="from-the-blog">
+        <h3>
+          lately from the{" "}
+          <Link to="/blog" className="from-the-blog-link">
+            blog
+          </Link>
+        </h3>
+        <div className="blog-cards">
+          {data.allWordpressPost.edges.map((blog) => (
+            <div className="card" key={blog.node.slug}>
+              <Link to={`/blog/${blog.node.slug}`}>
+                <div className="postPreview">
+                  <img
+                    src={`${blog.node.jetpack_featured_media_url.source_url}`}
+                    className="blog-card-img"
+                  />
+                  <h4
+                    className="postTitle"
+                    dangerouslySetInnerHTML={{ __html: blog.node.title }}
+                  />
+                  <p className="postDate">{blog.node.date}</p>
+                </div>
+              </Link>
+            </div>
+          ))}
+        </div>
+      </div> */}
     </div>
   </PageLayout>
 )
@@ -132,7 +132,7 @@ export const query = graphql`
           categories {
             name
           }
-          featured_media {
+          jetpack_featured_media_url {
             source_url
           }
         }
