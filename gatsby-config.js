@@ -1,82 +1,59 @@
-require("dotenv").config()
+/**
+ * 👋 Hey there!
+ * This file is the starting point for your new WordPress/Gatsby site! 🚀
+ * For more information about what this file is and does, see
+ * https://www.gatsbyjs.com/docs/gatsby-config/
+ *
+ */
 
 module.exports = {
-  siteMetadata: {
-    title: `Kaleigh Scruggs`,
-    description: `web developer`,
-    author: `@kaleighscruggs`,
-    twitterUsername: "kaleighscruggs",
-    siteUrl: "https://kaleigh.dev",
-    image: "/images/kaleighscruggs.jpg",
-    logo: "/images/ksLogo.png",
-  },
+  /**
+   * Adding plugins to this array adds them to your Gatsby site.
+   *
+   * Gatsby has a rich ecosystem of plugins.
+   * If you need any more you can search here: https://www.gatsbyjs.com/plugins/
+   */
   plugins: [
-    `gatsby-plugin-catch-links`,
-    `gatsby-plugin-draft`,
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-sass`,
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sitemap`,
     {
-      resolve: `gatsby-remark-social-cards`,
+      /**
+       * First up is the WordPress source plugin that connects Gatsby
+       * to your WordPress site.
+       *
+       * visit the plugin docs to learn more
+       * https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-source-wordpress/README.md
+       *
+       */
+      resolve: `gatsby-source-wordpress`,
       options: {
-        title: {
-          // This is the frontmatter field the title should come from
-          field: "title",
-          // Currently only supports DejaVuSansCondensed
-          // More fonts coming soon!
-          font: "DejaVuSansCondensed",
-          color: "black", // black|white
-          size: 48, // 16|24|32|48|64
-          style: "bold", // normal|bold|italic
-          x: null, // Will default to xMargin
-          y: null, // Will default to yMargin
-        },
-        meta: {
-          // The parts array is what generates the bottom text
-          // Pass an array with strings and objects
-          // The following array will generate:
-          // "- Author Name » September 13"
-          // The objects are used to pull data from your markdown's
-          // frontmatter. { field: "author" } pulls the author set
-          // in the frontmatter. { field: "category" } would pull
-          // the category set. Any field can be used as parts
-          // Note: Only pass the "format" property on date fields
-          parts: [
-            "- ",
-            { field: "author" },
-            " » ",
-            { field: "date", format: "mmmm dS" },
-          ],
-          // Currently only supports DejaVuSansCondensed
-          // More fonts coming soon!
-          font: "DejaVuSansCondensed",
-          color: "black", // black|white
-          size: 24, // 16|24|32|48|64
-          style: "normal", // normal|bold|italic
-          x: null, // Will default to xMargin
-          y: null, // Will default to cardHeight - yMargin - size
-        },
-        background: "#FFFFFF", // Background color for the card
-        xMargin: 24, // Edge margin used when x value is not set
-        yMargin: 24, // Edge margin used when y value is not set
+        // the only required plugin option for WordPress is the GraphQL url.
+        url:
+          process.env.WPGRAPHQL_URL ||
+          `https://blog.kaleighscruggs.com/graphql`,
       },
     },
+
+    /**
+     * We need this plugin so that it adds the "File.publicURL" to our site
+     * It will allow us to access static url's for assets like PDF's
+     *
+     * See https://www.gatsbyjs.org/packages/gatsby-source-filesystem/ for more info
+     */
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
-        path: `${__dirname}/src/images`,
+        name: `assets`,
+        path: `${__dirname}/content/assets`,
       },
     },
-    {
-      resolve: `gatsby-plugin-sharp`,
-      options: {
-        useMozJpeg: false,
-        stripMetadata: true,
-        defaultQuality: 75,
-      },
-    },
+
+    /**
+     * The following two plugins are required if you want to use Gatsby image
+     * See https://www.gatsbyjs.com/docs/gatsby-image/#setting-up-gatsby-image
+     * if you're curious about it.
+     */
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -89,13 +66,6 @@ module.exports = {
         icon: `src/images/kaleighscruggs.jpg`,
       },
     },
-    `gatsby-plugin-offline`,
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: "UA-85166082-3",
-      },
-    },
     {
       resolve: "gatsby-plugin-web-font-loader",
       options: {
@@ -104,110 +74,14 @@ module.exports = {
         },
       },
     },
-    {
-      resolve: "gatsby-source-wordpress",
-      options: {
-        baseUrl: process.env.WORDPRESS_BASE_URL,
-        protocol: process.env.WORDPRESS_PROTOCOL,
-        hostingWPCOM: process.env.WORDPRESS_HOSTING_WPCOM === "true",
-        useACF: process.env.WORDPRESS_USE_ACF === "true",
-        acfOptionPageIds: [],
-        verboseOutput: process.env.WORDPRESS_VERBOSE_OUTPUT === "true",
-        perPage: 100,
-        searchAndReplaceContentUrls: {
-          sourceUrl: "https://blog.kaleighscruggs.com",
-          replacementUrl: "https://blog.kaleighscruggs.com",
-        },
-        auth: {
-          wpcom_user: process.env.WORDPRESS_USER,
-          wpcom_pass: process.env.WORDPRESS_PASSWORD,
-        },
-        // Set how many simultaneous requests are sent at once.
-        concurrentRequests: 10,
-        includedRoutes: [
-          "**/categories",
-          "**/posts",
-          "**/pages",
-          "**/media",
-          "**/tags",
-          "**/taxonomies",
-        ],
-        // Blacklisted routes using glob patterns
-        excludedRoutes: [],
-        keepMediaSizes: false,
-        // use a custom normalizer which is applied after the built-in ones.
-        normalizer: function ({ entities }) {
-          return entities
-        },
-      },
-    },
-    {
-      resolve: "gatsby-plugin-robots-txt",
-      options: {
-        host: "https://kaleigh.dev",
-        sitemap: "https://kaleigh.dev/sitemap.xml",
-        policy: [{ userAgent: "*", allow: "/" }],
-      },
-    },
-    {
-      resolve: `gatsby-plugin-feed`,
-      options: {
-        query: `
-          {
-            site {
-              siteMetadata {
-                title
-                description
-                siteUrl
-                site_url: siteUrl
-              }
-            }
-          }
-        `,
-        feeds: [
-          {
-            serialize: ({ query: { site, allWordpressPost } }) => {
-              return allWordpressPost.edges.map((edge) => {
-                return Object.assign({}, edge.node.frontmatter, {
-                  description: edge.node.excerpt,
-                  date: edge.node.date,
-                  url: site.siteMetadata.siteUrl + edge.node.slug,
-                  guid: site.siteMetadata.siteUrl + edge.node.slug,
-                })
-              })
-            },
-            query: `
-              {
-                allWordpressPost {
-                  edges {
-                    node {
-                      title
-                      excerpt
-                      slug
-                      date(formatString: "MMMM DD, YYYY")
-                    }
-                  }
-                }
-              }
-            `,
-            output: "/rss.xml",
-            title: "Kaleigh's Blog",
-            // optional configuration to insert feed reference in pages:
-            // if `string` is used, it will be used to create RegExp and then test if pathname of
-            // current page satisfied this regular expression;
-            // if not provided or `undefined`, all pages will have feed reference inserted
-            match: "^/blog/",
-            // optional configuration to specify external rss feed, such as feedburner
-            link: "https://feeds.feedburner.com/KaleighScruggs",
-          },
-        ],
-      },
-    },
-    /* {
-      resolve: `gatsby-plugin-favicon`,
-      options: {
-        logo: "./src/images/favicon.png",
-      },
-    }, */
+
+    // See https://www.gatsbyjs.com/plugins/gatsby-plugin-react-helmet/?=gatsby-plugin-react-helmet
+    `gatsby-plugin-react-helmet`,
+
+    /**
+     * this (optional) plugin enables Progressive Web App + Offline functionality
+     * To learn more, visit: https://gatsby.dev/offline
+     */
+    // `gatsby-plugin-offline`,
   ],
 }

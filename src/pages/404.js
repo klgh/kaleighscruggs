@@ -1,33 +1,28 @@
 import React from "react"
-import { Link } from "gatsby"
-import PageLayout from "../layouts/page-layout"
-import SEO from "../components/seo"
-import Img from "gatsby-image"
 import { graphql } from "gatsby"
 
-const NotFoundPage = (props) => (
-  <PageLayout>
-    <SEO title="404: Not found" />
-    <div className="fourohfourpage">
-      <h1>NOT FOUND</h1>
-      <p>You just hit a page that doesn&#39;t exist... the sadness! </p>
-      <Link to="/">Go home and try again</Link>
-      <div className="imgfourohfour">
-        <Img fluid={props.data.saddog.childImageSharp.fluid} />
-      </div>
-    </div>
-  </PageLayout>
-)
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+
+const NotFoundPage = ({ data, location }) => {
+  const siteTitle = data.site.siteMetadata.title
+
+  return (
+    <Layout location={location} title={siteTitle}>
+      <SEO title="404: Not Found" />
+      <h1>404: Not Found</h1>
+      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+    </Layout>
+  )
+}
 
 export default NotFoundPage
 
 export const pageQuery = graphql`
   query {
-    saddog: file(relativePath: { eq: "saddog.jpg" }) {
-      childImageSharp {
-        fluid(maxWidth: 600) {
-          ...GatsbyImageSharpFluid
-        }
+    site {
+      siteMetadata {
+        title
       }
     }
   }

@@ -2,34 +2,35 @@
  * SEO component that queries for data with
  *  Gatsby's useStaticQuery React hook
  *
- * See: https://www.gatsbyjs.org/docs/use-static-query/
+ * See: https://www.gatsbyjs.com/docs/use-static-query/
  */
 
 import React from "react"
 import PropTypes from "prop-types"
-import Helmet from "react-helmet"
+import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-function SEO({ description, lang, meta, title }) {
-  const { site } = useStaticQuery(
+const SEO = ({ description, lang, meta, title }) => {
+  const { wp, wpUser } = useStaticQuery(
     graphql`
       query {
-        site {
-          siteMetadata {
+        wp {
+          generalSettings {
             title
             description
-            author
-            image
-            twitterUsername
-            siteUrl
-            logo
           }
+        }
+
+        # if there's more than one user this would need to be filtered to the main user
+        wpUser {
+          twitter: name
         }
       }
     `
   )
 
-  const metaDescription = description || site.siteMetadata.description
+  const metaDescription = description || wp.generalSettings?.description
+  const defaultTitle = wp.generalSettings?.title
 
   return (
     <Helmet
@@ -37,7 +38,7 @@ function SEO({ description, lang, meta, title }) {
         lang,
       }}
       title={title}
-      titleTemplate={`%s | ${site.siteMetadata.title}`}
+      titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
       meta={[
         {
           name: `description`,
@@ -61,31 +62,15 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata.author,
+          content: wpUser?.twitter || ``,
         },
         {
           name: `twitter:title`,
-          content: site.siteMetadata.title,
+          content: title,
         },
         {
           name: `twitter:description`,
           content: metaDescription,
-        },
-        {
-          name: `twitter:image`,
-          content: "https://kaleigh.dev/images/ksLogo.png",
-        },
-        {
-          name: "google-site-verification",
-          content: "fhEg1khgZdAKxvzKZt4is7V_jnxT7oFedlX3fN-S51M",
-        },
-        {
-          name: "p:domain_verify",
-          content: "5c338206562787efbe4a130871429456",
-        },
-        {
-          name: "pinterest-rich-pin",
-          content: "true",
         },
       ].concat(meta)}
     />
@@ -95,7 +80,7 @@ function SEO({ description, lang, meta, title }) {
 SEO.defaultProps = {
   lang: `en`,
   meta: [],
-  description: `web developer`,
+  description: ``,
 }
 
 SEO.propTypes = {
