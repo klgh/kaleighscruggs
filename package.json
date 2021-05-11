@@ -12,7 +12,7 @@
     "@fortawesome/react-fontawesome": "^0.1.13",
     "@netlify/plugin-lighthouse": "^1.4.2",
     "bootstrap": "^4.5.3",
-    "dotenv": "^8.2.0",
+    "dotenv": "^9.0.2",
     "gatsby": "^2.27.5",
     "gatsby-cli": "^2.14.1",
     "gatsby-image": "^2.6.0",
