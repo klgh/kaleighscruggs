@@ -2,7 +2,6 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Bio from "../components/bio"
 
 const IndexPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -12,7 +11,6 @@ const IndexPage = ({ data, location }) => {
       <SEO title="Home" />
       <div className="index">
         <h1>Home</h1>
-        <Bio />
         <div className="home-text">
           <h3>Hey! I'm Kaleigh</h3>
           <p>
