@@ -12,7 +12,6 @@ const IndexPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Home" />
       <div className="index">
-        <h1>Home</h1>
         <div className="small-container">
           <h3>Hey! I'm Kaleigh</h3>
           <StaticImage
@@ -25,10 +24,12 @@ const IndexPage = ({ data, location }) => {
             I'm a developer with over ten years of experience creating and
             styling websites and applications. I received my master's degree in
             Business and Technology from UGA and my undergrad at Georgia
-            Southern. I'm currently a developer at SportsEngine. I've worked on
-            various projects using WordPress, Drupal, Angular, ReactJS, and
-            GatsbyJS, Ember.JS, and more.
+            Southern. I'm currently a developer at{' '}
+            <a href="https://www.sportsengine.com/">SportsEngine</a>. I've
+            worked on various projects using WordPress, Drupal, Angular,
+            ReactJS, and GatsbyJS, Ember.JS, and more.
           </p>
+
           <p>
             I have a passion for diversity and inclusion and at both North
             Highland and State Farm helped establish Women In Technology
