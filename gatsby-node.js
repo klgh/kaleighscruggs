@@ -1,6 +1,6 @@
 const path = require(`path`)
 const chunk = require(`lodash/chunk`)
-const { getPackedSettings } = require("http2")
+const { getPackedSettings } = require('http2')
 
 // This is a simple debugging tool
 // dd() will prettily dump to the terminal and kill the process

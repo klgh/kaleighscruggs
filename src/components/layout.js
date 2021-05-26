@@ -1,7 +1,7 @@
-import React from "react"
-import { Link, useStaticQuery, graphql } from "gatsby"
-import parse from "html-react-parser"
-
+import React from 'react'
+import { Link, useStaticQuery, graphql } from 'gatsby'
+import parse from 'html-react-parser'
+import Menu from './menu'
 const Layout = ({ isHomePage, children }) => {
   const {
     wp: {
@@ -31,6 +31,7 @@ const Layout = ({ isHomePage, children }) => {
           </Link>
         )}
       </header>
+      <Menu/>
 
       <main>{children}</main>
 

@@ -4,6 +4,7 @@ import Layout from '../components/layout'
 import SEO from '../components/seo'
 import '../styles/styles.scss'
 import { StaticImage } from 'gatsby-plugin-image'
+import LatestBlogPost from '../components/blogpostslatest'
 
 const IndexPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -62,6 +63,9 @@ const IndexPage = ({ data, location }) => {
             </a>{' '}
             as an evangelist and volunteer.
           </p>
+        </div>
+        <div className="small-container">
+          <LatestBlogPost />
         </div>
       </div>
     </Layout>

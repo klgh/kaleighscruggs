@@ -7,6 +7,12 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: `Kaleigh Scruggs`,
+    description: `web developer`,
+    author: `@kaleighscruggs`,
+    twitterUsername: "kaleighscruggs",
+  },
   /**
    * Adding plugins to this array adds them to your Gatsby site.
    *
