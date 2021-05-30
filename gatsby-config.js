@@ -13,62 +13,55 @@ module.exports = {
     author: `@kaleighscruggs`,
     twitterUsername: 'kaleighscruggs',
   },
-  /**
-   * Adding plugins to this array adds them to your Gatsby site.
-   *
-   * Gatsby has a rich ecosystem of plugins.
-   * If you need any more you can search here: https://www.gatsbyjs.com/plugins/
-   */
   plugins: [
     `gatsby-plugin-sass`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    `gatsby-plugin-image`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `pages`,
+        path: `${__dirname}/src/pages/`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `posts`,
+        path: `${__dirname}/content/posts/`,
+      },
+    },
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     name: `assets`,
+    //     path: `${__dirname}/content/assets`,
+    //   },
+    // },
+    {
+      resolve: 'gatsby-plugin-page-creator',
+      options: {
+        path: `${__dirname}/content/posts/`,
+      },
+    },
     {
       resolve: `gatsby-plugin-mdx`,
       options: {
         defaultLayouts: {
-          default: require.resolve('./src/components/layout.js'),
+          posts: require.resolve('./src/templates/blogpost.js'),
+          default: require.resolve('./src/templates/basic-page.js'),
         },
       },
     },
     {
-      /**
-       * First up is the WordPress source plugin that connects Gatsby
-       * to your WordPress site.
-       *
-       * visit the plugin docs to learn more
-       * https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-source-wordpress/README.md
-       *
-       */
       resolve: `gatsby-source-wordpress`,
       options: {
-        // the only required plugin option for WordPress is the GraphQL url.
         url:
           process.env.WPGRAPHQL_URL ||
           `https://blog.kaleighscruggs.com/graphql`,
       },
     },
-
-    /**
-     * We need this plugin so that it adds the "File.publicURL" to our site
-     * It will allow us to access static url's for assets like PDF's
-     *
-     * See https://www.gatsbyjs.org/packages/gatsby-source-filesystem/ for more info
-     */
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `assets`,
-        path: `${__dirname}/content/assets`,
-      },
-    },
-
-    /**
-     * The following two plugins are required if you want to use Gatsby image
-     * See https://www.gatsbyjs.com/docs/gatsby-image/#setting-up-gatsby-image
-     * if you're curious about it.
-     */
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
-    `gatsby-plugin-image`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

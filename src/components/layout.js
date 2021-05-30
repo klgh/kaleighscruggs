@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, useStaticQuery, graphql } from 'gatsby'
 import parse from 'html-react-parser'
-import Menu from './menu'
+import Menu from './header'
 const Layout = ({ isHomePage, children }) => {
   const {
     wp: {
