@@ -31,7 +31,7 @@ const Layout = ({ isHomePage, children }) => {
           </Link>
         )}
       </header>
-      <Menu/>
+      <Menu />
 
       <main>{children}</main>
 

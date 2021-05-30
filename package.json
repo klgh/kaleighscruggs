@@ -8,11 +8,14 @@
     "url": "https://github.com/klgh/kaleighscruggs/issues"
   },
   "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
     "@wordpress/block-library": "^2.29.3",
     "gatsby": "^2.32.13",
     "gatsby-image": "^2.9.0",
     "gatsby-plugin-image": "^1.6.0",
     "gatsby-plugin-manifest": "^2.12.1",
+    "gatsby-plugin-mdx": "^2.6.0",
     "gatsby-plugin-offline": "^3.10.2",
     "gatsby-plugin-react-helmet": "^3.8.0",
     "gatsby-plugin-sass": "^4.6.0",

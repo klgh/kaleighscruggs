@@ -2,7 +2,8 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 import Image from 'gatsby-image'
 import parse from 'html-react-parser'
-import '../styles/styles.scss'
+//import '../styles/styles.scss'
+import '../styles/_blogstyle.scss'
 
 // We're using Gutenberg so we need the block styles
 import '@wordpress/block-library/build-style/style.css'

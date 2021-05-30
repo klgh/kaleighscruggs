@@ -11,7 +11,7 @@ module.exports = {
     title: `Kaleigh Scruggs`,
     description: `web developer`,
     author: `@kaleighscruggs`,
-    twitterUsername: "kaleighscruggs",
+    twitterUsername: 'kaleighscruggs',
   },
   /**
    * Adding plugins to this array adds them to your Gatsby site.
@@ -21,6 +21,14 @@ module.exports = {
    */
   plugins: [
     `gatsby-plugin-sass`,
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        defaultLayouts: {
+          default: require.resolve('./src/components/layout.js'),
+        },
+      },
+    },
     {
       /**
        * First up is the WordPress source plugin that connects Gatsby
