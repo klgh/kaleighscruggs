@@ -66,7 +66,7 @@ const BlogPostTemplate = ({ data: { previous, next, post } }) => {
         >
           <li>
             {previous && (
-              <Link to={previous.uri} rel="prev">
+              <Link to={previous.slug} rel="prev">
                 ← {parse(previous.title)}
               </Link>
             )}
@@ -120,12 +120,14 @@ export const pageQuery = graphql`
     previous: wpPost(id: { eq: $previousPostId }) {
       uri
       title
+      slug
     }
 
     # this gets us the next post by id (if it exists)
     next: wpPost(id: { eq: $nextPostId }) {
       uri
       title
+      slug
     }
   }
 `

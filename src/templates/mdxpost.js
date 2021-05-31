@@ -14,7 +14,7 @@ class MDXPost extends React.Component {
       header = <Header />
     }
     return (
-      <div className="basic-page">
+      <div className="mdxpost">
         {header}
         {children}
         <footer>woooo</footer>
