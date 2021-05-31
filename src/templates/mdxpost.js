@@ -1,7 +1,8 @@
 import React from 'react'
-import Menu from '../components/header'
+import Header from '../layouts/header'
 import '../styles/styles.scss'
-class BlogPost extends React.Component {
+
+class MDXPost extends React.Component {
   render() {
     const { location, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
@@ -10,7 +11,7 @@ class BlogPost extends React.Component {
     if (location.pathname === rootPath) {
       header = <h1>header</h1>
     } else {
-      header = <Menu />
+      header = <Header />
     }
     return (
       <div className="basic-page">
@@ -22,4 +23,4 @@ class BlogPost extends React.Component {
   }
 }
 
-export default BlogPost
+export default MDXPost

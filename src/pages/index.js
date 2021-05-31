@@ -1,10 +1,10 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import Layout from '../components/layout'
+import Layout from '../templates/layout'
 import SEO from '../components/seo'
 import '../styles/styles.scss'
 import { StaticImage } from 'gatsby-plugin-image'
-import LatestBlogPost from '../components/blogpostslatest'
+import LatestBlogPost from '../components/latestposts'
 
 const IndexPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title

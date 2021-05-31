@@ -1,10 +1,10 @@
 import React from 'react'
-import Header from '../components/header'
+import Header from '../layouts/header'
 import '../styles/styles.scss'
 
 class BasicPage extends React.Component {
   render() {
-    const { location, title, children } = this.props
+    const { location, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
     let header
 
