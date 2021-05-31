@@ -2,13 +2,13 @@ import React from 'react'
 import { StaticQuery, graphql } from 'gatsby'
 import Image from 'gatsby-image'
 
-
+import { rhythm } from '../utils/typography'
 
 function Bio() {
   return (
     <StaticQuery
       query={bioQuery}
-      render={(data) => {
+      render={data => {
         const { author, social } = data.site.siteMetadata
         return (
           <div
@@ -28,11 +28,10 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in
-              Minneapolis building silly things.
+              Written by <strong>{author}</strong>.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                You should follow her on Twitter
               </a>
             </p>
           </div>

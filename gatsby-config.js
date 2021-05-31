@@ -1,26 +1,18 @@
 module.exports = {
   siteMetadata: {
     title: `Kaleigh Scruggs`,
+    author: `Kaleigh Scruggs`,
     description: `web developer`,
-    author: `@kaleighscruggs`,
     social: {
       twitter: `kaleighscruggs`,
     },
   },
   plugins: [
-    `gatsby-plugin-sass`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `pages`,
-        path: `${__dirname}/src/pages/`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `posts`,
         path: `${__dirname}/content/posts`,
+        name: `posts`,
       },
     },
     {
@@ -33,11 +25,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-mdx`,
       options: {
-        extensions: [`.mdx`, `.md`],
-        defaultLayouts: {
-          posts: require.resolve('./src/templates/mdxpost.js'),
-          default: require.resolve('./src/templates/basic-page.js'),
-        },
+        extensions: ['.mdx', '.md'],
+        // a workaround to solve mdx-remark plugin compat issue
+        // https://github.com/gatsbyjs/gatsby/issues/15486
+        plugins: [
+          `gatsby-remark-images`,
+        ],
         gatsbyRemarkPlugins: [
           {
             resolve: `gatsby-remark-images`,
@@ -61,36 +54,8 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: 'gatsby-plugin-page-creator',
-      options: {
-        path: `${__dirname}/content/posts`,
-      },
-    },
-
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    `gatsby-plugin-image`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `kaleigh scruggs`,
-        short_name: `kaleigh.dev`,
-        start_url: `/`,
-        background_color: `white`,
-        theme_color: `#f9ded0`,
-        display: `minimal-ui`,
-        icon: `src/images/kaleighscruggs.jpg`,
-      },
-    },
-    // {
-    //   resolve: 'gatsby-plugin-web-font-loader',
-    //   options: {
-    //     google: {
-    //       families: ['Montserrat', 'Raleway'],
-    //     },
-    //   },
-    // },
     // {
     //   resolve: `gatsby-plugin-google-analytics`,
     //   options: {
@@ -114,7 +79,7 @@ module.exports = {
         feeds: [
           {
             serialize: ({ query: { site, allMdx } }) => {
-              return allMdx.edges.map((edge) => {
+              return allMdx.edges.map(edge => {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
                   data: edge.node.frontmatter.date,
@@ -156,9 +121,25 @@ module.exports = {
         ],
       },
     },
-
-    `gatsby-plugin-react-helmet`,
-
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Gatsby Starter Blog`,
+        short_name: `GatsbyJS`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        theme_color: `#663399`,
+        display: `minimal-ui`,
+        icon: `content/assets/gatsby-icon.png`,
+      },
+    },
     `gatsby-plugin-offline`,
+    `gatsby-plugin-react-helmet`,
+    {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+        pathToConfigModule: `src/utils/typography`,
+      },
+    },
   ],
 }
