@@ -1,24 +1,12 @@
-/**
- * 👋 Hey there!
- * This file is the starting point for your new WordPress/Gatsby site! 🚀
- * For more information about what this file is and does, see
- * https://www.gatsbyjs.com/docs/gatsby-config/
- *
- */
-
 module.exports = {
   siteMetadata: {
     title: `Kaleigh Scruggs`,
     description: `web developer`,
     author: `@kaleighscruggs`,
-    twitterUsername: 'kaleighscruggs',
+    social: {
+      twitter: `kaleighscruggs`,
+    },
   },
-  /**
-   * Adding plugins to this array adds them to your Gatsby site.
-   *
-   * Gatsby has a rich ecosystem of plugins.
-   * If you need any more you can search here: https://www.gatsbyjs.com/plugins/
-   */
   plugins: [
     `gatsby-plugin-sass`,
     {
@@ -36,6 +24,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/assets`,
+        name: `assets`,
+      },
+    },
+    {
       resolve: `gatsby-plugin-mdx`,
       options: {
         extensions: [`.mdx`, `.md`],
@@ -50,6 +45,19 @@ module.exports = {
               maxWidth: 590,
             },
           },
+          {
+            resolve: `gatsby-remark-responsive-iframe`,
+            options: {
+              wrapperStyle: `margin-bottom: 1.0725rem`,
+            },
+          },
+          {
+            resolve: `gatsby-remark-copy-linked-files`,
+          },
+
+          {
+            resolve: `gatsby-remark-smartypants`,
+          },
         ],
       },
     },
@@ -59,43 +67,7 @@ module.exports = {
         path: `${__dirname}/content/posts`,
       },
     },
-    {
-      /**
-       * First up is the WordPress source plugin that connects Gatsby
-       * to your WordPress site.
-       *
-       * visit the plugin docs to learn more
-       * https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-source-wordpress/README.md
-       *
-       */
-      resolve: `gatsby-source-wordpress`,
-      options: {
-        // the only required plugin option for WordPress is the GraphQL url.
-        url:
-          process.env.WPGRAPHQL_URL ||
-          `https://blog.kaleighscruggs.com/graphql`,
-      },
-    },
 
-    /**
-     * We need this plugin so that it adds the "File.publicURL" to our site
-     * It will allow us to access static url's for assets like PDF's
-     *
-     * See https://www.gatsbyjs.org/packages/gatsby-source-filesystem/ for more info
-     */
-    // {
-    //   resolve: `gatsby-source-filesystem`,
-    //   options: {
-    //     name: `assets`,
-    //     path: `${__dirname}/content/assets`,
-    //   },
-    // },
-
-    /**
-     * The following two plugins are required if you want to use Gatsby image
-     * See https://www.gatsbyjs.com/docs/gatsby-image/#setting-up-gatsby-image
-     * if you're curious about it.
-     */
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-image`,
@@ -111,22 +83,82 @@ module.exports = {
         icon: `src/images/kaleighscruggs.jpg`,
       },
     },
+    // {
+    //   resolve: 'gatsby-plugin-web-font-loader',
+    //   options: {
+    //     google: {
+    //       families: ['Montserrat', 'Raleway'],
+    //     },
+    //   },
+    // },
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     //trackingId: `ADD YOUR TRACKING ID HERE`,
+    //   },
+    // },
     {
-      resolve: 'gatsby-plugin-web-font-loader',
+      resolve: `gatsby-plugin-feed`,
       options: {
-        google: {
-          families: ['Montserrat', 'Raleway'],
-        },
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMdx } }) => {
+              return allMdx.edges.map((edge) => {
+                return Object.assign({}, edge.node.frontmatter, {
+                  description: edge.node.excerpt,
+                  data: edge.node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                  guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
+                  custom_elements: [{ 'content:encoded': edge.node.html }],
+                })
+              })
+            },
+
+            /* if you want to filter for only published posts, you can do
+             * something like this:
+             * filter: { frontmatter: { published: { ne: false } } }
+             * just make sure to add a published frontmatter field to all posts,
+             * otherwise gatsby will complain
+             **/
+            query: `
+            {
+              allMdx(
+                limit: 1000,
+                sort: { order: DESC, fields: [frontmatter___date] },
+              ) {
+                edges {
+                  node {
+                    fields { slug }
+                    frontmatter {
+                      title
+                      date
+                    }
+                    html
+                  }
+                }
+              }
+            }
+            `,
+            output: '/rss.xml',
+            title: 'Gatsby RSS feed',
+          },
+        ],
       },
     },
 
-    // See https://www.gatsbyjs.com/plugins/gatsby-plugin-react-helmet/?=gatsby-plugin-react-helmet
     `gatsby-plugin-react-helmet`,
 
-    /**
-     * this (optional) plugin enables Progressive Web App + Offline functionality
-     * To learn more, visit: https://gatsby.dev/offline
-     */
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
   ],
 }

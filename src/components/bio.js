@@ -1,46 +1,65 @@
 import React from 'react'
-import { useStaticQuery, graphql } from 'gatsby'
+import { StaticQuery, graphql } from 'gatsby'
+import Image from 'gatsby-image'
 
-const Bio = () => {
-  const { author } = useStaticQuery(graphql`
-    query BioQuery {
-      # if there was more than one user, this would need to be filtered
-      author: wpUser {
-        firstName
-        description
-        avatar {
-          url
+
+
+function Bio() {
+  return (
+    <StaticQuery
+      query={bioQuery}
+      render={(data) => {
+        const { author, social } = data.site.siteMetadata
+        return (
+          <div
+            style={{
+              display: `flex`,
+              marginBottom: rhythm(2.5),
+            }}
+          >
+            <Image
+              fixed={data.avatar.childImageSharp.fixed}
+              alt={author}
+              style={{
+                marginRight: rhythm(1 / 2),
+                marginBottom: 0,
+                minWidth: 50,
+                borderRadius: `100%`,
+              }}
+            />
+            <p>
+              Written by <strong>{author}</strong> who lives and works in
+              Minneapolis building silly things.
+              {` `}
+              <a href={`https://twitter.com/${social.twitter}`}>
+                You should follow him on Twitter
+              </a>
+            </p>
+          </div>
+        )
+      }}
+    />
+  )
+}
+
+const bioQuery = graphql`
+  query BioQuery {
+    avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+      childImageSharp {
+        fixed(width: 50, height: 50) {
+          ...GatsbyImageSharpFixed
         }
       }
     }
-  `)
-
-  const avatarUrl = author?.avatar?.url
-
-  return (
-    <div className="bio">
-      {avatarUrl && (
-        <img
-          alt={author?.firstName || ``}
-          className="bio-avatar"
-          src={avatarUrl}
-        />
-      )}
-      {author?.firstName && (
-        <p>
-          Written by <strong>{author.firstName}</strong>
-          {` `}
-          {author?.description || null}
-          {` `}
-          {author?.firstName && (
-            <a href={`https://twitter.com/kaleighscruggs`}>
-              You should follow her on Twitter
-            </a>
-          )}
-        </p>
-      )}
-    </div>
-  )
-}
+    site {
+      siteMetadata {
+        author
+        social {
+          twitter
+        }
+      }
+    }
+  }
+`
 
 export default Bio

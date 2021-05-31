@@ -1,17 +1,23 @@
 import React from 'react'
-import { graphql } from 'gatsby'
-import Layout from '../templates/layout'
+import { Link, graphql } from 'gatsby'
+import Layout from '../layouts/layout'
 import SEO from '../components/seo'
 import '../styles/styles.scss'
 import { StaticImage } from 'gatsby-plugin-image'
-import LatestBlogPost from '../components/latestposts'
+import Bio from '../components/bio'
 
-const IndexPage = ({ data, location }) => {
+const IndexPage = () => {
+  const { data } = this.props
   const siteTitle = data.site.siteMetadata.title
+  const posts = data.allMdx.edges
 
   return (
-    <Layout location={location} title={siteTitle}>
-      <SEO title="Home" />
+    <Layout location={this.props.location} title={siteTitle}>
+      <SEO
+        title="All posts"
+        keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+      />
+      <Bio />
       <div className="index">
         <div className="small-container">
           <h3>Hey! I'm Kaleigh</h3>
@@ -65,7 +71,24 @@ const IndexPage = ({ data, location }) => {
           </p>
         </div>
         <div className="small-container">
-          <LatestBlogPost />
+          {posts.map(({ node }) => {
+            const title = node.frontmatter.title || node.fields.slug
+            return (
+              <div key={node.fields.slug}>
+                <h3
+                  style={{
+                    marginBottom: rhythm(1 / 4),
+                  }}
+                >
+                  <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                    {title}
+                  </Link>
+                </h3>
+                <small>{node.frontmatter.date}</small>
+                <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              </div>
+            )
+          })}
         </div>
       </div>
     </Layout>
@@ -79,6 +102,20 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+      }
+    }
+    allMdx(sort: { fields: [frontmatter___date], order: DESC }) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            date(formatString: "MMMM DD, YYYY")
+            title
+          }
+        }
       }
     }
   }

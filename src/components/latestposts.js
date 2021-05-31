@@ -1,18 +1,18 @@
 import React from 'react'
-import { useStaticQuery, graphql } from 'gatsby'
+//import { useStaticQuery, graphql } from 'gatsby'
 
 const LatestBlogPost = () => {
-  const data = useStaticQuery(graphql`
-    query lasttwoPosts {
-      allWpPost(limit: 2) {
-        edges {
-          node {
-            title
-          }
-        }
-      }
-    }
-  `)
+  // const data = useStaticQuery(graphql`
+  //   query lasttwoPosts {
+  //     allWpPost(limit: 2) {
+  //       edges {
+  //         node {
+  //           title
+  //         }
+  //       }
+  //     }
+  //   }
+  // `)
 
   return (
     <header>

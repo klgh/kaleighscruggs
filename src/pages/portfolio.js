@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
-import Layout from '../templates/layout'
+import Layout from '../layouts/layout'
 import SEO from '../components/seo'
 
 const PortfolioPage = ({ data, location }) => {

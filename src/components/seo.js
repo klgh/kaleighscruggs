@@ -1,78 +1,68 @@
-/**
- * SEO component that queries for data with
- *  Gatsby's useStaticQuery React hook
- *
- * See: https://www.gatsbyjs.com/docs/use-static-query/
- */
-
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Helmet } from 'react-helmet'
-import { useStaticQuery, graphql } from 'gatsby'
+import Helmet from 'react-helmet'
+import { StaticQuery, graphql } from 'gatsby'
 
-const SEO = ({ description, lang, meta, title }) => {
-  const { wp, wpUser } = useStaticQuery(
-    graphql`
-      query {
-        wp {
-          generalSettings {
-            title
-            description
-          }
-        }
-
-        # if there's more than one user this would need to be filtered to the main user
-        wpUser {
-          twitter: name
-        }
-      }
-    `
-  )
-
-  const metaDescription = description || wp.generalSettings?.description
-  const defaultTitle = wp.generalSettings?.title
-
+function SEO({ description, lang, meta, keywords, title }) {
   return (
-    <Helmet
-      htmlAttributes={{
-        lang,
+    <StaticQuery
+      query={detailsQuery}
+      render={data => {
+        const metaDescription =
+          description || data.site.siteMetadata.description
+        return (
+          <Helmet
+            htmlAttributes={{
+              lang,
+            }}
+            title={title}
+            titleTemplate={`%s | ${data.site.siteMetadata.title}`}
+            meta={[
+              {
+                name: `description`,
+                content: metaDescription,
+              },
+              {
+                property: `og:title`,
+                content: title,
+              },
+              {
+                property: `og:description`,
+                content: metaDescription,
+              },
+              {
+                property: `og:type`,
+                content: `website`,
+              },
+              {
+                name: `twitter:card`,
+                content: `summary`,
+              },
+              {
+                name: `twitter:creator`,
+                content: data.site.siteMetadata.author,
+              },
+              {
+                name: `twitter:title`,
+                content: title,
+              },
+              {
+                name: `twitter:description`,
+                content: metaDescription,
+              },
+            ]
+              .concat(
+                keywords.length > 0
+                  ? {
+                      name: `keywords`,
+                      content: keywords.join(`, `),
+                    }
+                  : []
+              )
+              .concat(meta)}
+          />
+        )
       }}
-      title={title}
-      titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
-      meta={[
-        {
-          name: `description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:title`,
-          content: title,
-        },
-        {
-          property: `og:description`,
-          content: metaDescription,
-        },
-        {
-          property: `og:type`,
-          content: `website`,
-        },
-        {
-          name: `twitter:card`,
-          content: `summary`,
-        },
-        {
-          name: `twitter:creator`,
-          content: wpUser?.twitter || ``,
-        },
-        {
-          name: `twitter:title`,
-          content: title,
-        },
-        {
-          name: `twitter:description`,
-          content: metaDescription,
-        },
-      ].concat(meta)}
     />
   )
 }
@@ -80,14 +70,27 @@ const SEO = ({ description, lang, meta, title }) => {
 SEO.defaultProps = {
   lang: `en`,
   meta: [],
-  description: ``,
+  keywords: [],
 }
 
 SEO.propTypes = {
   description: PropTypes.string,
   lang: PropTypes.string,
-  meta: PropTypes.arrayOf(PropTypes.object),
+  meta: PropTypes.array,
+  keywords: PropTypes.arrayOf(PropTypes.string),
   title: PropTypes.string.isRequired,
 }
 
 export default SEO
+
+const detailsQuery = graphql`
+  query DefaultSEOQuery {
+    site {
+      siteMetadata {
+        title
+        description
+        author
+      }
+    }
+  }
+`
