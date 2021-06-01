@@ -47,6 +47,13 @@
     "eslint-plugin-react": "^7.11.1",
     "prettier": "^2.3.0"
   },
+ 
+    "resolutions": {
+      "graphql": "^15.4.0",
+      "graphql-compose": "^7.25.0",
+      "webpack": "^5.24.2"
+    },
+
   "homepage": "https://github.com/klgh/kaleighscruggs#readme",
   "keywords": [
     "gatsby"
@@ -64,7 +71,6 @@
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "develop": "gatsby develop",
     "start": "npm run develop",
-    "build": "gatsby build",
-    "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
+    "build": "gatsby build"
   }
 }
