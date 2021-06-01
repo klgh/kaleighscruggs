@@ -8,9 +8,14 @@
     "url": "https://github.com/klgh/kaleighscruggs/issues"
   },
   "dependencies": {
+    "@chakra-ui/gatsby-plugin": "^2.0.1",
+    "@chakra-ui/react": "^1.6.3",
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
     "@mdx-js/mdx": "^1.4.0",
     "@mdx-js/react": "^1.4.0",
     "@mdx-js/tag": "^0.20.3",
+    "framer-motion": "^4.1.17",
     "gatsby": "^3.6.1",
     "gatsby-image": "^3.6.0",
     "gatsby-plugin-feed": "^3.6.0",
