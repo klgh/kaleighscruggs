@@ -6,6 +6,7 @@ module.exports = {
     social: {
       twitter: `kaleighscruggs`,
     },
+    siteUrl: `https://kaleigh.dev/`,
   },
   plugins: [
     {
