@@ -7,3 +7,4 @@
 - [Sass](https://sass-lang.com/)
 - [Primitive](https://taniarascia.github.io/primitive/index.html) by [Tania Rascia](https://www.taniarascia.com/)
 - [MDX](https://mdxjs.com/)
+- [Typography.js](https://github.com/KyleAMathews/typography.js)
