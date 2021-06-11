@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import { Box, Text } from '@chakra-ui/react'
+import Bio from '../components/bio'
 
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
@@ -16,6 +17,7 @@ const PortfolioPage = ({ data, location }) => {
         <Box p={8}>
           <Text fontSize="xl">Hello World</Text>
         </Box>
+        <Bio />
         <p>Hello World</p>
         <h2>Freelance Sites</h2>
         <div className="kelundra">
