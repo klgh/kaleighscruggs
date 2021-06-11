@@ -1,0 +1,41 @@
+---
+title: "London"
+date: "2021-06-11"
+categories: 
+  - "travel"
+---
+
+![London](images/londonCBR.png)
+
+  
+
+On Thursday, July 23, we arrived in London's St Pancras Station via the Eurostar from Paris. It took longer than normal because we had to stop in the Chunnel because a train's brakes ahead of us weren't working. Yes, completely stopped underneath the English Channel. Awesome. But anyways, we eventually made it out. We made our way to the tube, and didn't have to worry about buying any tickets because I had ordered [Oyster cards](https://tfl.gov.uk/travel-information/visiting-london/) ahead of time. We took the tube to Covent Garden, and walked through the market to our hotel, [Strand Palace Hotel](https://www.strandpalacehotel.co.uk/). We couldn't check in yet, but left our bags there. We were starving, and I wanted to take Shaun to Ye Olde Cheshire Cheese. I had already been here before when I studied in London, but I had to take him to the oldest pub, rebuilt in 1667!
+
+  
+  
+
+  
+
+  ![cheese5](images/cheese5.jpg)![cheese1](images/cheese1.jpg)![cheese2](images/cheese2.jpg)![cheese3](images/cheese3.jpg)![cheese4](images/cheese4.jpg) 
+
+ It was so good, and hit the spot. Once we were done, we walked down to the Thames River to go back to our hotel and officially check in. ![bikes](images/bikes.jpg)![courtofjustice](images/courtofjustice.jpg)![river](images/river.jpg)
+
+  
+
+After dropping off our things in our room, we went back out to see some more sights of London!
+
+  
+
+  ![trafalger1](images/trafalger1.jpg)![trafalger2](images/trafalger2.jpg) Trafalger Square, St. James's Park, ![james1](images/james1.jpg) And our new house: ![buckingham1](images/buckingham1.jpg)![buckingham2](images/buckingham2.jpg)![buckingham3](images/buckingham3.jpg)![buckingham4](images/buckingham4.jpg)![buckingham5](images/buckingham5.jpg) Horseguard ![horseguard](images/horseguard.jpg) And of course, Big Ben: ![bigben](images/bigben.jpg) By this point, it was time for dinner so we went to St Stephen's Tavern Pub right across the street from Big Ben. We we seated at a tiny table, and I went to the bar to order Shaun a beer, and a Pimms for myself. ![pubdinner1](images/pubdinner1.jpg)![pubdinner2](images/pubdinner2.jpg) 
+
+  
+
+ So good. Then we had food, Shaun got fish & chips, and I got a pasta dish. It was all so good. By this time it was later than we thought because the sun doesn't set until much later in Europe. We walked around, and then went to a Tesco to buy some candy. When we got back in the hotel, we decided it was time to do some laundry. So we took turns washing our clothes in the sink, and Shaun had brought some paracord, so he figured out a way to hang our clothes in the room and had the fan hitting it. Genius. We watched some British game shows and I was totally beasting it. Too bad I don't live there... 
+
+  
+
+The next day, we woke up and it was pouring outside. We decided to go to the British Museum. We walked there while it was raining but it wasn’t too bad. We walked around the museum for a few hours, and then needed some food and to get out of the museum crowd. Everyone had the same idea! When we got outside it was pouring, so we started walking down Tottenham Court Road and I found a pub called The Royal George on my phone. We found it behind all of the construction for the new tube station. We ordered some drinks and took a look at the menu. We decided on an appetizer of chips & dips (aka fries and 3 amazing sauces), and burgers. Everything was so good! We had great drinks, Shaun even had one from a brewery in Greenwich called Meantime…so funny. The chips were sooo good. They came with sriracha mayo, bbq, and ketchup. 
+
+  
+
+![image](images/coventbikes.jpg)![coventbikes](images/coventbikes.jpg)  ![hydeparkbike2](images/hydeparkbike2.jpg)![hydeparklake](images/hydeparklake.jpg)![diana](images/diana.jpg)![hydeparklake2](images/hydeparklake2.jpg)![piccadilly](images/piccadilly.jpg) Hyde Park is so pretty! We walked the bikes along the lake, and then went to go to Regent’s Park, and then Camden Town for the markets. ![regentspark](images/regentspark.jpg)![stablesmarket](images/stablesmarket.jpg) After walking around Camden, we got on the tube and took it to Goodge Street…my tube stop when I studied in London! We walked by my old dorm, and I took Shaun to the pub we went to almost every night. Unfortunately they still insisted on asking for my ID, and didn’t have the best beer selection or service. Oh well. ![royalgeorge2](images/royalgeorge2.jpg) Then we ended up walking back to The Royal George for a drink and more chips & dips, but this time we got sweet potato fries instead. So good! We went to The Cool Brittanica, a huge souvenir store and found Shaun's name on a key chain!! Exciting! We didn't get it (or find one with my name). ![shaunkeychain](images/shaunkeychain.jpg) After not finding anything worth buying, we had dinner at Nando's. It's Portuguese chicken...it was so good! Very spicy, but definitely worth the mouth fire. We decided we needed to cool off at the Coal Hole. ![coalhole2](images/coalhole2.jpg) The next day, it was raining again, and it was our last day in London since our train to Edinburgh left around 4pm. We had breakfast, and then checked out of the hotel, but were able to leave our bags again while we finished our time in London. [![strandpalace](images/strandpalace.jpg)](http://blog.kaleighscruggs.com/wp-content/uploads/2015/09/strandpalace.jpg) We took the bus to the Museum of London ![londonrain](images/londonrain.jpg) And afterwards, Shaun wanted to see the London Bridge. I told him it's not what he thought it was...it wasn't..he was thinking of the Tower Bridge. But we had a good view of it. ![bridge](images/bridge.jpg) Then time was getting close, so we got back on a bus to the hotel to grab our bags. We ended up having a little more time than we thought, so we got one last beer in London at the Coal Hole. ![coalhole1](images/coalhole1.jpg) Then we really needed to go! We took the tube to King's Cross. I wanted to show Shaun Platform 9 3/4 but they moved it from the actual train platforms, and it was now in a really touristy area. Lame. ![tube](images/tube.jpg) A little bit later, we were pulling out of Kings Cross, on our way to Edinburgh Waverley. That will be the next post! Check out where we went before we got to London: [Dublin](http://blog.kaleighscruggs.com/2015/08/31/dublin/) | Brussels | ParisConnect with me! Facebook | [Twitter](http://twitter.com/kaleighcodes) | Instagram |Tumblr | [Pinterest](http://pinterest.com/kleach)
