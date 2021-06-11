@@ -1,0 +1,10 @@
+{
+  "no-inline-html": {
+    "allowed_elements": [
+      "Instagram",
+      "PinterestFollowButton",
+      "PinterestBoard",
+      "TwitterFollowButton"
+    ]
+  }
+}

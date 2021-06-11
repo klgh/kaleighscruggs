@@ -11,6 +11,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-sass`,
     `@chakra-ui/gatsby-plugin`,
+    `gatsby-plugin-mdx-embed`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
