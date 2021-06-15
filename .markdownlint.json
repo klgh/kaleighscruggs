@@ -6,5 +6,6 @@
       "PinterestBoard",
       "TwitterFollowButton"
     ]
-  }
+  },
+  "line-length": false
 }

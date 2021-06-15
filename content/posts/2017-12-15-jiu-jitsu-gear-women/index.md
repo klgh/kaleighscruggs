@@ -15,7 +15,7 @@ There aren't a ton of resources for women who do jiu-jitsu online. I found a few
 
 Now that I've trained for well over a year (how'd that happen?!?!), I feel like I can share jiu-jitsu gear information that may be helpful (or just give insight) to other women.
 
-# Gi Jiu-Jitsu
+## Gi Jiu-Jitsu
 
 ![](images/IMG_20171013_180100-768x1024.jpg)
 
@@ -29,7 +29,7 @@ Don't forget [your belt](https://www.amazon.com/Venum-BJJ-Belt-White-A2/dp/B00B4
 
 I have talked to a few girls at my gym and we all wear different things underneath. Some just wear underwear under their gi, some wear long leggings and long sleeves. So it's whatever you're most comfortable with. Personally, I have witnessed my gi pants come untied MANY times and I wouldn't want to be wearing only underwear underneath just in case!
 
-# No-Gi Jiu-Jitsu
+## No-Gi Jiu-Jitsu
 
 ![bjj](images/20160723_121140-e1473185145601-scaled-e1590287160110-576x1024.jpg)
 
@@ -59,15 +59,13 @@ I recently bought this awesome rashguard from Fuji. I got it on sale (you can us
 
 Last but definitely not least, do find a [good sports bra](https://web.archive.org/web/20161221164547/http://www.target.com:80/p/women-s-power-core-compression-racerback-sports-bra-c9-champion/-/A-50271294). I really love the C9 sports bras from Target, so that's my main go-to right now. Plus they always have new colors and patterns, but I heard that Victoria's Secret's sports bras are great as well.
 
-# Always
+## Always
 
 After class, I ALWAYS change my clothes. The women's locker room doesn't have a shower, so I change my clothes and shower the second I get home.  Gotta practice good hygiene! I even keep some baby wipes in my gym bag just in case and use hand sanitizer before I leave. It's SO important to keep good hygiene when doing jiu-jitsu! You don't want to get or spread anything from anyone.
 
 **Gym Bag**. I use my Kavu Duffy bag. Just like with any Kavu bag, there are a ton of pockets and storage. Plus it stands out among the rest of the bags in the locker room.
 
 ![kavu duffel](images/Screen-Shot-2016-09-07-at-3.45.03-PM-283x300.png)
-
-
 
 **Mouthguard & case**. So far I've used 2 different mouth guards. The first one I used was a [Shock Doctor Gel Max](https://www.amazon.com/gp/product/B00IAO7WPO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IAO7WPO&linkCode=as2&tag=kaleigh-20&linkId=4b1be4c2f3327d45b53eb6cdf5242a0e). It's bulky but makes you feel protected. I used it for about 8 months and then Shaun bought the [SISU Mouth Guard Max 2.4mm](https://www.amazon.com/gp/product/B01LX2DYI1/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LX2DYI1&linkCode=as2&tag=kaleigh-20&linkId=b85e5d8c436552b90b69e2b6a63d3552)![](//ir-na.amazon-adsystem.com/e/ir?t=kaleigh-20&l=am2&o=1&a=B01LX2DYI1) and after he used it once, I bought one for myself. You can talk easily in it (it's like when you wore a retainer as an awkward kid) and can even drink water without taking it out. Since it's so low profile, I leave it in the entire class, as opposed to the Shock Doctor, when I would wait until we rolled to wear it, and then would have to take it out to talk.
 
