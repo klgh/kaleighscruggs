@@ -1,6 +1,6 @@
 ---
 title: "Weekly Wrap: Coldplay's New Single!"
-date: "2021-06-11"
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Weekly Wrap: Coldplay's New Single!","node\_id":344,"relay\_id":"cG9zdDozNDQ=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Weekly Wrap: Coldplay's New Single!","node_id":344,"relay_id":"cG9zdDozNDQ=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

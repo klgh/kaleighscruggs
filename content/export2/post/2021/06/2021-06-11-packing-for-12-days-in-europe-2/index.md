@@ -1,9 +1,9 @@
 ---
-title: "Packing For 12 Days In Europe"
-date: "2021-06-11"
-categories: 
-  - "travel"
-coverImage: "Wanderlust-2BWednesday-1.jpg"
+title: 'Packing For 12 Days In Europe'
+date: '2021-06-11'
+categories:
+  - 'travel'
+coverImage: 'Wanderlust-2BWednesday-1.jpg'
 ---
 
 [![](images/Wanderlust-2BWednesday-1-300x200.jpg)](https://blog.kaleighscruggs.com/wp-content/uploads/2015/11/Wanderlust-2BWednesday-1.jpg)
@@ -24,7 +24,7 @@ Let's get to it....here's what I packed for 12 days in Europe. If you have any q
 
 ### Bags
 
- 
+
 
 **30L Patagonia Mate Backpack (discontinued, I believe)**
 
@@ -92,7 +92,7 @@ You are allowed to bring a quart-sized bag with 3.4 ounces or less per item in y
 
 [![](images/travel_liquid_311.jpg)](https://blog.kaleighscruggs.com/wp-content/uploads/2015/11/travel_liquid_311.jpg)
 
- I put my Epi-Pens in a separate zip lock and then put both of these in a gallon ziplock. I did have an actual toiletries bag that I brought nail clippers, toothbrushes, hair ties, face wipes, and Wet Ones in.
+I put my Epi-Pens in a separate zip lock and then put both of these in a gallon ziplock. I did have an actual toiletries bag that I brought nail clippers, toothbrushes, hair ties, face wipes, and Wet Ones in.
 
 [![](images/wet-ones.jpg)](https://blog.kaleighscruggs.com/wp-content/uploads/2015/11/wet-ones.jpg)
 
@@ -176,4 +176,4 @@ If you did the math, you'd see I didn't have enough underwear, shirts, and socks
 
 **Connect with me!**
 
- **[Twitter](https://twitter.com/kaleighscruggs) | Instagram | [Pinterest](https://www.pinterest.com/kleach/) | [Bloglovin.'](https://www.bloglovin.com/blogs/fittea-14492845)**
+**[Twitter](https://twitter.com/kaleighscruggs) | Instagram | [Pinterest](https://www.pinterest.com/kleach/) | [Bloglovin.'](https://www.bloglovin.com/blogs/fittea-14492845)**

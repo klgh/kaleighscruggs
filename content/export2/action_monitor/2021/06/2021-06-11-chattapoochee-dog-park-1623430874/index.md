@@ -1,6 +1,6 @@
 ---
-title: "Chattapoochee Dog Park"
-date: "2021-06-11"
+title: 'Chattapoochee Dog Park'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Chattapoochee Dog Park","node\_id":18288,"relay\_id":"cG9zdDoxODI4OA==","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Chattapoochee Dog Park","node_id":18288,"relay_id":"cG9zdDoxODI4OA==","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

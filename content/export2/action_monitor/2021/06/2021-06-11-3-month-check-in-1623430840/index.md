@@ -1,6 +1,6 @@
 ---
-title: "3 Month Check-In"
-date: "2021-06-11"
+title: '3 Month Check-In'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"3 Month Check-In","node\_id":1054,"relay\_id":"cG9zdDoxMDU0","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"3 Month Check-In","node_id":1054,"relay_id":"cG9zdDoxMDU0","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

@@ -1,9 +1,9 @@
 ---
-title: "Create a Blog with WordPress and Gatsby - Part 2"
-date: "2020-08-12"
-categories: 
-  - "tech"
-coverImage: "Blog-Posts-1.png"
+title: 'Create a Blog with WordPress and Gatsby - Part 2'
+date: '2020-08-12'
+categories:
+  - 'tech'
+coverImage: 'Blog-Posts-1.png'
 ---
 
 # Part 2 - The Connection
@@ -38,7 +38,7 @@ Next, we’ll need to edit the gatsby-node.js file. [I followed what was in the 
 
 Now our site is hooked up to our WordPress site, but there’s no real way to verify and view anything. So we’ll need to create a blog post template so we can pull in the information.
 
- 
+
 
 ## Blog Post Template
 

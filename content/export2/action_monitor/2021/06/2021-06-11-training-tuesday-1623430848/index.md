@@ -1,6 +1,6 @@
 ---
-title: "Training Tuesday"
-date: "2021-06-11"
+title: 'Training Tuesday'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Training Tuesday","node\_id":169,"relay\_id":"cG9zdDoxNjk=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Training Tuesday","node_id":169,"relay_id":"cG9zdDoxNjk=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

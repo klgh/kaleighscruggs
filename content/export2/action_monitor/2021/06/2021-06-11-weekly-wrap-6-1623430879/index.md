@@ -1,6 +1,6 @@
 ---
-title: "Weekly Wrap #6"
-date: "2021-06-11"
+title: 'Weekly Wrap #6'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Weekly Wrap #6","node\_id":18303,"relay\_id":"cG9zdDoxODMwMw==","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Weekly Wrap #6","node_id":18303,"relay_id":"cG9zdDoxODMwMw==","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

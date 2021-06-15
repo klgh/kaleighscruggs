@@ -1,20 +1,20 @@
 ---
-title: "one.more.week."
-date: "2011-12-05"
-categories: 
-  - "life"
-tags: 
-  - "bike"
-  - "birthday"
-  - "bitchy"
-  - "brunch"
-  - "finals"
-  - "gre"
-  - "library"
-  - "procrastination"
-  - "stress"
-  - "term-paper"
-  - "work"
+title: 'one.more.week.'
+date: '2011-12-05'
+categories:
+  - 'life'
+tags:
+  - 'bike'
+  - 'birthday'
+  - 'bitchy'
+  - 'brunch'
+  - 'finals'
+  - 'gre'
+  - 'library'
+  - 'procrastination'
+  - 'stress'
+  - 'term-paper'
+  - 'work'
 ---
 
 Actually a little more than a week left..but all the stressful stuff ends next Monday!
@@ -27,6 +27,6 @@ Saturday, me, Shaun, and Walt all went out for a bike ride around Statesboro. We
 
 Sunday was pretty chill, went to brunch, then to the IT building to write our papers, then to the awesome Seasons of Japan for dinner.
 
- 
+
 
 Today has been a regular Monday pretty much, class & work. When I got to work this afternoon some of the Grad Assistants were making the wreath for a holiday party, so I helped them out with that. I also got a birthday package in the mail from my parents, but I decided to hold back and open it on Wednesday since I'll be done with my paper ( better be!) and studying for a test the next day. So it will be a good break. I'm not celebrating my birthday until Friday (or Saturday?) because both me and Shaun have a lot due this week. And that way I can throw down with everyone. I have no idea where I'm going to go or what I'm going to do, but that's what procrastination daydreaming is for right?

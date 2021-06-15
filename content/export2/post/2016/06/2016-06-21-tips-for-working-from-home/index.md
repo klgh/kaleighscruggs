@@ -1,8 +1,8 @@
 ---
-title: "Tips For Working From Home"
-date: "2016-06-21"
-categories: 
-  - "life"
+title: 'Tips For Working From Home'
+date: '2016-06-21'
+categories:
+  - 'life'
 ---
 
 [![](images/tips_for_working_from_home.jpg)](https://3.bp.blogspot.com/-QZXBJoV7hac/V2GbaUdnHvI/AAAAAAABYIo/1peeZMaRjwYuMc47-6EwKdkRVT1_D8algCLcB/s1600/tips_for_working_from_home.jpg)

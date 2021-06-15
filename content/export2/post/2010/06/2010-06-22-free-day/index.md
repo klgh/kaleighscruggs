@@ -1,11 +1,11 @@
 ---
-title: "free day"
-date: "2010-06-22"
-categories: 
-  - "london-2010"
-  - "travel"
-tags: 
-  - "study-abroad"
+title: 'free day'
+date: '2010-06-22'
+categories:
+  - 'london-2010'
+  - 'travel'
+tags:
+  - 'study-abroad'
 ---
 
 [![](images/DSCN4986.JPG)](http://1.bp.blogspot.com/_ktZXPugrmyM/TFzEB2WXbXI/AAAAAAAAC6U/qiZpHGzSmjA/s1600/DSCN4986.JPG)

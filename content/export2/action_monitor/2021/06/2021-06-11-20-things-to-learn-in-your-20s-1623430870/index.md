@@ -1,6 +1,6 @@
 ---
 title: "20 Things To Learn In Your 20's"
-date: "2021-06-11"
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"20 Things To Learn In Your 20's","node\_id":908,"relay\_id":"cG9zdDo5MDg=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"20 Things To Learn In Your 20's","node_id":908,"relay_id":"cG9zdDo5MDg=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

@@ -1,6 +1,6 @@
 ---
-title: "Favorite Winter Activities"
-date: "2021-06-11"
+title: 'Favorite Winter Activities'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Favorite Winter Activities","node\_id":18302,"relay\_id":"cG9zdDoxODMwMg==","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Favorite Winter Activities","node_id":18302,"relay_id":"cG9zdDoxODMwMg==","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

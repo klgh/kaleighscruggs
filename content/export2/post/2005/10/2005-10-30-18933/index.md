@@ -1,8 +1,8 @@
 ---
-title: ""
-date: "2005-10-30"
-categories: 
-  - "life"
+title: ''
+date: '2005-10-30'
+categories:
+  - 'life'
 ---
 
 whoo hoo...cross country and all state all in one day.....the day I've been dreading is almost over!!!

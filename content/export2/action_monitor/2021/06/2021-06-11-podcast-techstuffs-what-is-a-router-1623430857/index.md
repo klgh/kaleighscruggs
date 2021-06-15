@@ -1,6 +1,6 @@
 ---
-title: "Podcast: TechStuff's \"What is a Router?\""
-date: "2021-06-11"
+title: 'Podcast: TechStuff''s "What is a Router?"'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Podcast: TechStuff's "What is a Router?"","node\_id":730,"relay\_id":"cG9zdDo3MzA=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Podcast: TechStuff's "What is a Router?"","node_id":730,"relay_id":"cG9zdDo3MzA=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

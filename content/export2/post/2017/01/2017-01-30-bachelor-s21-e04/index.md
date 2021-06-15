@@ -1,13 +1,13 @@
 ---
-title: "The Bachelor S21 E04"
-date: "2017-01-30"
-categories: 
-  - "life"
-tags: 
-  - "recap"
-  - "review"
-  - "the-bachelor"
-  - "tv"
+title: 'The Bachelor S21 E04'
+date: '2017-01-30'
+categories:
+  - 'life'
+tags:
+  - 'recap'
+  - 'review'
+  - 'the-bachelor'
+  - 'tv'
 ---
 
 If you're new here, I've been recapping The Bachelor because it's been YEARS since I've watched it, and am totally out of touch with reality shows, so I thought it'd be fun to watch it from my outsider's point of view and laugh at all the ridiculous parts. With gifs of course. So lets dive in:

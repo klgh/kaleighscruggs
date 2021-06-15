@@ -1,6 +1,6 @@
 ---
-title: "Five Favorite Fall Drinks"
-date: "2021-06-11"
+title: 'Five Favorite Fall Drinks'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Five Favorite Fall Drinks","node\_id":342,"relay\_id":"cG9zdDozNDI=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Five Favorite Fall Drinks","node_id":342,"relay_id":"cG9zdDozNDI=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

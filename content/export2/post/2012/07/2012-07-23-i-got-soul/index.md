@@ -1,8 +1,8 @@
 ---
-title: "I got soul"
-date: "2012-07-23"
-categories: 
-  - "life"
+title: 'I got soul'
+date: '2012-07-23'
+categories:
+  - 'life'
 ---
 
 The day after my last post, I went with my parents to go look at the Kia Souls. I fell in love with them back in March when we test drove one because my mom is also in need of a new car. Of course I still loved them. I wanted an Alien green Soul, in a manual transmission. I test drove a 2013 automatic base, which was pretty loaded. I was impressed, (and so were my parents!). I loved the way it drove and the size/height of the car was perfect for me.

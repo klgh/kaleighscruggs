@@ -1,8 +1,8 @@
 ---
-title: "Weekly Wrap: Drinks"
-date: "2016-02-01"
-categories: 
-  - "life"
+title: 'Weekly Wrap: Drinks'
+date: '2016-02-01'
+categories:
+  - 'life'
 ---
 
 Hey February! Can you believe it, we're all done with January?? Crazy!
@@ -29,7 +29,7 @@ And that's really about it...nothing crazy going on, just trying to feel better 
 
 This was part of the Weekly Wrap link up! Check it out:
 
- 
+
 
 [![](images/WeeklyWrap.jpg)](http://3.bp.blogspot.com/-yIW5MutVIYk/VcOhp3FgsYI/AAAAAAAABmU/9MODiWOHVzE/s320/WeeklyWrap.jpg)
 

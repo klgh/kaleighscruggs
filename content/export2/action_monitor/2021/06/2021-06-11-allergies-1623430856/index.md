@@ -1,6 +1,6 @@
 ---
-title: "allergies"
-date: "2021-06-11"
+title: 'allergies'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"allergies","node\_id":84,"relay\_id":"cG9zdDo4NA==","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"allergies","node_id":84,"relay_id":"cG9zdDo4NA==","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

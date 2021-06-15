@@ -1,6 +1,6 @@
 ---
-title: "help planning"
-date: "2021-06-11"
+title: 'help planning'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"help planning","node\_id":118,"relay\_id":"cG9zdDoxMTg=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"help planning","node_id":118,"relay_id":"cG9zdDoxMTg=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

@@ -1,14 +1,14 @@
 ---
-title: "DevNexus 2018"
-date: "2018-03-02"
-categories: 
-  - "tech"
-tags: 
-  - "atlanta"
-  - "devnexus"
-  - "tech"
-  - "women-who-code"
-coverImage: "dn_badge-scaled.jpg"
+title: 'DevNexus 2018'
+date: '2018-03-02'
+categories:
+  - 'tech'
+tags:
+  - 'atlanta'
+  - 'devnexus'
+  - 'tech'
+  - 'women-who-code'
+coverImage: 'dn_badge-scaled.jpg'
 ---
 
 A few months ago, I received the [Code Review](https://mailchi.mp/deee61232ddd/d8icgiexg0-869457?e=18db5746c1), a weekly newsletter from [Women Who Code](https://www.womenwhocode.com/). They were giving out scholarships to attend [DevNexus](https://devnexus.com/), which is a yearly Java conference here in Atlanta. I've been wanting to attend for years but never had the money opportunity. I applied, and a few weeks later, I got an email saying I was chosen for one of their scholarships! I was super excited to be selected to attend DevNexus because if you have ever been to, or just looked up tickets for conferences, you will know how expensive they are.

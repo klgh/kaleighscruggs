@@ -1,8 +1,8 @@
 ---
-title: "Weekly Wrap: Moving"
-date: "2016-06-28"
-categories: 
-  - "life"
+title: 'Weekly Wrap: Moving'
+date: '2016-06-28'
+categories:
+  - 'life'
 ---
 
 Last week flew by! I feel like I say that every week though.. They're all just flying! Now things are getting back to semi-normal though. Here's my crazy week:

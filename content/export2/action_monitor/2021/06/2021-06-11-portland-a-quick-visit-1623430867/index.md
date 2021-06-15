@@ -1,6 +1,6 @@
 ---
-title: "Portland - A Quick Visit"
-date: "2021-06-11"
+title: 'Portland - A Quick Visit'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Portland - A Quick Visit","node\_id":365,"relay\_id":"cG9zdDozNjU=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Portland - A Quick Visit","node_id":365,"relay_id":"cG9zdDozNjU=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

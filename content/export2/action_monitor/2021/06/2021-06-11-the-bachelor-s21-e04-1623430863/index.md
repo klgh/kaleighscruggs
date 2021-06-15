@@ -1,6 +1,6 @@
 ---
-title: "The Bachelor S21 E04"
-date: "2021-06-11"
+title: 'The Bachelor S21 E04'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"The Bachelor S21 E04","node\_id":599,"relay\_id":"cG9zdDo1OTk=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"The Bachelor S21 E04","node_id":599,"relay_id":"cG9zdDo1OTk=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

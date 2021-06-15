@@ -1,8 +1,8 @@
 ---
-title: "october!"
-date: "2016-10-26"
-categories: 
-  - "life"
+title: 'october!'
+date: '2016-10-26'
+categories:
+  - 'life'
 ---
 
 How is October almost over?? Last time I checked, it just started! This has been such a busy month for me. Work has been bugging me to do weekend work every weekend and I'm like LOL SRY BRO. They don't believe me, but it's true. My schedule has been jam packed every weekday and weekend.

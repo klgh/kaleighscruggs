@@ -1,8 +1,8 @@
 ---
-title: "Paris"
-date: "2015-08-05"
-categories: 
-  - "travel"
+title: 'Paris'
+date: '2015-08-05'
+categories:
+  - 'travel'
 ---
 
 ![Paris](images/parisCBR.png)
@@ -81,7 +81,7 @@ which was really cool, and in such a busy area, it was ridiculous! We saw the Ei
 
 [![eiffeltowerday](images/eiffeltowerday.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fblog.kaleighscruggs.com%2Fwp-content%2Fuploads%2F2015%2F08%2Feiffeltowerday.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
 
- 
+
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="text-align: center;"><img class="aligncenter size-full wp-image-355" style="margin-left: auto; margin-right: auto;" src="images/eiffeltowerclose.jpg" alt="eiffeltowerclose" width="480" height="640"></td></tr><tr><td style="text-align: center;"><span style="font-size: small; text-align: start;">Then we got up close</span></td></tr></tbody></table>
 
@@ -101,7 +101,7 @@ We had fun taking pictures and video. There was this guy trying to sell us beer 
 
 [![eurostar](images/eurostar.png)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fblog.kaleighscruggs.com%2Fwp-content%2Fuploads%2F2015%2F08%2Feurostar.png&container=blogger&gadget=a&rewriteMime=image%2F*)
 
- 
+
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="text-align: center;"><img class="size-full wp-image-379" style="margin-left: auto; margin-right: auto;" src="images/monalisa.jpg" alt="this was in the bathroom on the train" width="573" height="640"></td></tr><tr><td style="text-align: center;"><span style="font-size: small; text-align: start;">this was in the bathroom on the train</span></td></tr></tbody></table>
 

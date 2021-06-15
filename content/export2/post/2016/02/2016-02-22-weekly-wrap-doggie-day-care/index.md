@@ -1,8 +1,8 @@
 ---
-title: "Weekly Wrap: Doggie Day Care"
-date: "2016-02-22"
-categories: 
-  - "life"
+title: 'Weekly Wrap: Doggie Day Care'
+date: '2016-02-22'
+categories:
+  - 'life'
 ---
 
 It has been a hot minute since I did a Weekly Wrap! This month has been a tad crazy. I'm participating in a [Grow Your Blog Blog Hop](http://runawaybridalplanner.blogspot.com/2016/02/blogger-meet-up-grow-your-blog.html) with [Kristy at Runaway Bridal Planner](http://runawaybridalplanner.blogspot.com/), and this is the week that my blog is featured! So if you're checking me out, welcome! I'll be doing a more in-depth about me post tomorrow!
@@ -37,13 +37,13 @@ We watched as they introduced him to dogs there and he did great! They have them
 
 [![](images/20160221_005706.jpg)](https://1.bp.blogspot.com/-Eupa03YVoEA/Vson1uK4KII/AAAAAAABNwk/QZI1NqyinoM/s1600/20160221_005706.jpg)
 
-Now you know I'm a crazy dog parent....and yes, those are [dog butt magnets](http://amzn.to/21jaysN)! Shaun jokingly said we can't do it because all I'll do at work is watch the webcam and not get any work done. I said no, I have 3 monitors so I'll be watching _while_ I work!
+Now you know I'm a crazy dog parent....and yes, those are [dog butt magnets](http://amzn.to/21jaysN)! Shaun jokingly said we can't do it because all I'll do at work is watch the webcam and not get any work done. I said no, I have 3 monitors so I'll be watching *while* I work!
 
 And that's about it...Sunday was a lazy rainy Sunday, and I tried out our new [Tens Unit](http://amzn.to/1VxECgT) on my calves and tendon.
 
 This was part of the Weekly Wrap link up! Check it out, it's a great way to meet bloggers and find new blogs to follow!
 
- 
+
 
 [![](images/WeeklyWrap.jpg)](http://3.bp.blogspot.com/-yIW5MutVIYk/VcOhp3FgsYI/AAAAAAAABmU/9MODiWOHVzE/s320/WeeklyWrap.jpg)
 

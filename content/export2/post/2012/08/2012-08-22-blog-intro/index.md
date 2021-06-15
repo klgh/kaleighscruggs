@@ -1,13 +1,13 @@
 ---
-title: "Blog Intro"
-date: "2012-08-22"
-categories: 
-  - "life"
-tags: 
-  - "internet-technology"
-  - "intro"
-  - "techy"
-coverImage: "IMG_20170828_143448_995-scaled.jpg"
+title: 'Blog Intro'
+date: '2012-08-22'
+categories:
+  - 'life'
+tags:
+  - 'internet-technology'
+  - 'intro'
+  - 'techy'
+coverImage: 'IMG_20170828_143448_995-scaled.jpg'
 ---
 
 This blog is for MIST 7500 Internet Technology, as part of the requirements in UGA's Master of Internet Technology program. Throughout this fall semester I will be blogging about various topics related to this course, and also about topics of interest. I hope that I will continue this blog throughout my entire grad school experience.

@@ -1,9 +1,9 @@
 ---
-title: "Create a Blog with WordPress and Gatsby - Part 1"
-date: "2020-08-10"
-categories: 
-  - "tech"
-coverImage: "Blog-Posts.png"
+title: 'Create a Blog with WordPress and Gatsby - Part 1'
+date: '2020-08-10'
+categories:
+  - 'tech'
+coverImage: 'Blog-Posts.png'
 ---
 
 I love Gatsby. I love WordPress. I love Gatsby and WordPress together. Earlier this year I set up a couple of sites using existing WordPress sites that I managed and created all-new designs and front-end experiences for both. In this series, I’m going to walk you through the whole thing- we’ll set up a new site that uses WordPress as the headless CMS with Gatsby. I’ll start from the very beginning so if you don’t know anything about Gatsby or WordPress, this will hopefully get you up and running with ease. If not, let me know what I can help you with!
@@ -24,11 +24,11 @@ The website we’re creating will be [kaleigh.tech](https://kaleigh.tech/) and t
 
 No matter if you have a lot of content or nothing at all, you’ll want to install 3 plugins to your WordPress site. We’re not going to hook them up right now since we don’t have anything to point them towards, but let's get it set up ahead of time.
 
- 
+
 
 ### Install Plugins
 
- 
+
 
 [wp-trigger-netlify-build](https://github.com/iamtimsmith/wp-trigger-netlify-build)
 
@@ -42,11 +42,11 @@ Install these three plugins, and you can go ahead and activate them.
 
 Since I’m creating this site for this tutorial, I filled in some dummy pages and posts on my WordPress site.
 
- 
+
 
 ## Get Gatsby Up & Running (Locally)
 
- 
+
 
 Now let's switch gears and get Gatsby up and running! Gatsby has great docs, and if you haven’t checked them out yet, open a new tab and take a look at their [Step 0 page](https://www.gatsbyjs.org/tutorial/part-zero/) to make sure your environment is ready to go. Once you get to “[Using the Gatsby CLI](https://www.gatsbyjs.org/tutorial/part-zero/#using-the-gatsby-cli)”, come back here.
 
@@ -142,6 +142,6 @@ Now you should have all 3 links
 
 Click on Save Changes. This will allow you to create a new deploy when you update content on WordPress.
 
- 
+
 
 Alright, that's it for now, stay tuned for Part 2 - The Connection, coming soon!

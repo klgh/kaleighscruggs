@@ -1,17 +1,17 @@
 ---
-title: "help planning"
-date: "2011-12-24"
-categories: 
-  - "life"
-tags: 
-  - "10k"
-  - "5k"
-  - "christmas-eve"
-  - "half-marathon"
-  - "help"
-  - "planning"
-  - "races"
-  - "triathlon"
+title: 'help planning'
+date: '2011-12-24'
+categories:
+  - 'life'
+tags:
+  - '10k'
+  - '5k'
+  - 'christmas-eve'
+  - 'half-marathon'
+  - 'help'
+  - 'planning'
+  - 'races'
+  - 'triathlon'
 ---
 
 Merry Christmas Eve!

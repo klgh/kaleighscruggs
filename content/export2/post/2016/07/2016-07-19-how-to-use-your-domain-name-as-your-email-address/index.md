@@ -1,8 +1,8 @@
 ---
-title: "How To Use Your Domain Name As Your Email Address"
-date: "2016-07-19"
-categories: 
-  - "tech"
+title: 'How To Use Your Domain Name As Your Email Address'
+date: '2016-07-19'
+categories:
+  - 'tech'
 ---
 
 ![How To Use Your Domain Name As Your Email Address](images/How-To-Use-Your-Domain-Name-As-Your-Email-Address-683x1024.jpg)
@@ -45,7 +45,7 @@ My SMTP Server is: server71.web-hosting.com
 
 Find your SMTP port as well.
 
-If your hosting doesn't have options like these, don't be scared to Google _name of service_ SMTP Server.
+If your hosting doesn't have options like these, don't be scared to Google *name of service* SMTP Server.
 
 ![Screen Shot 2016-07-07 at 8.52.44 PM](images/Screen-Shot-2016-07-07-at-8.52.44-PM.png)
 
@@ -59,7 +59,7 @@ Gmail allows you to make different emails the default and there is a Labs that a
 
 **If You Bought Just The Domain Name**
 
-This is much easier,_but_ doesn't let you send emails as your domain name...just receive.
+This is much easier,*but* doesn't let you send emails as your domain name...just receive.
 
 Find where you can redirect or forward emails to your account. With my hosting, I just just click 'add forwarder' and enter the name I'd like to use.
 

@@ -1,6 +1,6 @@
 ---
-title: "Races"
-date: "2012-09-17"
+title: 'Races'
+date: '2012-09-17'
 ---
 
 ### 2012

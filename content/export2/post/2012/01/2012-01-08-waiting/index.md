@@ -1,21 +1,21 @@
 ---
-title: "Waiting."
-date: "2012-01-08"
-categories: 
-  - "life"
-tags: 
-  - "ab-workout"
-  - "baby"
-  - "buns-of-steel"
-  - "cleaning"
-  - "leaving"
-  - "run"
-  - "school"
-  - "sore"
-  - "step"
-  - "tired"
-  - "waiting"
-  - "weights"
+title: 'Waiting.'
+date: '2012-01-08'
+categories:
+  - 'life'
+tags:
+  - 'ab-workout'
+  - 'baby'
+  - 'buns-of-steel'
+  - 'cleaning'
+  - 'leaving'
+  - 'run'
+  - 'school'
+  - 'sore'
+  - 'step'
+  - 'tired'
+  - 'waiting'
+  - 'weights'
 ---
 
 For the next week, (hopefully less), me and my family will all be waiting on the newest Leach to make an appearance. My brother and his girlfriend are expecting their first child any day now. The baby is officially due on Saturday the 14th, but of course, could come at any time. This is both exiting and stressful. I am just praying that he comes before I have to leave to go back to Southern. Classes start on the 17th, but I usually like to get back a few days early to settle in, unpack, grocery shop, and have a last moment of relaxing before the semester starts. So ideally, if the baby comes before the due date all this can be done. But you can't really plan in these situations, so who knows when I'll be leaving. I know by Saturday I'll be packed and ready to go. But if the baby isn't here, I'll try to stay in town as long as I can.

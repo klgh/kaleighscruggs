@@ -1,6 +1,6 @@
 ---
-title: "Foam and Grow"
-date: "2021-06-11"
+title: 'Foam and Grow'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Foam and Grow","node\_id":41,"relay\_id":"cG9zdDo0MQ==","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Foam and Grow","node_id":41,"relay_id":"cG9zdDo0MQ==","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

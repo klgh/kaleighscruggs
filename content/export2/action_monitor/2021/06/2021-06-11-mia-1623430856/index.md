@@ -1,6 +1,6 @@
 ---
-title: "MIA"
-date: "2021-06-11"
+title: 'MIA'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"MIA","node\_id":176,"relay\_id":"cG9zdDoxNzY=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"MIA","node_id":176,"relay_id":"cG9zdDoxNzY=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

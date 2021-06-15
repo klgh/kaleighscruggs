@@ -1,9 +1,9 @@
 ---
-title: "Friday Favorites #2"
-date: "2018-06-08"
-categories: 
-  - "life"
-coverImage: "FridayFavorites.png"
+title: 'Friday Favorites #2'
+date: '2018-06-08'
+categories:
+  - 'life'
+coverImage: 'FridayFavorites.png'
 ---
 
 Happy Friday!! Today's Friday Favorites is a bit different because yesterday marked 6 months into my [30 Before 30 challenge](https://kaleighscruggs.com/30-before-30)! Here's an update on how it's going!
@@ -30,7 +30,7 @@ Happy Friday!! Today's Friday Favorites is a bit different because yesterday ma
 
 **11\. Visit Golda Kombucha once they open in Atlanta** They just opened a couple of weeks ago, so a friend from the gym and I are planning on hitting it up soon!
 
-[**12\. Have tea at Just Add Honey Tea Company**](https://kaleighscruggs.com/blog/just-add-honey-tea-company) 
+[**12\. Have tea at Just Add Honey Tea Company**](https://kaleighscruggs.com/blog/just-add-honey-tea-company)
 
 [**13. Get cookies at Luna’s Cookie Studio**](https://kaleighscruggs.com/blog/lunas-cookie-studio)
 

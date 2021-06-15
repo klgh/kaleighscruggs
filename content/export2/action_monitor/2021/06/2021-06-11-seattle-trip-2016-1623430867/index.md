@@ -1,6 +1,6 @@
 ---
-title: "Seattle Trip 2016"
-date: "2021-06-11"
+title: 'Seattle Trip 2016'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Seattle Trip 2016","node\_id":367,"relay\_id":"cG9zdDozNjc=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Seattle Trip 2016","node_id":367,"relay_id":"cG9zdDozNjc=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

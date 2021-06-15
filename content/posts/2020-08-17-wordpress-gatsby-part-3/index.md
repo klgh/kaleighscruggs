@@ -1,9 +1,9 @@
 ---
-title: "Create a Blog with WordPress and Gatsby - Part 3"
-date: "2020-08-17"
-categories: 
-  - "tech"
-coverImage: "Blog-Posts-2.png"
+title: 'Create a Blog with WordPress and Gatsby - Part 3'
+date: '2020-08-17'
+categories:
+  - 'tech'
+coverImage: 'Blog-Posts-2.png'
 ---
 
 Alright! So you've made it through [part 1](https://kaleigh.dev/blog/wordpress-gatsby-part-1) and [part 2](https://kaleigh.dev/blog/wordpress-gatsby-part-2), now for the final chapter in the series!

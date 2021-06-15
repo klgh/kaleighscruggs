@@ -1,8 +1,8 @@
 ---
-title: "Weekly Wrap: A Wedding"
-date: "2015-10-12"
-categories: 
-  - "life"
+title: 'Weekly Wrap: A Wedding'
+date: '2015-10-12'
+categories:
+  - 'life'
 ---
 
 Happy Monday!
@@ -13,7 +13,7 @@ Here's a look back at this past week!
 
 [![](images/20150501_073517.jpg)](http://4.bp.blogspot.com/-HiQ6iebWRvg/VhwYI85hroI/AAAAAAAA4xo/T_kj59BUnXc/s1600/20150501_073517.jpg)
 
-**Tuesday** I finally went shopping to find a dress for the wedding we went to Saturday. I got a great deal on my dress at Kohls...it cost $4.80!! Talk about a steal! I also got a bunch of ties and shirts that matched so Shaun could pick one out. Now to return the ones he didn't pick... **Wednesday** The weather was so nice Wednesday, so Shaun and I went to the pool for probably one last pool day of the year. It was way too cold to swim, but Shaun got in because he's crazy. Afterwards, we ordered Chinese from our favorite place and watched some of our shows.  **Thursday** On the way home from work, I stopped by Bath & Body Works to get some fall scented candles! We had Total Body Fitness and I stayed and did 2 classes.Mostly because I'm crazy. Of course it was a really tough circuit, but it was worth it of course! Afterwards, I quickly headed to charge my car before Shaun was finished with practice, and then we went to Chick-fil-a!
+**Tuesday** I finally went shopping to find a dress for the wedding we went to Saturday. I got a great deal on my dress at Kohls...it cost $4.80!! Talk about a steal! I also got a bunch of ties and shirts that matched so Shaun could pick one out. Now to return the ones he didn't pick... **Wednesday** The weather was so nice Wednesday, so Shaun and I went to the pool for probably one last pool day of the year. It was way too cold to swim, but Shaun got in because he's crazy. Afterwards, we ordered Chinese from our favorite place and watched some of our shows. **Thursday** On the way home from work, I stopped by Bath & Body Works to get some fall scented candles! We had Total Body Fitness and I stayed and did 2 classes.Mostly because I'm crazy. Of course it was a really tough circuit, but it was worth it of course! Afterwards, I quickly headed to charge my car before Shaun was finished with practice, and then we went to Chick-fil-a!
 
 [![](images/20151008_221708-01%257E2.jpeg)](http://3.bp.blogspot.com/-MvXFWc_94bc/VhwZLTi4WtI/AAAAAAAA4yM/uLYWdv7jO44/s1600/20151008_221708-01%257E2.jpeg)
 
@@ -25,7 +25,7 @@ Here's a look back at this past week!
 
 [![](images/12095270_10205376611870918_8060812029020149198_o.jpg)](http://2.bp.blogspot.com/-KAkiqtcMu94/VhwYyU7pb2I/AAAAAAAA4x4/rda8PB734CE/s1600/12095270_10205376611870918_8060812029020149198_o.jpg)
 
- 
+
 
 [![](images/12139981_10205376632191426_5916917766070576030_o.jpg)](http://2.bp.blogspot.com/-44eAn92VZ9w/VhwYylz851I/AAAAAAAA4x0/2eayRo0k-y0/s1600/12139981_10205376632191426_5916917766070576030_o.jpg)
 
@@ -41,4 +41,4 @@ Weekly Wrap with [HoHoRuns](http://hohoruns.blogspot.com/) & [MissSippiPiddlin](
 
 **Connect with me!**
 
- **[Twitter](http://twitter.com/kaleighcodes) | [Instagram](http://instagram.com/codebikerun) | Pinterest**
+**[Twitter](http://twitter.com/kaleighcodes) | [Instagram](http://instagram.com/codebikerun) | Pinterest**

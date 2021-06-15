@@ -1,8 +1,8 @@
 ---
-title: "Weekly Wrap: Curveballs"
-date: "2016-06-22"
-categories: 
-  - "life"
+title: 'Weekly Wrap: Curveballs'
+date: '2016-06-22'
+categories:
+  - 'life'
 ---
 
 It's Tuesday night, and I'm about to stay up until who knows when. I have to do a deploy in the middle of the night for work (again), and had originally thought it was going to be during the day Wednesday. But this morning I learned it wasn't. So I'll be awake for about 24 hours. CAN'T WAIT.
@@ -13,7 +13,7 @@ So, lets back up to last Monday. I posted my Weekly Wrap about the previous week
 
 [![](images/20160614_083051.jpg)](https://2.bp.blogspot.com/-QggepksJjQU/V2n8pScVAHI/AAAAAAABZAA/O8oQBxfo5PkEfDIpV8fWJBbgqgtCU5udwCKgB/s1600/20160614_083051.jpg)
 
-I worked from home the rest of the day as Shaun recovered. The doctor recommended that he be on a low-residue diet and avoid fats. This means I am also on the same diet. Which is totally fine! I'm not complaining because in the past week I've lost 3 pounds. I _really_ think fat had something to do with it. We never really paid attention to it before.
+I worked from home the rest of the day as Shaun recovered. The doctor recommended that he be on a low-residue diet and avoid fats. This means I am also on the same diet. Which is totally fine! I'm not complaining because in the past week I've lost 3 pounds. I *really* think fat had something to do with it. We never really paid attention to it before.
 
 Later that afternoon, I went to get my hair did!
 
@@ -25,7 +25,7 @@ I was getting the [Great Hair Treatment](http://www.candyshoppehairstudio.com/GR
 
 It was pretty fun having straight hair the rest of the week! Proof that the treatment works was that it was a super humid and drizzly day, and my hair didn't move a muscle! It was also fun to freak out my coworkers. Everyone did double takes and didn't recognize me at 1st. That was super funny!
 
-So, we are _still_ on Tuesday. I get home, and took Mac out. We checked our mail and had a letter from our apartment leasing office. It said we have to move out by August 31st because they're going to renovate our building.
+So, we are *still* on Tuesday. I get home, and took Mac out. We checked our mail and had a letter from our apartment leasing office. It said we have to move out by August 31st because they're going to renovate our building.
 
 Um. What?
 
@@ -33,7 +33,7 @@ Um. What?
 
 [via GIPHY](http://giphy.com/gifs/90s-kid-clarissa-explains-it-all-P1SXkeh3wxZ4Y)
 
-Yep. We resigned our lease in January! We were planning on staying here for years until we buy a house. Our apartment is perfect, in a great location on the river, close to great stores, and we have a bunch of friends here now. Shaun and I started looking online for places to live. We considered renting a house, and Friday we applied for one near a park on the river. We toured it, I _think_ the owner was there doing some work, but the realtor and company weren't great at answering questions. Plus they had TERRIBLE reviews online so then we became nervous.
+Yep. We resigned our lease in January! We were planning on staying here for years until we buy a house. Our apartment is perfect, in a great location on the river, close to great stores, and we have a bunch of friends here now. Shaun and I started looking online for places to live. We considered renting a house, and Friday we applied for one near a park on the river. We toured it, I *think* the owner was there doing some work, but the realtor and company weren't great at answering questions. Plus they had TERRIBLE reviews online so then we became nervous.
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="text-align: center;"><a style="margin-left: auto; margin-right: auto;" href="https://2.bp.blogspot.com/-E0efhB8grN0/V2n98AdNGSI/AAAAAAABZAY/rvqJk952LVUomr_YrCgS8kl5XWmP64sFgCKgB/s1600/20160617_133419.jpg"><img src="images/20160617_133419.jpg" width="400" height="225" border="0"></a></td></tr><tr><td style="text-align: center;">it did have 2 walk in master closets...</td></tr></tbody></table>
 

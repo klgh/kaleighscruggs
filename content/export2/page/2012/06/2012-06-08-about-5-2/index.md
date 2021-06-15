@@ -1,6 +1,6 @@
 ---
-title: "About"
-date: "2012-06-08"
+title: 'About'
+date: '2012-06-08'
 ---
 
 Hey I'm Kaleigh!

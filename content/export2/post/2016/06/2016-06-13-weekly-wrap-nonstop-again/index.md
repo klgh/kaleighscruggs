@@ -1,8 +1,8 @@
 ---
-title: "Weekly Wrap: Nonstop...Again"
-date: "2016-06-13"
-categories: 
-  - "life"
+title: 'Weekly Wrap: Nonstop...Again'
+date: '2016-06-13'
+categories:
+  - 'life'
 ---
 
 This past week has been crazy..again..is that normal?? I can't believe it's time to do it all again.
@@ -17,7 +17,7 @@ Tuesday and Wednesday were going to be long days at work because we had all day 
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="text-align: center;"><a style="margin-left: auto; margin-right: auto;" href="https://1.bp.blogspot.com/-_3Bci3kLAQo/V17peyiBztI/AAAAAAABYDc/WGQ0tqcnCtwUV1s0L132uZay9Wh5gQe3gCKgB/s1600/20160607_184233.jpg"><img src="images/20160607_184233.jpg" width="360" height="640" border="0"></a></td></tr><tr><td style="text-align: center;">blood!</td></tr></tbody></table>
 
-We don't know what exactly is wrong yet, but they mentioned gastritis in the ER, and that it's probably not an ulcer. Shaun has an endoscopy scheduled for _next_ week, and we're trying to see if he can get an ultrasound this weekend to rule out anything with his gallbladder. Such craziness. It feels like the doctors aren't really trying anything and aren't in any kind of rush, yet Shaun is in a ton of pain for most of the day. Even though we've cut out foods like gluten, sugar, and dairy, we're now reading every label even closer looking for no or low fat, no cholesterol, and just low everything in general. That seems to be helping, but he's definitely not living life normally and we'd love to go kayaking but either he's not feeling good, or I'm nervous he won't feel well once we're out there.
+We don't know what exactly is wrong yet, but they mentioned gastritis in the ER, and that it's probably not an ulcer. Shaun has an endoscopy scheduled for *next* week, and we're trying to see if he can get an ultrasound this weekend to rule out anything with his gallbladder. Such craziness. It feels like the doctors aren't really trying anything and aren't in any kind of rush, yet Shaun is in a ton of pain for most of the day. Even though we've cut out foods like gluten, sugar, and dairy, we're now reading every label even closer looking for no or low fat, no cholesterol, and just low everything in general. That seems to be helping, but he's definitely not living life normally and we'd love to go kayaking but either he's not feeling good, or I'm nervous he won't feel well once we're out there.
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="text-align: center;"><a style="margin-left: auto; margin-right: auto;" href="https://2.bp.blogspot.com/-HJHVUsjuWas/V17pw5jelNI/AAAAAAABYDk/TCimbOO4GMciEeFFtq2C9EUjERk-n-B6ACKgB/s1600/20160610_153038-01.jpeg"><img src="images/20160610_153038-01.jpeg" width="360" height="640" border="0"></a></td></tr><tr><td style="text-align: center;">the Pink Drink!</td></tr></tbody></table>
 
@@ -49,7 +49,7 @@ Pinterest
 
 [Bloglovin](https://www.bloglovin.com/blogs/codebikerun-12713491)
 
- 
+
 
 posts last week:
 

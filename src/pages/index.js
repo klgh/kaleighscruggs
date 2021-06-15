@@ -24,7 +24,6 @@ class BlogIndex extends React.Component {
           <h1>Kaleigh</h1>
           <h1>Kaleigh</h1>
           <h1>Kaleigh</h1>
-          
         </div>
         <div className="blog-posts">
           {posts.map(({ node }) => {

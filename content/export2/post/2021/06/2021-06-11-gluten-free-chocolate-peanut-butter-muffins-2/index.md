@@ -1,11 +1,11 @@
 ---
-title: "Gluten-Free Chocolate Peanut Butter Muffins"
-date: "2021-06-11"
-categories: 
-  - "life"
+title: 'Gluten-Free Chocolate Peanut Butter Muffins'
+date: '2021-06-11'
+categories:
+  - 'life'
 ---
 
- 
+
 
 #### Ingredients
 
@@ -23,7 +23,7 @@ Drop rounded 1 tablespoon mounds into prepared pans.Fill to 3/4 full.
 
 Bake for 8 to 12 minutes, check with a toothpick.
 
-Before leaving muffins to cool in the pan, sprinkle chocolate chips to the tops. After 10 to 15 minutes, I like to place a baking sheet over the muffin pan, flip it upside down, and then flip that onto a cooling rack. Be careful and have oven mitts on! 
+Before leaving muffins to cool in the pan, sprinkle chocolate chips to the tops. After 10 to 15 minutes, I like to place a baking sheet over the muffin pan, flip it upside down, and then flip that onto a cooling rack. Be careful and have oven mitts on!
 
 Once they're cooled off...ENJOY!
 

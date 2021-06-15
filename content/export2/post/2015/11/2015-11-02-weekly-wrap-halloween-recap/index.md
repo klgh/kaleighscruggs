@@ -1,8 +1,8 @@
 ---
-title: "Weekly Wrap: Halloween Recap"
-date: "2015-11-02"
-categories: 
-  - "life"
+title: 'Weekly Wrap: Halloween Recap'
+date: '2015-11-02'
+categories:
+  - 'life'
 ---
 
 Happy Monday! I hope it's not as rainy where you are if you're not in Atlanta! It's time for another Weekly Wrap!
@@ -37,7 +37,7 @@ Oh, and we had Trick-or-Treaters!! I was very excited about this because we NEVE
 
 **Sunday** A true rest day. We slept in, ate tons of candy, and watched a bunch of episodes of Friends. We also cleaned up of course. We're still not done since we moved our nice coffee table into our bedroom, and our old one that we keep on the porch is still in our living room. But everything else is clean! **_How was your Halloween weekend?_** **_Did you dress up?_** **_How do you stay healthy during Halloween candy time!?!_**
 
- 
+
 
 [![](images/WeeklyWrap-300x300.jpg)](http://www.misssippipiddlin.com/)
 

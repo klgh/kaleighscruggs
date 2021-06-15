@@ -1,11 +1,11 @@
 ---
-title: "wicked wednesday"
-date: "2010-07-14"
-categories: 
-  - "life"
-  - "london-2010"
-tags: 
-  - "study-abroad"
+title: 'wicked wednesday'
+date: '2010-07-14'
+categories:
+  - 'life'
+  - 'london-2010'
+tags:
+  - 'study-abroad'
 ---
 
 This morning, I decided I'd sleep in-aka not use an alarm to wake up. I woke up at 10 right on the dot. I decided I'd go to the store Cool Britannia again to get some souvenirs I couldn't get last time I was there since I didn't have enough money with me. When I changed trains on the Piccadilly line, I learned the Piccadilly Circus station was closed due to flooding. So I got off at Leicester Square and attempted to find it on my own, without a map. I didn't succeed, and was actually in the completely opposite direction. Oh well.

@@ -1,13 +1,13 @@
 ---
-title: "Orca Whale Watching"
-date: "2016-08-11"
-categories: 
-  - "travel"
-tags: 
-  - "killer-whale"
-  - "orca"
-  - "seattle"
-  - "washington"
+title: 'Orca Whale Watching'
+date: '2016-08-11'
+categories:
+  - 'travel'
+tags:
+  - 'killer-whale'
+  - 'orca'
+  - 'seattle'
+  - 'washington'
 ---
 
 I was looking forward to seeing killer whales in the wild ever since I saw it pop up while searching for things to do in Seattle. Backing up a bit, I have always been a huge killer whale fan. Thanks to Free Willy, I was obsessed as a kid, and now love to follow Instagram accounts that post pics of orcas all day every day. So when I saw this was something we could do on our trip, I pretty much decided it would be done.

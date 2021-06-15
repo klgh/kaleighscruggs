@@ -1,14 +1,14 @@
 ---
-title: "Weekly Wrap: Hey Again"
-date: "2016-09-06"
-categories: 
-  - "life"
-tags: 
-  - "bjj"
-  - "coldplay"
-  - "jiu-jitsu"
-  - "stand-up"
-  - "weekly-wrap"
+title: 'Weekly Wrap: Hey Again'
+date: '2016-09-06'
+categories:
+  - 'life'
+tags:
+  - 'bjj'
+  - 'coldplay'
+  - 'jiu-jitsu'
+  - 'stand-up'
+  - 'weekly-wrap'
 ---
 
 I can't believe it's already September!! Of course I am crazy excited about fall (pumpkin everything plz), but this summer has flown by!  I wanted to post an update since I haven't really been posting at all lately!

@@ -1,12 +1,12 @@
 ---
-title: "The Bachelor S21 E02"
-date: "2017-01-13"
-categories: 
-  - "life"
-tags: 
-  - "bachelor"
-  - "review"
-  - "tv"
+title: 'The Bachelor S21 E02'
+date: '2017-01-13'
+categories:
+  - 'life'
+tags:
+  - 'bachelor'
+  - 'review'
+  - 'tv'
 ---
 
 A local radio station is doing The Bachelor Fantasy League. So when I saw this ridiculous thing...I had to participate.

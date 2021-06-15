@@ -1,8 +1,8 @@
 ---
-title: "Workout Wednesday #1"
-date: "2016-05-26"
-categories: 
-  - "life"
+title: 'Workout Wednesday #1'
+date: '2016-05-26'
+categories:
+  - 'life'
 ---
 
 [![](images/workout%2Bwednesday.jpg)](https://3.bp.blogspot.com/-sbPzehLxD_M/V047Q-8nHOI/AAAAAAABWzQ/rVtZ7ku2rLU629Sq_voVl7DY2_q5KE4ZQCKgB/s1600/workout%2Bwednesday.jpg)
@@ -31,11 +31,11 @@ Sweet! I grabbed my complimentary banana, and headed to the gym at work to showe
 
 [![](images/Attach6297_20160525_173015.jpg)](https://3.bp.blogspot.com/-VQ6CUsQlDsA/V0ZaNPFXiMI/AAAAAAABWgY/1Au9BdNzypsWPP3YFL8pvKl2wfaAJd5BQCKgB/s1600/Attach6297_20160525_173015.jpg)
 
- 
+
 
 Now, it's time for bed. Cyclebar in the morning!
 
-_Have you ever been to a Cyclebar?_ 
+_Have you ever been to a Cyclebar?_
 
 _Do you wake up before the sun comes up to workout??_
 

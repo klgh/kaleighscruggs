@@ -1,8 +1,8 @@
 ---
-title: ""
-date: "2005-10-04"
-categories: 
-  - "life"
+title: ''
+date: '2005-10-04'
+categories:
+  - 'life'
 ---
 
 [XC trip pics](http://pg.photos.yahoo.com/ph/kaleighleach/album?.dir=7ef0&.src=ph&store=&prodid=&.done=http%3a//pg.photos.yahoo.com/ph/kaleighleach/my_photos) twas awesome..I had the best time, and PRed like mad..26

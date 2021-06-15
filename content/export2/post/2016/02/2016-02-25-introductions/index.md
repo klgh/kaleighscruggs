@@ -1,8 +1,8 @@
 ---
-title: "Introductions"
-date: "2016-02-25"
-categories: 
-  - "life"
+title: 'Introductions'
+date: '2016-02-25'
+categories:
+  - 'life'
 ---
 
 Hello, Blog World! I'm participating in the [Grow Your Blog Blog Hop](http://runawaybridalplanner.blogspot.com/2016/02/blogger-meet-up-grow-your-blog.html) with [Kristy at Runaway Bridal Planner](http://runawaybridalplanner.blogspot.com/), and this is the week that my blog is featured! So if you're here because of that, welcome! If not, welcome!

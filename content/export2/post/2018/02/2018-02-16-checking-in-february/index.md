@@ -1,11 +1,11 @@
 ---
-title: "Checking In: February"
-date: "2018-02-16"
-categories: 
-  - "life"
-tags: 
-  - "update"
-coverImage: "2018-01-23-01.59.04-4.jpg"
+title: 'Checking In: February'
+date: '2018-02-16'
+categories:
+  - 'life'
+tags:
+  - 'update'
+coverImage: '2018-01-23-01.59.04-4.jpg'
 ---
 
 Long time no blog...so I wanted to check in and let you know what I've been up to. Things have been super busy lately. In addition to normal life and planning how I'll be checking things off of my 30 before 30 list, I've done a bit of traveling!  Last month I went to San Francisco, and 2 weeks ago I went to Tampa (thank you sales on Southwest flights). I will have some related blog posts coming up, so stay tuned for those, but here's a quick recap of this year so far:

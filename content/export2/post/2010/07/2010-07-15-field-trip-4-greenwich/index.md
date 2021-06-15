@@ -1,12 +1,12 @@
 ---
-title: "field trip 4-greenwich"
-date: "2010-07-15"
-categories: 
-  - "london-2010"
-  - "travel"
-tags: 
-  - "study-abroad"
-coverImage: "DSCN7370.jpg"
+title: 'field trip 4-greenwich'
+date: '2010-07-15'
+categories:
+  - 'london-2010'
+  - 'travel'
+tags:
+  - 'study-abroad'
+coverImage: 'DSCN7370.jpg'
 ---
 
 today was our last class field trip. sad face. we met in front of astor at 9:30, and magically it had stopped raining. the rest of the day's weather was just windy and in the 60's. we took the tube to embankment, and went to Embankment Pier to wait for our Thames Clipper. After 30 mins, it arrived and we got on. I guess 30 mins later we had made our way to Canary Wharf. There we went to the London Museum at the Docklands. It was interesting, for someone who's not really interested in docklands type things. But it related to the slave trade, which is what we're beginning to talk about.

@@ -1,8 +1,8 @@
 ---
-title: "The Bachelor S21 E05"
-date: "2021-06-11"
-categories: 
-  - "life"
+title: 'The Bachelor S21 E05'
+date: '2021-06-11'
+categories:
+  - 'life'
 ---
 
 This episode starts right where it left off. Taylor and Corinne are arguing by the fire pit. They are going at it, Taylor is trying to tell Corinne she's dumb, and Corinne is trying to tell Taylor she's not nice and has a stank face, and is getting in her head that no one likes Taylor.

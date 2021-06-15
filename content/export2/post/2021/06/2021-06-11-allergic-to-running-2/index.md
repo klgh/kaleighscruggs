@@ -1,8 +1,8 @@
 ---
-title: "Allergic To Running"
-date: "2021-06-11"
-categories: 
-  - "life"
+title: 'Allergic To Running'
+date: '2021-06-11'
+categories:
+  - 'life'
 ---
 
 Long story short, I'm allergic to running. I know you're probably thinking, yeah me too. If you can run whenever you want, and don't experience shortness of breath, swollen eyes, tightening of the chest, and coughing because you can't breathe... Then you're not allergic.

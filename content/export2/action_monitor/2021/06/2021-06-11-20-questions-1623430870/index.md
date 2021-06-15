@@ -1,6 +1,6 @@
 ---
-title: "20 Questions!"
-date: "2021-06-11"
+title: '20 Questions!'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"20 Questions!","node\_id":947,"relay\_id":"cG9zdDo5NDc=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"20 Questions!","node_id":947,"relay_id":"cG9zdDo5NDc=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

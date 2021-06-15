@@ -1,13 +1,13 @@
 ---
-title: "Gluten-Free Double Chocolate Peanut Butter Muffins"
-date: "2017-12-19"
-categories: 
-  - "life"
-tags: 
-  - "baking"
-  - "gluten-free"
-  - "low-fodmap"
-coverImage: "Gluten-free.png"
+title: 'Gluten-Free Double Chocolate Peanut Butter Muffins'
+date: '2017-12-19'
+categories:
+  - 'life'
+tags:
+  - 'baking'
+  - 'gluten-free'
+  - 'low-fodmap'
+coverImage: 'Gluten-free.png'
 ---
 
 It is definitely baking season, and these Gluten-Free Double Chocolate Peanut Butter Muffins are one of my favorite things to make. They're super easy and are perfect if you have a bunch of bananas that may go bad soon. Most people make banana bread, but I make these (although I had so many bananas left over last week that I actually made banana bread for the first time just to mix (literally) things up).
@@ -46,7 +46,7 @@ If you have a standard pan, after 10 to 15 minutes, I like to place a baking she
 
 If you have a [silicone pan](https://amzn.to/2QpGbUr) (which I ONLY use now), they can sit in there for about 10 minutes and then I scoop them out onto the cooling rack.
 
-![gluten free muffins](images/muffins-878x1024.jpg) 
+![gluten free muffins](images/muffins-878x1024.jpg)
 
 Once they're cooled off...ENJOY! We like to keep them in the fridge, but you can leave them out in a sealed container if you don't like them cold.
 

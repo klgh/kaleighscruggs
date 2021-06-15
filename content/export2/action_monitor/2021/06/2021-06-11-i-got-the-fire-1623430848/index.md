@@ -1,6 +1,6 @@
 ---
-title: "i got the fire"
-date: "2021-06-11"
+title: 'i got the fire'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"i got the fire","node\_id":121,"relay\_id":"cG9zdDoxMjE=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"i got the fire","node_id":121,"relay_id":"cG9zdDoxMjE=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

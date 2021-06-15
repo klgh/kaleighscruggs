@@ -1,19 +1,19 @@
 ---
-title: "Jiu Jitsu: What To Wear"
-date: "2017-01-23"
-categories: 
-  - "life"
-tags: 
-  - "fitness"
-  - "jiu-jitsu"
-  - "workouts"
+title: 'Jiu Jitsu: What To Wear'
+date: '2017-01-23'
+categories:
+  - 'life'
+tags:
+  - 'fitness'
+  - 'jiu-jitsu'
+  - 'workouts'
 ---
 
 When I first started jiu jitsu, I had NO IDEA what to wear! For my first couple of classes my husband told me to wear a white shirt and shorts with no pockets. Cool beans. But I needed more info. There aren't a ton of resources for women who do jiu jitsu online. I found a few, like [BJJ Grrl](https://bjjgrrl.wordpress.com/) because I needed straight up info!
 
 Now that I've been training for 6 months (how'd that happen?!?!), I feel like I can share some info that may be helpful (or just give you insight) to other ladies.
 
- 
+
 
 # Gi
 

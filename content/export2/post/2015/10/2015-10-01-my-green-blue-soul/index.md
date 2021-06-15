@@ -1,8 +1,8 @@
 ---
-title: "My Green (Blue) Soul"
-date: "2015-10-01"
-categories: 
-  - "life"
+title: 'My Green (Blue) Soul'
+date: '2015-10-01'
+categories:
+  - 'life'
 ---
 
 Three months ago, I took the plunge and traded my green Kia Soul in for a blue Kia Soul EV.

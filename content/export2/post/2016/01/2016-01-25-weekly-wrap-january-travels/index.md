@@ -1,8 +1,8 @@
 ---
-title: "Weekly Wrap: January Travels"
-date: "2016-01-25"
-categories: 
-  - "travel"
+title: 'Weekly Wrap: January Travels'
+date: '2016-01-25'
+categories:
+  - 'travel'
 ---
 
 This past week has flown by! A week ago at this time I was at the [Haymarket Pub & Brewery](http://www.haymarketbrewing.com/) with Shaun in Chicago!  Now I'm back home, trying to warm my toes under my dog Mac. Here's what went down this past week:
@@ -41,11 +41,11 @@ I bought Mac a bear from the company store and he loves it. He did make a few mo
 
 Thursday I _FINALLY_ got back to the gym, and then had to skip it Friday since I was short on time and everyone was scared of all the snow we were supposed to get. Nothing crazy happened. We watched Kingsman and Mrs. Doubtfire. Great movies. Saturday, we slept in, cleaned up our apartment, and went to my nephew's 4th birthday party! How is that kid 4??
 
-Today, I woke up feeling great sick. My voice is going, and I have a burning cough. As of right now I _think_ I'll be able to go to work tomorrow. But we'll see how the morning is. Luckily I have a job that allows me to work from home if needed (aka don't spread your germs), or take sick days. So we'll see what tomorrow brings. But I cannot wait to get back to the gym and do a bunch of kickboxing and TBF workouts. YOU HAVE NO IDEA. Or do you?!?
+Today, I woke up feeling great sick. My voice is going, and I have a burning cough. As of right now I *think* I'll be able to go to work tomorrow. But we'll see how the morning is. Luckily I have a job that allows me to work from home if needed (aka don't spread your germs), or take sick days. So we'll see what tomorrow brings. But I cannot wait to get back to the gym and do a bunch of kickboxing and TBF workouts. YOU HAVE NO IDEA. Or do you?!?
 
 Anyways, this is part of the Weekly Wrap link up!
 
- 
+
 
 [![](images/WeeklyWrap.jpg)](http://3.bp.blogspot.com/-yIW5MutVIYk/VcOhp3FgsYI/AAAAAAAABmU/9MODiWOHVzE/s320/WeeklyWrap.jpg)
 

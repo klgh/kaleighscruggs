@@ -1,12 +1,12 @@
 ---
-title: "Jiu-Jitsu: Gear for Women"
-date: "2017-12-15"
-categories: 
-  - "brazilian-jiu-jitsu"
-tags: 
-  - "fitness"
-  - "jiu-jitsu"
-coverImage: "Jiu-Jitsu_-Gear-for-Women-1.png"
+title: 'Jiu-Jitsu: Gear for Women'
+date: '2017-12-15'
+categories:
+  - 'brazilian-jiu-jitsu'
+tags:
+  - 'fitness'
+  - 'jiu-jitsu'
+coverImage: 'Jiu-Jitsu_-Gear-for-Women-1.png'
 ---
 
 When I started jiu-jitsu, I had NO IDEA what to wear! For my first couple of classes, my husband told me to just wear a white shirt and form-fitting shorts with no pockets. Cool beans. But I needed more info.
@@ -49,7 +49,7 @@ When I attended a Girls in Gis event, I bought these awesome leggings, which hav
 
 Underneath both leggings, I wear breathable and comfortable underwear. I really love [ExOfficio's underwear](https://amzn.to/2FjgONz) because you don't even realize you're wearing it and they do great with lots of movement and high-intensity sports.
 
-\[caption id="attachment\_679" align="aligncenter" width="300"\]![roll with it leggings](images/IMG_20170921_205124_283-300x300.jpg) I love the shrimps!\[/caption\]
+\[caption id="attachment_679" align="aligncenter" width="300"\]![roll with it leggings](images/IMG_20170921_205124_283-300x300.jpg) I love the shrimps!\[/caption\]
 
 Shirt wise, I wear my gym's ranked belt shirt. When I was a white belt I had 2, a dry fit t-shirt and a long sleeve [rashguard](https://breakingmuscle.com/fitness/the-top-10-bjj-rashguards-for-women). I really loved the rashguard because it had an elastic band at the bottom so it didn't ride up as easily. Now that I'm a blue belt I needed blue belt shirts, but they didn't have the long sleeves in my size, so I just have a basic dry-fit t-shirt for now. Now I wear my long sleeve white belt shirt underneath it so I have the best of both worlds.
 
@@ -67,7 +67,7 @@ After class, I ALWAYS change my clothes. The women's locker room doesn't have a 
 
 ![kavu duffel](images/Screen-Shot-2016-09-07-at-3.45.03-PM-283x300.png)
 
- 
+
 
 **Mouthguard & case**. So far I've used 2 different mouth guards. The first one I used was a [Shock Doctor Gel Max](https://www.amazon.com/gp/product/B00IAO7WPO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IAO7WPO&linkCode=as2&tag=kaleigh-20&linkId=4b1be4c2f3327d45b53eb6cdf5242a0e). It's bulky but makes you feel protected. I used it for about 8 months and then Shaun bought the [SISU Mouth Guard Max 2.4mm](https://www.amazon.com/gp/product/B01LX2DYI1/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LX2DYI1&linkCode=as2&tag=kaleigh-20&linkId=b85e5d8c436552b90b69e2b6a63d3552)![](//ir-na.amazon-adsystem.com/e/ir?t=kaleigh-20&l=am2&o=1&a=B01LX2DYI1) and after he used it once, I bought one for myself. You can talk easily in it (it's like when you wore a retainer as an awkward kid) and can even drink water without taking it out. Since it's so low profile, I leave it in the entire class, as opposed to the Shock Doctor, when I would wait until we rolled to wear it, and then would have to take it out to talk.
 

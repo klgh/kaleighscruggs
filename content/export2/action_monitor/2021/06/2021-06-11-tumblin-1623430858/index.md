@@ -1,6 +1,6 @@
 ---
 title: "tumblin'"
-date: "2021-06-11"
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"tumblin'","node\_id":127,"relay\_id":"cG9zdDoxMjc=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"tumblin'","node_id":127,"relay_id":"cG9zdDoxMjc=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

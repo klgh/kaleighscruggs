@@ -1,15 +1,15 @@
 ---
-title: "done!"
-date: "2011-12-13"
-categories: 
-  - "life"
-tags: 
-  - "birthday"
-  - "cookie-cake"
-  - "discrete-math"
-  - "finals"
-  - "keys"
-  - "study-mode"
+title: 'done!'
+date: '2011-12-13'
+categories:
+  - 'life'
+tags:
+  - 'birthday'
+  - 'cookie-cake'
+  - 'discrete-math'
+  - 'finals'
+  - 'keys'
+  - 'study-mode'
 ---
 
 Woo I am done with this semester! I'm not done working though (unless I want to be..but I need the moolah).

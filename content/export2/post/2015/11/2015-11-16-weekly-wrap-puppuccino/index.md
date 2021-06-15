@@ -1,13 +1,13 @@
 ---
-title: "Weekly Wrap: Puppuccino"
-date: "2015-11-16"
-categories: 
-  - "life"
+title: 'Weekly Wrap: Puppuccino'
+date: '2015-11-16'
+categories:
+  - 'life'
 ---
 
 _Thinking of Paris_
 
- 
+
 
 ![](images/tumblr_nxwu1ty2Gb1qzasfoo3_1280.jpg)
 
@@ -19,7 +19,7 @@ Monday was a tad bit crazy, it was Shaun's 1st day of wrestling practice. I drov
 
 **Tuesday**
 
-Tuesday we did hydrostatic fat testing at the gym. It was by the [Body Fat Test](http://www.bodyfattest.com/) truck. It was really cool, we got into this tiny tub of (warm) water and had to go all the way under and breathe out all your air. That's how they got your body fat. I'm not afraid to share that I have 25% body fat, but only need to lose 4.5lbs to be a healthy percentage. I actually _want_ to lose 7lbs. So the 4.5 is a good starting point.
+Tuesday we did hydrostatic fat testing at the gym. It was by the [Body Fat Test](http://www.bodyfattest.com/) truck. It was really cool, we got into this tiny tub of (warm) water and had to go all the way under and breathe out all your air. That's how they got your body fat. I'm not afraid to share that I have 25% body fat, but only need to lose 4.5lbs to be a healthy percentage. I actually *want* to lose 7lbs. So the 4.5 is a good starting point.
 
 [![](images/November%2B10%252C%2B2015%2Bat%2B1044PM%2BHydrostatic%2BTesting...%2BGot%2Bsome%2Binsight%2Binto%2Bbody%2Bfat%2Band%2Bnutrition%2B%2523hydrostatic%2B%2523hydrostaticweighing%2B%2523bodyfattest%2B%2523cmma%2B%2523fitness%2B%2523fitlife.jpg)](http://1.bp.blogspot.com/-UfLnqq30BXw/VkUehKIbjAI/AAAAAAAA61Y/a0ir4ACjDPA/s1600/November%2B10%252C%2B2015%2Bat%2B1044PM%2BHydrostatic%2BTesting...%2BGot%2Bsome%2Binsight%2Binto%2Bbody%2Bfat%2Band%2Bnutrition%2B%2523hydrostatic%2B%2523hydrostaticweighing%2B%2523bodyfattest%2B%2523cmma%2B%2523fitness%2B%2523fitlife.jpg)
 
@@ -27,9 +27,9 @@ Tuesday we did hydrostatic fat testing at the gym. It was by the [Body Fat Test]
 
 It finally stopped raining and the sun was out! After work, I took Mac to the field to run around and stretch his little legs out! I also made him his own Instagram because I'm obsessed with so many corgi Instagram accounts. I didn't work out, but I was pretty close to my 10,000 steps goal on my FitBit.
 
-****![](images/tumblr_nxwu1ty2Gb1qzasfoo4_1280.jpg)****
+\***\*![](images/tumblr_nxwu1ty2Gb1qzasfoo4_1280.jpg)\*\***
 
- 
+
 
 **Thursday**
 
@@ -37,9 +37,9 @@ I worked from home, and was able to go to Whole Foods for lunch. I got the 'Chic
 
 I almost missed the 1st class of TBF! I got there right as they were setting the clock. Luckily I was able to jump in and completed 2 classes! It was a great workout. For dinner we had hibachi chicken..so good.
 
-****![](images/tumblr_nxwu1ty2Gb1qzasfoo5_1280.jpg)****
+\***\*![](images/tumblr_nxwu1ty2Gb1qzasfoo5_1280.jpg)\*\***
 
- 
+
 
 **Friday**
 
@@ -51,17 +51,17 @@ We were supposed to go to the mountains, but Shaun was sick, so we stayed home a
 
 ![](images/tumblr_nxwu1ty2Gb1qzasfoo1_1280.jpg)
 
- 
 
-****![](images/tumblr_nxwu1ty2Gb1qzasfoo2_1280.jpg)****
 
- 
+\***\*![](images/tumblr_nxwu1ty2Gb1qzasfoo2_1280.jpg)\*\***
+
+
 
 **Sunday**
 
 Another semi-lazy day. We did get to go out and do some shopping and got some Chipolte. But then we went back home for Shaun to rest. No workouts this weekend, but I did eat healthy, and got 2 more of the Chicken Salad Snacks from Whole Foods. I ate one, and am saving the other for a random time this week.
 
- 
+
 
 [![](images/WeeklyWrap-300x300.jpg)](http://www.misssippipiddlin.com/)
 

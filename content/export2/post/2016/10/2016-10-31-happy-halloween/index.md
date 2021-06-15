@@ -1,13 +1,13 @@
 ---
-title: "Happy Halloween!"
-date: "2016-10-31"
-categories: 
-  - "life"
-tags: 
-  - "comedy"
-  - "halloween"
-  - "stand-up"
-  - "trader-joes"
+title: 'Happy Halloween!'
+date: '2016-10-31'
+categories:
+  - 'life'
+tags:
+  - 'comedy'
+  - 'halloween'
+  - 'stand-up'
+  - 'trader-joes'
 ---
 
 Merry Christmas! Happy Halloween!

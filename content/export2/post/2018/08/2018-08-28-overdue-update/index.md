@@ -1,8 +1,8 @@
 ---
-title: "Overdue Update"
-date: "2018-08-28"
-categories: 
-  - "life"
+title: 'Overdue Update'
+date: '2018-08-28'
+categories:
+  - 'life'
 ---
 
 Hey Friends!

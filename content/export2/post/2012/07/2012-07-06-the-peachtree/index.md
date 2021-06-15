@@ -1,8 +1,8 @@
 ---
-title: "The Peachtree"
-date: "2012-07-06"
-categories: 
-  - "life"
+title: 'The Peachtree'
+date: '2012-07-06'
+categories:
+  - 'life'
 ---
 
 Wednesday was my 2nd time running the AJC Peachtree Road Race in Atlanta. It was HOT!

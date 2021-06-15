@@ -1,8 +1,8 @@
 ---
-title: "January Favorites"
-date: "2016-02-09"
-categories: 
-  - "life"
+title: 'January Favorites'
+date: '2016-02-09'
+categories:
+  - 'life'
 ---
 
 When I think back to what I loved in January nothing big really stands out...it seemed like such a fast month that I barely got used to it being 2016 already! So here are a few of my favorite things that I'm loving this year so far...

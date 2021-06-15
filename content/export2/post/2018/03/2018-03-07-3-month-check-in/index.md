@@ -1,12 +1,12 @@
 ---
-title: "3 Month Check-In"
-date: "2018-03-07"
-categories: 
-  - "life"
-tags: 
-  - "30-before-30"
-  - "klgh30before30"
-  - "update"
+title: '3 Month Check-In'
+date: '2018-03-07'
+categories:
+  - 'life'
+tags:
+  - '30-before-30'
+  - 'klgh30before30'
+  - 'update'
 ---
 
 Happy Wednesday! I can't believe we're 3 months into my [30 Before 30 countdown](https://kaleighscruggs.com/30-before-30)! Crazy! So in these 3 months, I've checked off a sold 2 items. GREAT! No, it's okay though because I've been working on a lot more, just haven't gotten to the crossed off part yet.
@@ -27,11 +27,11 @@ It's getting warmer, so hopefully, this will happen before it gets super hot. Or
 
 ## 4\. Fully understand my 401k, stocks, and all that stuff they don’t teach you in school
 
-I've been using the app [Robinhood](https://share.robinhood.com/kaleigs8) to get stocks. It makes it very easy to understand. And I've gotten into cryptocurrency, like everyone else and their mom. Literally, anything I buy in Robinhood or cryptocurrency goes down immediately, so I've _very_ good luck.
+I've been using the app [Robinhood](https://share.robinhood.com/kaleigs8) to get stocks. It makes it very easy to understand. And I've gotten into cryptocurrency, like everyone else and their mom. Literally, anything I buy in Robinhood or cryptocurrency goes down immediately, so I've *very* good luck.
 
 ## 5\. Get a 6-Pack (of abs!!)
 
-Slowly working on this. We go to the gym at least 5 times a week and have been trying to eat better. Shaun and I are already following the low-fodmap diet, but sometimes even with the things, we can eat we don't feel _good_. Like not bloated, but just from eating heavy or a lot of things (which could be related to #25).
+Slowly working on this. We go to the gym at least 5 times a week and have been trying to eat better. Shaun and I are already following the low-fodmap diet, but sometimes even with the things, we can eat we don't feel *good*. Like not bloated, but just from eating heavy or a lot of things (which could be related to #25).
 
 ## 6\. Visit [Red Hare Brewing](https://www.redharebrewing.com/)
 
@@ -59,7 +59,7 @@ Getting closer! I love watching that number go down in Mint (do you use Mint? if
 
 Well, they're not open yet...so I just continue to buy from the store.
 
-## [12\. Have tea at Just Add Honey Tea Company](https://kaleighscruggs.com/blog/just-add-honey-tea-company) 
+## [12\. Have tea at Just Add Honey Tea Company](https://kaleighscruggs.com/blog/just-add-honey-tea-company)
 
 ## 13. [Get cookies at Luna’s Cookie Studio](https://lunas-cookie-studio.business.site/)
 
@@ -85,7 +85,7 @@ I'm trying my best! I've been using a calendar and planning board to figure out 
 
 ## 18\. Visit some more states I’ve never been to
 
-Still not sure _which_ states...
+Still not sure *which* states...
 
 ## 19\. Post more videos on YouTube (either GoPro videos or vlog-style)
 

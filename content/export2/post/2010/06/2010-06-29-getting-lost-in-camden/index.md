@@ -1,11 +1,11 @@
 ---
-title: "getting lost in camden"
-date: "2010-06-29"
-categories: 
-  - "london-2010"
-  - "travel"
-tags: 
-  - "study-abroad"
+title: 'getting lost in camden'
+date: '2010-06-29'
+categories:
+  - 'london-2010'
+  - 'travel'
+tags:
+  - 'study-abroad'
 ---
 
 [![](images/DSCN5753.JPG)](http://1.bp.blogspot.com/_ktZXPugrmyM/TFzCOiIkN_I/AAAAAAAAC58/Y7q-xWlHHkw/s1600/DSCN5753.JPG)

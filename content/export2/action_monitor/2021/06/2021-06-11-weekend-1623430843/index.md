@@ -1,6 +1,6 @@
 ---
-title: "weekend?"
-date: "2021-06-11"
+title: 'weekend?'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"weekend?","node\_id":860,"relay\_id":"cG9zdDo4NjA=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"weekend?","node_id":860,"relay_id":"cG9zdDo4NjA=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

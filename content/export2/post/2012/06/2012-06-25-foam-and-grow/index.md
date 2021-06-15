@@ -1,8 +1,8 @@
 ---
-title: "Foam and Grow"
-date: "2012-06-25"
-categories: 
-  - "life"
+title: 'Foam and Grow'
+date: '2012-06-25'
+categories:
+  - 'life'
 ---
 
 I must let you all know that last week I bought something magical….

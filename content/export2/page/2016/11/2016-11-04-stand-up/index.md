@@ -1,6 +1,6 @@
 ---
-title: "stand up"
-date: "2016-11-04"
+title: 'stand up'
+date: '2016-11-04'
 ---
 
 # 2017

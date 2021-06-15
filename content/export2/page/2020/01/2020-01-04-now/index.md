@@ -1,6 +1,6 @@
 ---
-title: "Now"
-date: "2020-01-04"
+title: 'Now'
+date: '2020-01-04'
 ---
 
 August 13, 2020

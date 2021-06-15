@@ -1,6 +1,6 @@
 ---
-title: "october!"
-date: "2021-06-11"
+title: 'october!'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"october!","node\_id":18276,"relay\_id":"cG9zdDoxODI3Ng==","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"october!","node_id":18276,"relay_id":"cG9zdDoxODI3Ng==","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

@@ -1,8 +1,8 @@
 ---
-title: "5 Great Gluten & Dairy Free Finds"
-date: "2016-06-10"
-categories: 
-  - "life"
+title: '5 Great Gluten & Dairy Free Finds'
+date: '2016-06-10'
+categories:
+  - 'life'
 ---
 
 Happy Friday!! I wanted to share with you all my favorite gluten free and dairy free finds lately. For the past 3 weeks Shaun and I have cut out gluten, dairy, soy, and sugar. It's tough, but also worth it because we don't feel so crappy! I highly recommend it!
@@ -33,7 +33,7 @@ It's really hard to find food that doesn't have gluten AND dairy and still taste
 
 [this post is part of the Friday Five](http://www.yousignedupforwhat.com/)
 
- 
+
 
 _Do you have any gluten free or dairy free favorites?_
 

@@ -1,6 +1,6 @@
 ---
-title: "Fuller House!"
-date: "2021-06-11"
+title: 'Fuller House!'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Fuller House!","node\_id":353,"relay\_id":"cG9zdDozNTM=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Fuller House!","node_id":353,"relay_id":"cG9zdDozNTM=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

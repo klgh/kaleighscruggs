@@ -1,13 +1,13 @@
 ---
-title: "Tea House Formosa"
-date: "2018-01-15"
-categories: 
-  - "atlanta"
-tags: 
-  - "atlanta"
-  - "review"
-  - "tea"
-coverImage: "TeaHouseFormosa.png"
+title: 'Tea House Formosa'
+date: '2018-01-15'
+categories:
+  - 'atlanta'
+tags:
+  - 'atlanta'
+  - 'review'
+  - 'tea'
+coverImage: 'TeaHouseFormosa.png'
 ---
 
 Even though this is extremely late, I wanted to write about a tea house my mom and I visited 5 months ago...bear with me.
@@ -26,12 +26,12 @@ Now it's time for you to look at food and tea:
 
 ![](images/2017-08-28-02.14.49-1-1024x768.jpg)
 
-\[caption id="attachment\_26" align="aligncenter" width="240"\]![](images/IMG_20170828_143136_316-240x300.jpg) black tea con panna\[/caption\]
+\[caption id="attachment_26" align="aligncenter" width="240"\]![](images/IMG_20170828_143136_316-240x300.jpg) black tea con panna\[/caption\]
 
-\[caption id="attachment\_27" align="aligncenter" width="240"\]![](images/IMG_20170828_143448_995-240x300.jpg) green tea latte with almond milk\[/caption\]
+\[caption id="attachment_27" align="aligncenter" width="240"\]![](images/IMG_20170828_143448_995-240x300.jpg) green tea latte with almond milk\[/caption\]
 
-\[caption id="attachment\_28" align="aligncenter" width="300"\]![](images/IMG_20170828_143749_289-300x225.jpg) teriyaki chicken bao\[/caption\]
+\[caption id="attachment_28" align="aligncenter" width="300"\]![](images/IMG_20170828_143749_289-300x225.jpg) teriyaki chicken bao\[/caption\]
 
- 
+
 
 [Yelp](https://www.yelp.com/biz/tea-house-formosa-doraville-4) | [Facebook](https://www.facebook.com/teahouseformosa/) | [Instagram](https://www.instagram.com/teahouseformosa/) | [Google Maps](https://www.google.com/maps/place/Tea+House+Formosa/@33.8975216,-84.2819398,15z/data=!4m5!3m4!1s0x0:0xeb417085d636a1a4!8m2!3d33.8975216!4d-84.2819398)

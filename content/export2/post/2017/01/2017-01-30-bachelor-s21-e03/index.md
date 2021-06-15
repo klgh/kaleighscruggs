@@ -1,13 +1,13 @@
 ---
-title: "The Bachelor S21 E03"
-date: "2017-01-30"
-categories: 
-  - "life"
-tags: 
-  - "recap"
-  - "review"
-  - "the-bachelor"
-  - "tv"
+title: 'The Bachelor S21 E03'
+date: '2017-01-30'
+categories:
+  - 'life'
+tags:
+  - 'recap'
+  - 'review'
+  - 'the-bachelor'
+  - 'tv'
 ---
 
 Alright peeps, it's time to recap the 3rd episode of The Bachelor. You can catch my recap of episode 2 here. (I didn't recap the 1st one).
@@ -20,7 +20,7 @@ Corinne is not failing to entertain. She's shown in the bathroom with just under
 
 ![](images/giphy.gif)
 
-COMMERCIAL - and then we see Nick and one of the girls roasting marshmallows.  JEALOUS. Then it cuts back to Corinne, who has apparently ditched the underwear under her trench coat. She goes to see Nick, and she tells him to pass her the whipped cream. She sprays some in his mouth, and he's like is this _really_ happening. She puts some on her boob and makes him lick it off. NOICE ABC. All the girls are watching through the windows and are not happy about it. Nick is trying to control himself after the whole "Liz Situation".
+COMMERCIAL - and then we see Nick and one of the girls roasting marshmallows.  JEALOUS. Then it cuts back to Corinne, who has apparently ditched the underwear under her trench coat. She goes to see Nick, and she tells him to pass her the whipped cream. She sprays some in his mouth, and he's like is this *really* happening. She puts some on her boob and makes him lick it off. NOICE ABC. All the girls are watching through the windows and are not happy about it. Nick is trying to control himself after the whole "Liz Situation".
 
 ![](images/giphy.gif)
 
@@ -52,7 +52,7 @@ Guess who is pissed that Nick kisses Danielle on stage??
 
 ![](images/giphy.gif)
 
- 
+
 
 After the concert, they all go drink and have their one on one time. GUESS WHO STEALS NICK FIRST? Corinne talks about how she hates "planned dancing".  Meanwhile, the girls are like CAN WE STOP TALKING ABOUT CORINNE?! PREACH. Now she's off somewhere getting some more sleep. WTF.
 

@@ -1,8 +1,8 @@
 ---
-title: "June Favorites"
-date: "2016-07-01"
-categories: 
-  - "life"
+title: 'June Favorites'
+date: '2016-07-01'
+categories:
+  - 'life'
 ---
 
 Oh hey July! Sneaking up on us! I decided I'd share some of my favorite stuff I was obsessed with all month!

@@ -1,14 +1,14 @@
 ---
-title: "Lolz"
-date: "2016-11-03"
-categories: 
-  - "life"
-tags: 
-  - "chris-martin"
-  - "coldplay"
-  - "comedy"
-  - "conan"
-  - "stand-up"
+title: 'Lolz'
+date: '2016-11-03'
+categories:
+  - 'life'
+tags:
+  - 'chris-martin'
+  - 'coldplay'
+  - 'comedy'
+  - 'conan'
+  - 'stand-up'
 ---
 
 Hello to my thousands of readers.

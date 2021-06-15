@@ -1,8 +1,8 @@
 ---
-title: "London"
-date: "2015-08-06"
-categories: 
-  - "travel"
+title: 'London'
+date: '2015-08-06'
+categories:
+  - 'travel'
 ---
 
 ![London](images/londonCBR.png)
@@ -11,27 +11,27 @@ On Thursday, July 23, we arrived in London's St Pancras Station via the Eurosta
 
 But anyways, we eventually made it out. We made our way to the tube, and didn't have to worry about buying any tickets because I had ordered [Oyster cards](https://tfl.gov.uk/travel-information/visiting-london/) ahead of time. We took the tube to Covent Garden, and walked through the market to our hotel, [Strand Palace Hotel](https://www.strandpalacehotel.co.uk/). We couldn't check in yet, but left our bags there. We were starving, and I wanted to take Shaun to Ye Olde Cheshire Cheese. I had already been here before when I studied in London, but I had to take him to the oldest pub, rebuilt in 1667!
 
-  ![cheese5](images/cheese5.jpg)![cheese1](images/cheese1.jpg)![cheese2](images/cheese2.jpg)![cheese3](images/cheese3.jpg)![cheese4](images/cheese4.jpg)
+![cheese5](images/cheese5.jpg)![cheese1](images/cheese1.jpg)![cheese2](images/cheese2.jpg)![cheese3](images/cheese3.jpg)![cheese4](images/cheese4.jpg)
 
- It was so good, and hit the spot. Once we were done, we walked down to the Thames River to go back to our hotel and officially check in. ![bikes](images/bikes.jpg)![courtofjustice](images/courtofjustice.jpg)![river](images/river.jpg)
+It was so good, and hit the spot. Once we were done, we walked down to the Thames River to go back to our hotel and officially check in. ![bikes](images/bikes.jpg)![courtofjustice](images/courtofjustice.jpg)![river](images/river.jpg)
 
 After dropping off our things in our room, we went back out to see some more sights of London!
 
-  ![trafalger1](images/trafalger1.jpg)![trafalger2](images/trafalger2.jpg) Trafalger Square, St. James's Park, ![james1](images/james1.jpg) And our new house: ![buckingham1](images/buckingham1.jpg)![buckingham2](images/buckingham2.jpg)![buckingham3](images/buckingham3.jpg)![buckingham4](images/buckingham4.jpg)![buckingham5](images/buckingham5.jpg) Horseguard ![horseguard](images/horseguard.jpg) And of course, Big Ben: ![bigben](images/bigben.jpg) By this point, it was time for dinner so we went to St Stephen's Tavern Pub right across the street from Big Ben. We we seated at a tiny table, and I went to the bar to order Shaun a beer, and a Pimms for myself.
+![trafalger1](images/trafalger1.jpg)![trafalger2](images/trafalger2.jpg) Trafalger Square, St. James's Park, ![james1](images/james1.jpg) And our new house: ![buckingham1](images/buckingham1.jpg)![buckingham2](images/buckingham2.jpg)![buckingham3](images/buckingham3.jpg)![buckingham4](images/buckingham4.jpg)![buckingham5](images/buckingham5.jpg) Horseguard ![horseguard](images/horseguard.jpg) And of course, Big Ben: ![bigben](images/bigben.jpg) By this point, it was time for dinner so we went to St Stephen's Tavern Pub right across the street from Big Ben. We we seated at a tiny table, and I went to the bar to order Shaun a beer, and a Pimms for myself.
 
 [![pubdinner1](images/pubdinner1.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fblog.kaleighscruggs.com%2Fwp-content%2Fuploads%2F2015%2F09%2Fpubdinner1.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
 
 [![pubdinner2](images/pubdinner2.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fblog.kaleighscruggs.com%2Fwp-content%2Fuploads%2F2015%2F09%2Fpubdinner2.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
 
- So good. Then we had food, Shaun got fish & chips, and I got a pasta dish. It was all so good. By this time it was later than we thought because the sun doesn't set until much later in Europe. We walked around, and then went to a Tesco to buy some candy. When we got back in the hotel, we decided it was time to do some laundry. So we took turns washing our clothes in the sink, and Shaun had brought some paracord, so he figured out a way to hang our clothes in the room and had the fan hitting it. Genius. We watched some British game shows and I was totally beasting it. Too bad I don't live there...
+So good. Then we had food, Shaun got fish & chips, and I got a pasta dish. It was all so good. By this time it was later than we thought because the sun doesn't set until much later in Europe. We walked around, and then went to a Tesco to buy some candy. When we got back in the hotel, we decided it was time to do some laundry. So we took turns washing our clothes in the sink, and Shaun had brought some paracord, so he figured out a way to hang our clothes in the room and had the fan hitting it. Genius. We watched some British game shows and I was totally beasting it. Too bad I don't live there...
 
 The next day, we woke up and it was pouring outside. We decided to go to the British Museum. We walked there while it was raining but it wasn’t too bad. We walked around the museum for a few hours, and then needed some food and to get out of the museum crowd. Everyone had the same idea! When we got outside it was pouring, so we started walking down Tottenham Court Road and I found a pub called The Royal George on my phone. We found it behind all of the construction for the new tube station. We ordered some drinks and took a look at the menu. We decided on an appetizer of chips & dips (aka fries and 3 amazing sauces), and burgers. Everything was so good! We had great drinks, Shaun even had one from a brewery in Greenwich called Meantime…so funny. The chips were sooo good. They came with sriracha mayo, bbq, and ketchup.
 
-![image](https://i0.wp.com/blog.kaleighscruggs.com/wp-content/uploads/2015/09/royalgeorge.jpg?w=1056?w=563 "royalgeorge")
+![image](https://i0.wp.com/blog.kaleighscruggs.com/wp-content/uploads/2015/09/royalgeorge.jpg?w=1056?w=563 'royalgeorge')
 
- Once we were done, we went back out into the pouring rain to go back to the hotel. We got soaked (time for more laundry). We didn’t go anywhere for dinner since we ate lunch late in the day and weren’t hungry. But when we did go out, everywhere was closing for the night (it was Friday around 11pm), so we went to Tesco and got some candy and snacks. The next day, Saturday, we got up, had breakfast downstairs which was so good! The hotel’s breakfast was amazing. Then we got ready to go out. It was so nice and sunny. We rented bikes in Covent Garden, and set out to go to Piccadilly. It was super crowded and we couldn’t find a close station to drop the bikes off at, so we kept riding to Hyde Park.
+Once we were done, we went back out into the pouring rain to go back to the hotel. We got soaked (time for more laundry). We didn’t go anywhere for dinner since we ate lunch late in the day and weren’t hungry. But when we did go out, everywhere was closing for the night (it was Friday around 11pm), so we went to Tesco and got some candy and snacks. The next day, Saturday, we got up, had breakfast downstairs which was so good! The hotel’s breakfast was amazing. Then we got ready to go out. It was so nice and sunny. We rented bikes in Covent Garden, and set out to go to Piccadilly. It was super crowded and we couldn’t find a close station to drop the bikes off at, so we kept riding to Hyde Park.
 
-  [![coventbikes](images/coventbikes.jpg)](http://blog.kaleighscruggs.com/wp-content/uploads/2015/09/coventbikes.jpg)  ![hydeparkbike2](images/hydeparkbike2.jpg)![hydeparklake](images/hydeparklake.jpg)![diana](images/diana.jpg)![hydeparklake2](images/hydeparklake2.jpg)![piccadilly](images/piccadilly.jpg)
+[![coventbikes](images/coventbikes.jpg)](http://blog.kaleighscruggs.com/wp-content/uploads/2015/09/coventbikes.jpg)  ![hydeparkbike2](images/hydeparkbike2.jpg)![hydeparklake](images/hydeparklake.jpg)![diana](images/diana.jpg)![hydeparklake2](images/hydeparklake2.jpg)![piccadilly](images/piccadilly.jpg)
 
 Hyde Park is so pretty! We walked the bikes along the lake, and then went to go to Regent’s Park, and then Camden Town for the markets.
 

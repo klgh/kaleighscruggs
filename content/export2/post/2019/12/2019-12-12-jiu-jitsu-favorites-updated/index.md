@@ -1,8 +1,8 @@
 ---
-title: "Jiu-Jitsu Favorites - Updated"
-date: "2019-12-12"
-categories: 
-  - "life"
+title: 'Jiu-Jitsu Favorites - Updated'
+date: '2019-12-12'
+categories:
+  - 'life'
 ---
 
 My previous all-bjj post, [Jiu-Jitsu: Gear for Women](https://kaleighblogs.com/2017/12/jiu-jitsu-gear-women/) has been a huge hit via Pinterest. It's kind of wild, and I love it. I wanted to write a sort of "update" because That post is over a year old, and I wrote it long before I ever published it. So I felt like a lot has changed with the jiu-jitsu gear that I love.

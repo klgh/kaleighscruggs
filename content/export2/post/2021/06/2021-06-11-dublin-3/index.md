@@ -1,22 +1,19 @@
 ---
-title: "Dublin"
-date: "2021-06-11"
-categories: 
-  - "travel"
+title: 'Dublin'
+date: '2021-06-11'
+categories:
+  - 'travel'
 ---
 
-![Dublin](images/dublinCBR.png)  
-  
-Shaun and I arrived in Dublin Saturday July 18th at around 10am. I slept most of the plane ride (miraculously, I never sleep on planes, trains, cars, etc) mainly because the seat back entertainment for my seat wouldn't work. Also, I was tired by the time we boarded. Shaun didn't sleep at all, and watched 2 movies during the flight. A cool highlight from the flight was that he saw a meteor burning up and woke me in time to see it burn in the atmosphere. Pretty cool!  
-  
-  
-  
-  
-  ![dublinair](images/dublinair.jpg)  
+![Dublin](images/dublinCBR.png)
+
+Shaun and I arrived in Dublin Saturday July 18th at around 10am. I slept most of the plane ride (miraculously, I never sleep on planes, trains, cars, etc) mainly because the seat back entertainment for my seat wouldn't work. Also, I was tired by the time we boarded. Shaun didn't sleep at all, and watched 2 movies during the flight. A cool highlight from the flight was that he saw a meteor burning up and woke me in time to see it burn in the atmosphere. Pretty cool!
+
+![dublinair](images/dublinair.jpg)  
  It was cool to see Ireland as we were getting closer to the airport. This was Shaun's first time in Europe so he was excited to just look out the window and see the land. Once we landed and got off the plane it was time for the border control. The line was pretty long, probably due to the fact we stopped at the bathrooms first and were on a flight coming from the US. But once we got our passports stamped, we were free!  
-  ![dublinairport](images/dublinairport-300x225.jpg)  
-  
- I pulled out my reservation for the [Aircoach bus](http://www.aircoach.ie/) to take us to the city center. We found where we needed to wait and waited for longer than we needed to... Because we totally let the 1st bus just go without getting on it. It was my fault because it said Leopardstown and I thought, no not it... But it was. Whoops! Eventually we got on the bus and into the city. Our room at trinity college wasn't ready yet,  so we were able to drop off our bags and go explore! First stop... Guinness of course! ![guinnessbeers](images/guinnessbeers-300x225.jpg)  
+  ![dublinairport](images/dublinairport-300x225.jpg)
+
+I pulled out my reservation for the [Aircoach bus](http://www.aircoach.ie/) to take us to the city center. We found where we needed to wait and waited for longer than we needed to... Because we totally let the 1st bus just go without getting on it. It was my fault because it said Leopardstown and I thought, no not it... But it was. Whoops! Eventually we got on the bus and into the city. Our room at trinity college wasn't ready yet,  so we were able to drop off our bags and go explore! First stop... Guinness of course! ![guinnessbeers](images/guinnessbeers-300x225.jpg)  
  We walked all the way there. We probably could have taken a bus, but it was nice to experience the streets and the sights.  
   ![guinnessbottles](images/guinnessbottles-300x225.jpg)  
  Once we were done at Guinness, we were more than ready to get in a nap before dinner. We walked back to Trinity College and checked into our room!  

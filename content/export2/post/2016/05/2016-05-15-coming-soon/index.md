@@ -1,8 +1,8 @@
 ---
-title: "Coming Soon!"
-date: "2016-05-15"
-categories: 
-  - "life"
+title: 'Coming Soon!'
+date: '2016-05-15'
+categories:
+  - 'life'
 ---
 
 Coming Soon!

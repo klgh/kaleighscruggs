@@ -1,8 +1,8 @@
 ---
-title: "Five on Friday: Sick Week"
-date: "2016-01-29"
-categories: 
-  - "life"
+title: 'Five on Friday: Sick Week'
+date: '2016-01-29'
+categories:
+  - 'life'
 ---
 
 Happy Friday! Here are 5 things from this week I feel like sharing!! I've been sick all week so I didn't take any pictures of anything except for Mac!
@@ -13,7 +13,7 @@ Happy Friday! Here are 5 things from this week I feel like sharing!! I've been s
 
 [![](images/jm3zkzdbqrsebyijsynp.png)](http://i.kinja-img.com/gawker-media/image/upload/s--sBbeM3rZ--/c_scale,fl_progressive,q_80,w_800/jm3zkzdbqrsebyijsynp.png)
 
-2// Lost 2 Pounds #2 is for me losing 2 pounds this week. I got on the scale this morning and was surprised to say the least. I haven't worked out in a week and I lose 2 pounds?? I know I've been sick, but I didn't think it did _that_ much damage. HEY I'm not complaining, I'm just surprised because for the past few months I have been going to the gym 4 times a week and the scale hasn't budged at all. Fingers crossed it doesn't go back up!
+2// Lost 2 Pounds #2 is for me losing 2 pounds this week. I got on the scale this morning and was surprised to say the least. I haven't worked out in a week and I lose 2 pounds?? I know I've been sick, but I didn't think it did *that* much damage. HEY I'm not complaining, I'm just surprised because for the past few months I have been going to the gym 4 times a week and the scale hasn't budged at all. Fingers crossed it doesn't go back up!
 
 [![](images/Screen%2BShot%2B2016-01-28%2Bat%2B7.23.09%2BPM.png)](http://2.bp.blogspot.com/-tKinjHYy0ow/Vqqw_opP2wI/AAAAAAABLmY/OWoyPRk0GG4/s1600/Screen%2BShot%2B2016-01-28%2Bat%2B7.23.09%2BPM.png)
 

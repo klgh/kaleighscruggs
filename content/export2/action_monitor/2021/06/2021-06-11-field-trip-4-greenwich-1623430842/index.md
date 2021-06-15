@@ -1,6 +1,6 @@
 ---
-title: "field trip 4-greenwich"
-date: "2021-06-11"
+title: 'field trip 4-greenwich'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"field trip 4-greenwich","node\_id":842,"relay\_id":"cG9zdDo4NDI=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"field trip 4-greenwich","node_id":842,"relay_id":"cG9zdDo4NDI=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

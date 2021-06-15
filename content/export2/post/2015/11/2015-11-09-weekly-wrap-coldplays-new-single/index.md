@@ -1,8 +1,8 @@
 ---
 title: "Weekly Wrap: Coldplay's New Single!"
-date: "2015-11-09"
-categories: 
-  - "life"
+date: '2015-11-09'
+categories:
+  - 'life'
 ---
 
 [![](images/WeeklyWrap.jpg)](https://1.bp.blogspot.com/-nvrsswp-b3w/V1XXdQo0PRI/AAAAAAABXPE/dC6fN68xwIowDvhPlbWnrfgV3aY-zDX5wCLcB/s1600/WeeklyWrap.jpg)
@@ -37,9 +37,9 @@ So I went to Publix and got some, went home and looked up how to use it. I just 
 
 ![](images/tumblr_nxjssw8gxB1qzasfoo1_540.jpg)
 
-**_How was your weekend?_** **_Do you have any favorite fall drinks?_** **_What's your favorite crock pot recipe?_** 
+**_How was your weekend?_** **_Do you have any favorite fall drinks?_** **_What's your favorite crock pot recipe?_**
 
- 
+
 
 [![](images/WeeklyWrap-300x300.jpg)](http://www.misssippipiddlin.com/)
 

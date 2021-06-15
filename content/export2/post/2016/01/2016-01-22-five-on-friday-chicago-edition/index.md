@@ -1,8 +1,8 @@
 ---
-title: "Five On Friday: Chicago Edition"
-date: "2016-01-22"
-categories: 
-  - "travel"
+title: 'Five On Friday: Chicago Edition'
+date: '2016-01-22'
+categories:
+  - 'travel'
 ---
 
 This past week has flown by! Is it really Friday? (NOT THAT I’M COMPLAINING!) Saturday morning, we woke up really early and headed to the airport to fly to Chicago! I needed to be in Bloomington, Illinois this past Monday-Wednesday for business (SO FANCY), so Shaun and I were happy to take advantage and make a trip out of it! Here are 5 things I want to share about it:

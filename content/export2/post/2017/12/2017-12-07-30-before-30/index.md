@@ -1,13 +1,13 @@
 ---
 title: "30 Things To Do Before I'm 30"
-date: "2017-12-07"
-categories: 
-  - "life"
-tags: 
-  - "30-before-30"
-  - "birthday"
-  - "klgh30before30"
-coverImage: "30-Before-30.png"
+date: '2017-12-07'
+categories:
+  - 'life'
+tags:
+  - '30-before-30'
+  - 'birthday'
+  - 'klgh30before30'
+coverImage: '30-Before-30.png'
 ---
 
 Today is my birthday! I'm 29. TWENTY-NINE! How does this happen? It feels like I just turned 25, and everyone thinks I'm still 12. What a fun time!
@@ -84,6 +84,6 @@ I thought it'd be fun (and very Pinteresty of me) to create a 30 before 30 list�
 
 After all of this is done and, to celebrate my 30th birthday, I want to have a sleepover with a sloth in Oregon. I've been looking forward to that since I discovered it was possible (while Insta-stalking people who have done this and I might have cried a little).
 
-\*\*Once I created this list I realized it's not all "jumping out of airplanes" and "bungee jump" type stuff, but it's realistic stuff I want to do within the next year, and I believe I _can_ do! So follow along if you're interested. I'll be using the hashtag #klgh30before30, and posting videos on [YouTube](https://www.youtube.com/c/KaleighScruggs14)!
+\*\*Once I created this list I realized it's not all "jumping out of airplanes" and "bungee jump" type stuff, but it's realistic stuff I want to do within the next year, and I believe I *can* do! So follow along if you're interested. I'll be using the hashtag #klgh30before30, and posting videos on [YouTube](https://www.youtube.com/c/KaleighScruggs14)!
 
 ![](images/30-Before-30-1-683x1024.png)

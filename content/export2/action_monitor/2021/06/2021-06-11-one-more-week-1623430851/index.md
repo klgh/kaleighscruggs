@@ -1,6 +1,6 @@
 ---
-title: "one.more.week."
-date: "2021-06-11"
+title: 'one.more.week.'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"one.more.week.","node\_id":86,"relay\_id":"cG9zdDo4Ng==","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"one.more.week.","node_id":86,"relay_id":"cG9zdDo4Ng==","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

@@ -1,6 +1,6 @@
 ---
-title: "Weekly Wrap: Drinks"
-date: "2021-06-11"
+title: 'Weekly Wrap: Drinks'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Weekly Wrap: Drinks","node\_id":361,"relay\_id":"cG9zdDozNjE=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Weekly Wrap: Drinks","node_id":361,"relay_id":"cG9zdDozNjE=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

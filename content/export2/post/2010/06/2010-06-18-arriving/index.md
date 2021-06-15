@@ -1,9 +1,9 @@
 ---
-title: "arriving."
-date: "2010-06-18"
-categories: 
-  - "london-2010"
-  - "travel"
+title: 'arriving.'
+date: '2010-06-18'
+categories:
+  - 'london-2010'
+  - 'travel'
 ---
 
 [![](images/DSCN4097.JPG)](http://4.bp.blogspot.com/_ktZXPugrmyM/TD-0KA2CiuI/AAAAAAAACwU/t0Y4jBvEULo/s1600/DSCN4097.JPG)

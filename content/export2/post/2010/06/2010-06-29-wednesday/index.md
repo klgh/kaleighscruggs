@@ -1,11 +1,11 @@
 ---
-title: "wednesday"
-date: "2010-06-29"
-categories: 
-  - "london-2010"
-  - "travel"
-tags: 
-  - "study-abroad"
+title: 'wednesday'
+date: '2010-06-29'
+categories:
+  - 'london-2010'
+  - 'travel'
+tags:
+  - 'study-abroad'
 ---
 
 [![](images/DSCN5766.JPG)](http://3.bp.blogspot.com/_ktZXPugrmyM/TFy0jMTUYBI/AAAAAAAAC5M/MUlw5IIy5y4/s1600/DSCN5766.JPG)

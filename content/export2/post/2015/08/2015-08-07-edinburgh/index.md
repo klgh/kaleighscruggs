@@ -1,8 +1,8 @@
 ---
-title: "Edinburgh"
-date: "2015-08-07"
-categories: 
-  - "travel"
+title: 'Edinburgh'
+date: '2015-08-07'
+categories:
+  - 'travel'
 ---
 
 [![](images/Edinburgh.png)](http://1.bp.blogspot.com/-NxbFNV43h5M/ViV42CvlFvI/AAAAAAAA5ak/fyElnbGp5BA/s1600/Edinburgh.png)

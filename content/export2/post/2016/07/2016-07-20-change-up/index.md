@@ -1,8 +1,8 @@
 ---
-title: "Change Up"
-date: "2016-07-20"
-categories: 
-  - "life"
+title: 'Change Up'
+date: '2016-07-20'
+categories:
+  - 'life'
 ---
 
 So I have moved my blog from being hosted at Blogger to self hosted WordPress. I feel like I've done this a lot. It is a little crazy, but I just love using different platforms, learning what's new and 'better'. So if you're new here, I guess there's not change, and if you're not new, Hey! But either way, It is a hot mess right now so please don't judge!

@@ -1,17 +1,17 @@
 ---
-title: "Friday: We Did It!"
-date: "2016-11-11"
-categories: 
-  - "life"
-tags: 
-  - "bath-body-works"
-  - "candles"
-  - "comedy"
-  - "dog"
-  - "friday"
-  - "laughing-skull"
-  - "mac"
-  - "stand-up"
+title: 'Friday: We Did It!'
+date: '2016-11-11'
+categories:
+  - 'life'
+tags:
+  - 'bath-body-works'
+  - 'candles'
+  - 'comedy'
+  - 'dog'
+  - 'friday'
+  - 'laughing-skull'
+  - 'mac'
+  - 'stand-up'
 ---
 
 You guys, we did it!! We made it to Friday! After a very stressful and scary week, we're here, America's favorite day. We can finally hit up happy hour, let loose, and eat pizza until it hurts!!
@@ -28,7 +28,7 @@ So as I get back into the blogging game, I thought I'd share some Friday...fun??
 
 I bought some candles from Bath & Body Works. They had $10 off the big candles, which brought them down to $12.50 each. I didn't resist. I'm burning Autumn and Sweater Weather right now, and will move onto Marshmallow Fireside and Hot Cocoa & Cream later in the season #Planning.
 
- 
+
 
 > [A photo posted by Mac the Corgidor (@macthecorgidor)](https://www.instagram.com/p/BMmTu2zBl5g/) on Nov 9, 2016 at 9:56am PST
 

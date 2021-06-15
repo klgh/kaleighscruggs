@@ -1,6 +1,6 @@
 ---
-title: "Weekly Wrap: Curveballs"
-date: "2021-06-11"
+title: 'Weekly Wrap: Curveballs'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Weekly Wrap: Curveballs","node\_id":373,"relay\_id":"cG9zdDozNzM=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Weekly Wrap: Curveballs","node_id":373,"relay_id":"cG9zdDozNzM=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

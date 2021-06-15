@@ -1,8 +1,8 @@
 ---
 title: "Triathlon: Why I'm Taking A Year Off"
-date: "2016-02-17"
-categories: 
-  - "life"
+date: '2016-02-17'
+categories:
+  - 'life'
 ---
 
 This is a weird post to write. At 1st you might think I'm either lazy or injured. I am indeed injured.

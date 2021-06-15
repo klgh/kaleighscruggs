@@ -1,6 +1,6 @@
 ---
-title: "crazy days are coming"
-date: "2021-06-11"
+title: 'crazy days are coming'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"crazy days are coming","node\_id":78,"relay\_id":"cG9zdDo3OA==","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"crazy days are coming","node_id":78,"relay_id":"cG9zdDo3OA==","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

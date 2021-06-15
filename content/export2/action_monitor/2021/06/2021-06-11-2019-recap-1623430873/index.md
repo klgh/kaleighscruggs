@@ -1,6 +1,6 @@
 ---
-title: "2019 Recap"
-date: "2021-06-11"
+title: '2019 Recap'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"2019 Recap","node\_id":18075,"relay\_id":"cG9zdDoxODA3NQ==","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"2019 Recap","node_id":18075,"relay_id":"cG9zdDoxODA3NQ==","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

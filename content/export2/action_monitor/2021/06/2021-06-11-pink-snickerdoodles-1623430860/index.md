@@ -1,6 +1,6 @@
 ---
-title: "Pink Snickerdoodles!"
-date: "2021-06-11"
+title: 'Pink Snickerdoodles!'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Pink Snickerdoodles!","node\_id":18966,"relay\_id":"cG9zdDoxODk2Ng==","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Pink Snickerdoodles!","node_id":18966,"relay_id":"cG9zdDoxODk2Ng==","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

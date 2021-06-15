@@ -1,6 +1,6 @@
 ---
-title: "Uses"
-date: "2020-01-04"
+title: 'Uses'
+date: '2020-01-04'
 ---
 
 ## Editor + Terminal

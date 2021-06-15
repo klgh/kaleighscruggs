@@ -1,8 +1,8 @@
 ---
-title: "Packing For 12 Days In Europe"
-date: "2016-06-14"
-categories: 
-  - "travel"
+title: 'Packing For 12 Days In Europe'
+date: '2016-06-14'
+categories:
+  - 'travel'
 ---
 
 [![](images/Packing%2BFor%2B12%2BDays%2Bin%2BEurope.jpg)](https://3.bp.blogspot.com/-85kcd806ALk/V1XYLADVaYI/AAAAAAABXPQ/GJUuhH7QZ-EgGFmqEB1ala0uFINX8ZMvwCLcB/s1600/Packing%2BFor%2B12%2BDays%2Bin%2BEurope.jpg)
@@ -23,7 +23,7 @@ Let's get to it....here's what I packed for 12 days in Europe. If you have any q
 
 ### Bags
 
- 
+
 
 **30L Patagonia Mate Backpack (discontinued I believe)**
 
@@ -91,7 +91,7 @@ Since I knew we'd be moving around a lot, I knew this part had to be easy.
 
 You are allowed to bring a quart-sized bag with 3.4 ounces or less per item in your carry on. So I brought a travel size of face wash, lotion, deodorant, shampoo and toothpaste. I researched and knew most of the places we'd stay would have soap and my husband was packing soap in his bag.
 
- I put my Epi-Pens in a separate zip lock, and then put both of these in a gallon ziplock. I did have an actual toiletries bag that I brought nail clippers, my toothbrush, hair ties, face wipes, and Wet Ones in.
+I put my Epi-Pens in a separate zip lock, and then put both of these in a gallon ziplock. I did have an actual toiletries bag that I brought nail clippers, my toothbrush, hair ties, face wipes, and Wet Ones in.
 
 [![](images/wet-ones.jpg)](https://shotinthefoot.files.wordpress.com/2010/05/wet-ones.jpg)
 

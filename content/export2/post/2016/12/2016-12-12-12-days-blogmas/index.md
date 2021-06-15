@@ -1,12 +1,12 @@
 ---
-title: "12 Days of Blogmas"
-date: "2016-12-12"
-categories: 
-  - "life"
-tags: 
-  - "12-days-of-blogmas"
-  - "blog"
-  - "blogmas"
+title: '12 Days of Blogmas'
+date: '2016-12-12'
+categories:
+  - 'life'
+tags:
+  - '12-days-of-blogmas'
+  - 'blog'
+  - 'blogmas'
 ---
 
 Happy Monday!

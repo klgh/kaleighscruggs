@@ -1,16 +1,16 @@
 ---
-title: "Victorian Grace Tearoom"
-date: "2018-02-20"
-categories: 
-  - "life"
-  - "travel"
-tags: 
-  - "florida"
-  - "manatee"
-  - "tampa"
-  - "tea"
-  - "travel"
-coverImage: "VictorianGraceTearoom.png"
+title: 'Victorian Grace Tearoom'
+date: '2018-02-20'
+categories:
+  - 'life'
+  - 'travel'
+tags:
+  - 'florida'
+  - 'manatee'
+  - 'tampa'
+  - 'tea'
+  - 'travel'
+coverImage: 'VictorianGraceTearoom.png'
 ---
 
 Earlier this month, my mom and I went to Tampa, Florida to visit my grandma and have a girls weekend. We left late Friday afternoon and came back Monday. So it was a short trip, but a great way to spend the weekend.

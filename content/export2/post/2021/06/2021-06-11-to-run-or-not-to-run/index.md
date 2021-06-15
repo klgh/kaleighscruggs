@@ -1,8 +1,8 @@
 ---
-title: "To Run Or Not To Run"
-date: "2021-06-11"
-categories: 
-  - "life"
+title: 'To Run Or Not To Run'
+date: '2021-06-11'
+categories:
+  - 'life'
 ---
 
 ...that is the question.

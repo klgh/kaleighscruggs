@@ -1,8 +1,8 @@
 ---
-title: "5 Favorite Summer Workouts"
-date: "2016-05-20"
-categories: 
-  - "life"
+title: '5 Favorite Summer Workouts'
+date: '2016-05-20'
+categories:
+  - 'life'
 ---
 
 Happy Friday! Summer is right around the corner, and I thought it'd be fun to list 5 great workouts you can do in the upcoming hot months. I live in Atlanta, aka Hotlanta, it can get pretty humid and hot here. It's lovely. So here's my 5:
@@ -21,7 +21,7 @@ What do you like to do as a summer workout?
 
 Follow me on [Twitter](https://twitter.com/kaleighcodes) and [Instagram](https://www.instagram.com/codebikerun/) to keep up with me this summer on my workouts!
 
- 
+
 
 This is a Friday Five link up with [You Signed Up For WHAT?!](http://www.yousignedupforwhat.com/), [Mar on the Run](http://marontherun.com/), & [Eat Pray Run, DC](http://eatprayrundc.com/).
 

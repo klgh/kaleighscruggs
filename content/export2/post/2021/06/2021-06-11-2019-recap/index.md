@@ -1,8 +1,8 @@
 ---
-title: "2019 Recap"
-date: "2021-06-11"
-categories: 
-  - "life"
+title: '2019 Recap'
+date: '2021-06-11'
+categories:
+  - 'life'
 ---
 
 ## January

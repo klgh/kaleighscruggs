@@ -1,8 +1,8 @@
 ---
-title: "How To Plan A Trip To Europe"
-date: "2016-06-03"
-categories: 
-  - "travel"
+title: 'How To Plan A Trip To Europe'
+date: '2016-06-03'
+categories:
+  - 'travel'
 ---
 
 [![](images/How%2BTo%2BPlan%2BA%2BTrip%2BTo%2BEurope.jpg)](https://2.bp.blogspot.com/-3sfTzF60zs8/V1F1UElO2DI/AAAAAAABW8E/fvpol4KwcgY7bNczknXxPIF-DwSzLfCiACLcB/s1600/How%2BTo%2BPlan%2BA%2BTrip%2BTo%2BEurope.jpg)
@@ -15,13 +15,13 @@ This was going to be the first trip to Europe that I 100% planned. The first tim
 
 **Decide where you want to go** Everywhere. Yes, but what is a must see or do? I wanted to go to London & Paris, Shaun wanted to go to Amsterdam and Brussels, and we both wanted to go to Ireland & Scotland. Sweet!
 
-**Decide _when_ you want to go** There are cheaper times to go certain places, but since Shaun's a teacher and already had the whole summer off, it was easier for us to decide on the summer. Look at your calendar and find a good chunk of time (at least a week) to start your search.
+**Decide *when* you want to go** There are cheaper times to go certain places, but since Shaun's a teacher and already had the whole summer off, it was easier for us to decide on the summer. Look at your calendar and find a good chunk of time (at least a week) to start your search.
 
 **Use [Google Flights](https://www.google.com/flights/)** You can play with it and get ideas of when to go, how long, and where to fly in & out of. Flights from Atlanta to Dublin were the cheapest. So then I started to search for the best flight times (aka shorter layovers, leaving Atlanta before rush hour, arrival time in Dublin), and then went to United.com to buy the flights. (I can't imagine doing it without having a heart attack, so that's okay)
 
 [![](images/17101_10204580047157298_108712162697930041_n.jpg)](http://1.bp.blogspot.com/-F58ceEITq38/VkvLvhxdrPI/AAAAAAAA7E0/MtoETS7fbro/s1600/17101_10204580047157298_108712162697930041_n.jpg)
 
-_**Pro tip:**_ I was planning on opening a credit card with whatever airlines we decided on in order to get the $$$ off and start earning miles. I didn't realize until I was in too deep that my ticket purchase wasn't going on that new card. (It took about **2 weeks** for it to arrive). So I had to use my regular credit card. Not a huge deal (woo cash back!), but that took me by surprise. **Plan Your Cities** By this point all that was set in stone was Dublin. The website [Rome2Rio](http://www.rome2rio.com/) was awesome in figuring out the rest. It helped us visualize how we could get from one place to another, see how much planes/buses/trains/boats, cost, and decide on the order. It took a few weeks for us to finalize our plan: Dublin -> Brussels via RyanAir -> Paris via train -> London via train -> Edinburgh via train -> Dublin via RyanAir ( to catch the flight back home)
+***Pro tip:*** I was planning on opening a credit card with whatever airlines we decided on in order to get the $$$ off and start earning miles. I didn't realize until I was in too deep that my ticket purchase wasn't going on that new card. (It took about **2 weeks** for it to arrive). So I had to use my regular credit card. Not a huge deal (woo cash back!), but that took me by surprise. **Plan Your Cities** By this point all that was set in stone was Dublin. The website [Rome2Rio](http://www.rome2rio.com/) was awesome in figuring out the rest. It helped us visualize how we could get from one place to another, see how much planes/buses/trains/boats, cost, and decide on the order. It took a few weeks for us to finalize our plan: Dublin -> Brussels via RyanAir -> Paris via train -> London via train -> Edinburgh via train -> Dublin via RyanAir ( to catch the flight back home)
 
 **Make transportation reservations** To figure out the flights I used [**Google Flights**](https://www.google.com/flights/) and [**Skyscanner**](http://www.skyscanner.com/). For the trains, I used Rome2Rio and [The Man in Seat 61](http://www.seat61.com/index.html#.VktqNq6rSu4). I used that website when I was studying abroad. It was super helpful for us to figure out how to get from London to Amsterdam via trains, a ferry, and more trains.
 
@@ -57,8 +57,8 @@ Once you have all your hotels and major transportation reserved, **look up how t
 
 And there you have it, a trip to Europe is planned! I really hope this helps, so if you have any questions or comments....leave them below!
 
- 
+
 
 **Connect with me!**
 
- **[Twitter](http://twitter.com/kaleighcodes) | [Instagram](https://www.instagram.com/codebikerun/) | Pinterest | [Bloglovin'](https://www.bloglovin.com/blogs/codebikerun-12713491)**
+**[Twitter](http://twitter.com/kaleighcodes) | [Instagram](https://www.instagram.com/codebikerun/) | Pinterest | [Bloglovin'](https://www.bloglovin.com/blogs/codebikerun-12713491)**

@@ -1,17 +1,17 @@
 ---
-title: "Tri2Remember Laurel Park"
-date: "2012-09-19"
-categories: 
-  - "life"
-tags: 
-  - "bike"
-  - "laurel-park"
-  - "lessons"
-  - "open-water-swim"
-  - "sprint"
-  - "sprint-triathlon"
-  - "tri2remember"
-  - "usa-triathlon"
+title: 'Tri2Remember Laurel Park'
+date: '2012-09-19'
+categories:
+  - 'life'
+tags:
+  - 'bike'
+  - 'laurel-park'
+  - 'lessons'
+  - 'open-water-swim'
+  - 'sprint'
+  - 'sprint-triathlon'
+  - 'tri2remember'
+  - 'usa-triathlon'
 ---
 
 Saturday was the 2nd half of the Tri2Remember races. It was a 400m swim, 12 mile bike ride, and 5k run. I guess because it was my 4th triathlon it was time for me to start learning some lessons.
@@ -28,7 +28,7 @@ Friday night before the race, I learned that Shaun came up with the idea that he
 
 We all spent the rest of the night printing, ironing, and adding names to shirts (everyone had their own special name). Then Shaun and I went to his house for bed since he lives a lot closer than I do to Laurel Park.
 
-\[caption id="attachment\_70" align="aligncenter" width="221"\] whatever\[/caption\]
+\[caption id="attachment_70" align="aligncenter" width="221"\] whatever\[/caption\]
 
 Saturday morning I woke up, showered and got ready to leave. I wasn't really feeling good, so I only ate Sports Beans before the race..not my best idea. Finding the park was pretty easy, it felt like the first time in a while I had enough time to get my transition area set up and have time for one last bathroom stop. These things are important!
 

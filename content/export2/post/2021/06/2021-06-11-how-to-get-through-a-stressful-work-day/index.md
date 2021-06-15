@@ -1,8 +1,8 @@
 ---
-title: "How to get through a stressful work day"
-date: "2021-06-11"
-categories: 
-  - "life"
+title: 'How to get through a stressful work day'
+date: '2021-06-11'
+categories:
+  - 'life'
 ---
 
 Weeee.. Raise your hand if you work in an office all day. I hope I made some of you literally raise your hand in your cubes.

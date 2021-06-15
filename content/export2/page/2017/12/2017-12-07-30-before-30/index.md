@@ -1,7 +1,7 @@
 ---
-title: "30 Before 30"
-date: "2017-12-07"
-coverImage: "30-Before-30.png"
+title: '30 Before 30'
+date: '2017-12-07'
+coverImage: '30-Before-30.png'
 ---
 
 #### 30 Things To Do Before I'm 30

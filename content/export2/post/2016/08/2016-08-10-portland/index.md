@@ -1,12 +1,12 @@
 ---
-title: "Portland - A Quick Visit"
-date: "2016-08-10"
-categories: 
-  - "travel"
-tags: 
-  - "beer"
-  - "oregon"
-  - "portland"
+title: 'Portland - A Quick Visit'
+date: '2016-08-10'
+categories:
+  - 'travel'
+tags:
+  - 'beer'
+  - 'oregon'
+  - 'portland'
 ---
 
 ![Portland](images/Portland-300x300.jpg)

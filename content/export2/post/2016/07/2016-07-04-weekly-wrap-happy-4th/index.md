@@ -1,8 +1,8 @@
 ---
-title: "Weekly Wrap: Happy 4th!"
-date: "2016-07-04"
-categories: 
-  - "life"
+title: 'Weekly Wrap: Happy 4th!'
+date: '2016-07-04'
+categories:
+  - 'life'
 ---
 
 I hope everyone has had a great 3 day weekend! This past week was full of running around buying things to organize our new apartment, fitting in workouts, and work.
@@ -19,7 +19,7 @@ Shaun had a test on his stomach Monday to see how fast or slow it 'empties'. He 
 
 In blog news, I have been (slowly) learning how to make custom templates, and will hopefully be able to debut them soon! Also, starting tomorrow, I will be doing 'Tech Tuesdays'! I am very excited about this! I'll be writing about all sorts of tech related subjects! Tomorrow is all about domain names!
 
-_**what tech related questions do you want answered?**_ 
+_**what tech related questions do you want answered?**_
 
 _**do you have any organizational tips?**_
 

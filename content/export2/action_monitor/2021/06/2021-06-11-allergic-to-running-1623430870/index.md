@@ -1,6 +1,6 @@
 ---
-title: "Allergic To Running"
-date: "2021-06-11"
+title: 'Allergic To Running'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Allergic To Running","node\_id":979,"relay\_id":"cG9zdDo5Nzk=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Allergic To Running","node_id":979,"relay_id":"cG9zdDo5Nzk=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

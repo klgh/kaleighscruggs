@@ -1,12 +1,12 @@
 ---
-title: "Lunas Cookie Studio"
-date: "2018-05-17"
-categories: 
-  - "atlanta"
-tags: 
-  - "lunas-cookie-studio"
-  - "suwanee"
-coverImage: "Lunas-Cookie-Studio-1.png"
+title: 'Lunas Cookie Studio'
+date: '2018-05-17'
+categories:
+  - 'atlanta'
+tags:
+  - 'lunas-cookie-studio'
+  - 'suwanee'
+coverImage: 'Lunas-Cookie-Studio-1.png'
 ---
 
 So a little over a month ago I crossed another item off of my [30 Before 30 list](https://kaleighscruggs.com/30-before-30)! This was my visit to [Lunas Cookie Studio](https://lunas-cookie-studio.business.site/) in Suwanee, GA. I pass by pretty much every day, so I was excited to finally stop in and give it a try. I had a few things to work on for a website so I figured it would be the perfect place to get some work done.

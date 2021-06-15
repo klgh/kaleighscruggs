@@ -1,18 +1,18 @@
 ---
-title: "Refactr.Tech 2019"
-date: "2019-06-14"
-categories: 
-  - "life"
-  - "tech"
-coverImage: "refactrphotobooth.jpg"
+title: 'Refactr.Tech 2019'
+date: '2019-06-14'
+categories:
+  - 'life'
+  - 'tech'
+coverImage: 'refactrphotobooth.jpg'
 ---
 
 Last week I attended [REFACTR.TECH](https://www.refactr.tech/) in Atlanta. REFACTR is all about diversity & inclusion in tech. It was amazing to see all the companies who attended that have huge D&I initiatives looking to hire attendees.
 
-  
 I applied for and received a free ticket, which included a workshop, from [Women Who Code](https://www.womenwhocode.com/). I'm so thankful they offer free tickets to events and conferences, I've been able to attend a few now with the help of Women Who Code. 👩‍💻
 
-##   
+##
+
 Day 1 - Gatsby Workshop
 
 ![gatsby workshop](images/gatsbyworkshop-scaled-1-768x1024.jpg)REFACTR had 6 different workshop options, and I was very excited to see that there would one on [Gatsby](https://www.gatsbyjs.com/) since I've been looking for a new CMS to manage my website projects. A few months ago I stumbled upon Gatsby, but I didn't have time to learn it so this was perfect. From the Gatsby website, it's explained: "Gatsby is a free and open-source framework based on React that helps developers build blazing fast websites and apps". Sounds pretty nice!  
@@ -20,7 +20,6 @@ This was a full-day workshop where [Brandon Kearns](https://twitter.com/brandon_
 
 ## Day 2
 
-  
 This was the first full day of sessions, things kicked off a little after 9am with an opening keynote by [Tracy Lee](https://twitter.com/ladyleet) about inclusion and creating a better culture in tech.  
 The first session I attended was with [Chloe Condon](https://twitter.com/ChloeCondon) "IoT for the Introvert". She showed us how she programmed a [Flic device](https://flic.io/) to get herself out of social situations. I definitely want to do this!![iot for the introvert](images/iotfortheintrovert-scaled-1-1024x576.jpg)
 
@@ -45,7 +44,6 @@ For my first session of the day, I attended "Refactor Your Body For Better Perfo
 "Visual Studio Code Sparks Joy" with [Craig Rodrigues](https://twitter.com/CraigRodrigues) was next. I was excited about this session because I recently (within the past year) have gotten into [VSCode](https://code.visualstudio.com/) and haven't looked back. He shared a bunch of tips and favorite extensions.  
 Next, I attended "WebAssembly: Your Browser is the new OS" with [Jeremy Likness](https://twitter.com/jeremylikness) since I didn't really know much about WebAssembly, but I've heard it talked about a ton. He showed a bunch of examples of high performing web apps.
 
-  
 After lunch, there were only 2 sessions left (so sad!). I learned about _Reconfiguring Our Mindset from “Self-taught” to “Community-taught”_ with [Ray Gesualdo](https://twitter.com/RayGesualdo). I really enjoyed this one because he really stressed how we all come from different backgrounds with how we got to where we are, and we need to support each other with what we've learned and help each other out.
 
 ![](images/community-scaled-1-1024x576.jpg)![alicia carr](images/aliciacarr-scaled-1-1024x576.jpg)

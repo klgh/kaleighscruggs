@@ -1,11 +1,10 @@
 ---
-title: "20 Questions!"
-date: "2021-06-11"
-categories: 
-  - "life"
+title: '20 Questions!'
+date: '2021-06-11'
+categories:
+  - 'life'
 ---
 
-  
 I figured it’d be fun to do a quiz to get back into the game...here it goes:  
 1\. WHAT’S YOUR NAME?  
 Kaleigh - should be spelled Kayleigh, but my parents thought I was too cool for the Y.  
@@ -46,6 +45,6 @@ Cooking so my husband doesn’t hate me have to do all the cooking.
 19\. WHAT’S SOMETHING THAT YOU WISH YOU HAD MORE OF?  
 Time. I wish I could do soooo many different things from the time I get home from work until I go to bed. But there’s never enough time.  
 20\. IF YOU WEREN’T IN YOUR CURRENT JOB, WHAT WOULD YOU WANT TO BE DOING?  
-IDK, maybe travel blogging or being a full time comedian. BUT IDK.  
-  
+IDK, maybe travel blogging or being a full time comedian. BUT IDK.
+
 Thanks for reading...if you feel so inclined, follow me on [insta](https://www.instagram.com/klgh.js/) and [twitter](https://twitter.com/kaleighcomedy)!

@@ -1,8 +1,8 @@
 ---
 title: "Galentine's Day"
-date: "2016-02-16"
-categories: 
-  - "life"
+date: '2016-02-16'
+categories:
+  - 'life'
 ---
 
 In case you didn't know, February 13th is Galentine's Day!! If you don't know what that is read about it here. But basically it's ladies celebrating ladies eating the best meal ever, brunch (aka waffles).  It's from [Parks & Recreation](http://www.hulu.com/parks-and-recreation). If you haven't seen that show yet...get on it!

@@ -1,24 +1,16 @@
 ---
-title: "Weekly Wrap #6"
-date: "2021-06-11"
-categories: 
-  - "life"
-coverImage: "tumblr_nxwu1ty2Gb1qzasfoo3_1280.jpg"
+title: 'Weekly Wrap #6'
+date: '2021-06-11'
+categories:
+  - 'life'
+coverImage: 'tumblr_nxwu1ty2Gb1qzasfoo3_1280.jpg'
 ---
 
 _Thinking of Paris_
 
-  
-
 ![](images/tumblr_nxwu1ty2Gb1qzasfoo3_1280-300x292.jpg)
 
-  
-
-  
-
 [![](images/WeeklyWrap-1-300x300.jpg)](https://blog.kaleighscruggs.com/wp-content/uploads/2015/11/WeeklyWrap-1.jpg)
-
-  
 
 **Monday**
 
@@ -26,19 +18,15 @@ Monday was a tad bit crazy, it was Shaun's 1st day of wrestling practice. I drov
 
 **Tuesday**
 
-Tuesday we did hydrostatic fat testing at the gym. It was by the [Body Fat Test](http://www.bodyfattest.com/) truck. It was really cool, we got into this tiny tub of (warm) water and had to go all the way under and breathe out all your air. That's how they got your body fat. I'm not afraid to share that I have 25% body fat, but only need to lose 4.5lbs to be a healthy percentage. I actually _want_ to lose 7lbs. So the 4.5 is a good starting point.
+Tuesday we did hydrostatic fat testing at the gym. It was by the [Body Fat Test](http://www.bodyfattest.com/) truck. It was really cool, we got into this tiny tub of (warm) water and had to go all the way under and breathe out all your air. That's how they got your body fat. I'm not afraid to share that I have 25% body fat, but only need to lose 4.5lbs to be a healthy percentage. I actually *want* to lose 7lbs. So the 4.5 is a good starting point.
 
 [![](images/November%2B10%252C%2B2015%2Bat%2B1044PM%2BHydrostatic%2BTesting...%2BGot%2Bsome%2Binsight%2Binto%2Bbody%2Bfat%2Band%2Bnutrition%2B%2523hydrostatic%2B%2523hydrostaticweighing%2B%2523bodyfattest%2B%2523cmma%2B%2523fitness%2B%2523fitlife.jpg)](http://1.bp.blogspot.com/-UfLnqq30BXw/VkUehKIbjAI/AAAAAAAA61Y/a0ir4ACjDPA/s1600/November%2B10%252C%2B2015%2Bat%2B1044PM%2BHydrostatic%2BTesting...%2BGot%2Bsome%2Binsight%2Binto%2Bbody%2Bfat%2Band%2Bnutrition%2B%2523hydrostatic%2B%2523hydrostaticweighing%2B%2523bodyfattest%2B%2523cmma%2B%2523fitness%2B%2523fitlife.jpg)
 
 **Wednesday**
 
-It finally stopped raining and the sun was out! After work, I took Mac to the field to run around and stretch his little legs out! I also made him his own Instagram because I'm obsessed with so many corgi Instagram accounts. I didn't work out, but I was pretty close to my 10,000 steps goal on my FitBit. 
+It finally stopped raining and the sun was out! After work, I took Mac to the field to run around and stretch his little legs out! I also made him his own Instagram because I'm obsessed with so many corgi Instagram accounts. I didn't work out, but I was pretty close to my 10,000 steps goal on my FitBit.
 
-  
-
-****![](images/tumblr_nxwu1ty2Gb1qzasfoo4_1280-300x300.jpg)****
-
-  
+\***\*![](images/tumblr_nxwu1ty2Gb1qzasfoo4_1280-300x300.jpg)\*\***
 
 **Thursday**
 
@@ -46,13 +34,11 @@ I worked from home, and was able to go to Whole Foods for lunch. I got the 'Chic
 
 I almost missed the 1st class of TBF! I got there right as they were setting the clock. Luckily I was able to jump in and completed 2 classes! It was a great workout. For dinner we had hibachi chicken..so good.
 
-****![](images/tumblr_nxwu1ty2Gb1qzasfoo5_1280-300x300.jpg)****
-
-  
+\***\*![](images/tumblr_nxwu1ty2Gb1qzasfoo5_1280-300x300.jpg)\*\***
 
 **Friday**
 
-I worked out as soon as I got home from work. I only did the elliptical because my knee was hurting all day and my calves were killing me from Thursday's workout. I got a 'Detoxified' juice from Whole Foods, and it was pretty good...but it has ginger in it...I just can't do ginger. 
+I worked out as soon as I got home from work. I only did the elliptical because my knee was hurting all day and my calves were killing me from Thursday's workout. I got a 'Detoxified' juice from Whole Foods, and it was pretty good...but it has ginger in it...I just can't do ginger.
 
 **Saturday**
 
@@ -60,29 +46,16 @@ We were supposed to go to the mountains, but Shaun was sick, so we stayed home a
 
 ![](images/tumblr_nxwu1ty2Gb1qzasfoo1_1280-200x300.jpg)
 
-  
-
-****![](images/tumblr_nxwu1ty2Gb1qzasfoo2_1280-200x300.jpg)****
-
-  
-
-  
+\***\*![](images/tumblr_nxwu1ty2Gb1qzasfoo2_1280-200x300.jpg)\*\***
 
 **Sunday**
 
 Another semi-lazy day. We did get to go out and do some shopping and got some Chipolte. But then we went back home for Shaun to rest. No workouts this weekend, but I did eat healthy, and got 2 more of the Chicken Salad Snacks from Whole Foods. I ate one, and am saving the other for a random time this week.
 
-  
-
 [![](images/WeeklyWrap-300x300.jpg)](http://www.misssippipiddlin.com/)
-
-  
 
 Weekly Wrap with [HoHoRuns](http://hohoruns.blogspot.com/) & [MissSippiPiddlin](http://www.misssippipiddlin.com/)
 
-  
-  
-
 **Connect with me!**
 
- **[Twitter](http://twitter.com/kaleighcodes) | Instagram | [Pinterest](https://www.pinterest.com/kleach/) | [Bloglovin'](https://www.bloglovin.com/blogs/fittea-14492845)**
+**[Twitter](http://twitter.com/kaleighcodes) | Instagram | [Pinterest](https://www.pinterest.com/kleach/) | [Bloglovin'](https://www.bloglovin.com/blogs/fittea-14492845)**

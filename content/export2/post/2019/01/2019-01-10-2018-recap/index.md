@@ -1,9 +1,9 @@
 ---
-title: "2018 Recap"
-date: "2019-01-10"
-categories: 
-  - "life"
-coverImage: "ibjjf2018.jpg"
+title: '2018 Recap'
+date: '2019-01-10'
+categories:
+  - 'life'
+coverImage: 'ibjjf2018.jpg'
 ---
 
 Somehow it's 2019. I'm not sure how that happened since it just became 2018, but ok. I wanted to share a recap of 2018, as it was one wild year. Not a lot of "blog" moments, but maybe hopefully I'll change that in 2019.

@@ -1,6 +1,6 @@
 ---
-title: "stand up"
-date: "2021-06-11"
+title: 'stand up'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"stand up","node\_id":46,"relay\_id":"cG9zdDo0Ng==","graphql\_single\_name":"page","graphql\_plural\_name":"pages","status":"publish"}
+{"action_type":"CREATE","title":"stand up","node_id":46,"relay_id":"cG9zdDo0Ng==","graphql_single_name":"page","graphql_plural_name":"pages","status":"publish"}

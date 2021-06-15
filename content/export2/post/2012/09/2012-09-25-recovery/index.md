@@ -1,16 +1,16 @@
 ---
-title: "Recovery"
-date: "2012-09-25"
-categories: 
-  - "life"
-tags: 
-  - "link-tuesday"
-  - "recovery"
-  - "running"
-  - "shin-splints"
-  - "sprint"
-  - "sprint-triathlon"
-  - "starbucks"
+title: 'Recovery'
+date: '2012-09-25'
+categories:
+  - 'life'
+tags:
+  - 'link-tuesday'
+  - 'recovery'
+  - 'running'
+  - 'shin-splints'
+  - 'sprint'
+  - 'sprint-triathlon'
+  - 'starbucks'
 ---
 
 So I guess I'm technically in (or finished with??) recovery from my race. I actually don't know, I'm not an expert at triathlon recovery. But I haven't worked out _all_ that much in the past week, only 4 times. My shins hurt pretty bad. I've been wearing my Zensah compression sleeves (and even sent a pair to my half-marathon training bestie!), massage rolling, and even iced a little. That looks like "iced latte" and makes me want one.. ah!

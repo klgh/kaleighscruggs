@@ -1,8 +1,8 @@
 ---
-title: "Dublin"
-date: "2015-08-03"
-categories: 
-  - "travel"
+title: 'Dublin'
+date: '2015-08-03'
+categories:
+  - 'travel'
 ---
 
 ![Dublin](images/dublinCBR.png)

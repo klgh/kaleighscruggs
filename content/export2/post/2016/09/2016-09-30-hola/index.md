@@ -1,8 +1,8 @@
 ---
-title: "Hola!"
-date: "2016-09-30"
-categories: 
-  - "life"
+title: 'Hola!'
+date: '2016-09-30'
+categories:
+  - 'life'
 ---
 
 While I sit around and try to decide what I'm going to do with my life blog. I figured I'd post here since I recently remembered I had Wordpress installed on this domain. This is a top secret place that I test out Wordpress themes before I put them on other barely visited pages. No big.

@@ -1,8 +1,8 @@
 ---
-title: "Coldplay Concert Anxiety"
-date: "2016-02-10"
-categories: 
-  - "life"
+title: 'Coldplay Concert Anxiety'
+date: '2016-02-10'
+categories:
+  - 'life'
 ---
 
 Hi, my name is Kaleigh and I love Coldplay.

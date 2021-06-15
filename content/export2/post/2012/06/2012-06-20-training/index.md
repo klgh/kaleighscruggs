@@ -1,8 +1,8 @@
 ---
-title: "Training"
-date: "2012-06-20"
-categories: 
-  - "life"
+title: 'Training'
+date: '2012-06-20'
+categories:
+  - 'life'
 ---
 
 I am currently training for 2 upcoming triathlons I have planned, plus a 10k. Really the only thing I think about when I workout is the July 15th triathlon at Crow’s Lake. I know that I will be able to run the 10k. It’s the Peachtree Road Race on July 4th, it’s going to be fun and hot so I’m not worried. And it involves getting free things. win-win. The second tri isn’t until September 15, so I’m definitely not worrying about it anytime soon.

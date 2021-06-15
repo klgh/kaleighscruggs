@@ -1,11 +1,11 @@
 ---
-title: "hampton court"
-date: "2010-06-20"
-categories: 
-  - "london-2010"
-  - "travel"
-tags: 
-  - "study-abroad"
+title: 'hampton court'
+date: '2010-06-20'
+categories:
+  - 'london-2010'
+  - 'travel'
+tags:
+  - 'study-abroad'
 ---
 
 [![](images/DSCN4421.JPG)](http://2.bp.blogspot.com/_ktZXPugrmyM/TFzDujH5y0I/AAAAAAAAC6M/RZxLlif1m9Q/s1600/DSCN4421.JPG)

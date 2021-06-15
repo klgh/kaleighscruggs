@@ -1,8 +1,8 @@
 ---
-title: "5 Favorite Quick Breakfasts"
-date: "2016-05-27"
-categories: 
-  - "life"
+title: '5 Favorite Quick Breakfasts'
+date: '2016-05-27'
+categories:
+  - 'life'
 ---
 
 This week has flown by! Not only outside of work, but at work as well. Obviously it's a good thing when work goes by quick, but if I don't make time to eat breakfast when I first get in, it could be hours after I arrive (and I could be hangry!)
@@ -29,7 +29,7 @@ what's your favorite quick breakfast? do you eat before you go to work or at wor
 
 Follow me on [Twitter](https://twitter.com/kaleighcodes) and [Instagram](https://www.instagram.com/codebikerun/)! And don't forget [Bloglovin'](https://www.bloglovin.com/blogs/codebikerun-12713491)!
 
- 
+
 
 This is a Friday Five link up with [You Signed Up For WHAT?!](http://www.yousignedupforwhat.com/), [Mar on the Run](http://marontherun.com/), & [Eat Pray Run, DC](http://eatprayrundc.com/).
 

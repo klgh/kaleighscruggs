@@ -1,8 +1,8 @@
 ---
-title: "Weekly Wrap: Halloween Week"
-date: "2015-10-26"
-categories: 
-  - "life"
+title: 'Weekly Wrap: Halloween Week'
+date: '2015-10-26'
+categories:
+  - 'life'
 ---
 
 Happy Monday! It's Halloween Week! (Yes, I am quite excited for Halloween!)
@@ -19,7 +19,7 @@ I bought a refurbished [NetCam](http://amzn.to/1N1pNl2) last week, and set it u
 
 [![](images/2015-10-20-11-54-46.jpg)](http://4.bp.blogspot.com/-rGfE8_cnvD4/Vi1qmH2d8UI/AAAAAAAA57M/5FRxKb0wWho/s1600/2015-10-20-11-54-46.jpg)
 
- 
+
 
 [![](images/2015-10-20-13-38-30.jpg)](http://1.bp.blogspot.com/-W9tu7dSHq5k/Vi1qnBx3FEI/AAAAAAAA57U/n37QkrUyACM/s1600/2015-10-20-13-38-30.jpg)
 
@@ -27,7 +27,7 @@ I bought a refurbished [NetCam](http://amzn.to/1N1pNl2) last week, and set it u
 
 In the morning, I attended the Atlanta Women in Technology Breakfast
 
- 
+
 
 [![](images/wit.jpg)](http://2.bp.blogspot.com/-GQF3Ga9L7ws/Vi1qybj9o9I/AAAAAAAA57k/D7rLSlJ0ZRs/s1600/wit.jpg)
 
@@ -55,11 +55,11 @@ We had french toast for breakfast, and later went to a Halloween party!
 
 [![](images/halloweenparty.jpg)](http://4.bp.blogspot.com/-6iBHYMyWvBs/Vi1sBWv6B2I/AAAAAAAA578/UPi_uXwfuPA/s1600/halloweenparty.jpg)
 
- 
+
 
 [![](images/maxband.jpg)](http://2.bp.blogspot.com/-DnSp9wTEVjU/Vi1sBdCPN4I/AAAAAAAA574/zRNcZtKyu1I/s1600/maxband.jpg)
 
- 
+
 
 [![](images/party2.jpg)](http://2.bp.blogspot.com/-MXzBE78TZD8/Vi1sBUzuGkI/AAAAAAAA58A/b9OxN341xEg/s1600/party2.jpg)
 
@@ -73,7 +73,7 @@ So tiny! And she has a name! Stella Nova! 7lbs, 13oz and 20 inches.
 
 **_How was your weekend?_**
 
- 
+
 
 [![](images/WeeklyWrap-300x300.jpg)](http://www.misssippipiddlin.com/)
 

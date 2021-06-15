@@ -1,8 +1,8 @@
 ---
-title: ""
-date: "2005-11-20"
-categories: 
-  - "life"
+title: ''
+date: '2005-11-20'
+categories:
+  - 'life'
 ---
 
 hmm, seems like it's time for an update...today has been pretty long..I went to Kelundra's birthday party, and it took us like an hour to get there (and we got lost). It was awesome seeing her, it being like a year since we last saw each other and I knew a couple of other people there so that was good. It was a make-up party where they try to sell you stuff..ehh..I'm not a fan of make-up, so it started out as kinda awful, but at the end we all looked pretty good, but still..ew make-up. Then we went to Decatur to eat, which was good and I had so much fun..Kelundra said I've met my matches because the entire time me and these 2 other girls were pissing off the waiters and messing with shit.it was hilarious,lol. Good times....

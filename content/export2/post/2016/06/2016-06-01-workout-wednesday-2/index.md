@@ -1,8 +1,8 @@
 ---
-title: "Workout Wednesday #2"
-date: "2016-06-01"
-categories: 
-  - "life"
+title: 'Workout Wednesday #2'
+date: '2016-06-01'
+categories:
+  - 'life'
 ---
 
 [![](images/workout%2Bwednesday.jpg)](https://1.bp.blogspot.com/-sbPzehLxD_M/V047Q-8nHOI/AAAAAAABWzQ/FpRT08Wqdh0comTgbVovL6-xfMzat-HDACLcB/s1600/workout%2Bwednesday.jpg)

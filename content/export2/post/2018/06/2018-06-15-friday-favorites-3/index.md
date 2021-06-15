@@ -1,9 +1,9 @@
 ---
-title: "Friday Favorites #3"
-date: "2018-06-15"
-categories: 
-  - "life"
-coverImage: "FridayFavorites.png"
+title: 'Friday Favorites #3'
+date: '2018-06-15'
+categories:
+  - 'life'
+coverImage: 'FridayFavorites.png'
 ---
 
 Happy Friday! This week has flown by for me! I felt like Monday started out slow, but then things quickly sped up. Here are some of my favorites from this week!

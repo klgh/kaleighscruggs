@@ -1,10 +1,10 @@
 ---
-title: "Nevertheless, Kaleigh Coded"
-date: "2020-03-06"
-categories: 
-  - "life"
-  - "tech"
-coverImage: "NeverthelessKaleighCoded.png"
+title: 'Nevertheless, Kaleigh Coded'
+date: '2020-03-06'
+categories:
+  - 'life'
+  - 'tech'
+coverImage: 'NeverthelessKaleighCoded.png'
 ---
 
 _I wanted to share how I got started in tech, despite being the only girl in MOST situations_. [Originally shared on dev.to](https://dev.to/kaleigh/nevertheless-kaleigh-coded-48oi)

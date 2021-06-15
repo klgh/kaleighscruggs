@@ -1,6 +1,6 @@
 ---
-title: "Five On Friday: Chicago Edition"
-date: "2021-06-11"
+title: 'Five On Friday: Chicago Edition'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Five On Friday: Chicago Edition","node\_id":364,"relay\_id":"cG9zdDozNjQ=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Five On Friday: Chicago Edition","node_id":364,"relay_id":"cG9zdDozNjQ=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

@@ -1,15 +1,15 @@
 ---
-title: "Business Modeling"
-date: "2012-08-23"
-categories: 
-  - "life"
-tags: 
-  - "apps"
-  - "business"
-  - "business-model"
-  - "gsu"
-  - "technology"
-coverImage: "funnymonkey.jpg"
+title: 'Business Modeling'
+date: '2012-08-23'
+categories:
+  - 'life'
+tags:
+  - 'apps'
+  - 'business'
+  - 'business-model'
+  - 'gsu'
+  - 'technology'
+coverImage: 'funnymonkey.jpg'
 ---
 
 [](http://klghlch.wordpress.com/2012/08/23/business-modeling/leach_business_model_1/)

@@ -1,8 +1,8 @@
 ---
-title: "Five Favorite Fall Drinks"
-date: "2015-11-20"
-categories: 
-  - "life"
+title: 'Five Favorite Fall Drinks'
+date: '2015-11-20'
+categories:
+  - 'life'
 ---
 
 Today's Friday Five link up with [Eat Pray Run DC](http://eatprayrundc.com/), [Mar on the Run](http://marontherun.com/), and [You Signed Up For What](http://www.yousignedupforwhat.com/) is getting basic....favorite fall drinks!

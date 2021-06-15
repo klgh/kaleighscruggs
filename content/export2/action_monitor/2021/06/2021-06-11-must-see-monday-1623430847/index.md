@@ -1,6 +1,6 @@
 ---
-title: "must see monday"
-date: "2021-06-11"
+title: 'must see monday'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"must see monday","node\_id":164,"relay\_id":"cG9zdDoxNjQ=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"must see monday","node_id":164,"relay_id":"cG9zdDoxNjQ=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

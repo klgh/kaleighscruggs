@@ -1,6 +1,6 @@
 ---
-title: "Fall Is Here!"
-date: "2021-06-11"
+title: 'Fall Is Here!'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Fall Is Here!","node\_id":1258,"relay\_id":"cG9zdDoxMjU4","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Fall Is Here!","node_id":1258,"relay_id":"cG9zdDoxMjU4","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

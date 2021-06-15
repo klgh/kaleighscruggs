@@ -1,6 +1,6 @@
 ---
-title: "dublin"
-date: "2021-06-11"
+title: 'dublin'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"dublin","node\_id":846,"relay\_id":"cG9zdDo4NDY=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"dublin","node_id":846,"relay_id":"cG9zdDo4NDY=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

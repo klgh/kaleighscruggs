@@ -1,6 +1,6 @@
 ---
-title: "Friday Five: Coldplay"
-date: "2021-06-11"
+title: 'Friday Five: Coldplay'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Friday Five: Coldplay","node\_id":907,"relay\_id":"cG9zdDo5MDc=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Friday Five: Coldplay","node_id":907,"relay_id":"cG9zdDo5MDc=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

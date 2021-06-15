@@ -1,6 +1,6 @@
 ---
-title: "Blogmas Day 1: Drinks"
-date: "2021-06-11"
+title: 'Blogmas Day 1: Drinks'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Blogmas Day 1: Drinks","node\_id":467,"relay\_id":"cG9zdDo0Njc=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Blogmas Day 1: Drinks","node_id":467,"relay_id":"cG9zdDo0Njc=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

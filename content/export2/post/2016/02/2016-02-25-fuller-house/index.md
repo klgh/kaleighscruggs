@@ -1,8 +1,8 @@
 ---
-title: "Fuller House!"
-date: "2016-02-25"
-categories: 
-  - "life"
+title: 'Fuller House!'
+date: '2016-02-25'
+categories:
+  - 'life'
 ---
 
 So, I don't know about you, but I cannot wait for [Fuller House](http://www.netflix.com/title/80051137) to come out on Netflix tomorrow! I grew up watching Full House. Even though I was born during the 2nd season, I remember watching Full House once I was able to watch tv. Then of course watching reruns after it was cancelled during the summers and at night.

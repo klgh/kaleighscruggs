@@ -1,16 +1,16 @@
 ---
-title: "Tri2Remember Jefferson"
-date: "2012-07-17"
-categories: 
-  - "life"
-tags: 
-  - "bike"
-  - "jefferson"
-  - "open-water-swim"
-  - "running"
-  - "sprint-triathlon"
-  - "tri2remember"
-  - "trilife"
+title: 'Tri2Remember Jefferson'
+date: '2012-07-17'
+categories:
+  - 'life'
+tags:
+  - 'bike'
+  - 'jefferson'
+  - 'open-water-swim'
+  - 'running'
+  - 'sprint-triathlon'
+  - 'tri2remember'
+  - 'trilife'
 ---
 
 I know, I have been really bad at posting! But here is my race recap for July 15th’s sprint triathlon in Jefferson, GA, Tri2Remember. I am also signed up to race in the 2nd race in this series, Tri2Remember Laurel Park on September 15th. I got a deal, $100 for both races! Not too shabby!
@@ -37,15 +37,15 @@ The swim was 400 yards. And I’m not going to like, it was gross. At first I th
 
 After 10:45 I was out!
 
- 
+
 
 My T1 time was 1:48! My fastest! I think the tri-suit, no socks, and having everything laid out in the order I was going to need it to put it on helped A LOT! I had some Shot Blox in my SpiBelt saving them for the run, and Sport Beans and more Shot Blox in my tri-suit pockets for the bike. I put them all in zip lock bags and in the fridge the night before so they were easy to get to and perfect while on the bike.
 
- 
+
 
 I like to smile for race pictures because no one expects it!!
 
- 
+
 
 I smiled for one of the professional bike pics, and the woman photographer was like “WHOO YES!!” No one expects it.
 
@@ -63,6 +63,6 @@ My official time was 1:44:44. Not bad! This still makes my first tri in 2011 my 
 
 But with that time, I placed 3rd in my age group! I was not expecting that! I also got 3rd in my age group at the Tri The Parks John Tanner #1 This year. Even though I’m 23, I’m racing as a 24 year old since my birthday is in December… so next year I’ll be in a whole new age group..kind of lame.
 
-But overall it was  a good race. I’m not sure if I’ll do it again next year, but I probably will 
+But overall it was  a good race. I’m not sure if I’ll do it again next year, but I probably will
 
 My bike on Shaun’s rental Charger, looking cool with my medal!

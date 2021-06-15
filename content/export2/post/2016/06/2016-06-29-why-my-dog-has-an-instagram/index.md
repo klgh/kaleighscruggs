@@ -1,8 +1,8 @@
 ---
-title: "Why My Dog Has An Instagram"
-date: "2016-06-29"
-categories: 
-  - "life"
+title: 'Why My Dog Has An Instagram'
+date: '2016-06-29'
+categories:
+  - 'life'
 ---
 
 #CrazyDogLady alert!
@@ -25,10 +25,10 @@ Of course it would be super cool if Mac was like super famous and my job was to 
 
 So, why do I do this? Because it just makes me happy. It's fun to see other dogs like Mac since he's such a random breed, if I'm having a bad day, it's just fun to scroll through the feed or post new pictures. Try it and you'll see!
 
-_**Do you have an obsession with dog Instagrams?**_ 
+_**Do you have an obsession with dog Instagrams?**_
 
 _**Which are your favorite?**_
 
- 
+
 
 **[Follow Mac Here!](https://www.instagram.com/macandbiscuit/)**

@@ -1,11 +1,11 @@
 ---
-title: "amsterdam"
-date: "2010-06-27"
-categories: 
-  - "london-2010"
-  - "travel"
-tags: 
-  - "study-abroad"
+title: 'amsterdam'
+date: '2010-06-27'
+categories:
+  - 'london-2010'
+  - 'travel'
+tags:
+  - 'study-abroad'
 ---
 
 [![](images/amsterdam2.JPG)](http://3.bp.blogspot.com/_ktZXPugrmyM/TFy_45WxWmI/AAAAAAAAC5s/h8-vrGPoaSc/s1600/amsterdam2.JPG)

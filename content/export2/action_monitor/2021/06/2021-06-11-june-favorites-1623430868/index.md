@@ -1,6 +1,6 @@
 ---
-title: "June Favorites"
-date: "2021-06-11"
+title: 'June Favorites'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"June Favorites","node\_id":370,"relay\_id":"cG9zdDozNzA=","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"June Favorites","node_id":370,"relay_id":"cG9zdDozNzA=","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

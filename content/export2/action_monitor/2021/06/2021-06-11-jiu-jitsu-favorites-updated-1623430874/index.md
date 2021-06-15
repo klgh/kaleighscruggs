@@ -1,6 +1,6 @@
 ---
-title: "Jiu-Jitsu Favorites - Updated"
-date: "2021-06-11"
+title: 'Jiu-Jitsu Favorites - Updated'
+date: '2021-06-11'
 ---
 
-{"action\_type":"CREATE","title":"Jiu-Jitsu Favorites - Updated","node\_id":5412,"relay\_id":"cG9zdDo1NDEy","graphql\_single\_name":"post","graphql\_plural\_name":"posts","status":"publish"}
+{"action_type":"CREATE","title":"Jiu-Jitsu Favorites - Updated","node_id":5412,"relay_id":"cG9zdDo1NDEy","graphql_single_name":"post","graphql_plural_name":"posts","status":"publish"}

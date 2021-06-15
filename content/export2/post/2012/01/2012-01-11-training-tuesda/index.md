@@ -1,8 +1,8 @@
 ---
-title: "Training Tuesday"
-date: "2012-01-11"
-categories: 
-  - "life"
+title: 'Training Tuesday'
+date: '2012-01-11'
+categories:
+  - 'life'
 ---
 
 Hello! Sooo training Tuesday..What I have done in the past week, training wise!
@@ -21,7 +21,7 @@ Mon Jan 9 - nada
 
 Tues Jan 10- nada ( had an allergy shot)
 
- 
+
 
 Lots of core...lol
 

@@ -1,8 +1,8 @@
 ---
-title: "Hello, World!"
-date: "2016-05-17"
-categories: 
-  - "life"
+title: 'Hello, World!'
+date: '2016-05-17'
+categories:
+  - 'life'
 ---
 
 This is my 1st post on my re-vamped blog! Welcome new readers and old friends! Some people already know me because I have this habit of starting blogs, changing names, then deleting their existence because I don't know what I want to do with it.

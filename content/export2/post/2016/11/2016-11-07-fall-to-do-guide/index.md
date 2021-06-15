@@ -1,12 +1,12 @@
 ---
-title: "Fall To Do Guide"
-date: "2016-11-07"
-categories: 
-  - "life"
-tags: 
-  - "fall"
-  - "guide"
-  - "to-do"
+title: 'Fall To Do Guide'
+date: '2016-11-07'
+categories:
+  - 'life'
+tags:
+  - 'fall'
+  - 'guide'
+  - 'to-do'
 ---
 
 ![fall to do guide](images/FallToDoGuide-683x1024.png)
