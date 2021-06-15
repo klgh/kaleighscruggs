@@ -11,9 +11,7 @@ Last week I attended [REFACTR.TECH](https://www.refactr.tech/) in Atlanta. REFAC
 
 I applied for and received a free ticket, which included a workshop, from [Women Who Code](https://www.womenwhocode.com/). I'm so thankful they offer free tickets to events and conferences, I've been able to attend a few now with the help of Women Who Code. 👩‍💻
 
-##
-
-Day 1 - Gatsby Workshop
+## Day 1 - Gatsby Workshop
 
 ![gatsby workshop](images/gatsbyworkshop-scaled-1-768x1024.jpg)REFACTR had 6 different workshop options, and I was very excited to see that there would one on [Gatsby](https://www.gatsbyjs.com/) since I've been looking for a new CMS to manage my website projects. A few months ago I stumbled upon Gatsby, but I didn't have time to learn it so this was perfect. From the Gatsby website, it's explained: "Gatsby is a free and open-source framework based on React that helps developers build blazing fast websites and apps". Sounds pretty nice!  
 This was a full-day workshop where [Brandon Kearns](https://twitter.com/brandon_kearns) taught us all about Gatsby from the ground up. We did the [tutorials](https://www.gatsbyjs.com/docs/tutorial/) on the Gatsby site as well as one with [Contentful](https://www.contentful.com) as our headless CMS. Once we did that I was completely sold. Manage the site with Gatsby/React and still have a CMS that would be easy for others to update? Take my money (jk it's all open source).
