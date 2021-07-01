@@ -44,7 +44,7 @@
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.21.5",
-    "prettier": "^2.2.1"
+    "prettier": "^2.3.2"
   },
   "keywords": [
     "gatsby"
