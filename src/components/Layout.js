@@ -1,8 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import '../styles/styles.scss'
+//import '../styles/styles.scss'
 import Footer from './footer'
 import { rhythm, scale } from '../utils/typography'
+import Header from './header'
 
 class Layout extends React.Component {
   render() {
@@ -11,18 +12,14 @@ class Layout extends React.Component {
     let header
 
     if (location.pathname === rootPath) {
-      header = (
-        <h1>
-          <Link to={`/`}>{title}</Link>
-        </h1>
-      )
+      header = <Header />
     } else {
       header = (
         <h3
+          className="layout2"
           style={{
-            fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
-            marginBottom: rhythm(-1),
+            marginBottom: rhythm(1),
           }}
         >
           <Link
@@ -33,7 +30,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            {title}
+            Kaleigh Scruggs
           </Link>
         </h3>
       )

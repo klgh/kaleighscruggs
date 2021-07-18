@@ -1,7 +1,8 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import { Box, Text } from '@chakra-ui/react'
-import Bio from '../components/bio'
+//import Bio from '../components/bio'
+import { Divider } from '@chakra-ui/react'
 
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
@@ -17,7 +18,7 @@ const PortfolioPage = ({ data, location }) => {
         <Box p={8}>
           <Text fontSize="xl">Hello World</Text>
         </Box>
-        <Bio />
+        {/* <Bio /> */}
         <p>Hello World</p>
         <h2>Freelance Sites</h2>
         <div className="kelundra">
@@ -38,6 +39,7 @@ const PortfolioPage = ({ data, location }) => {
             </a>
           </h4>
         </div>
+        <Divider />
         <div className="hawkpest">
           <a
             href="https://hawkpest.com/"
@@ -56,6 +58,7 @@ const PortfolioPage = ({ data, location }) => {
             </a>
           </h4>
         </div>
+        <Divider />
         <div className="yogaposies">
           <a
             href="http://yogaposies.com/"
@@ -74,6 +77,7 @@ const PortfolioPage = ({ data, location }) => {
             </a>
           </h4>
         </div>
+        <Divider />
         <div className="laurensfloral">
           <a
             href="http://laurensfloralart.com/"
