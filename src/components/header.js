@@ -1,4 +1,4 @@
-import { Box, Heading, Link } from '@chakra-ui/react'
+import { Box, Heading } from '@chakra-ui/react'
 import React from 'react'
 import ThemeToggle from '../theme/toggle-theme'
 import Social from './social'
