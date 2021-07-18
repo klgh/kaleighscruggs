@@ -17,8 +17,6 @@ I have not done a weekly wrap in a LONG time! No excuse!
 
 [![](images/20160602_164149.jpg)](https://1.bp.blogspot.com/-StQn3jZeUY0/V1V5Dn4qxjI/AAAAAAABXKY/7u0sEbuuuck0pynVyfK7HIlM15f6uT7IACKgB/s1600/20160602_164149.jpg)
 
-
-
 [![](images/IMG_20160602_174214.jpg)](https://4.bp.blogspot.com/-G9C0CFoVrMw/V1V5LSeOCyI/AAAAAAABXKg/mJuK_LMbITI2KXGCsah0ZTdgRKpMqJv6gCKgB/s1600/IMG_20160602_174214.jpg)
 
 It's hard to take good pictures at aquariums!

@@ -5,8 +5,6 @@ categories:
   - 'life'
 ---
 
-
-
 #### Ingredients
 
 1 peeled banana 1 large egg 1/2 cup creamy peanut butter (doesn't have to be exact!) 1/3 cup unsweetened natural cocoa powder 3 tablespoons honey (agave, brown rice syrup, or maple syrup may be substituted) 1 tablespoon vanilla extract 1/4 teaspoon baking soda pinch salt, optional and to taste heaping 1/2 cup mini semi-sweet chocolate chips + more for sprinkling muffin tops

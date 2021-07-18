@@ -6,3 +6,5 @@ const typography = new Typography(fairyGatesTheme)
 export default typography
 export const rhythm = typography.rhythm
 export const scale = typography.scale
+
+typography.injectStyles()

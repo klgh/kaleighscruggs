@@ -24,11 +24,7 @@ The website we’re creating will be [kaleigh.tech](https://kaleigh.tech/) and t
 
 No matter if you have a lot of content or nothing at all, you’ll want to install 3 plugins to your WordPress site. We’re not going to hook them up right now since we don’t have anything to point them towards, but let's get it set up ahead of time.
 
-
-
 ### Install Plugins
-
-
 
 [wp-trigger-netlify-build](https://github.com/iamtimsmith/wp-trigger-netlify-build)
 
@@ -42,11 +38,7 @@ Install these three plugins, and you can go ahead and activate them.
 
 Since I’m creating this site for this tutorial, I filled in some dummy pages and posts on my WordPress site.
 
-
-
 ## Get Gatsby Up & Running (Locally)
-
-
 
 Now let's switch gears and get Gatsby up and running! Gatsby has great docs, and if you haven’t checked them out yet, open a new tab and take a look at their [Step 0 page](https://www.gatsbyjs.org/tutorial/part-zero/) to make sure your environment is ready to go. Once you get to “[Using the Gatsby CLI](https://www.gatsbyjs.org/tutorial/part-zero/#using-the-gatsby-cli)”, come back here.
 
@@ -141,7 +133,5 @@ Now you should have all 3 links
 ![netlify build hooks](images/Screen-Shot-2020-08-06-at-7.09.10-PM.png)
 
 Click on Save Changes. This will allow you to create a new deploy when you update content on WordPress.
-
-
 
 Alright, that's it for now, stay tuned for Part 2 - The Connection, coming soon!

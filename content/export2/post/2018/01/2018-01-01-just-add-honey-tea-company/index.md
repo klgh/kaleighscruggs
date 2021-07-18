@@ -35,8 +35,6 @@ When they asked us which tea we wanted to bring home, it was a no-brainer that 
 
 ![Just Add Honey](images/JustAddHoney-1-683x1024.png)
 
-
-
 Once we finished up, we looked around the shop and I found this t-shirt I HAD TO HAVE. It's so great:
 
 ![pot head tshirt](images/potheadtshirt-768x1024.jpg)

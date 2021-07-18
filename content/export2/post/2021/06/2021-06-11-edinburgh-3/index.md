@@ -9,21 +9,13 @@ categories:
 
 On Sunday, July 26, Shaun and I boarded a Virgin East Coast train from London Kings Cross to Edinburgh Waverley. The train left at 4pm and arrived at 8:20pm in Scotland. When we arrived, we left the station for the Princes Street exit. We were hungry and needed to check into our hotel. Luckily it was just down the street from the train station. We stayed at the [Edinburgh Central Waterloo Place Hotel](https://www.travelodge.co.uk/hotels/428/Edinburgh-Central-Waterloo-Place-hotel). Our room was on the -1 floor (weird!), and it was pretty big for a hotel in Europe.
 
-
-
 [![](images/edinburghtrain.jpg)](http://4.bp.blogspot.com/-ks1e5rx3oNA/ViVQvNBmUdI/AAAAAAAA5VU/2Ahs75iz6q0/s1600/edinburghtrain.jpg)
 
 [![](images/edinburghstreet.jpg)](http://4.bp.blogspot.com/-yJQ29TWcEgA/ViVRYGYAVNI/AAAAAAAA5Vc/tw5KOSt4Gf8/s1600/edinburghstreet.jpg)
 
-
-
 Once we dropped our bags off, we needed to find food fast. We had learned that places close for dinner pretty early or stop serving food. We got a recommendation from the guy at the front desk for a pizza place next door, but we wanted to try a pub first, The Guildford Arms. They weren't serving food, so we left and went to the pizza place. Shaun and I split a small pizza and then left to go back to The Guildford Arms.
 
-
-
 [![](images/Guildford1.jpg)](http://1.bp.blogspot.com/-ovqINziav5o/ViVRekoPY8I/AAAAAAAA5Vk/0f7JSupnhy4/s1600/Guildford1.jpg)
-
-
 
 [![](images/Guildford2.jpg)](http://3.bp.blogspot.com/-qwIMYwBYRGo/ViVRez_kMpI/AAAAAAAA5Vo/fLzynC4k9jg/s1600/Guildford2.jpg)
 
@@ -35,11 +27,7 @@ The castle was pretty busy for such a rainy and (unseasonably) cold day.
 
 [![](images/castle1.jpg)](http://4.bp.blogspot.com/-8u3RDwmhd8s/ViVVt6txupI/AAAAAAAA5V4/fQKzCTtfJx8/s1600/castle1.jpg)
 
-
-
 [![](images/castle2.jpg)](http://4.bp.blogspot.com/-8DCgfs5O-VA/ViVVuELJoAI/AAAAAAAA5V8/5ncED3BDmik/s1600/castle2.jpg)
-
-
 
 [![](images/castle33.jpg)](http://1.bp.blogspot.com/-Lh6QNxQgy50/ViVVuF7eu8I/AAAAAAAA5WA/DFMNGGuqPlQ/s1600/castle33.jpg)
 
@@ -51,19 +39,11 @@ We were having a tough time finding a place around the Royal Mile that wasn't cr
 
 [![](images/devil1.jpg)](http://3.bp.blogspot.com/-xwQOBkT_jA0/ViVYUUPonLI/AAAAAAAA5XU/O4c-bV1CY6k/s1600/devil1.jpg)
 
-
-
 [![](images/devil2.jpg)](http://2.bp.blogspot.com/-2ho3bqjJtt8/ViVYUTBAVPI/AAAAAAAA5XM/EpfVs_GVf4w/s1600/devil2.jpg)
-
-
 
 [![](images/devil3.jpg)](http://2.bp.blogspot.com/-7I6pG2jyY7M/ViVYUr-_G2I/AAAAAAAA5XQ/1Ky_FKk2ABM/s1600/devil3.jpg)
 
-
-
 [![](images/devil4.jpg)](http://2.bp.blogspot.com/-FUEZadX2zsQ/ViVYUwNe2dI/AAAAAAAA5XY/TpVO-MfATYU/s1600/devil4.jpg)
-
-
 
 [![](images/devil6.jpg)](http://3.bp.blogspot.com/-tlwZLEkTRPI/ViVYU63ZPnI/AAAAAAAA5Xc/7wN-gIHb2Wc/s1600/devil6.jpg)
 
@@ -77,15 +57,9 @@ It was beautiful, despite it being overcast, windy, and cold.
 
 [![](images/leith3.jpg)](http://1.bp.blogspot.com/-OtNXT7gTR4E/ViVvmitkS3I/AAAAAAAA5Yo/6wzOqukjRwI/s1600/leith3.jpg)
 
-
-
 [![](images/leith4.jpg)](http://2.bp.blogspot.com/-83BgsobdSKk/ViVvm51SnZI/AAAAAAAA5Yk/gTsOQSxBKbU/s1600/leith4.jpg)
 
-
-
 [![](images/leith5.jpg)](http://4.bp.blogspot.com/-bNpyj3s3YFg/ViVvm2PzJvI/AAAAAAAA5Yg/TUUZ2mvMq6c/s1600/leith5.jpg)
-
-
 
 [![](images/leith6.jpg)](http://2.bp.blogspot.com/-pVNfa30x8fk/ViVvnBo4yOI/AAAAAAAA5Ys/TbnKU8_04JM/s1600/leith6.jpg)
 
@@ -103,23 +77,15 @@ The next day, our last day in Edinburgh, we woke up early to pay for an extended
 
 [![](images/holyrood6.jpg)](http://3.bp.blogspot.com/-WcsnVs5DROU/ViVz1mfUeSI/AAAAAAAA5Zg/pIaUFVCME5I/s1600/holyrood6.jpg)
 
-
-
 [![](images/holyrood7.jpg)](http://4.bp.blogspot.com/-JQfesD8AqFA/ViVz1nZmcWI/AAAAAAAA5Zc/axzZrVWk2E8/s1600/holyrood7.jpg)
 
-
-
 [![](images/holyrood8.jpg)](http://3.bp.blogspot.com/-umQfNkF8MPo/ViVz2HcG6gI/AAAAAAAA5Zk/EdTqw0mIE2Q/s1600/holyrood8.jpg)
-
-
 
 [![](images/holyrood10.jpg)](http://3.bp.blogspot.com/-1mH2JZCrGMs/ViVz1uhG-ZI/AAAAAAAA5ZY/8cKztLfSadM/s1600/holyrood10.jpg)
 
 After we were done, we quickly went back to the hotel, showered, checked out, and left our bags there. We went to get breakfast at [The Holyrood 9A](https://www.theholyrood.co.uk/), and it was delicious. Next, we went to shops on the Royal Mile and bought things for some family. Then we went to [BrewDog](https://www.brewdog.com/). We had their beer in London and heard they were a pretty cool pub. We spent some time here and had snacks, then it was time to get our stuff from the hotel and catch the bus to the airport.
 
 [![](images/brewdog11.jpg)](http://2.bp.blogspot.com/-kDhDnkCWtu8/ViV1BvOk0aI/AAAAAAAA5Z4/IbYT9tFMLZA/s1600/brewdog11.jpg)
-
-
 
 [![](images/elephant.jpg)](http://4.bp.blogspot.com/-FkjzFAfXR_o/ViV1BlLGtfI/AAAAAAAA5Z8/vOW6WInW0P8/s1600/elephant.jpg)
 
@@ -134,7 +100,5 @@ Once we got to the gate, we were delayed. Finally, we boarded the plane for the 
 The next morning, we got up and left for the airport again. I'm so glad we left when we did because we chased down the shuttle bus, and once we were at the airport, had to wait to check-in with United, then to go through security, then go to customs security, and then US border patrol (they do it backward in the Dublin airport going to the US). We literally got through about 15 minutes before our flight. Thankfully it was delayed a little, so we were finally able to get our last Irish Guinness and blow a lot of money at the airport shops on candy.
 
 [![](images/lastg.jpg)](http://1.bp.blogspot.com/-zZGpHDZCDtM/ViV3yoiiicI/AAAAAAAA5aU/JqiAZx08Gws/s1600/lastg.jpg)
-
-
 
 [![](images/leaving.jpg)](http://1.bp.blogspot.com/-F9A_N7t7aBY/ViV3yh6kRUI/AAAAAAAA5aY/mIYFXMrhONQ/s1600/leaving.jpg)

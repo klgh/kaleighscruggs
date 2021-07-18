@@ -33,8 +33,6 @@ It's really hard to find food that doesn't have gluten AND dairy and still taste
 
 [this post is part of the Friday Five](http://www.yousignedupforwhat.com/)
 
-
-
 _Do you have any gluten free or dairy free favorites?_
 
 _What's your favorite grocery store?_

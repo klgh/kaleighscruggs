@@ -39,8 +39,6 @@ So I went to Publix and got some, went home and looked up how to use it. I just 
 
 **_How was your weekend?_** **_Do you have any favorite fall drinks?_** **_What's your favorite crock pot recipe?_**
 
-
-
 [![](images/WeeklyWrap-300x300.jpg)](http://www.misssippipiddlin.com/)
 
 Weekly Wrap with [HoHoRuns](http://hohoruns.blogspot.com/) & [MissSippiPiddlin](http://www.misssippipiddlin.com/)

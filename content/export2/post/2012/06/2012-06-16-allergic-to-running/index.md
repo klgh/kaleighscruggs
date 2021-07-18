@@ -9,8 +9,6 @@ I am allergic to running. It is as stupid as it sounds. Not in the running makes
 
 It is a real, but rare, condition called “Exercise Induced Anaphlaxis” . Luckily this doesn’t happen every time I work out, just randomly. But the random part sucks. I have to always be prepared and know a quick way to get home and start taking Benedryl. I been lucky enough to not have to use my Epi-Pen, and hope I never have to. But it’s there just in case.
 
-
-
 The first time this ever happened was really confusing because I had no idea why I was having an allergic reaction. I was running inside at GSU’s gym and only did a few laps before my eyes felt itchy. I thought something got in them so I went to the bathroom. My eyes were red but I shrugged it off and kept running. 2 laps later I was feeling even more itchy and irritated, so I went back into the bathroom and noticed my eyes were swelling up and really red. I started coughing too. I knew this was a bad sign. I luckily rode to the gym with my boyfriend so I grabbed my stuff and went downstairs to find him. I ran up to him and said “something’s wrong”. He looked at me and then did a double take and asked what was going on. I had no idea and of course I didn’t have any allergy medicine with me because I was at the gym. Why would I bring that there? We left immediately and I got to my apartment, took Benedryl and jumped in the shower.
 
 I thought I might be allergic to my sweat, maybe it had gotten in my eyes. Or maybe a cleaning product that was used and I touched my hand to my face. None of it made sense. 2 months later, this happened again. I was inside, and had to leave to take Benedryl. A few months later this happened again, at an apartment gym. Then 3 months after that, but I was outside. This time it was easier to tell it was coming on because I was sneezing a lot and felt like my allergies were acting up. But by the time I got home, my eyes we swelling up. This time though it took 24 hours for the swelling to go down. Kind of embarrassing.
@@ -30,7 +28,5 @@ These articles are really great for more information about EIA:
 [Can I Be Allergic To Running?](http://greatist.com/fitness/can-i-be-allergic-to-running-032912/)
 
 [Allergic to exercise?](http://bodyodd.msnbc.msn.com/_news/2008/07/16/4379999-allergic-to-exercise)
-
-
 
 Does anyone have this same issue I do?

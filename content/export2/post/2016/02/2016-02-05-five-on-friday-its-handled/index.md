@@ -15,8 +15,6 @@ Oh, but Shaun saw how sad I was that I didn't get any tickets and he said we can
 
 3// I'm REALLY excited for the weekend because work this week has been so hectic and stressful. Like I don't have any sort of plans, but I'm looking forward to 3:15pm. I want to go to kickboxing Saturday morning, but that's it. Oh and figure out how to watch the Super Bowl to see my boys (Coldplay) play the halftime show. They are the only people I know who are playing in the Super Bowl.
 
-
-
 <iframe src="//giphy.com/embed/xcwOQbd8pktIQ" width="480" height="201" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 [via GIPHY](http://giphy.com/gifs/mic-beyonce-beyonc-coldplay-xcwOQbd8pktIQ)

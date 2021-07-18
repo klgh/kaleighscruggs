@@ -23,8 +23,6 @@ Let's get to it....here's what I packed for 12 days in Europe. If you have any q
 
 ### Bags
 
-
-
 **30L Patagonia Mate Backpack (discontinued I believe)**
 
 [![](images/backpack.jpg)](http://2.bp.blogspot.com/-1_uVIHsmsdI/VibaIR6rPKI/AAAAAAAA5hY/HhDZqMdlvh0/s1600/backpack.jpg)

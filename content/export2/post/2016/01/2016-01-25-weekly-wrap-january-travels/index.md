@@ -45,8 +45,6 @@ Today, I woke up feeling great sick. My voice is going, and I have a burning cou
 
 Anyways, this is part of the Weekly Wrap link up!
 
-
-
 [![](images/WeeklyWrap.jpg)](http://3.bp.blogspot.com/-yIW5MutVIYk/VcOhp3FgsYI/AAAAAAAABmU/9MODiWOHVzE/s320/WeeklyWrap.jpg)
 
 [HoHo Runs](http://hohoruns.blogspot.com/)

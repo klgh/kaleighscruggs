@@ -29,6 +29,4 @@ _**Do you have an obsession with dog Instagrams?**_
 
 _**Which are your favorite?**_
 
-
-
 **[Follow Mac Here!](https://www.instagram.com/macandbiscuit/)**

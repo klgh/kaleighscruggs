@@ -26,10 +26,6 @@ since they were on clearance, but decided to stop by the shoe aisle before I l
 
 ![](images/product_kinvara2.jpg 'shoess')
 
-
-
 I also finally got a new one piece bathing suit to swim in. It's just plain black..that's all they had..maybe I'll find a cooler one later.
-
-
 
 Tonight I went to the Atlanta Brewing Company with a bunch of friends from school. It was pretty cool, $10 for a glass you get to keep and 4 refills of beer. After we got pizza..and now I'm home! I was going to wear my new Columbia jacket, but I got home and found they left the security tag on it! So I must return to Marshalls tomorrow to get it taken off. Now I must finish my laundry since I had a pizza spill tonight.

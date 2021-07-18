@@ -21,8 +21,6 @@ What do you like to do as a summer workout?
 
 Follow me on [Twitter](https://twitter.com/kaleighcodes) and [Instagram](https://www.instagram.com/codebikerun/) to keep up with me this summer on my workouts!
 
-
-
 This is a Friday Five link up with [You Signed Up For WHAT?!](http://www.yousignedupforwhat.com/), [Mar on the Run](http://marontherun.com/), & [Eat Pray Run, DC](http://eatprayrundc.com/).
 
 [![](images/DC_linkup.jpg)](http://www.marontherun.com/wp-content/uploads/2013/11/DC_linkup.jpg)

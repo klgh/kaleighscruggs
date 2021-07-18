@@ -32,6 +32,4 @@ Now it's time for you to look at food and tea:
 
 \[caption id="attachment_28" align="aligncenter" width="300"\]![](images/IMG_20170828_143749_289-300x225.jpg) teriyaki chicken bao\[/caption\]
 
-
-
 [Yelp](https://www.yelp.com/biz/tea-house-formosa-doraville-4) | [Facebook](https://www.facebook.com/teahouseformosa/) | [Instagram](https://www.instagram.com/teahouseformosa/) | [Google Maps](https://www.google.com/maps/place/Tea+House+Formosa/@33.8975216,-84.2819398,15z/data=!4m5!3m4!1s0x0:0xeb417085d636a1a4!8m2!3d33.8975216!4d-84.2819398)

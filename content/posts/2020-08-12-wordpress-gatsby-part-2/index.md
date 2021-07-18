@@ -38,8 +38,6 @@ Next, we’ll need to edit the gatsby-node.js file. [I followed what was in the 
 
 Now our site is hooked up to our WordPress site, but there’s no real way to verify and view anything. So we’ll need to create a blog post template so we can pull in the information.
 
-
-
 ## Blog Post Template
 
 Next, we’ll need to set up a new folder called “templates” under src and add blog-post.js

@@ -31,8 +31,6 @@ Sweet! I grabbed my complimentary banana, and headed to the gym at work to showe
 
 [![](images/Attach6297_20160525_173015.jpg)](https://3.bp.blogspot.com/-VQ6CUsQlDsA/V0ZaNPFXiMI/AAAAAAABWgY/1Au9BdNzypsWPP3YFL8pvKl2wfaAJd5BQCKgB/s1600/Attach6297_20160525_173015.jpg)
 
-
-
 Now, it's time for bed. Cyclebar in the morning!
 
 _Have you ever been to a Cyclebar?_

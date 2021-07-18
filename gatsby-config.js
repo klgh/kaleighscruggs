@@ -10,8 +10,18 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-sass`,
-    `@chakra-ui/gatsby-plugin`,
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-mdx-embed`,
+    {
+      resolve: `@chakra-ui/gatsby-plugin`,
+      options: {
+        /**
+         * @property {boolean} [resetCSS=true]
+         * if false, this plugin will not use `<CSSReset />
+         */
+        resetCSS: true,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -29,6 +39,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-mdx`,
       options: {
+        defaultLayouts: {
+          posts: require.resolve('./src/templates/blog-post.js'),
+        },
         extensions: ['.mdx', '.md'],
         // a workaround to solve mdx-remark plugin compat issue
         // https://github.com/gatsbyjs/gatsby/issues/15486

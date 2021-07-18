@@ -25,8 +25,6 @@ Here's a look back at this past week!
 
 [![](images/12095270_10205376611870918_8060812029020149198_o.jpg)](http://2.bp.blogspot.com/-KAkiqtcMu94/VhwYyU7pb2I/AAAAAAAA4x4/rda8PB734CE/s1600/12095270_10205376611870918_8060812029020149198_o.jpg)
 
-
-
 [![](images/12139981_10205376632191426_5916917766070576030_o.jpg)](http://2.bp.blogspot.com/-44eAn92VZ9w/VhwYylz851I/AAAAAAAA4x0/2eayRo0k-y0/s1600/12139981_10205376632191426_5916917766070576030_o.jpg)
 
 **Sunday** Shaun and I planned our meals for the week and then went grocery shopping #Adulting. Moe's Monday, Taco Tuesday, Wings Wednesday....you get the idea...

@@ -21,8 +21,6 @@ Mon Jan 9 - nada
 
 Tues Jan 10- nada ( had an allergy shot)
 
-
-
 Lots of core...lol
 
 Still waiting on the baby. I went to Starbucks with my bro/dad-to-be Nick, and he said they're thinking the baby will come after it's due date...wahh!! He told me some statistic about first borns coming a week and a day after the due date...aka, Sunday January 22..AH! My fingers and toes are crossed so much for this baby to come before I have to leave. But knowing my luck and my history of being left out of things, I'll miss it :(
