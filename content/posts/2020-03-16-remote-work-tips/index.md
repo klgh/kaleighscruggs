@@ -4,6 +4,7 @@ date: '2020-03-16'
 categories:
   - 'tech'
 coverImage: 'remote-work-tips.png'
+slug: remote-work-tips
 ---
 
 ![remote work tips](images/remote-work-tips-683x1024.png)

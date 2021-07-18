@@ -4,6 +4,7 @@ date: '2020-08-12'
 categories:
   - 'tech'
 coverImage: 'Blog-Posts-1.png'
+slug: create-a-blog-with-wordpress-and-gatsby-part-2
 ---
 
 # Part 2 - The Connection

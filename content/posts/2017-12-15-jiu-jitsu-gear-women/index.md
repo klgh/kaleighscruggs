@@ -7,6 +7,7 @@ tags:
   - 'fitness'
   - 'jiu-jitsu'
 coverImage: 'Jiu-Jitsu_-Gear-for-Women-1.png'
+slug: jiu-jitsu-gear-women
 ---
 
 When I started jiu-jitsu, I had NO IDEA what to wear! For my first couple of classes, my husband told me to just wear a white shirt and form-fitting shorts with no pockets. Cool beans. But I needed more info.

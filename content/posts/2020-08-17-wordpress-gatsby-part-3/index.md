@@ -4,6 +4,7 @@ date: '2020-08-17'
 categories:
   - 'tech'
 coverImage: 'Blog-Posts-2.png'
+slug: create-a-blog-with-wordpress-and-gatsby-part-3
 ---
 
 Alright! So you've made it through [part 1](https://kaleigh.dev/blog/wordpress-gatsby-part-1) and [part 2](https://kaleigh.dev/blog/wordpress-gatsby-part-2), now for the final chapter in the series!

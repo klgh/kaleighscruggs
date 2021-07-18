@@ -4,11 +4,12 @@ date: '2020-08-10'
 categories:
   - 'tech'
 coverImage: 'Blog-Posts.png'
+slug: wordpress-gatsby-part-1
 ---
 
 I love Gatsby. I love WordPress. I love Gatsby and WordPress together. Earlier this year I set up a couple of sites using existing WordPress sites that I managed and created all-new designs and front-end experiences for both. In this series, I’m going to walk you through the whole thing- we’ll set up a new site that uses WordPress as the headless CMS with Gatsby. I’ll start from the very beginning so if you don’t know anything about Gatsby or WordPress, this will hopefully get you up and running with ease. If not, let me know what I can help you with!
 
-# Part 1 – The Foundation
+## Part 1 – The Foundation
 
 Let’s say you’ve decided you want to build this sort of site either for yourself or a client. All new everything. A domain name, hosting, a fresh start. If you’re not starting out fresh, you can jump in wherever it makes sense.
 

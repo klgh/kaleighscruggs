@@ -5,6 +5,7 @@ categories:
   - 'life'
   - 'tech'
 coverImage: 'NeverthelessKaleighCoded.png'
+slug: nevertheless-kaleigh-coded
 ---
 
 _I wanted to share how I got started in tech, despite being the only girl in MOST situations_. [Originally shared on dev.to](https://dev.to/kaleigh/nevertheless-kaleigh-coded-48oi)
