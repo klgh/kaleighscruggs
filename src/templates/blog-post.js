@@ -2,10 +2,18 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 import { MDXRenderer } from 'gatsby-plugin-mdx'
 import { MDXProvider } from '@mdx-js/react'
-//import Bio from '../components/Bio'
-import Layout from '../components/Layout'
+import {
+  Heading,
+  Text,
+  Divider,
+  ListItem,
+  UnorderedList,
+} from '@chakra-ui/react'
+import Layout from '../templates/basic-layout'
 import SEO from '../components/seo'
 import { rhythm } from '../utils/typography'
+import '../styles/styles.scss'
+import Header from '../components/header'
 
 /* class BlogPostTemplate extends React.Component {
   render() {
@@ -59,12 +67,34 @@ export default BlogPostTemplate */
 
 export default function BlogPostTemplate({ data: { mdx } }) {
   return (
-    <div>
-      <h1>{mdx.frontmatter.title}</h1>
-      <MDXProvider>
-        <MDXRenderer frontmatter={mdx.frontmatter}>{mdx.body}</MDXRenderer>
-      </MDXProvider>
-    </div>
+    <>
+      <Header />
+      <div className="blog_post">
+        <MDXProvider
+          components={{
+            h1: (props) => (
+              <Heading {...props} className="heading1" as="h2" size="2xl" />
+            ),
+            h2: (props) => (
+              <Heading {...props} className="heading2" as="h3" size="1xl" />
+            ),
+            ul: (props) => <UnorderedList {...props} className="list-reset" />,
+            li: (props) => <ListItem {...props} className="list-reset" />,
+            hr: (props) => <Divider {...props} className="divider" />,
+            a: (props) => <Link {...props} className="link" color="teal.500" />,
+            p: (props) => <Text {...props} className="text-sm" fontSize="lg" />,
+            delete: (props) => (
+              <Text {...props} className="text-danger" as="s" />
+            ),
+            em: (props) => <Text {...props} className="text-xs" as="em" />,
+          }}
+        >
+          <h2>{mdx.frontmatter.title}</h2>
+          <MDXRenderer frontmatter={mdx.frontmatter}>{mdx.body}</MDXRenderer>
+          <hr />
+        </MDXProvider>
+      </div>
+    </>
   )
 }
 

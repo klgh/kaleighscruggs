@@ -1,19 +1,18 @@
-import { Box, Heading } from '@chakra-ui/react'
+import { Link } from 'gatsby'
 import React from 'react'
+import { Heading, Box, Center, Flex } from '@chakra-ui/react'
 import ThemeToggle from '../theme/toggle-theme'
-import Social from './social'
 
-const Header = ({ siteTitle }) => (
-  <Heading
-    marginBottom="1.45rem"
-    orientation="horizontal"
-    as="h1"
-    size="4xl"
-    isTruncated
-  >
-    Kaleigh
-    <Social />
-    <ThemeToggle />
-  </Heading>
+const Header = ({}) => (
+  <>
+    <Center className="header">
+      <Flex flexDirection="column">
+        <Heading className="header__title" as="h1" size="3xl">
+          <Link to={`/`}>Kaleigh Scruggs</Link>
+        </Heading>
+      </Flex>
+      <ThemeToggle />
+    </Center>
+  </>
 )
 export default Header

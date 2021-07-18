@@ -1,8 +1,7 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
-
 //import Bio from '../components/bio'
-import Layout from '../components/Layout'
+import Layout from '../templates/basic-layout'
 import SEO from '../components/seo'
 
 class Blog extends React.Component {

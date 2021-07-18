@@ -4,7 +4,7 @@ import { Box, Text } from '@chakra-ui/react'
 //import Bio from '../components/bio'
 import { Divider } from '@chakra-ui/react'
 
-import Layout from '../components/Layout'
+import Layout from '../templates/basic-layout'
 import SEO from '../components/seo'
 
 const PortfolioPage = ({ data, location }) => {

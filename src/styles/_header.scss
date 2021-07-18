@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Work Sans';
+
+  a {
+    color: $dark-blue-gray;
+    background-image: none;
+  }
+
+  .header__title {
+    margin-bottom: 1.45rem;
+    display: flex;
+    font-family: 'Work Sans';
+  }
+  .toggle_theme {
+    max-width: 605px;
+    position: fixed;
+    right: 60px;
+    top: 20px;
+
+    .chakra-button {
+      color: $dark-blue-gray;
+    }
+  }
+}
