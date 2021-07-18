@@ -1,18 +1,18 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 import { MDXRenderer } from 'gatsby-plugin-mdx'
-
+import { MDXProvider } from "@mdx-js/react"
 //import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
-import { rhythm, scale } from '../utils/typography'
+import { rhythm } from '../utils/typography'
 
-class BlogPostTemplate extends React.Component {
+/* class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.mdx
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
-    console.log(this.props.pageContext)
+    console.log(this.props)
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -37,14 +37,14 @@ class BlogPostTemplate extends React.Component {
         >
           <li>
             {previous && (
-              <Link to={previous.fields.slug} rel="prev">
+              <Link to={previous.frontmatter.slug} rel="prev">
                 ← {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
-              <Link to={next.fields.slug} rel="next">
+              <Link to={next.frontmatter.slug} rel="next">
                 {next.frontmatter.title} →
               </Link>
             )}
@@ -55,24 +55,27 @@ class BlogPostTemplate extends React.Component {
   }
 }
 
-export default BlogPostTemplate
+export default BlogPostTemplate */
+
+export default function BlogPostTemplate({ data: { mdx } }) {
+  return (
+    <div>
+      <h1>{mdx.frontmatter.title}</h1>
+      <MDXProvider>
+        <MDXRenderer frontmatter={mdx.frontmatter}>{mdx.body}</MDXRenderer>
+      </MDXProvider>
+    </div>
+  )
+}
 
 export const pageQuery = graphql`
-  query ($slug: String!) {
-    site {
-      siteMetadata {
-        title
-        author
-      }
-    }
-    mdx(fields: { slug: { eq: $slug } }) {
+  query BlogPostQuery($id: String) {
+    mdx(id: { eq: $id }) {
       id
-      excerpt(pruneLength: 160)
+      body
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
       }
-      body
     }
   }
 `

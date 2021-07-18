@@ -21,9 +21,9 @@ class Blog extends React.Component {
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
-            <div key={node.fields.slug}>
+            <div key={node.frontmatter.slug}>
               <h3>
-                <Link to={node.fields.slug}>{title}</Link>
+                <Link to={`/blog/${node.frontmatter.slug}`}>{title}</Link>
               </h3>
               <small>{node.frontmatter.date}</small>
               <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
@@ -54,6 +54,7 @@ export const blogQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            slug
           }
         }
       }
