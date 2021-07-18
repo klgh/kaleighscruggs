@@ -43,8 +43,6 @@ And that's about it...Sunday was a lazy rainy Sunday, and I tried out our new [T
 
 This was part of the Weekly Wrap link up! Check it out, it's a great way to meet bloggers and find new blogs to follow!
 
-
-
 [![](images/WeeklyWrap.jpg)](http://3.bp.blogspot.com/-yIW5MutVIYk/VcOhp3FgsYI/AAAAAAAABmU/9MODiWOHVzE/s320/WeeklyWrap.jpg)
 
 [HoHo Runs](http://hohoruns.blogspot.com/)

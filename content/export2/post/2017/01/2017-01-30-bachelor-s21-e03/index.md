@@ -52,8 +52,6 @@ Guess who is pissed that Nick kisses Danielle on stage??
 
 ![](images/giphy.gif)
 
-
-
 After the concert, they all go drink and have their one on one time. GUESS WHO STEALS NICK FIRST? Corinne talks about how she hates "planned dancing".  Meanwhile, the girls are like CAN WE STOP TALKING ABOUT CORINNE?! PREACH. Now she's off somewhere getting some more sleep. WTF.
 
 Back to the house...the girls get another date card. Vanessa gets to go on a date, and her clue is "floating".

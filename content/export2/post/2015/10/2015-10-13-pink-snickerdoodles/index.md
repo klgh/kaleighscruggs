@@ -9,8 +9,6 @@ Today at work, we all are wearing pink, and bringing in pink food for breast can
 
 ![](images/51vnwZrcDGL._SX425_.jpg)
 
-
-
 **Pink Snickerdoodles for Breast Cancer Awareness**![](images/tumblr_nw5tncGfYH1qzasfoo1_1280.jpg)
 
 **For the cookies:**

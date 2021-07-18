@@ -13,19 +13,13 @@ I can't believe October has come and gone! It went by so fast! My favorite month
 
 **Pumpkin Spice Lattes**
 
-
-
 [![](images/20151001_071824-01.jpeg)](http://1.bp.blogspot.com/-vpf98oqxodk/VjfpYEwAPtI/AAAAAAAA6Wk/MGIne9qUsKg/s1600/20151001_071824-01.jpeg)
 
 **Pumpkin Scented Candles**
 
-
-
 [![](images/20151008_221708-01%257E2.jpeg)](http://3.bp.blogspot.com/-lzi_kMgjaww/VjfpYIrY23I/AAAAAAAA6Wk/vbQhtXh22U0/s1600/20151008_221708-01%257E2.jpeg)
 
 **Halloween Lights**
-
-
 
 [![](https://2.bp.blogspot.com/-HGJI-dENHqY/VjfpYK5TwOI/AAAAAAAA6Wk/KCEU8-kW-t0/s400/20151011_213320.mp4)](http://2.bp.blogspot.com/-HGJI-dENHqY/VjfpYK5TwOI/AAAAAAAA6Wk/KCEU8-kW-t0/s1600/20151011_213320.mp4)
 
@@ -49,13 +43,9 @@ I can't believe October has come and gone! It went by so fast! My favorite month
 
 [![](images/IMG_20151024_115953.jpg)](http://2.bp.blogspot.com/-f6KMbc68X-A/VjfquPJo2OI/AAAAAAAA6W0/Vuwfx-8hzDQ/s1600/IMG_20151024_115953.jpg)
 
-
-
 **Halloween Parties**
 
 [![](images/20151024_220232.jpg)](http://3.bp.blogspot.com/-gp8VsTF9N1s/VjfquOmDLkI/AAAAAAAA6W0/220pNIcq9A0/s1600/20151024_220232.jpg)
-
-
 
 [![](images/IMG_20151025_124818.jpg)](http://3.bp.blogspot.com/-Vv0UEWRZJJ4/VjfquGCDAMI/AAAAAAAA6W0/HXv18ZIm0o0/s1600/IMG_20151025_124818.jpg)
 
@@ -64,8 +54,6 @@ I can't believe October has come and gone! It went by so fast! My favorite month
 **My new niece!**
 
 [![](images/IMG_20151026_091511.jpg)](http://4.bp.blogspot.com/-CKcMyY7Km9k/VjfquOVpt1I/AAAAAAAA6W0/HAvdc0X83t0/s1600/IMG_20151026_091511.jpg)
-
-
 
 **Arden's Garden**
 

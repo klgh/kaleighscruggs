@@ -7,8 +7,6 @@ categories:
 
 _Thinking of Paris_
 
-
-
 ![](images/tumblr_nxwu1ty2Gb1qzasfoo3_1280.jpg)
 
 [![](images/WeeklyWrap.jpg)](https://3.bp.blogspot.com/-nvrsswp-b3w/V1XXdQo0PRI/AAAAAAABXPM/Ku__EW6Powso_FrM-9Z7owC7ynL0g5Q6wCKgB/s1600/WeeklyWrap.jpg)
@@ -29,8 +27,6 @@ It finally stopped raining and the sun was out! After work, I took Mac to the fi
 
 \***\*![](images/tumblr_nxwu1ty2Gb1qzasfoo4_1280.jpg)\*\***
 
-
-
 **Thursday**
 
 I worked from home, and was able to go to Whole Foods for lunch. I got the 'Chicken Salad Snack', which is a container with chicken salad, crackers, grapes, and cheese. I didn't eat the cheese since it's not in my diet, but the rest was so good!
@@ -38,8 +34,6 @@ I worked from home, and was able to go to Whole Foods for lunch. I got the 'Chic
 I almost missed the 1st class of TBF! I got there right as they were setting the clock. Luckily I was able to jump in and completed 2 classes! It was a great workout. For dinner we had hibachi chicken..so good.
 
 \***\*![](images/tumblr_nxwu1ty2Gb1qzasfoo5_1280.jpg)\*\***
-
-
 
 **Friday**
 
@@ -51,17 +45,11 @@ We were supposed to go to the mountains, but Shaun was sick, so we stayed home a
 
 ![](images/tumblr_nxwu1ty2Gb1qzasfoo1_1280.jpg)
 
-
-
 \***\*![](images/tumblr_nxwu1ty2Gb1qzasfoo2_1280.jpg)\*\***
-
-
 
 **Sunday**
 
 Another semi-lazy day. We did get to go out and do some shopping and got some Chipolte. But then we went back home for Shaun to rest. No workouts this weekend, but I did eat healthy, and got 2 more of the Chicken Salad Snacks from Whole Foods. I ate one, and am saving the other for a random time this week.
-
-
 
 [![](images/WeeklyWrap-300x300.jpg)](http://www.misssippipiddlin.com/)
 

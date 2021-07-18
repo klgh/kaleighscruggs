@@ -44,8 +44,6 @@ Well my old room was HUGE, and now that I think back on it, it made me keep ALOT
 
 Now I have a headache from all the dust, it was much worse earlier though, and smashed my hand between the doorway and the container I was carrying. Ow.
 
-
-
 Yesterday, with all the old magazines I'm going to throw away, I made a "Vision Board". Something my parents have a lot of because of yoga teacher training workshops they go to and stuff. My mom was so excited I made one.
 
 \[caption id="attachment_166" align="alignnone" width="300" caption="my vision board"\]\[/caption\]
@@ -53,8 +51,6 @@ Yesterday, with all the old magazines I'm going to throw away, I made a "Vision 
 I put stuff in there that's not really a "vision" but things I like..like Coldplay and Vibrams.
 
 My family has been VERY careful about what we put on it since back in the spring when my Dad made his, he put a picture of a guy throwing a baby in the air, because he said he wanted to spend more time with his kids....then my brother Nick and his gf Kristen became pregnant. Coincidence? Crazy.
-
-
 
 Another day down, another day without the new baby Leach. When will he get here??
 

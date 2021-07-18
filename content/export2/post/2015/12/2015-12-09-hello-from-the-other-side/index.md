@@ -13,69 +13,43 @@ What's gone down in 2 weeks? Thanksgiving, Sim City Build It addiction, I gave b
 
 Lets see....went to Jekyll Brewing:
 
-
-
 [![](images/IMG_20151124_191844.jpg)](http://4.bp.blogspot.com/-Uto9Jgin3uo/VmjBmpHQo1I/AAAAAAABIpg/JoSMEB1nVi8/s1600/IMG_20151124_191844.jpg)
 
 Cleaned out MORE clothes from the closet (living near a consignment place is sweet). I fixed up an old sweater for Mac. He loves hates it.
-
-
 
 [![](images/20151127_151647.jpg)](http://4.bp.blogspot.com/-m7TvxD67aA4/VmjCDGbzgyI/AAAAAAABIpo/heiThk5AWC8/s1600/20151127_151647.jpg)
 
 Shaun & I had our 1st "show" for all of the tables (& other things) that he makes. [Check them out here](https://www.etsy.com/shop/HoundDogWood).
 
-
-
 [![](images/FB_IMG_1448729129377.jpg)](http://2.bp.blogspot.com/--mGXRpV26yE/VmjCDNZtrqI/AAAAAAABIpo/cy096Ce-urE/s1600/FB_IMG_1448729129377.jpg)
-
-
 
 [![](images/IMG_20151128_135120.jpg)](http://3.bp.blogspot.com/-98CXxM8ASoI/VmjCDL-3YzI/AAAAAAABIpo/EAe7iGtbo1s/s1600/IMG_20151128_135120.jpg)
 
 Got a great deal on a fake tree from Target. It's 6ft and skinnier than a usual tree. Perfect for a small apartment with high ceilings.
 
-
-
 [![](images/PhotoGrid_1448853435125.jpg)](http://1.bp.blogspot.com/-aGTpcPbg84s/VmjCDLxpyMI/AAAAAAABIpo/bSziBCli8k4/s1600/PhotoGrid_1448853435125.jpg)
-
-
 
 I got a really cool VoxBox to review! (All that stuff will be coming later!)
 
-
-
 [![](images/IMG_ryylis.jpg)](http://1.bp.blogspot.com/-43qL77tFCik/VmjCDDsgeFI/AAAAAAABIpo/yrF8MKez0Co/s1600/IMG_ryylis.jpg)
 
-
-
 I've been having a bunch of hot chocolate:
-
-
 
 [![](images/IMG_20151130_214947.jpg)](http://2.bp.blogspot.com/-IAPOAfPgv0Y/VmjCDJwTxjI/AAAAAAABIpo/2xdzbbrM0B8/s1600/IMG_20151130_214947.jpg)
 
 My sister in law made us this awesome wreath!
 
-
-
 [![](images/IMG_20151201_224308.jpg)](http://4.bp.blogspot.com/-ibYI2oHbsN4/VmjCDP5G4iI/AAAAAAABIpo/QJz4in3HoK8/s1600/IMG_20151201_224308.jpg)
 
 Finally bit the bullet and ordered these DNA kits for us. Of course the went on sale for Black Friday and I had already bought them.
-
-
 
 [![](images/20151203_162733-01.jpeg)](http://2.bp.blogspot.com/-tdL1p-cTvB8/VmjCDNy36qI/AAAAAAABIpo/hVhz8eC1c-8/s1600/20151203_162733-01.jpeg)
 
 I found sloth socks at Target!
 
-
-
 [![](images/IMG_20151206_140050.jpg)](http://1.bp.blogspot.com/-H3sNHYDNkF0/VmjCDLr1TMI/AAAAAAABIpo/-5-0DovJxCA/s1600/IMG_20151206_140050.jpg)
 
 I turned 27!
-
-
 
 [![](images/IMG_20151207_233210.jpg)](http://2.bp.blogspot.com/-vOVaih8h2pY/VmjCDMLb_bI/AAAAAAABIpo/-kfZZDkcAf8/s1600/IMG_20151207_233210.jpg)
 

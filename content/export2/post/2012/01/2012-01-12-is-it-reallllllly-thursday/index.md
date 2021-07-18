@@ -20,8 +20,6 @@ I guess so. It doesn't feel like Thursday yet! AH! That means next week at this 
 
 We are still waiting on the baby.....annd still waiting right now too...
 
-
-
 This morning I turned on my Kindle, and saw this lovely black line down the middle:
 
 \[caption id="attachment_174" align="alignnone" width="225" caption="dont mind what I'm looking at, I had to find a white screen to show the line better.."\]\[/caption\]

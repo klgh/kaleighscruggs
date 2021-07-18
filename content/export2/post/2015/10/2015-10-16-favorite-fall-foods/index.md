@@ -29,19 +29,13 @@ source
 
 **![](images/tumblr_nbcc5zOvBo1qzasfoo1_1280.jpg)**
 
-
-
 **_What are some of your favorite fall foods?_**
 
 **_What are you doing this weekend?_**
 
-
-
 ![image](images/tumblr_inline_nvlds65xNr1qzz1i4_540.jpg)
 
 Friday Five link up with [Eat Pray Run DC](http://eatprayrundc.com/) & [Mar on the Run](http://marontherun.com/)
-
-
 
 **Connect with me!**
 

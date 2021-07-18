@@ -29,8 +29,6 @@ what's your favorite quick breakfast? do you eat before you go to work or at wor
 
 Follow me on [Twitter](https://twitter.com/kaleighcodes) and [Instagram](https://www.instagram.com/codebikerun/)! And don't forget [Bloglovin'](https://www.bloglovin.com/blogs/codebikerun-12713491)!
 
-
-
 This is a Friday Five link up with [You Signed Up For WHAT?!](http://www.yousignedupforwhat.com/), [Mar on the Run](http://marontherun.com/), & [Eat Pray Run, DC](http://eatprayrundc.com/).
 
 [![](images/DC_linkup.jpg)](http://www.marontherun.com/wp-content/uploads/2013/11/DC_linkup.jpg)

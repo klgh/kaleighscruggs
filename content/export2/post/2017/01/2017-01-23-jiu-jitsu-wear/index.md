@@ -13,8 +13,6 @@ When I first started jiu jitsu, I had NO IDEA what to wear! For my first couple 
 
 Now that I've been training for 6 months (how'd that happen?!?!), I feel like I can share some info that may be helpful (or just give you insight) to other ladies.
 
-
-
 # Gi
 
 ![bjj1](images/bjj1-215x300.jpg)

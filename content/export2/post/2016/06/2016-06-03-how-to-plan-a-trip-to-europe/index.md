@@ -21,7 +21,7 @@ This was going to be the first trip to Europe that I 100% planned. The first tim
 
 [![](images/17101_10204580047157298_108712162697930041_n.jpg)](http://1.bp.blogspot.com/-F58ceEITq38/VkvLvhxdrPI/AAAAAAAA7E0/MtoETS7fbro/s1600/17101_10204580047157298_108712162697930041_n.jpg)
 
-***Pro tip:*** I was planning on opening a credit card with whatever airlines we decided on in order to get the $$$ off and start earning miles. I didn't realize until I was in too deep that my ticket purchase wasn't going on that new card. (It took about **2 weeks** for it to arrive). So I had to use my regular credit card. Not a huge deal (woo cash back!), but that took me by surprise. **Plan Your Cities** By this point all that was set in stone was Dublin. The website [Rome2Rio](http://www.rome2rio.com/) was awesome in figuring out the rest. It helped us visualize how we could get from one place to another, see how much planes/buses/trains/boats, cost, and decide on the order. It took a few weeks for us to finalize our plan: Dublin -> Brussels via RyanAir -> Paris via train -> London via train -> Edinburgh via train -> Dublin via RyanAir ( to catch the flight back home)
+**_Pro tip:_** I was planning on opening a credit card with whatever airlines we decided on in order to get the $$$ off and start earning miles. I didn't realize until I was in too deep that my ticket purchase wasn't going on that new card. (It took about **2 weeks** for it to arrive). So I had to use my regular credit card. Not a huge deal (woo cash back!), but that took me by surprise. **Plan Your Cities** By this point all that was set in stone was Dublin. The website [Rome2Rio](http://www.rome2rio.com/) was awesome in figuring out the rest. It helped us visualize how we could get from one place to another, see how much planes/buses/trains/boats, cost, and decide on the order. It took a few weeks for us to finalize our plan: Dublin -> Brussels via RyanAir -> Paris via train -> London via train -> Edinburgh via train -> Dublin via RyanAir ( to catch the flight back home)
 
 **Make transportation reservations** To figure out the flights I used [**Google Flights**](https://www.google.com/flights/) and [**Skyscanner**](http://www.skyscanner.com/). For the trains, I used Rome2Rio and [The Man in Seat 61](http://www.seat61.com/index.html#.VktqNq6rSu4). I used that website when I was studying abroad. It was super helpful for us to figure out how to get from London to Amsterdam via trains, a ferry, and more trains.
 
@@ -56,8 +56,6 @@ Once you have all your hotels and major transportation reserved, **look up how t
 [![](images/brusselstrain2.jpg)](http://blog.kaleighscruggs.com/wp-content/uploads/2015/08/brusselstrain2.jpg)
 
 And there you have it, a trip to Europe is planned! I really hope this helps, so if you have any questions or comments....leave them below!
-
-
 
 **Connect with me!**
 

@@ -37,15 +37,9 @@ The swim was 400 yards. And I’m not going to like, it was gross. At first I th
 
 After 10:45 I was out!
 
-
-
 My T1 time was 1:48! My fastest! I think the tri-suit, no socks, and having everything laid out in the order I was going to need it to put it on helped A LOT! I had some Shot Blox in my SpiBelt saving them for the run, and Sport Beans and more Shot Blox in my tri-suit pockets for the bike. I put them all in zip lock bags and in the fridge the night before so they were easy to get to and perfect while on the bike.
 
-
-
 I like to smile for race pictures because no one expects it!!
-
-
 
 I smiled for one of the professional bike pics, and the woman photographer was like “WHOO YES!!” No one expects it.
 

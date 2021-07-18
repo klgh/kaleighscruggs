@@ -9,8 +9,6 @@ categories:
 
 We traveled to Brussels, Belgium on July 20th, for one day and night. We took a Ryan Air flight from Dublin to Brussels in the morning. The lines to get our passports looked at by Ryan Air were really long, so we were thankful that we ran down the street to catch our bus to the airport! After we got through security and found the gate, we got some breakfast. I got a scone and Shaun got a ham and cheese croissant and a Guinness. Breakfast beer.
 
-
-
 ![airportfood](images/airportfood.jpg)
 
 Here's a picture of the lovely plane in Dublin: ![brusselsPlane1](images/brusselsPlane1.jpg)

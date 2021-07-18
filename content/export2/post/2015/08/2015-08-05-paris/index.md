@@ -81,8 +81,6 @@ which was really cool, and in such a busy area, it was ridiculous! We saw the Ei
 
 [![eiffeltowerday](images/eiffeltowerday.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fblog.kaleighscruggs.com%2Fwp-content%2Fuploads%2F2015%2F08%2Feiffeltowerday.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
 
-
-
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="text-align: center;"><img class="aligncenter size-full wp-image-355" style="margin-left: auto; margin-right: auto;" src="images/eiffeltowerclose.jpg" alt="eiffeltowerclose" width="480" height="640"></td></tr><tr><td style="text-align: center;"><span style="font-size: small; text-align: start;">Then we got up close</span></td></tr></tbody></table>
 
 [![metrobar2](images/metrobar2.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fblog.kaleighscruggs.com%2Fwp-content%2Fuploads%2F2015%2F08%2Fmetrobar2.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
@@ -100,8 +98,6 @@ We went back to the hotel to pack our stuff since we were leaving for London in 
 We had fun taking pictures and video. There was this guy trying to sell us beer and wine, he walked right to where we were sitting and kind of stood in the way. When he wouldn't leave after we politely declined, Shaun just says "go away" and the guy was like "go away? you go away" and then kept repeating it to himself as HE walked away. It was pretty funny. After that, we walked by the little fair type booths closer to the Eiffel Tower, and then headed back to the hotel. The next morning super early, we left to take the subway to the train station to get on the EuroStar train to London!
 
 [![eurostar](images/eurostar.png)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fblog.kaleighscruggs.com%2Fwp-content%2Fuploads%2F2015%2F08%2Feurostar.png&container=blogger&gadget=a&rewriteMime=image%2F*)
-
-
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="text-align: center;"><img class="size-full wp-image-379" style="margin-left: auto; margin-right: auto;" src="images/monalisa.jpg" alt="this was in the bathroom on the train" width="573" height="640"></td></tr><tr><td style="text-align: center;"><span style="font-size: small; text-align: start;">this was in the bathroom on the train</span></td></tr></tbody></table>
 

@@ -49,8 +49,6 @@ Pinterest
 
 [Bloglovin](https://www.bloglovin.com/blogs/codebikerun-12713491)
 
-
-
 posts last week:
 
 weekly wrap

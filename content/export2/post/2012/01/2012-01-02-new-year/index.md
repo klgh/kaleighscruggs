@@ -22,6 +22,4 @@ Happy New Year! There's a lot already for me to look forward to this year..first
 
 This weekend was pretty fun, I spent a lot of time with Shaun's family, and also mine. We had his family Christmas party on Saturday where after many trades ended up with a Swiss army knife for me and a foot bath and pedicure set for both of us. Feets need love too.
 
-
-
 More post later..time to help my mom find her boots! My brother and I got her a gift card to Off Broadway so she can finally get herself some boots!
