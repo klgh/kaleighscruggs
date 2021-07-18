@@ -15,11 +15,10 @@ exports.createPages = ({ graphql, actions }) => {
           edges {
             node {
               id
-              fields {
-                slug
-              }
+              slug
               frontmatter {
                 title
+                slug
               }
               body
             }
@@ -40,10 +39,10 @@ exports.createPages = ({ graphql, actions }) => {
       const next = index === 0 ? null : posts[index - 1].node
 
       createPage({
-        path: post.node.fields.slug,
+        path: `/blog/${post.node.frontmatter.slug}`,
         component: blogPost,
         context: {
-          slug: post.node.fields.slug,
+          slug: post.node.slug,
           previous,
           next,
         },
