@@ -40,7 +40,7 @@ class BlogIndex extends React.Component {
             </p>
           </div>
           <div className="blog-posts">
-          <h2>Blog Posts</h2>
+            <h2>Blog Posts</h2>
             {posts.map(({ node }) => {
               const title = node.frontmatter.title || node.fields.slug
               return (
