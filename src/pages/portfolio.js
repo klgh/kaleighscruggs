@@ -13,9 +13,7 @@ const PortfolioPage = ({ data, location }) => {
       <SEO title="PortfolioPage" />
       <div className="portfolio">
         <h1>Portfolio</h1>
-        <Box p={8}>
-          <Text fontSize="xl">Hello World</Text>
-        </Box>
+
         {/* <Bio /> */}
         <p>Hello World</p>
         <h2>Freelance Sites</h2>
