@@ -1,13 +1,5 @@
 import React from 'react'
 import {
-  Flex,
-  IconButton,
-  useColorMode,
-  useColorModeValue,
-  Link,
-} from '@chakra-ui/react'
-import { Icon } from '@chakra-ui/icon'
-import {
   FaGithub,
   FaDev,
   FaInstagram,
@@ -15,37 +7,49 @@ import {
   FaTwitter,
   FaSun,
   FaMoon,
-} from 'react-icons/fa'
+} from 'react-imgs/fa'
+import { Link } from 'gatsby'
+
+import { ThemeToggler } from 'gatsby-plugin-dark-mode'
 
 export default function ThemeToggle() {
-  const { toggleColorMode: toggleMode } = useColorMode()
-  const ToggleIcon = useColorModeValue(FaSun, FaMoon)
-
   return (
-    <Flex className="toggle_theme" as="div" mr="4" p="0.45rem 0.0675rem">
-      <Link to="https://www.instagram.com/klgh.js/" isExternal>
-        <Icon as={FaInstagram} w={6} h={6} />
+    <div className="toggle_theme">
+      {/*  <Link to="https://www.instagram.com/klgh.js/">
+        <img as={FaInstagram} />
       </Link>
-      <Link to="https://github.com/klgh" isExternal>
-        <Icon as={FaGithub} w={6} h={6} />
+      <Link to="https://github.com/klgh">
+        <img as={FaGithub} />
       </Link>
-      <Link to="https://dev.to/kaleigh" isExternal>
-        <Icon as={FaDev} w={6} h={6} />
+      <Link to="https://dev.to/kaleigh">
+        <img as={FaDev} />
       </Link>
-      <Link to="https://www.linkedin.com/in/kaleigh/" isExternal>
-        <Icon as={FaLinkedin} w={6} h={6} />
+      <Link to="https://www.linkedin.com/in/kaleigh/">
+        <img as={FaLinkedin} />
       </Link>
-      <Link to="https://twitter.com/kaleighscruggs" isExternal>
-        <Icon as={FaTwitter} w={6} h={6} />
-      </Link>
-      <IconButton
-        icon={<ToggleIcon />}
+      <Link to="https://twitter.com/kaleighscruggs">
+        <img as={FaTwitter} />
+      </Link> */}
+      {/* <imgButton
+        img={<Toggleimg />}
         variant="ghost"
         aria-label="Toggle Theme"
         onClick={toggleMode}
         w={6}
         h={6}
-      />
-    </Flex>
+      /> */}
+      <ThemeToggler>
+        {({ theme, toggleTheme }) => (
+          <label>
+            <input
+              type="checkbox"
+              onChange={(e) => toggleTheme(e.target.checked ? 'dark' : 'light')}
+              checked={theme === 'dark'}
+            />{' '}
+            Dark mode
+          </label>
+        )}
+      </ThemeToggler>
+    </div>
   )
 }

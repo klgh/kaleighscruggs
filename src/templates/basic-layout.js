@@ -1,8 +1,6 @@
 import React from 'react'
 import Header from '../components/header'
 import Footer from '../components/footer'
-import { rhythm } from '../utils/typography'
-import { ChakraProvider } from '@chakra-ui/react'
 import '../styles/styles.scss'
 
 class Layout extends React.Component {
@@ -10,13 +8,19 @@ class Layout extends React.Component {
     const { children } = this.props
 
     return (
-      <ChakraProvider>
+      <div
+        style={{
+          backgroundColor: 'var(--bg)',
+          color: 'var(--textNormal)',
+          transition: 'color 0.2s ease-out, background 0.2s ease-out',
+        }}
+      >
         <Header />
         <div className="basic_layout">
           {children}
           <Footer />
         </div>
-      </ChakraProvider>
+      </div>
     )
   }
 }

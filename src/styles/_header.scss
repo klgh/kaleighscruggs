@@ -2,10 +2,19 @@
   display: flex;
   flex-direction: column;
   font-family: 'Work Sans';
+  margin-top: 15px;
 
   a {
     color: $dark-blue-gray;
     background-image: none;
+  }
+
+  .flex_prop {
+    .ks-logo {
+      width: 50px;
+      margin-bottom: 20px;
+      margin-right: 28px;
+    }
   }
 
   .header__title {
@@ -18,9 +27,5 @@
     position: fixed;
     right: 60px;
     top: 20px;
-
-    .chakra-button {
-      color: $dark-blue-gray;
-    }
   }
 }

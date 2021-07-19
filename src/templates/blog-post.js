@@ -2,18 +2,13 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 import { MDXRenderer } from 'gatsby-plugin-mdx'
 import { MDXProvider } from '@mdx-js/react'
-import {
-  Heading,
-  Text,
-  Divider,
-  ListItem,
-  UnorderedList,
-} from '@chakra-ui/react'
+
 import Layout from '../templates/basic-layout'
 import SEO from '../components/seo'
 import { rhythm } from '../utils/typography'
 import '../styles/styles.scss'
 import Header from '../components/header'
+import Footer from '../components/footer'
 
 /* class BlogPostTemplate extends React.Component {
   render() {
@@ -72,27 +67,20 @@ export default function BlogPostTemplate({ data: { mdx } }) {
       <div className="blog_post">
         <MDXProvider
           components={{
-            h1: (props) => (
-              <Heading {...props} className="heading1" as="h2" size="2xl" />
-            ),
-            h2: (props) => (
-              <Heading {...props} className="heading2" as="h3" size="1xl" />
-            ),
-            ul: (props) => <UnorderedList {...props} className="list-reset" />,
-            li: (props) => <ListItem {...props} className="list-reset" />,
-            hr: (props) => <Divider {...props} className="divider" />,
+            h1: (props) => <h1 {...props} className="heading1" />,
+            h2: (props) => <h2 {...props} className="heading2" />,
+            ul: (props) => <ul {...props} className="list-reset" />,
+            li: (props) => <li {...props} className="list-reset" />,
+            hr: (props) => <hr {...props} className="divider" />,
             a: (props) => <Link {...props} className="link" color="teal.500" />,
-            p: (props) => <Text {...props} className="text-sm" fontSize="lg" />,
-            delete: (props) => (
-              <Text {...props} className="text-danger" as="s" />
-            ),
-            em: (props) => <Text {...props} className="text-xs" as="em" />,
+            p: (props) => <p {...props} className="text-sm" fontSize="lg" />,
           }}
         >
           <h2>{mdx.frontmatter.title}</h2>
           <MDXRenderer frontmatter={mdx.frontmatter}>{mdx.body}</MDXRenderer>
           <hr />
         </MDXProvider>
+        <Footer />
       </div>
     </>
   )

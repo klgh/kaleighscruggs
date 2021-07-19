@@ -12,16 +12,8 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-mdx-embed`,
-    {
-      resolve: `@chakra-ui/gatsby-plugin`,
-      options: {
-        /**
-         * @property {boolean} [resetCSS=true]
-         * if false, this plugin will not use `<CSSReset />
-         */
-        resetCSS: true,
-      },
-    },
+    `gatsby-plugin-dark-mode`,
+
     {
       resolve: `gatsby-source-filesystem`,
       options: {

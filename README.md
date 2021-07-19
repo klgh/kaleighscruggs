@@ -9,4 +9,4 @@
 - [MDX](https://mdxjs.com/)
 - [Typography.js](https://github.com/KyleAMathews/typography.js)
 - [wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown)
-- [Chakra UI](https://github.com/chakravyam/chakra-ui)
+- [gatsby-plugin-dark-mode](https://www.gatsbyjs.com/plugins/gatsby-plugin-dark-mode/)
