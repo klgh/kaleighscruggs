@@ -6333,6 +6333,11 @@ gatsby-plugin-feed@^3.10.0:
     lodash.merge "^4.6.2"
     rss "^1.2.2"
 
+gatsby-plugin-fontawesome-css@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-fontawesome-css/-/gatsby-plugin-fontawesome-css-1.1.0.tgz#bd3d38215fa38136b4cc1d2adeae765170c7cfd8"
+  integrity sha512-7rAiOpTXtkLjHCrASY9Bmvq4c3UFDqj2ZZPuKTyRgK92+tL675tAIlSU5Rjv8HfftNWIkmFKm8uJF3EPT+OpBA==
+
 gatsby-plugin-google-analytics@^3.10.0:
   version "3.10.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-3.10.0.tgz#a1b51b9e4fb2aed8eb6ec93d5d8dd08b50950038"

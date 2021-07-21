@@ -13,7 +13,7 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-mdx-embed`,
     `gatsby-plugin-dark-mode`,
-
+    `gatsby-plugin-fontawesome-css`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
