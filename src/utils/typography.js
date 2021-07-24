@@ -2,9 +2,7 @@ import Typography from 'typography'
 import fairyGatesTheme from 'typography-theme-fairy-gates'
 
 fairyGatesTheme.overrideThemeStyles = ({ rhythm }) => ({
-  'h2,h3': {
-    marginBottom: rhythm(1 / 3),
-    marginTop: rhythm(4),
+  'h1,h2,h3,h4': {
     fontFamily: 'Work Sans',
   },
   p: {
