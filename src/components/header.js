@@ -10,8 +10,8 @@ const Header = ({}) => (
       <header className="header__title" as="h1" size="3xl">
         Kaleigh Scruggs
       </header>
-      <ThemeToggle />
     </Link>
+    <ThemeToggle />
   </>
 )
 export default Header
