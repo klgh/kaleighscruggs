@@ -6,6 +6,7 @@ categories:
   - 'tech'
 coverImage: 'refactrphotobooth.jpg'
 slug: refactr-tech-2019
+tags: ['animals', 'Chicago']
 ---
 
 Last week I attended [REFACTR.TECH](https://www.refactr.tech/) in Atlanta. REFACTR is all about diversity & inclusion in tech. It was amazing to see all the companies who attended that have huge D&I initiatives looking to hire attendees.
@@ -33,11 +34,11 @@ Once everyone settled in with lunch, there was a panel "Forging a Path Through I
 
 And then that was it for the first day! After the sessions finished, there was a happy hour and game night in the ballroom. Each table had different kinds of games to play, there were food and drinks, and those awesome looking cupcakes!
 
-![](images/refactrphotobooth-300x300.jpg)
+![refactr photobooth](images/refactrphotobooth-300x300.jpg)
 
 ## Day 3
 
-The final day of REFACTR started out with a keynote with Dr. Kortney Ziegler, "Finding Purpose Through The Things We Build". He spoke about his journey in tech and why he's doing what he's doing.![](images/kourtney-scaled-1-1024x576.jpg)
+The final day of REFACTR started out with a keynote with Dr. Kortney Ziegler, "Finding Purpose Through The Things We Build". He spoke about his journey in tech and why he's doing what he's doing.![Dr. Kortney Ziegler](images/kourtney-scaled-1-1024x576.jpg)
 
 For my first session of the day, I attended "Refactor Your Body For Better Performance" with [J.C. Hiatt](https://twitter.com/jchiatt), founder of [DevLifts](https://devlifts.io/). He highly encourages developers to stay active since we work in a job where if you're on a roll, it could be _hours_ before you get up from your desk.  
 "Visual Studio Code Sparks Joy" with [Craig Rodrigues](https://twitter.com/CraigRodrigues) was next. I was excited about this session because I recently (within the past year) have gotten into [VSCode](https://code.visualstudio.com/) and haven't looked back. He shared a bunch of tips and favorite extensions.  
@@ -45,7 +46,7 @@ Next, I attended "WebAssembly: Your Browser is the new OS" with [Jeremy Likness]
 
 After lunch, there were only 2 sessions left (so sad!). I learned about _Reconfiguring Our Mindset from “Self-taught” to “Community-taught”_ with [Ray Gesualdo](https://twitter.com/RayGesualdo). I really enjoyed this one because he really stressed how we all come from different backgrounds with how we got to where we are, and we need to support each other with what we've learned and help each other out.
 
-![](images/community-scaled-1-1024x576.jpg)![alicia carr](images/aliciacarr-scaled-1-1024x576.jpg)
+![community](images/community-scaled-1-1024x576.jpg)![alicia carr](images/aliciacarr-scaled-1-1024x576.jpg)
 
 Finally, there was the closing with [Alex Castillo](https://twitter.com/castillo__io) about Empowering the Mind and what his company, [Neurosity](https://neurosity.co/) is doing. It was some really cool stuff!
 
