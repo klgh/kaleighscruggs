@@ -13,8 +13,6 @@ const PortfolioPage = ({ data, location }) => {
       <SEO title="PortfolioPage" />
       <div className="portfolio">
         <h1>Portfolio</h1>
-
-        {/* <Bio /> */}
         <p>Hello World</p>
         <h2>Freelance Sites</h2>
         <div className="kelundra">

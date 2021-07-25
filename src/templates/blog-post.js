@@ -67,17 +67,20 @@ export default function BlogPostTemplate({ data: { mdx } }) {
       <div className="blog_post">
         <MDXProvider
           components={{
-            h1: (props) => <h1 {...props} className="heading1" />,
-            h2: (props) => <h2 {...props} className="heading2" />,
-            ul: (props) => <ul {...props} className="list-reset" />,
-            li: (props) => <li {...props} className="list-reset" />,
-            hr: (props) => <hr {...props} className="divider" />,
-            a: (props) => <Link {...props} className="link" color="teal.500" />,
-            p: (props) => <p {...props} className="text-sm" fontSize="lg" />,
+            h1: (props) => <h2 {...props} className="blog_post_h1" />,
+            h2: (props) => <h3 {...props} className="blog_post_h2" />,
+            h3: (props) => <h4 {...props} className="blog_post_h3" />,
+            ul: (props) => <ul {...props} className="blog_post_ul" />,
+            li: (props) => <li {...props} className="blog_post_li" />,
+            hr: (props) => <hr {...props} className="blog_post_hr" />,
+            a: (props) => <Link {...props} className="blog_post_link" />,
+            p: (props) => <p {...props} className="blog_post_p" />,
           }}
         >
           <h2>{mdx.frontmatter.title}</h2>
-          <MDXRenderer frontmatter={mdx.frontmatter}>{mdx.body}</MDXRenderer>
+          <MDXRenderer frontmatter={mdx.frontmatter} className="blog_post_body">
+            {mdx.body}
+          </MDXRenderer>
           <hr />
         </MDXProvider>
         <Footer />

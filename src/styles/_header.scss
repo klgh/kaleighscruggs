@@ -1,30 +1,35 @@
-.header {
+header {
   display: flex;
-  flex-direction: column;
-  font-family: 'Work Sans';
-  margin-top: 15px;
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
   a {
     color: $dark-blue-gray;
     background-image: none;
   }
 
-  .flex_prop {
-    .ks-logo {
-      width: 50px;
-      margin-bottom: 20px;
-      margin-right: 28px;
+  .header_logo {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+
+    .linkz {
+      display: flex;
+      flex-direction: row;
+
+      .ks_logo {
+        margin: 50px;
+      }
     }
   }
-
-  .header__title {
-    margin-bottom: 1.45rem;
-    display: flex;
-    font-family: 'Work Sans';
-  }
   .toggle_theme {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
     max-width: 605px;
-    position: fixed;
+    //position: fixed;
     right: 60px;
     top: 20px;
   }

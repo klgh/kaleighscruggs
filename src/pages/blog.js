@@ -13,19 +13,21 @@ class Blog extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="All posts"
+          title="All Posts"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        {/*  <Bio /> */}
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
-            <div key={node.frontmatter.slug}>
-              <h3>
+            <div key={node.frontmatter.slug} className="blog_item">
+              <h3 className="blog_item_title">
                 <Link to={`/blog/${node.frontmatter.slug}`}>{title}</Link>
               </h3>
-              <small>{node.frontmatter.date}</small>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              <small className="blog_item_date">{node.frontmatter.date}</small>
+              <p
+                className="blog_item_excerpt"
+                dangerouslySetInnerHTML={{ __html: node.excerpt }}
+              />
             </div>
           )
         })}

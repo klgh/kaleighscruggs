@@ -14,6 +14,7 @@ module.exports = {
     `gatsby-plugin-mdx-embed`,
     `gatsby-plugin-dark-mode`,
     `gatsby-plugin-fontawesome-css`,
+    `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
