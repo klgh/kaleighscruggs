@@ -1,36 +1,43 @@
 header {
   display: flex;
   flex-direction: row;
-  display: flex;
   align-items: center;
   justify-content: center;
+  padding: 20px 33px;
 
   a {
     color: $dark-blue-gray;
     background-image: none;
   }
 
-  .header_logo {
+  .logo {
     display: flex;
     flex-direction: row;
     margin-top: 15px;
+    flex-grow: 1;
 
-    .linkz {
+    .logo_link {
       display: flex;
       flex-direction: row;
+      align-items: center;
+      justify-content: center;
 
       .ks_logo {
-        margin: 50px;
+        margin: 10px 0px;
+        width: 15%;
+      }
+
+      h1 {
+        margin: 0px 10px;
       }
     }
   }
-  .toggle_theme {
+
+  .socials {
     display: flex;
     flex-direction: row;
-    margin-top: 15px;
-    max-width: 605px;
-    //position: fixed;
-    right: 60px;
-    top: 20px;
+  }
+  .theme_toggler {
+    display: flex;
   }
 }

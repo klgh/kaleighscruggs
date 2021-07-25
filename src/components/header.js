@@ -1,20 +1,12 @@
-import { Link } from 'gatsby'
 import React from 'react'
 import ThemeToggle from '../theme/toggle-theme'
-import { StaticImage } from 'gatsby-plugin-image'
+import Socials from './socials'
+import Logo from './logo'
 
 const Header = ({}) => (
   <header>
-    <div className="header_logo">
-      <Link to={`/`} className="linkz">
-        <StaticImage
-          src="../images/kslogo.svg"
-          alt="kaleigh scruggs"
-          className="ks_logo"
-        />
-        <h1>Kaleigh Scruggs</h1>
-      </Link>
-    </div>
+    <Logo />
+    <Socials />
     <ThemeToggle />
   </header>
 )
