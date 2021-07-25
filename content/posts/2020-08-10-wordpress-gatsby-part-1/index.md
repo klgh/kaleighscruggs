@@ -1,8 +1,7 @@
 ---
 title: 'Create a Blog with WordPress and Gatsby - Part 1'
 date: '2020-08-10'
-categories:
-  - 'tech'
+tags: ['wordpress', 'gatsbyjs']
 coverImage: 'Blog-Posts.png'
 slug: wordpress-gatsby-part-1
 ---
@@ -125,9 +124,9 @@ The first one is our build hook. Back in Netlify, go to settings, then on the le
 
 ![create netlify hook](images/Screen-Shot-2020-08-06-at-7.07.10-PM.png)
 
-The second is the status image. That link should be the green text from my screenshot above: https://api.netlify.com/api/v1/badges/0149b059-a599-4da2-b595-acc319446746/deploy-status
+The second is the status image. That link should be the green text from my screenshot above: [https://api.netlify.com/api/v1/badges/0149b059-a599-4da2-b595-acc319446746/deploy-status](https://api.netlify.com/api/v1/badges/0149b059-a599-4da2-b595-acc319446746/deploy-status)
 
-The third is the status link. That link will be the red text from the screenshot above: https://app.netlify.com/sites/kaleigh-tech-tutorial/deploys
+The third is the status link. That link will be the red text from the screenshot above: [https://app.netlify.com/sites/kaleigh-tech-tutorial/deploys](https://app.netlify.com/sites/kaleigh-tech-tutorial/deploys)
 
 Now you should have all 3 links
 

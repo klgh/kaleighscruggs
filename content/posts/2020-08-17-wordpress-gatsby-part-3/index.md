@@ -1,15 +1,14 @@
 ---
 title: 'Create a Blog with WordPress and Gatsby - Part 3'
 date: '2020-08-17'
-categories:
-  - 'tech'
+tags: ['wordpress', 'gatsbyjs']
 coverImage: 'Blog-Posts-2.png'
 slug: create-a-blog-with-wordpress-and-gatsby-part-3
 ---
 
 Alright! So you've made it through [part 1](https://kaleigh.dev/blog/wordpress-gatsby-part-1) and [part 2](https://kaleigh.dev/blog/wordpress-gatsby-part-2), now for the final chapter in the series!
 
-# Part 3 - The Real Deal
+## Part 3 - The Real Deal
 
 Now that we've pulled in posts from our WordPress blog into our Gatsby app successfully, let's configure Netlify, so we look more official with our domain name. Instead of using `kaleigh-tech-tutorial.netlify.app` we'll be using `kaleigh.tech` as the domain name.
 
@@ -25,7 +24,7 @@ Click on the button "Add Custom Domain", type in your domain name, and verify th
 
 Once it took me back to my settings, I saw this error...don't worry, we'll fix it:
 
-![](images/netlifyerror-1024x493.png)
+![netlify error](images/netlifyerror-1024x493.png)
 
 Scroll back up to custom domains and click on your domain name's dropdown:
 

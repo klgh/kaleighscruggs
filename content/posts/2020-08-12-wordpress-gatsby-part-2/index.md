@@ -1,17 +1,16 @@
 ---
 title: 'Create a Blog with WordPress and Gatsby - Part 2'
 date: '2020-08-12'
-categories:
-  - 'tech'
+tags: ['wordpress', 'gatsbyjs']
 coverImage: 'Blog-Posts-1.png'
 slug: create-a-blog-with-wordpress-and-gatsby-part-2
 ---
 
-# Part 2 - The Connection
+## Part 2 - The Connection
 
 Now let’s go back to our Gatsby site and get it hooked up to our WordPress site, and pull in some blog posts!
 
-## Gatsby Plugins
+### Gatsby Plugins
 
 Open up gatsby-config.js in your text editor.
 
@@ -49,7 +48,7 @@ Here are the contents of blog-post.js:
 
 So with these new changes, we’re able to pull in the blog posts from our WordPress site and display them. Run `gatsby develop` to check it out.
 
-When the site loads we won’t see any differences on the home page. We haven’t set up our routes yet. If you go to a URL like this: http://localhost:8000/oops you’ll see a list of all the pages, and should see some of your posts from WordPress:
+When the site loads we won’t see any differences on the home page. We haven’t set up our routes yet. If you go to a URL like this: [http://localhost:8000/oops](http://localhost:8000/oops) you’ll see a list of all the pages, and should see some of your posts from WordPress:
 
 ![404page1](images/Screen-Shot-2020-08-06-at-9.26.11-PM.png)
 
@@ -60,8 +59,7 @@ Click on them to make sure they’re working. Here’s what mine looks like:
 ![postsshowing](images/postsshowing.png)
 
 It’s just pulling in the Title and Content, which we set up in our blog-post.js file.
-
-Let’s add the date to our posts. If you go to your GraphQL locally, http://localhost:8000/\_\_\_graphql  you can see all the options of what we can pull in from a WordPress blog post:
+Let’s add the date to our posts. If you go to your GraphQL locally, [http://localhost:8000/\_\_\_graphql](http://localhost:8000/___graphql)  you can see all the options of what we can pull in from a WordPress blog post:
 
 ![graphql1](images/graphql1.png)
 
@@ -75,7 +73,7 @@ I added in the “MMMM DD, YYYY” and now I see this:
 
 Let’s add that to our site and see what happens:
 
-![](images/dateadded1.png) ![](images/dateadded2.png)
+![date added 1](images/dateadded1.png) ![date added 2](images/dateadded2.png)
 
 You may need to restart your server to see the results:
 
@@ -97,7 +95,7 @@ This will be a list of published posts, to do this we’ll use a [map function](
 
 ![mapfunction](images/mapfunction.png)
 
-With these few lines, take a look at http://localhost:8000/blog/ and see what is there:
+With these few lines, take a look at [http://localhost:8000/blog/](http://localhost:8000/blog/) and see what is there:
 
 ![blogpagewithbullets](images/blogpagewithbullets.png)
 

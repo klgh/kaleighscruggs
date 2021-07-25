@@ -1,9 +1,7 @@
 ---
 title: 'Nevertheless, Kaleigh Coded'
 date: '2020-03-06'
-categories:
-  - 'life'
-  - 'tech'
+tags: ['women-who-code', 'international-womens-day']
 coverImage: 'NeverthelessKaleighCoded.png'
 slug: nevertheless-kaleigh-coded
 ---

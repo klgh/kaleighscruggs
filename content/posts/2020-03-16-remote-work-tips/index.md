@@ -1,8 +1,7 @@
 ---
 title: 'Remote Work Tips'
 date: '2020-03-16'
-categories:
-  - 'tech'
+tags: ['remote-work', 'tips']
 coverImage: 'remote-work-tips.png'
 slug: remote-work-tips
 ---

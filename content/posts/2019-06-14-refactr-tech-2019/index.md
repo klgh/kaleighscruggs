@@ -1,12 +1,9 @@
 ---
 title: 'Refactr.Tech 2019'
 date: '2019-06-14'
-categories:
-  - 'life'
-  - 'tech'
+tags: ['conference', 'refactr-tech', 'women-who-code']
 coverImage: 'refactrphotobooth.jpg'
 slug: refactr-tech-2019
-tags: ['animals', 'Chicago']
 ---
 
 Last week I attended [REFACTR.TECH](https://www.refactr.tech/) in Atlanta. REFACTR is all about diversity & inclusion in tech. It was amazing to see all the companies who attended that have huge D&I initiatives looking to hire attendees.

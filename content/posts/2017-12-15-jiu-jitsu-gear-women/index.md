@@ -1,9 +1,7 @@
 ---
 title: 'Jiu-Jitsu: Gear for Women'
 date: '2017-12-15'
-categories:
-  - 'brazilian-jiu-jitsu'
-tags: ['animals', 'Chicago', 'zoos']
+tags: ['brazilian-jiu-jitsu', 'fitness', 'women']
 coverImage: 'Jiu-Jitsu_-Gear-for-Women-1.png'
 slug: jiu-jitsu-gear-women
 ---
