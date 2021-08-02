@@ -2,8 +2,8 @@
 title: 'Create a Blog with WordPress and Gatsby - Part 1'
 date: '2020-08-10'
 tags: ['wordpress', 'gatsbyjs']
-coverImage: 'Blog-Posts.png'
-slug: wordpress-gatsby-part-1
+coverImage: 'wpgatsbycover1.png'
+slug: create-a-blog-with-wordpress-and-gatsby-part-1
 ---
 
 I love Gatsby. I love WordPress. I love Gatsby and WordPress together. Earlier this year I set up a couple of sites using existing WordPress sites that I managed and created all-new designs and front-end experiences for both. In this series, I’m going to walk you through the whole thing- we’ll set up a new site that uses WordPress as the headless CMS with Gatsby. I’ll start from the very beginning so if you don’t know anything about Gatsby or WordPress, this will hopefully get you up and running with ease. If not, let me know what I can help you with!
@@ -34,7 +34,7 @@ No matter if you have a lot of content or nothing at all, you’ll want to insta
 
 Install these three plugins, and you can go ahead and activate them.
 
-![wordpress plugins installed](images/Screen-Shot-2020-08-09-at-8.16.28-PM.png)
+![wordpress plugins installed](images/wpplugins1.png)
 
 Since I’m creating this site for this tutorial, I filled in some dummy pages and posts on my WordPress site.
 
@@ -54,15 +54,15 @@ Once the site is installed, let’s jump into the directory and run the site to 
 
 If all is well, you should see the following:
 
-![gatsby running locally](images/Screen-Shot-2020-08-06-at-6.41.07-PM.png)
+![gatsby running locally](images/gatsbyrunninglocally.png)
 
-![gatsby local](images/Screen-Shot-2020-08-06-at-6.40.48-PM.png)
+![gatsby local](images/gatsbylocal.png)
 
 Woo, your local site is up and running!
 
 Let’s make it LIVE! I personally like to use GitHub Desktop to manage my repos locally since I can see everything easily.
 
-![github desktop](images/Screen-Shot-2020-08-06-at-6.43.02-PM.png)
+![github desktop](images/githubdesktop.png)
 
 You can also go to [GitHub and create a new repo](https://github.com/new), and follow the steps there. My repo is now [here](https://github.com/klgh/kaleigh-tech-tutorial).
 
@@ -74,19 +74,19 @@ Let's check out how awesome Netlify is!
 
 Since we’re using a GitHub repo, click on GitHub:
 
-![netlify new site](images/Screen-Shot-2020-08-06-at-6.49.50-PM.png)
+![netlify new site](images/netlifynewsite.png)
 
 Find the repo you just created and click on it:
 
-![repo on netlify](images/Screen-Shot-2020-08-06-at-6.50.39-PM.png)
+![repo on netlify](images/repoonnetlify.png)
 
 We’ll just go with the defaults:
 
-![netlify defaults](images/Screen-Shot-2020-08-06-at-6.51.10-PM.png)
+![netlify defaults](images/netlifydefaults.png)
 
 Now my site is building!
 
-![netlify building](images/Screen-Shot-2020-08-06-at-6.51.33-PM.png)
+![netlify building](images/netlifybuilding.png)
 
 As you’ll see, you’ll have a different named repo. Don’t worry, you can change it (if you want) later. Sometimes the names are funny!
 
@@ -98,7 +98,7 @@ Let’s change some things within Netlify. First, I’ll change my app’s name 
 
 At the top of the page on Netlify, click on Settings and then “Change Site Name.”
 
-![netlify name change](images/Screen-Shot-2020-08-06-at-6.56.34-PM.png)
+![netlify name change](images/netlifynamechange.png)
 
 Now my site is running at [https://kaleigh-tech-tutorial.netlify.app/](https://kaleigh-tech-tutorial.netlify.app/)
 
@@ -106,13 +106,13 @@ A neat thing about Netlify is that you can add a badge to your README to display
 
 On the same Settings page, scroll down to the Status Badge section:
 
-![netlify badge](images/Screen-Shot-2020-08-06-at-6.58.39-PM.png)
+![netlify badge](images/netlifybadge.png)
 
 Click on “copy to clipboard” and head to your text editor so we can edit your README.
 
 I pasted it on Line 11 of my README:
 
-![netlify build readme](images/Screen-Shot-2020-08-06-at-7.00.46-PM.png)
+![netlify build readme](images/netlifybuildreadme.png)
 
 Now let’s head over to our WordPress Dashboard. On the left-hand side click on “Netlify Build”, it will be towards the bottom of the menu items.
 
@@ -122,7 +122,7 @@ You’ll see we need to add 3 links.
 
 The first one is our build hook. Back in Netlify, go to settings, then on the left click “Build & Deploy” and find Build Hooks. Create a new hook and use the link from that one to paste into WordPress.
 
-![create netlify hook](images/Screen-Shot-2020-08-06-at-7.07.10-PM.png)
+![create netlify hook](images/netlifyhook.png)
 
 The second is the status image. That link should be the green text from my screenshot above: [https://api.netlify.com/api/v1/badges/0149b059-a599-4da2-b595-acc319446746/deploy-status](https://api.netlify.com/api/v1/badges/0149b059-a599-4da2-b595-acc319446746/deploy-status)
 
@@ -130,8 +130,8 @@ The third is the status link. That link will be the red text from the screenshot
 
 Now you should have all 3 links
 
-![netlify build hooks](images/Screen-Shot-2020-08-06-at-7.09.10-PM.png)
+![netlify build hooks](images/wpnetfilybuildhooks.png)
 
 Click on Save Changes. This will allow you to create a new deploy when you update content on WordPress.
 
-Alright, that's it for now, stay tuned for Part 2 - The Connection, coming soon!
+Ready for Part 2? - [Check it out!](/blog/create-a-blog-with-wordpress-and-gatsby-part-2)
