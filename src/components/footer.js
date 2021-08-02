@@ -1,15 +1,13 @@
-import React from "react"
+import React from 'react'
 
-const Footer = () => (
-  <div>
-    <div className="footer">
-      <div className="footer-links">
-        <br />© {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
-      </div>
-    </div>
-  </div>
-)
+function Footer() {
+  return (
+    <footer>
+      © {new Date().getFullYear()}, Built with
+      {` `}
+      <a href="https://www.gatsbyjs.org">Gatsby</a> by Kaleigh
+    </footer>
+  )
+}
 
 export default Footer

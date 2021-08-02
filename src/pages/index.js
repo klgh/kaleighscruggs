@@ -1,27 +1,28 @@
-import React from "react"
-import PageLayout from "../layouts/page-layout"
-import SEO from "../components/seo"
-import { library } from "@fortawesome/fontawesome-svg-core"
-import { fab } from "@fortawesome/free-brands-svg-icons"
-import { Link, graphql } from "gatsby"
-import Img from "gatsby-image"
+import React from 'react'
+import { Link, graphql } from 'gatsby'
+import Layout from '../templates/basic-layout'
+import SEO from '../components/seo'
+import { rhythm } from '../utils/typography'
 
-library.add(fab)
+class BlogIndex extends React.Component {
+  render() {
+    const { data } = this.props
+    const siteTitle = data.site.siteMetadata.title
+    const posts = data.allMdx.edges
 
-const IndexPage = ({ data }) => (
-  <PageLayout>
-    <SEO title="Home" />
-    <div className="home-intro">
-      <div className="home-main">
-        <div className="home-image">
-          <Img
-            fixed={data.kaleighscruggs.childImageSharp.fixed}
-            className="introimg"
-          />
-        </div>
-        <div className="home-text">
-          <h3>Hey! 👋 I'm Kaleigh</h3>
+    return (
+      <Layout location={this.props.location} title={siteTitle}>
+        <SEO
+          title="Kaleigh.Dev"
+          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+        />
+        <div>
+          <h2>Welcome!</h2>
           <p>
+            This site is under construction, so please pardon anything weird you
+            may see!
+          </p>
+          {/* <p>
             I'm a developer with over ten years of experience creating and
             styling websites and applications. I received my master's degree in
             Business and Technology from UGA and my undergrad at Georgia
@@ -35,113 +36,61 @@ const IndexPage = ({ data }) => (
             employee groups. These groups offered networking, awareness, and
             events for employees as well as activities for younger (school-aged)
             girls to learn more about careers in STEM. I am also a founding
-            member of{" "}
-            <a
-              href="https://www.hiretechladies.com/"
-              alt="tech ladies website"
-              className="currently-looking"
-            >
-              Tech Ladies
-            </a>{" "}
-            and involved with{" "}
-            <a
-              href="https://www.womenwhocode.com/atlanta"
-              alt="women who code atlanta"
-              className="currently-looking"
-            >
-              Women Who Code Atlanta
-            </a>{" "}
-            as a host for the Gwinnett meetups and the{" "}
-            <a
-              href="https://www.womenwhocode.com/frontend"
-              alt="women who code frontend track"
-              className="currently-looking"
-            >
-              Women Who Code Front End track
-            </a>{" "}
+            member of Tech Ladies and involved with Women Who Code Atlanta as a
+            host for the Gwinnett meetups and the Women Who Code Front End track
             as an evangelist and volunteer.
-          </p>
+          </p> */}
         </div>
-      </div>
-    </div>
-
-    <div className="find-me">
-      <div className="find-me-box box-1">
-        <div className="text-box">
-          <Link to="/uses">
-            <p>Find out what I use</p>
-          </Link>
-        </div>
-      </div>
-      <div className="find-me-box box-2">
-        <div className="text-box">
-          <Link to="/portfolio">
-            <p>Check out my work</p>
-          </Link>
-        </div>
-      </div>
-      <div className="find-me-box box-3">
-        <div className="text-box">
-          <Link to="/now">
-            <p>See what I'm up to</p>
-          </Link>
-        </div>
-      </div>
-    </div>
-
-    <div className="from-the-blog">
-      <h3>
-        lately from the{" "}
-        <Link to="/blog" className="from-the-blog-link">
-          blog
-        </Link>
-      </h3>
-      <div className="blog-cards">
-        {data.allWordpressPost.edges.map((blog) => (
-          <div className="card" key={blog.node.slug}>
-            <Link to={`/blog/${blog.node.slug}`}>
-              <div className="postPreview">
-                <img
-                  src={`${blog.node.featured_media.source_url}`}
-                  className="blog-card-img"
-                />
-                <h4
-                  className="postTitle"
-                  dangerouslySetInnerHTML={{ __html: blog.node.title }}
-                />
-                <p className="postDate">{blog.node.date}</p>
+        <div className="blog-posts">
+          <h2>Blog Posts</h2>
+          {posts.map(({ node }) => {
+            const title = node.frontmatter.title || node.fields.slug
+            return (
+              <div key={node.fields.slug}>
+                <h3
+                  style={{
+                    marginBottom: rhythm(1 / 4),
+                  }}
+                >
+                  <Link
+                    style={{ boxShadow: `none` }}
+                    to={`/blog/${node.frontmatter.slug}`}
+                  >
+                    {title}
+                  </Link>
+                </h3>
+                <small>{node.frontmatter.date}</small>
+                <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
               </div>
-            </Link>
-          </div>
-        ))}
-      </div>
-    </div>
-  </PageLayout>
-)
+            )
+          })}
+        </div>
+      </Layout>
+    )
+  }
+}
 
-export default IndexPage
+export default BlogIndex
 
-export const query = graphql`
+export const pageQuery = graphql`
   query {
-    allWordpressPost(limit: 2) {
-      edges {
-        node {
-          title
-          slug
-          date(formatString: "MMMM DD, YYYY")
-          categories {
-            name
-          }
-          featured_media {
-            source_url
-          }
-        }
+    site {
+      siteMetadata {
+        title
       }
     }
-    kaleighscruggs: file(relativePath: { eq: "kaleighscruggs.jpg" }) {
-      childImageSharp {
-        fixed {
-          ...GatsbyImageSharpFixed
+    allMdx(sort: { fields: [frontmatter___date], order: DESC }, limit: 3) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          frontmatter {
+            date(formatString: "MMMM DD, YYYY")
+            title
+            slug
+          }
         }
       }
     }

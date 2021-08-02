@@ -1,54 +1,40 @@
-$color1: #d9fac3;
-$color2: #e3d08f;
-$color3: #f9ded0;
-$color4: #e6a1dd;
-$color5: #9facfd;
-
-body {
-  margin: 0px;
-  font-family: "Raleway", sans-serif;
-  background-color: white;
+h1,
+h2,
+h3,
+h4 {
+  color: #575d90;
+  font-family: 'Work Sans';
 }
 
-/* Media Queries */
-@mixin for-size($size) {
-  @if $size == phone-only {
-    @media (max-width: 767px) {
-      @content;
-    }
-  } @else if $size == tablet-only {
-    @media (max-width: 991px) {
-      @content;
-    }
-  } @else if $size == phone-small {
-    @media (max-width: 345px) {
-      @content;
-    }
-  } @else if $size == small-desk {
-    @media (max-width: 1199px) {
-      @content;
-    }
-  } @else if $size == big-desktop-up {
-    @media (min-width: 1200px) {
-      @content;
-    }
-  } @else if $size == tab-desk {
-    @media (min-width: 768px) and (max-width: 990px) {
-      @content;
-    }
+$black-coral: #595f72ff;
+$bud-green: #7fb069ff;
+$persian-orange: #cb904dff;
+$dark-blue-gray: #575d90ff;
+$june-bud: #c3d350ff;
+
+p {
+  font-family: 'Quattrocento Sans';
+}
+
+/* global.css */
+
+body.dark {
+  --bg: darkslategray;
+  --textNormal: rgba(255, 255, 255, 0.88);
+  --textTitle: white;
+  --textLink: yellow;
+  --hr: hsla(0, 0%, 100%, 0.2);
+  background-color: var(--bg);
+  a {
+    text-shadow: none;
+    color: #1ca086;
   }
 }
 
-/* Extends */
+body.light {
+  --bg: #fff;
+  --primaryText: #000;
+  --secondaryText: #777;
 
-%linkStyle {
-  a:link,
-  a:visited,
-  a:active {
-    color: $color5;
-    text-decoration: none;
-  }
-  a:hover {
-    color: $color4;
-  }
+  background-color: var(--bg);
 }

@@ -53,8 +53,6 @@ typings/
 
 # dotenv environment variables file
 .env
-.env.development
-.env.production
 
 # gatsby files
 .cache/
@@ -70,8 +68,5 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 
-
-
 # Local Netlify folder
 .netlify
-.wordpress-cache/

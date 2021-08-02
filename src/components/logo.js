@@ -1,14 +1,18 @@
-import React from "react"
-import { Link } from "gatsby"
-import kslogo from "../images/kslogo.svg"
+import { Link } from 'gatsby'
+import React from 'react'
+import { StaticImage } from 'gatsby-plugin-image'
 
-const Logo = ({ siteTitle }) => (
-  <div className="site-logo">
-    <img src={kslogo} alt="kaleigh scruggs" className="ks-logo" />
-    <Link to="/" className="ks-name">
-      {siteTitle}
+const Logo = ({}) => (
+  <div className="logo">
+    <Link to={`/`} className="logo_link">
+      <StaticImage
+        src="../images/kslogo.svg"
+        alt="kaleigh scruggs"
+        className="ks_logo"
+        placeholder="blurred"
+      />
+      <h1>Kaleigh Scruggs</h1>
     </Link>
   </div>
 )
-
 export default Logo

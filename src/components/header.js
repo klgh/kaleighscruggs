@@ -1,14 +1,15 @@
-import React from "react"
-import Logo from "./logo"
-import Menu from "./menu"
-import Social from "./social"
+import React from 'react'
+import ThemeToggle from '../theme/toggle-theme'
+import Socials from './socials'
+import Logo from './logo'
+import Menu from './menu'
 
-const Header = () => (
+const Header = ({}) => (
   <header>
-    <Logo siteTitle="Kaleigh Scruggs" />
+    <Logo />
     <Menu />
-    <Social />
+    <Socials />
+    <ThemeToggle />
   </header>
 )
-
 export default Header

@@ -1,20 +1,53 @@
 header {
-  @extend %linkStyle;
   display: flex;
-  align-items: stretch;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 33px;
 
-  @include for-size(phone-only) {
-    flex-direction: column;
-    align-items: center;
+  a {
+    color: $dark-blue-gray;
+    background-image: none;
   }
 
-  > div {
-    margin: 10px;
-    line-height: 75px;
-    @include for-size(phone-only) {
-      margin: 0px;
-      height: 30px;
-      line-height: 60px;
+  .logo {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    flex-grow: 1;
+
+    .logo_link {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+
+      .ks_logo {
+        margin: 10px 0px;
+        width: 15%;
+      }
+
+      h1 {
+        margin: 0px 10px;
+      }
     }
+  }
+
+  .menu {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1.5;
+
+    a {
+      margin: 5px
+    }
+  }
+
+  .socials {
+    display: flex;
+    flex-direction: row;
+  }
+  .theme_toggler {
+    display: flex;
   }
 }
