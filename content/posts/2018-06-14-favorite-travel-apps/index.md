@@ -1,11 +1,9 @@
 ---
 title: 'Favorite Travel Apps'
 date: '2018-06-14'
-categories:
-  - 'travel'
-tags:
-  - 'travel'
+tags: ['travel']
 coverImage: 'favtravelapps.png'
+slug: favorite-travel-apps
 ---
 
 We're about halfway through June, and since everyone is traveling I thought it would be fun to share my favorite travel apps! I have an Android (#TeamPixel), but I'm pretty sure most of these are available on iPhone as well. Some of the links are invite links, but you do get some type of credit for clicking!
