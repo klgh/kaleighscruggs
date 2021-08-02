@@ -19,6 +19,10 @@ class BlogIndex extends React.Component {
         <div>
           <h2>Welcome!</h2>
           <p>
+            This site is under construction, so please pardon anything weird you
+            may see!
+          </p>
+          {/* <p>
             I'm a developer with over ten years of experience creating and
             styling websites and applications. I received my master's degree in
             Business and Technology from UGA and my undergrad at Georgia
@@ -35,7 +39,7 @@ class BlogIndex extends React.Component {
             member of Tech Ladies and involved with Women Who Code Atlanta as a
             host for the Gwinnett meetups and the Women Who Code Front End track
             as an evangelist and volunteer.
-          </p>
+          </p> */}
         </div>
         <div className="blog-posts">
           <h2>Blog Posts</h2>

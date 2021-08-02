@@ -33,6 +33,16 @@ header {
     }
   }
 
+  .menu {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1.5;
+
+    a {
+      margin: 5px
+    }
+  }
+
   .socials {
     display: flex;
     flex-direction: row;
