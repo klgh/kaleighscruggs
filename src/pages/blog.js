@@ -16,6 +16,7 @@ class Blog extends React.Component {
           title="All Posts"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
+        <h2>Blog</h2>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
