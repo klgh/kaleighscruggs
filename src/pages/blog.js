@@ -14,7 +14,7 @@ class Blog extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
           title="All Posts"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+          keywords={[`blog`, `web developer`, `javascript`, `react`]}
         />
         <h2>Blog</h2>
         {posts.map(({ node }) => {
