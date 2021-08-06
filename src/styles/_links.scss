@@ -1,0 +1,30 @@
+.link_template {
+  display: flex;
+  flex-direction: column;
+  max-width: 34.8rem;
+  margin: 0 auto;
+  text-align: center;
+
+  .heading4 {
+    margin: 18px 0px;
+  }
+
+  .logo_link {
+    display: flex;
+    flex-direction: row;
+
+    a {
+      text-decoration: none;
+    }
+  }
+  h1,
+  h2 {
+    font-family: 'Work Sans';
+  }
+  p {
+    font-family: 'Quattrocento Sans';
+  }
+  strong {
+    font-family: 'Work Sans';
+  }
+}

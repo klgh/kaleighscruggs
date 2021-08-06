@@ -1,0 +1,10 @@
+.menu {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1.5;
+  margin-top: 26px;
+
+  a {
+    margin: 5px;
+  }
+}

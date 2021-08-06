@@ -1,3 +1,9 @@
+$black-coral: #595f72ff;
+$bud-green: #7fb069ff;
+$persian-orange: #cb904dff;
+$dark-blue-gray: #575d90ff;
+$june-bud: #c3d350ff;
+
 h1,
 h2,
 h3,
@@ -5,18 +11,16 @@ h4 {
   color: #575d90;
   font-family: 'Work Sans';
 }
-
-$black-coral: #595f72ff;
-$bud-green: #7fb069ff;
-$persian-orange: #cb904dff;
-$dark-blue-gray: #575d90ff;
-$june-bud: #c3d350ff;
-
 p {
   font-family: 'Quattrocento Sans';
 }
 
-/* global.css */
+body.light {
+  --bg: #fff;
+  --primaryText: #000;
+  --secondaryText: #777;
+  background-color: var(--bg);
+}
 
 body.dark {
   --bg: darkslategray;
@@ -31,10 +35,11 @@ body.dark {
   }
 }
 
-body.light {
-  --bg: #fff;
-  --primaryText: #000;
-  --secondaryText: #777;
-
-  background-color: var(--bg);
+@mixin pageBody {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 34.8rem;
+  padding: 2.175rem 1.0875rem;
+  display: flex;
+  flex-direction: column;
 }

@@ -1,13 +1,12 @@
 import React from 'react'
 import { MDXProvider } from '@mdx-js/react'
-import Header from '../components/header'
-import Footer from '../components/footer'
+import Logo from '../components/logo'
 
-function MDXPage({ children }) {
+function LinkTemplate({ children }) {
   return (
     <>
-      <Header />
-      <div className="mdx_page">
+      <div className="link_template">
+        <Logo />
         <MDXProvider
           components={{
             h1: (props) => <h2 {...props} className="heading2" />,
@@ -22,9 +21,8 @@ function MDXPage({ children }) {
         >
           {children}
         </MDXProvider>
-        <Footer />
       </div>
     </>
   )
 }
-export default MDXPage
+export default LinkTemplate

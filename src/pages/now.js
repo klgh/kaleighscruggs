@@ -3,21 +3,21 @@ import { graphql } from 'gatsby'
 import Layout from '../templates/basic-layout'
 import SEO from '../components/seo'
 
-const PortfolioPage = ({ data, location }) => {
+const Now = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Portfolio" />
-      <div className="portfolio">
-        <h2>Portfolio</h2>
-        <p>updates coming!</p>
+      <SEO title="Now" />
+      <div className="now">
+        <h2>Now</h2>
+        <p>July 22, 2020</p>
       </div>
     </Layout>
   )
 }
 
-export default PortfolioPage
+export default Now
 
 export const pageQuery = graphql`
   query {

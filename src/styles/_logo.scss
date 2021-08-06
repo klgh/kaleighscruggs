@@ -1,0 +1,21 @@
+.logo {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+
+  .logo_link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    .ks_logo {
+      margin: 10px 0px;
+      width: 15%;
+    }
+
+    h1 {
+      margin: 0px 10px;
+    }
+  }
+}

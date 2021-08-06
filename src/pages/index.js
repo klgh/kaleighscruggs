@@ -3,6 +3,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../templates/basic-layout'
 import SEO from '../components/seo'
 import { rhythm } from '../utils/typography'
+import { a } from '../../.cache/dummy'
 
 class BlogIndex extends React.Component {
   render() {
@@ -19,16 +20,15 @@ class BlogIndex extends React.Component {
         <div>
           <h2>Welcome!</h2>
           <p>
-            This site is under construction, so please pardon anything weird you
-            may see!
-          </p>
-          {/* <p>
             I'm a developer with over ten years of experience creating and
             styling websites and applications. I received my master's degree in
             Business and Technology from UGA and my undergrad at Georgia
-            Southern. I'm currently a senior consultant at Daugherty Business
-            Solutions. I've worked on various projects using WordPress, Drupal,
-            Angular, ReactJS, and GatsbyJS, Ember.JS, and more.
+            Southern. I'm currently a front end engineer at{' '}
+            <a href="https://www.sportsengine.com/" target="_blank">
+              SportsEngine
+            </a>
+            . I've worked on various projects using WordPress, Drupal, Angular,
+            ReactJS, and GatsbyJS, Ember.JS, and more.
           </p>
           <p>
             I have a passion for diversity and inclusion and at both North
@@ -39,7 +39,7 @@ class BlogIndex extends React.Component {
             member of Tech Ladies and involved with Women Who Code Atlanta as a
             host for the Gwinnett meetups and the Women Who Code Front End track
             as an evangelist and volunteer.
-          </p> */}
+          </p>
         </div>
         <div className="blog-posts">
           <h2>Blog Posts</h2>

@@ -8,13 +8,7 @@ class Layout extends React.Component {
     const { children } = this.props
 
     return (
-      <div
-        style={{
-          backgroundColor: 'var(--bg)',
-          color: 'var(--textNormal)',
-          transition: 'color 0.2s ease-out, background 0.2s ease-out',
-        }}
-      >
+      <div className="theme_toggler_transition">
         <Header />
         <div className="basic_layout">
           {children}

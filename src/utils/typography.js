@@ -1,14 +1,14 @@
 import Typography from 'typography'
 import fairyGatesTheme from 'typography-theme-fairy-gates'
 
-fairyGatesTheme.overrideThemeStyles = ({ rhythm }) => ({
-  'h1,h2,h3,h4': {
-    fontFamily: 'Work Sans',
-  },
-  p: {
-    fontFamily: 'Quattrocento Sans',
-  },
-})
+// fairyGatesTheme.overrideThemeStyles = ({}) => ({
+//   'h1,h2,h3,h4': {
+//     fontFamily: 'Work Sans',
+//   },
+//   p: {
+//     fontFamily: 'Quattrocento Sans',
+//   },
+// })
 
 const typography = new Typography(fairyGatesTheme)
 

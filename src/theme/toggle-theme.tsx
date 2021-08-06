@@ -7,7 +7,7 @@ library.add(fas)
 
 export default function ThemeToggle() {
   return (
-    <div className="theme_toggler">
+    <div className="theme_toggler_icon">
       <ThemeToggler>
         {({ theme, toggleTheme }) => (
           <FontAwesomeIcon
