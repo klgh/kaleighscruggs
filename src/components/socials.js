@@ -18,13 +18,16 @@ export default function Socials() {
         <FontAwesomeIcon title="kaleigh's github" icon={['fab', 'github']} />
       </a>
       <a href="https://dev.href/kaleigh" target="_blank">
-        <FontAwesomeIcon title="kaleigh's github" icon={['fab', 'dev']} />
+        <FontAwesomeIcon title="kaleigh's dev.to" icon={['fab', 'dev']} />
       </a>
       <a href="https://www.linkedin.com/in/kaleigh/" target="_blank">
-        <FontAwesomeIcon title="kaleigh's github" icon={['fab', 'linkedin']} />
+        <FontAwesomeIcon
+          title="kaleigh's linkedin"
+          icon={['fab', 'linkedin']}
+        />
       </a>
-      <a href="https://twitter.com/kaleighscruggs" target="_blank">
-        <FontAwesomeIcon title="kaleigh's github" icon={['fab', 'twitter']} />
+      <a href="https://twitter.com/klghjs" target="_blank">
+        <FontAwesomeIcon title="kaleigh's twitter" icon={['fab', 'twitter']} />
       </a>
     </div>
   )
