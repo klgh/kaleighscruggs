@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Layout from '../templates/basic-layout'
+import Layout from '../templates/basiclayout'
 // Components
 import { Link, graphql } from 'gatsby'
 

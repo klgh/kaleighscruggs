@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Layout from '../templates/basic-layout'
+import Layout from '../templates/basiclayout'
 import SEO from '../components/seo'
 import kebabCase from 'lodash/kebabCase'
 import { Helmet } from 'react-helmet'

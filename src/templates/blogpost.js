@@ -3,7 +3,7 @@ import { Link, graphql } from 'gatsby'
 import { MDXRenderer } from 'gatsby-plugin-mdx'
 import { MDXProvider } from '@mdx-js/react'
 
-import Layout from '../templates/basic-layout'
+import Layout from './basiclayout'
 import SEO from '../components/seo'
 import { rhythm } from '../utils/typography'
 import '../styles/styles.scss'
