@@ -1,25 +1,22 @@
 .blog_post {
-  margin-left: auto;
-  margin-right: auto;
+  @include pageBody;
   max-width: 50rem;
-  padding: 2.175rem 1.0875rem;
-  display: flex;
-  flex-direction: column;
 
   h2 {
-    font-size: 60px;
+    font-size: 3rem;
     font-family: 'Work Sans';
   }
   h3 {
+    font-size: 2rem;
     font-family: 'Work Sans';
   }
   a {
     font-weight: bold;
     color: $black-coral;
   }
-  footer{
-      margin-top: 4rem;
-      text-align: center;
-      font-family: 'Quattrocento Sans';
+  footer {
+    margin-top: 4rem;
+    text-align: center;
+    font-family: 'Quattrocento Sans';
   }
 }

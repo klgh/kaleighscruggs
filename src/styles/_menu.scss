@@ -4,6 +4,10 @@
   flex-grow: 1.5;
   margin-top: 26px;
 
+  @include for-size(desktop-up) {
+    //flex-direction: column;
+  }
+
   a {
     margin: 5px;
   }
