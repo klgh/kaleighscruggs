@@ -3,7 +3,7 @@ title: 'Create a Blog with WordPress and Gatsby - Part 2'
 date: '2020-08-12'
 tags: ['wordpress', 'gatsbyjs']
 coverImage: 'wpgatsby2.png'
-slug: create-a-blog-with-wordpress-and-gatsby-part-2
+slug: wordpress-gatsby-part-2
 ---
 
 ## Part 2 - The Connection
@@ -123,4 +123,4 @@ And now we’re in business!
 
 Hopefully, yours looks the same. You can also take a look at my [GitHub repo for this series](https://github.com/klgh/kaleigh-tech-tutorial) as well.
 
-Ready for Part 3? - [Check it out!](/blog/create-a-blog-with-wordpress-and-gatsby-part-3)
+Ready for Part 3? - [Check it out!](/blog/wordpress-gatsby-part-3)
