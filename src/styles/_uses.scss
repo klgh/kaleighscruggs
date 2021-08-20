@@ -1,0 +1,10 @@
+.uses {
+  display: flex;
+  
+  flex-direction: column;
+
+  .use_item {
+    flex-grow: 1;
+    flex: 50%;
+  }
+}

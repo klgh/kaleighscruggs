@@ -18,7 +18,7 @@ class Blog extends React.Component {
         />
         <h2>Blog</h2>
         {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
+          const title = node.frontmatter.title || node.frontmatter.slug
           return (
             <div key={node.frontmatter.slug} className="blog_item">
               <h3 className="blog_item_title">
@@ -50,13 +50,11 @@ export const blogQuery = graphql`
       edges {
         node {
           excerpt
-          fields {
-            slug
-          }
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
             slug
+            tags
           }
         }
       }

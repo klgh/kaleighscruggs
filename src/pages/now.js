@@ -11,7 +11,7 @@ const Now = ({ data, location }) => {
       <SEO title="Now" />
       <div className="now">
         <h2>Now</h2>
-        <p>July 22, 2020</p>
+        <p>August 2021</p>
       </div>
     </Layout>
   )
