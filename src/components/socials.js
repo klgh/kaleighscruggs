@@ -17,7 +17,7 @@ export default function Socials() {
       <a href="https://github.com/klgh" target="_blank">
         <FontAwesomeIcon title="kaleigh's github" icon={['fab', 'github']} />
       </a>
-      <a href="https://dev.href/kaleigh" target="_blank">
+      <a href="https://dev.to/kaleigh" target="_blank">
         <FontAwesomeIcon title="kaleigh's dev.to" icon={['fab', 'dev']} />
       </a>
       <a href="https://www.linkedin.com/in/kaleigh/" target="_blank">
