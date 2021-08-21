@@ -1,5 +1,5 @@
 import React from 'react'
-import Layout from '../templates/basic-layout'
+import Layout from '../templates/basiclayout'
 import SEO from '../components/seo'
 
 class NotFoundPage extends React.Component {

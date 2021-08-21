@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 //import Bio from '../components/bio'
-import Layout from '../templates/basic-layout'
+import Layout from '../templates/basiclayout'
 import SEO from '../components/seo'
 
 class Blog extends React.Component {
@@ -13,11 +13,15 @@ class Blog extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="All Posts"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+          title="Blog"
+          keywords={[`blog`, `web developer`, `javascript`, `react`]}
         />
+        <h2>Blog</h2>
+        <i>
+          find posts via <Link to="/tags">tags</Link>
+        </i>
         {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
+          const title = node.frontmatter.title || node.frontmatter.slug
           return (
             <div key={node.frontmatter.slug} className="blog_item">
               <h3 className="blog_item_title">
@@ -49,13 +53,11 @@ export const blogQuery = graphql`
       edges {
         node {
           excerpt
-          fields {
-            slug
-          }
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
             slug
+            tags
           }
         }
       }

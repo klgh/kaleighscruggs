@@ -3,7 +3,7 @@ title: 'Create a Blog with WordPress and Gatsby - Part 1'
 date: '2020-08-10'
 tags: ['wordpress', 'gatsbyjs']
 coverImage: 'wpgatsbycover1.png'
-slug: create-a-blog-with-wordpress-and-gatsby-part-1
+slug: wordpress-gatsby-part-1
 ---
 
 I love Gatsby. I love WordPress. I love Gatsby and WordPress together. Earlier this year I set up a couple of sites using existing WordPress sites that I managed and created all-new designs and front-end experiences for both. In this series, I’m going to walk you through the whole thing- we’ll set up a new site that uses WordPress as the headless CMS with Gatsby. I’ll start from the very beginning so if you don’t know anything about Gatsby or WordPress, this will hopefully get you up and running with ease. If not, let me know what I can help you with!
@@ -134,4 +134,4 @@ Now you should have all 3 links
 
 Click on Save Changes. This will allow you to create a new deploy when you update content on WordPress.
 
-Ready for Part 2? - [Check it out!](/blog/create-a-blog-with-wordpress-and-gatsby-part-2)
+Ready for Part 2? - [Check it out!](/blog/wordpress-gatsby-part-2)

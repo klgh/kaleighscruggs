@@ -1,15 +1,13 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Layout from '../templates/basic-layout'
+import Layout from '../templates/basiclayout'
 // Components
 import { Link, graphql } from 'gatsby'
 
 const Tags = ({ pageContext, data }) => {
   const { tag } = pageContext
   const { edges, totalCount } = data.allMdx
-  const tagHeader = `${totalCount} post${
-    totalCount === 1 ? '' : 's'
-  } tagged with "${tag}"`
+  const tagHeader = `${totalCount} ${tag} post${totalCount === 1 ? '' : 's'} `
 
   return (
     <Layout>

@@ -1,15 +1,19 @@
 .basic_layout {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 34.8rem;
-  padding: 2.175rem 1.0875rem;
-  display: flex;
-  flex-direction: column;
+  @include pageBody;
 
-  footer {
-    margin-top: 4rem;
-    text-align: center;
-    font-family: 'Quattrocento Sans';
+  h2 {
+    font-size: 3rem;
+  }
+  h3 {
+    font-size: 2rem;
+    font-family: 'Work Sans';
+  }
+  a {
+    font-weight: bold;
+    color: $bud-green;
+  }
+
+  p {
+    margin-bottom: 10px;
   }
 }
-

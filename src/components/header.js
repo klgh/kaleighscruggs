@@ -1,5 +1,5 @@
 import React from 'react'
-import ThemeToggle from '../theme/toggle-theme'
+import ThemeToggle from '../theme/toggletheme'
 import Socials from './socials'
 import Logo from './logo'
 import Menu from './menu'

@@ -1,9 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Layout from '../templates/basic-layout'
+import Layout from '../templates/basiclayout'
 import SEO from '../components/seo'
 import kebabCase from 'lodash/kebabCase'
-import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 
 const TagsPage = ({
@@ -15,7 +14,10 @@ const TagsPage = ({
   },
 }) => (
   <Layout>
-    <Helmet title={title} />
+    <SEO
+      title="Tags"
+      keywords={[`blog`, `web developer`, `javascript`, `react`]}
+    />
     <div className="tags_list">
       <h1 className="tags_list_header">Tags</h1>
       <ul className="tags_list_body">
@@ -23,7 +25,7 @@ const TagsPage = ({
           <li key={tag.fieldValue} className="tags_list_item">
             <Link
               to={`/tags/${kebabCase(tag.fieldValue)}/`}
-              className="tags_list_item"
+              className="tags_list_link"
             >
               {tag.fieldValue} ({tag.totalCount})
             </Link>

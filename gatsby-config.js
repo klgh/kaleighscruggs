@@ -33,7 +33,7 @@ module.exports = {
       resolve: `gatsby-plugin-mdx`,
       options: {
         defaultLayouts: {
-          posts: require.resolve('./src/templates/blog-post.js'),
+          posts: require.resolve('./src/templates/blogpost.js'),
         },
         extensions: ['.mdx', '.md'],
         // a workaround to solve mdx-remark plugin compat issue

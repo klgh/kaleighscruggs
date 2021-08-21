@@ -3,10 +3,10 @@ title: 'Create a Blog with WordPress and Gatsby - Part 3'
 date: '2020-08-17'
 tags: ['wordpress', 'gatsbyjs']
 coverImage: 'wpgatsby3.png'
-slug: create-a-blog-with-wordpress-and-gatsby-part-3
+slug: wordpress-gatsby-part-3
 ---
 
-Alright! So you've made it through [part 1](/blog/create-a-blog-with-wordpress-and-gatsby-part-1) and [part 2](/blog/create-a-blog-with-wordpress-and-gatsby-part-2), now for the final chapter in the series!
+Alright! So you've made it through [part 1](/blog/wordpress-gatsby-part-1) and [part 2](/blog/wordpress-gatsby-part-2), now for the final chapter in the series!
 
 ## Part 3 - The Real Deal
 
