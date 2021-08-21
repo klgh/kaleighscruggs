@@ -1,8 +1,19 @@
-$black-coral: #595f72ff;
-$bud-green: #7fb069ff;
-$persian-orange: #cb904dff;
-$dark-blue-gray: #575d90ff;
-$june-bud: #c3d350ff;
+$black-coral: #595f72;
+$dark: #11052c;
+$bud-green: #7fb069;
+$persian-orange: #cb904d;
+$dark-blue-gray: #575d90;
+$june-bud: #c3d350;
+
+$purple: #3d087b;
+$neon-pink: #f43b86;
+$yellow: #ffe459;
+
+$alabaster: #d8e2dc;
+$champagne-pink: #ffe5d9;
+$pink: #ffcad4;
+$light-pink: #faa4b1;
+$mountbatten-pink: #9d8189;
 
 @mixin pageBody {
   margin-left: auto;
@@ -20,18 +31,19 @@ $june-bud: #c3d350ff;
 }
 
 @mixin headingStyle {
-  color: #575d90;
+  color: $dark-blue-gray;
   font-family: 'Work Sans';
-  margin: 0.25rem;
+  margin: 0.25rem 0rem;
 }
 
 h1,
 h2,
 h3,
-h4 {
+h4,
+h5 {
   @include headingStyle;
 }
-p {
+p.dark {
   font-family: 'Quattrocento Sans';
 }
 
@@ -41,13 +53,13 @@ a {
 
 body.light {
   --bg: #fff;
-  --primaryText: #000;
+  --primaryText: #11052c;
   --secondaryText: #777;
   background-color: var(--bg);
 }
 
 body.dark {
-  --bg: darkslategray;
+  --bg: #11052c;
   --textNormal: rgba(255, 255, 255, 0.88);
   --textTitle: white;
   --textLink: yellow;
@@ -55,7 +67,10 @@ body.dark {
   background-color: var(--bg);
   a {
     text-shadow: none;
-    color: #1ca086;
+    color: #7fb069ff;
+  }
+  .theme_toggler_icon {
+    color: #7fb069ff;
   }
 }
 
@@ -80,8 +95,10 @@ body.dark {
   a:active {
     color: $bud-green;
     text-decoration: none;
+    background-image: none;
   }
   a:hover {
     color: $bud-green;
+    text-decoration: none;
   }
 }

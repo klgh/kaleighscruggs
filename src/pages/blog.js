@@ -17,6 +17,9 @@ class Blog extends React.Component {
           keywords={[`blog`, `web developer`, `javascript`, `react`]}
         />
         <h2>Blog</h2>
+        <i>
+          find posts via <Link to="/tags">tags</Link>
+        </i>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.frontmatter.slug
           return (

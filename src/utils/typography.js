@@ -1,14 +1,13 @@
 import Typography from 'typography'
 import fairyGatesTheme from 'typography-theme-fairy-gates'
 
-// fairyGatesTheme.overrideThemeStyles = ({}) => ({
-//   'h1,h2,h3,h4': {
-//     fontFamily: 'Work Sans',
-//   },
-//   p: {
-//     fontFamily: 'Quattrocento Sans',
-//   },
-// })
+fairyGatesTheme.overrideThemeStyles = ({}) => ({
+  
+  a: {
+    backgroundImage: 'none',
+    color: '#7fb069ff'
+  },
+})
 
 const typography = new Typography(fairyGatesTheme)
 

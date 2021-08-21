@@ -3,3 +3,9 @@ footer {
   text-align: center;
   font-family: 'Quattrocento Sans';
 }
+
+body.dark {
+  footer {
+    color: white;
+  }
+}

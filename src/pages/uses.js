@@ -11,23 +11,40 @@ const Uses = ({ data, location }) => {
       <SEO title="Uses" />
       <h2>Uses</h2>
       <div className="uses">
+        <h3>Editor + Terminal</h3>
         <div className="editor_terminal use_item">
-          <h3>Editor + Terminal</h3>
-          <i>Visual Studio Code</i>
-          <h4>Favorite VSCode Extensions:</h4>
-          <ul>
-            <li>Auto Close Tag</li>
-            <li>Auto Rename Tag</li>
-            <li>Bracket Pair Colorizer</li>
-            <li>Prettier</li>
-          </ul>
-          <p>iTerm2, theme: awesomepanda</p>
-          <a
-            href="https://gist.github.com/klgh/703cf7b383065d9f92b2bda19d948eb8#file-zshrc_personal"
-            target="_blank"
-          >
-            view my setup here
-          </a>
+          <div className="editor">
+            <h4>Editor</h4>
+            <p>
+              <a href="https://code.visualstudio.com/" target="_blank">
+                Visual Studio Code
+              </a>
+              <br />
+              <b>Favorite VSCode Extensions:</b>
+              <ul>
+                <li>Auto Close Tag</li>
+                <li>Auto Rename Tag</li>
+                <li>Bracket Pair Colorizer</li>
+                <li>Prettier</li>
+              </ul>
+            </p>
+          </div>
+          <div className="terminal">
+            <h4>Terminal</h4>
+            <p>
+              <a href="https://iterm2.com/" target="_blank">
+                iTerm2
+              </a>
+              <br />
+              <b>theme:</b> awesomepanda
+            </p>
+            <a
+              href="https://gist.github.com/klgh/703cf7b383065d9f92b2bda19d948eb8#file-zshrc_personal"
+              target="_blank"
+            >
+              view my setup here
+            </a>
+          </div>
         </div>
 
         <div className="desk_office use_item">
@@ -69,18 +86,21 @@ const Uses = ({ data, location }) => {
         <div className="devices use_item">
           <h3>Devices</h3>
           <p>
-            Personal Laptop:{' '}
+            <b>Personal Laptop: </b>
+            <br />
             <a href="https://www.apple.com/macbook-pro-13/" target="_blank">
-              {' '}
               MacBook Pro
             </a>
             , mid-2020, 13inch (32 GB RAM, 2.3 GHz Quad-Core Intel Core i7, 1TB)
           </p>
-          <p>Phone: Google Pixel 3</p>
           <p>
+            <b>Phone:</b>
+            <br /> Google Pixel 3
+          </p>
+          <p>
+            <b>Headphones:</b> <br />
             <a href="ttps://amzn.to/2tv1HhS" target="_blank">
-              Headphones: Sony WH-CH700N Wireless Bluetooth Noise Canceling
-              Headphones
+              Sony WH-CH700N Wireless Bluetooth Noise Canceling Headphones
             </a>
           </p>
         </div>
