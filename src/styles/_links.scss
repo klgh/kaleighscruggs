@@ -9,6 +9,19 @@
     margin: 18px 0px;
   }
 
+  .logo {
+    justify-content: center;
+  }
+
+  .link_item {
+    display: flex;
+    align-content: flex-start;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
   .logo_link {
     display: flex;
     flex-direction: row;
