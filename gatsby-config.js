@@ -15,6 +15,7 @@ module.exports = {
     `gatsby-plugin-dark-mode`,
     `gatsby-plugin-fontawesome-css`,
     `gatsby-plugin-image`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -64,12 +65,12 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     //trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: `G-4FN7S0DJEV`,
+      },
+    },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
