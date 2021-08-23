@@ -3,7 +3,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../templates/basiclayout'
 import SEO from '../components/seo'
 import { rhythm } from '../utils/typography'
-import { a } from '../../.cache/dummy'
+import { StaticImage } from 'gatsby-plugin-image'
 
 class BlogIndex extends React.Component {
   render() {
@@ -20,26 +20,54 @@ class BlogIndex extends React.Component {
         <div>
           <h2>Welcome!</h2>
           <p>
-            I'm a developer with over ten years of experience creating and
-            styling websites and applications. I received my master's degree in
-            Business and Technology from UGA and my undergrad at Georgia
-            Southern. I'm currently a front end engineer at{' '}
+            Hey, I'm Kaleigh 👋! I have over ten years of experience creating
+            and styling websites and applications using WordPress, Drupal,
+            Angular, ReactJS, and GatsbyJS. I'm currently a front-end engineer
+            at{' '}
             <a href="https://www.sportsengine.com/" target="_blank">
               SportsEngine
             </a>
-            . I've worked on various projects using WordPress, Drupal, Angular,
-            ReactJS, and GatsbyJS, Ember.JS, and more.
+            .
           </p>
           <p>
-            I have a passion for diversity and inclusion and at both North
-            Highland and State Farm helped establish Women In Technology
-            employee groups. These groups offered networking, awareness, and
-            events for employees as well as activities for younger (school-aged)
-            girls to learn more about careers in STEM. I am also a founding
-            member of Tech Ladies and involved with Women Who Code Atlanta as a
-            host for the Gwinnett meetups and the Women Who Code Front End track
-            as an evangelist and volunteer.
+            I have a passion for diversity and inclusion. I have helped
+            establish Women In Technology employee resource groups at 2 former
+            employers. These groups offered networking, awareness, and events
+            for employees. We also held events and activities for girls to learn
+            more about careers in STEM ranging from elementary school to
+            college.
           </p>
+          <p>
+            I'm also a founding member of{' '}
+            <a href="https://www.hiretechladies.com/" target="_blank">
+              Tech Ladies
+            </a>{' '}
+            and involved with{' '}
+            <a href="https://www.womenwhocode.com/atlanta" target="_blank">
+              Women Who Code Atlanta
+            </a>{' '}
+            as a host for the Gwinnett meetups and the{' '}
+            <a href="https://www.womenwhocode.com/frontend" target="_blank">
+              Women Who Code Front End
+            </a>{' '}
+            track as an evangelist and volunteer.
+          </p>
+          <p>
+            You can find me doing Brazilian jiu-jitsu,{' '}
+            <a href="https://www.instagram.com/macandbiscuit/" target="_blank">
+              walking my dogs
+            </a>
+            , or stand-up paddleboarding when I'm not coding. I also love baking
+            human and dog treats, playing piano, and birdwatching. I promise I'm
+            a millennial! Pre-pandemic, I did{' '}
+            <Link to="/comedy">stand-up comedy</Link> and improv. Hopefully, one
+            day I'll get back to it!
+          </p>
+          <StaticImage
+            src="../images/kaleighscruggs.jpg"
+            alt="kaleigh scruggs"
+            className="homepageImg"
+          />
         </div>
         <div className="blog-posts">
           <h2>Blog Posts</h2>
