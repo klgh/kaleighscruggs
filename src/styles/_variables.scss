@@ -43,6 +43,12 @@ h4,
 h5 {
   @include headingStyle;
 }
+h2 {
+  font-size: 3rem;
+}
+h3 {
+  font-size: 2rem;
+}
 p.dark {
   font-family: 'Quattrocento Sans';
 }
@@ -96,9 +102,11 @@ body.dark {
     color: $bud-green;
     text-decoration: none;
     background-image: none;
+    font-weight: bold;
   }
   a:hover {
     color: $bud-green;
     text-decoration: none;
+    font-weight: bold;
   }
 }
