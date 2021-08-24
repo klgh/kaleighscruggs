@@ -10,8 +10,8 @@ function LinkTemplate({ children }) {
         <MDXProvider
           components={{
             h1: (props) => <h2 {...props} className="heading2" />,
-            h2: (props) => <h3 {...props} className="heading3" />,
-            h3: (props) => <h4 {...props} className="heading4" />,
+            h2: (props) => <h3 {...props} className="heading3 link_item" />,
+            h3: (props) => <h4 {...props} className="heading4 link_item" />,
             ul: (props) => <ul {...props} className="list-reset" />,
             li: (props) => <li {...props} className="list-reset" />,
             hr: (props) => <hr {...props} className="divider" />,
