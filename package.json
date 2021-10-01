@@ -20,7 +20,7 @@
     "@netlify/build": "^18.4.2",
     "babel-plugin-styled-components": "^1.13.2",
     "framer-motion": "^4.1.17",
-    "gatsby": "^3.12.0",
+    "gatsby": "^3.14.1",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-dark-mode": "^1.1.2",
     "gatsby-plugin-feed": "^3.12.0",
