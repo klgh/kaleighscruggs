@@ -10,7 +10,10 @@ const PortfolioPage = ({ data, location, props }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <SEO title="Portfolio" />
-      <div className="portfolio">
+      <div>
+        <a href="#portfolio">Portfolio</a> | <a href="#48in48">48in48</a>
+      </div>
+      <div className="portfolio" id="portfolio">
         <h2>Portfolio</h2>
         <div className="freelance">
           <h3>Freelance Sites</h3>
@@ -58,8 +61,8 @@ const PortfolioPage = ({ data, location, props }) => {
             </a>
           </div>
         </div>
-        <div className="48in48">
-          <h3>48in48</h3>
+        <div className="48in48" id="48in48">
+          <h3>48in48: Volunteering</h3>
           <p>
             <a href="https://48in48.org/">48in48</a> is a hackathon style
             volunteer event where teams of marketing and technology
@@ -84,6 +87,12 @@ const PortfolioPage = ({ data, location, props }) => {
               rel="noopener noreferrer"
             >
               Auntie Helen’s
+            </a>
+          </div>
+          <div>
+            Global Virtual Event - October 1-3, 2021:{' '}
+            <a href="" target="_blank" rel="noopener noreferrer">
+              Guardian Angel Social Services
             </a>
           </div>
         </div>
