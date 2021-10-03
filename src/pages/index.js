@@ -38,19 +38,15 @@ class BlogIndex extends React.Component {
             college.
           </p>
           <p>
-            I'm also a founding member of{' '}
+            I'm also a member of{' '}
             <a href="https://www.hiretechladies.com/" target="_blank">
               Tech Ladies
             </a>{' '}
-            and involved with{' '}
-            <a href="https://www.womenwhocode.com/atlanta" target="_blank">
-              Women Who Code Atlanta
-            </a>{' '}
-            as a host for the Gwinnett meetups and the{' '}
+            and a volunteer with {' '}
             <a href="https://www.womenwhocode.com/frontend" target="_blank">
               Women Who Code Front End
-            </a>{' '}
-            track as an evangelist and volunteer.
+            </a>
+            .
           </p>
           <p>
             You can find me doing Brazilian jiu-jitsu,{' '}

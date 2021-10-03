@@ -1,18 +1,6 @@
 .basic_layout {
   @include pageBody;
 
-  h2 {
-    font-size: 3rem;
-  }
-  h3 {
-    font-size: 2rem;
-    font-family: 'Work Sans';
-  }
-  a {
-    font-weight: bold;
-    color: $bud-green;
-  }
-
   p {
     margin-bottom: 10px;
   }

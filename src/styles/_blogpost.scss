@@ -2,25 +2,12 @@
   @include pageBody;
   max-width: 50rem;
 
-  h2 {
-    font-size: 3rem;
-    font-family: 'Work Sans';
-  }
-  h3 {
-    font-size: 2rem;
-    font-family: 'Work Sans';
-  }
-  .blog_post_h2{
+  .blog_post_h2 {
     color: $mountbatten-pink;
   }
   a {
     font-weight: bold;
     color: $black-coral;
-  }
-  footer {
-    margin-top: 4rem;
-    text-align: center;
-    font-family: 'Quattrocento Sans';
   }
 }
 
