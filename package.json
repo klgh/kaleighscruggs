@@ -49,7 +49,7 @@
     "graphql-compose": "^9.0.3",
     "mdx-embed": "^0.0.22",
     "mdx-utils": "^0.2.0",
-    "netlify-cli": "^6.9.28",
+    "netlify-cli": "^6.14.7",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
