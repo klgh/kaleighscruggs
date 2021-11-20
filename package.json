@@ -17,7 +17,7 @@
     "@mdx-js/mdx": "^1.4.0",
     "@mdx-js/react": "^1.4.0",
     "@mdx-js/tag": "^0.20.3",
-    "@netlify/build": "^18.24.0",
+    "@netlify/build": "^18.25.1",
     "babel-plugin-styled-components": "^1.13.3",
     "framer-motion": "^5.3.1",
     "gatsby": "^4.2.0",
@@ -49,7 +49,7 @@
     "graphql-compose": "^9.0.4",
     "mdx-embed": "^0.0.22",
     "mdx-utils": "^0.2.0",
-    "netlify-cli": "^7.0.0",
+    "netlify-cli": "^7.0.2",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -61,7 +61,7 @@
     "styled-reset": "^4.3.4",
     "typography": "^0.16.17",
     "typography-theme-fairy-gates": "^0.16.19",
-    "webpack": "^5.64.1"
+    "webpack": "^5.64.2"
   },
   "devDependencies": {
     "eslint": "^8.2.0",
@@ -70,7 +70,7 @@
     "react-icons": "^4.3.1"
   },
   "resolutions": {
-    "graphql": "^15.7.2",
+    "graphql": "^16.0.1",
     "webpack": "^5.64.1"
   },
   "homepage": "https://github.com/klgh/kaleighscruggs#readme",
