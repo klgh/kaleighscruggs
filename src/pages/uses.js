@@ -77,7 +77,10 @@ const Uses = ({ data, location }) => {
               </a>
             </li>
             <li>
-              <a href="https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad" target="_blank">
+              <a
+                href="https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad"
+                target="_blank"
+              >
                 Magic Trackpad
               </a>
             </li>
@@ -95,7 +98,13 @@ const Uses = ({ data, location }) => {
           </p>
           <p>
             <b>Phone:</b>
-            <br /> <a href="https://store.google.com/product/pixel_6_pro" target="_blank">Google Pixel 6 Pro</a>
+            <br />{' '}
+            <a
+              href="https://store.google.com/product/pixel_6_pro"
+              target="_blank"
+            >
+              Google Pixel 6 Pro
+            </a>
           </p>
           <p>
             <b>Headphones:</b> <br />

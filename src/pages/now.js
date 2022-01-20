@@ -35,16 +35,25 @@ const Now = ({ data, location }) => {
         </p>
         <h4>Watching</h4>
         <p>
-          Season 4 of {' '}
+          Season 4 of{' '}
           <a
             href="https://www.peacocktv.com/watch/home/asset/tv/the-office-superfan-episodes/8229469043710582112"
             target="_blank"
           >
             The Office Superfan episodes
-          </a> {' '}
+          </a>{' '}
           on Peacock!
         </p>
-        <p><a href="https://www.imdb.com/title/tt13819960/" target="_blank">And Just Like That...</a> and <a href="https://www.imdb.com/title/tt14164730/" target="_blank">Dexter: New Blood</a> (what year is it again? 😀)</p>
+        <p>
+          <a href="https://www.imdb.com/title/tt13819960/" target="_blank">
+            And Just Like That...
+          </a>{' '}
+          and{' '}
+          <a href="https://www.imdb.com/title/tt14164730/" target="_blank">
+            Dexter: New Blood
+          </a>{' '}
+          (what year is it again? 😀)
+        </p>
       </div>
     </Layout>
   )
