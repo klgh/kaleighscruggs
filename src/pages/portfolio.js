@@ -11,10 +11,11 @@ const PortfolioPage = ({ data, location, props }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Portfolio" />
       <div>
-        <a href="#portfolio">Portfolio</a> | <a href="#48in48">48in48</a>
+        <a href="#freelance">Freelance</a> | <a href="#48in48">48in48</a> |{' '}
+        <a href="#professional">Professional</a>
       </div>
-      <div className="portfolio" id="portfolio">
-        <h2>Portfolio</h2>
+      <h2>Portfolio</h2>
+      <div className="portfolio" id="freelance">
         <div className="freelance">
           <h3>Freelance Sites</h3>
           <div className="kelundra freelance_site">
@@ -91,10 +92,26 @@ const PortfolioPage = ({ data, location, props }) => {
           </div>
           <div>
             Global Virtual Event - October 1-3, 2021:{' '}
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://guardianangelsocialserviceagency.org/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Guardian Angel Social Services
             </a>
           </div>
+        </div>
+        <div className="professional" id="professional">
+          <h3>Professional Sites</h3>
+          <p>
+            <a
+              href="https://news.delta.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Delta News Hub
+            </a>
+          </p>
         </div>
       </div>
     </Layout>
