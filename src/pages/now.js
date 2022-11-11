@@ -21,7 +21,14 @@ const Now = ({ data, location }) => {
           >
             It Starts with Us
           </a>{' '}
-          on Kindle, and I'm also listening to <a href='https://www.goodreads.com/book/show/60763786-i-m-glad-my-mom-died' target="_blank">I'm Glad My Mom Died</a> on Libby.
+          on Kindle, and I'm also listening to{' '}
+          <a
+            href="https://www.goodreads.com/book/show/60763786-i-m-glad-my-mom-died"
+            target="_blank"
+          >
+            I'm Glad My Mom Died
+          </a>{' '}
+          on Libby.
         </p>
         {/* <h4>Watching</h4>
         <p>
