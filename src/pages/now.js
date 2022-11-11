@@ -11,29 +11,19 @@ const Now = ({ data, location }) => {
       <SEO title="Now" />
       <div className="now">
         <h2>Now</h2>
-        <h3>January 2022</h3>
+        <h3>November 2022</h3>
         <h4>Reading</h4>
         <p>
           I'm currently reading{' '}
           <a
-            href="https://www.goodreads.com/book/show/54860443-one-last-stop"
+            href="https://www.goodreads.com/book/show/60393672-it-starts-with-us"
             target="_blank"
           >
-            One Last Stop
+            It Starts with Us
           </a>{' '}
-          on paperback.
+          on Kindle, and I'm also listening to <a href='https://www.goodreads.com/book/show/60763786-i-m-glad-my-mom-died' target="_blank">I'm Glad My Mom Died</a> on Libby.
         </p>
-        <p>
-          Follow me on{' '}
-          <a
-            href="https://www.goodreads.com/user/show/15653530-kaleigh"
-            target="_blank"
-          >
-            Goodreads
-          </a>{' '}
-          to keep up with what I'm reading!
-        </p>
-        <h4>Watching</h4>
+        {/* <h4>Watching</h4>
         <p>
           Season 4 of{' '}
           <a
@@ -53,7 +43,7 @@ const Now = ({ data, location }) => {
             Dexter: New Blood
           </a>{' '}
           (what year is it again? 😀)
-        </p>
+        </p> */}
       </div>
     </Layout>
   )
