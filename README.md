@@ -1,5 +1,15 @@
 # Kaleigh.Dev
 
+## Running
+
+To run the project, run the following commands:
+
+```bash
+nvm use
+yarn install
+yarn dev
+```
+
 ## Tech Used
 
 - [Gatsby](https://www.gatbsyjs.com/)
