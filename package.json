@@ -69,7 +69,7 @@
     "gatsby-source-filesystem": "^3.14.0",
     "gatsby-transformer-remark": "^4.11.0",
     "gatsby-transformer-sharp": "^3.14.0",
-    "graphql": "^15.6.0",
+    "graphql": "^15.5.1",
     "graphql-compose": "^9.0.3",
     "mdx-embed": "^0.0.22",
     "mdx-utils": "^0.2.0",
@@ -85,7 +85,7 @@
     "styled-reset": "^4.3.4",
     "typography": "^0.16.17",
     "typography-theme-fairy-gates": "^0.16.19",
-    "webpack": "^5.56.0"
+    "webpack": "^5.44.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
