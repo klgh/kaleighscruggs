@@ -67,7 +67,7 @@
     "gatsby-remark-responsive-iframe": "^4.11.0",
     "gatsby-remark-smartypants": "^4.11.0",
     "gatsby-source-filesystem": "^3.14.0",
-    "gatsby-transformer-remark": "^4.11.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^3.14.0",
     "graphql": "^15.6.0",
     "graphql-compose": "^9.0.3",
