@@ -21,9 +21,9 @@ export default function Socials() {
       <a href="https://github.com/klgh" target="_blank" className="icon">
         <FontAwesomeIcon title="kaleigh's github" icon={['fab', 'github']} />
       </a>
-      <a href="https://dev.to/kaleigh" target="_blank" className="icon">
+      {/* <a href="https://dev.to/kaleigh" target="_blank" className="icon">
         <FontAwesomeIcon title="kaleigh's dev.to" icon={['fab', 'dev']} />
-      </a>
+      </a> */}
       <a
         href="https://www.linkedin.com/in/kaleigh/"
         target="_blank"
@@ -33,9 +33,6 @@ export default function Socials() {
           title="kaleigh's linkedin"
           icon={['fab', 'linkedin']}
         />
-      </a>
-      <a href="https://twitter.com/klghjs" target="_blank" className="icon">
-        <FontAwesomeIcon title="kaleigh's twitter" icon={['fab', 'twitter']} />
       </a>
     </div>
   )

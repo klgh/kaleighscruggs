@@ -42,7 +42,7 @@ class BlogIndex extends React.Component {
             <a href="https://www.hiretechladies.com/" target="_blank">
               Tech Ladies
             </a>{' '}
-            and a volunteer with {' '}
+            and a volunteer with{' '}
             <a href="https://www.womenwhocode.com/frontend" target="_blank">
               Women Who Code Front End
             </a>
