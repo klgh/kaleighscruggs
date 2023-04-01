@@ -85,7 +85,7 @@
     "styled-reset": "^4.3.4",
     "typography": "^0.16.17",
     "typography-theme-fairy-gates": "^0.16.19",
-    "webpack": "^5.56.0"
+    "webpack": "^5.77.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
