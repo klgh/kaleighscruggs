@@ -2,7 +2,7 @@
   "name": "kaleigh.dev",
   "version": "2.0.0",
   "private": true,
-  "description": "kaleigh's dev site",
+  "description": "kaleigh's new dev site",
   "keywords": [
     "gatsby"
   ],
@@ -56,7 +56,7 @@
     "gatsby-plugin-mdx-embed": "^0.0.22",
     "gatsby-plugin-offline": "^4.14.0",
     "gatsby-plugin-react-helmet": "^4.14.0",
-    "gatsby-plugin-robots-txt": "^1.6.10",
+    "gatsby-plugin-robots-txt": "^1.7.1",
     "gatsby-plugin-sass": "^4.14.0",
     "gatsby-plugin-sharp": "^3.14.0",
     "gatsby-plugin-sitemap": "^4.10.0",
