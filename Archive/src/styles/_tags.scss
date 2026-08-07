@@ -1,0 +1,16 @@
+.tags_list_body,
+.tag_page_body {
+  @include ulStyle;
+}
+
+.tags_list_body {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+
+  .tags_list_item {
+    margin: 0.25rem 1rem;
+  }
+}

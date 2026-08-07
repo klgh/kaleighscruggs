@@ -1,0 +1,11 @@
+footer {
+  margin-top: 4rem;
+  text-align: center;
+  font-family: 'Quattrocento Sans';
+}
+
+body.dark {
+  footer {
+    color: white;
+  }
+}

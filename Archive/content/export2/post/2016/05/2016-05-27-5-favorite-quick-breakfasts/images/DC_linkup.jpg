@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="en-US"
+	prefix="og: https://ogp.me/ns#" >
+<head>
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta charset="UTF-8">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<title>marontherun.com</title>
+
+		<!-- All in One SEO 4.1.1.1 -->
+		<meta name="description" content="Healthy Living"/>
+		<link rel="canonical" href="http://www.marontherun.com/" />
+		<link rel="next" href="http://www.marontherun.com/page/2" />
+		<meta property="og:site_name" content="marontherun.com | Healthy Living" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="marontherun.com" />
+		<meta property="og:description" content="Healthy Living" />
+		<meta property="og:url" content="http://www.marontherun.com/" />
+		<meta property="article:published_time" content="2021-01-07T12:14:00Z" />
+		<meta property="article:modified_time" content="2021-03-01T06:18:48Z" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:domain" content="www.marontherun.com" />
+		<meta name="twitter:title" content="marontherun.com" />
+		<meta name="twitter:description" content="Healthy Living" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"http:\/\/www.marontherun.com\/#website","url":"http:\/\/www.marontherun.com\/","name":"marontherun.com","description":"Healthy Living","publisher":{"@id":"http:\/\/www.marontherun.com\/#organization"},"potentialAction":{"@type":"SearchAction","target":"http:\/\/www.marontherun.com\/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"Organization","@id":"http:\/\/www.marontherun.com\/#organization","name":"marontherun.com","url":"http:\/\/www.marontherun.com\/","logo":{"@type":"ImageObject","@id":"http:\/\/www.marontherun.com\/#organizationLogo","url":"http:\/\/www.marontherun.com\/wp-content\/uploads\/2021\/03\/logo.png","width":"222","height":"222"},"image":{"@id":"http:\/\/www.marontherun.com\/#organizationLogo"}},{"@type":"BreadcrumbList","@id":"http:\/\/www.marontherun.com\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"http:\/\/www.marontherun.com\/#listItem","position":"1","item":{"@id":"http:\/\/www.marontherun.com\/#item","name":"Home","description":"Healthy Living","url":"http:\/\/www.marontherun.com\/"}}]},{"@type":"CollectionPage","@id":"http:\/\/www.marontherun.com\/#collectionpage","url":"http:\/\/www.marontherun.com\/","name":"marontherun.com","description":"Healthy Living","inLanguage":"en-US","isPartOf":{"@id":"http:\/\/www.marontherun.com\/#website"},"breadcrumb":{"@id":"http:\/\/www.marontherun.com\/#breadcrumblist"},"about":{"@id":"http:\/\/www.marontherun.com\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="marontherun.com &raquo; Feed" href="http://www.marontherun.com/feed" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.marontherun.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='bravada-themefonts-css'  href='http://www.marontherun.com/wp-content/themes/bravada/resources/fonts/fontfaces.css?ver=1.0.5' media='all' />
+<link rel='stylesheet' id='bravada-googlefonts-css'  href='//fonts.googleapis.com/css?family=Muli%3A%7CPlayfair+Display%3A%7CMuli%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CPlayfair+Display%3A700&#038;ver=1.0.5' media='all' />
+<link rel='stylesheet' id='bravada-main-css'  href='http://www.marontherun.com/wp-content/themes/bravada/style.css?ver=1.0.5' media='all' />
+<style id='bravada-main-inline-css'>
+ body:not(.bravada-landing-page) #container, #colophon-inside, .footer-inside, #breadcrumbs-container-inside { margin: 0 auto; max-width: 1240px; } body:not(.bravada-landing-page) #container { max-width: calc( 1240px - 4em ); } #primary { width: 320px; } #secondary { width: 320px; } #container.one-column .main { width: 100%; } #container.two-columns-right #secondary { float: right; } #container.two-columns-right .main, .two-columns-right #breadcrumbs { width: calc( 100% - 320px ); float: left; } #container.two-columns-left #primary { float: left; } #container.two-columns-left .main, .two-columns-left #breadcrumbs { width: calc( 100% - 320px ); float: right; } #container.three-columns-right #primary, #container.three-columns-left #primary, #container.three-columns-sided #primary { float: left; } #container.three-columns-right #secondary, #container.three-columns-left #secondary, #container.three-columns-sided #secondary { float: left; } #container.three-columns-right #primary, #container.three-columns-left #secondary { margin-left: 0%; margin-right: 0%; } #container.three-columns-right .main, .three-columns-right #breadcrumbs { width: calc( 100% - 640px ); float: left; } #container.three-columns-left .main, .three-columns-left #breadcrumbs { width: calc( 100% - 640px ); float: right; } #container.three-columns-sided #secondary { float: right; } #container.three-columns-sided .main, .three-columns-sided #breadcrumbs { width: calc( 100% - 640px ); float: right; } .three-columns-sided #breadcrumbs { margin: 0 calc( 0% + 320px ) 0 -1920px; } html { font-family: Muli; font-size: 16px; font-weight: 400; line-height: 1.8; ; } #site-title { font-family: Playfair Display; font-size: 1.3em; font-weight: 700; } #site-text { ; } nav#mobile-menu #mobile-nav a { font-family: Playfair Display; font-size: 2.5em; font-weight: 700; font-size: clamp(1.3rem, 5vw, 2.5em); ; } nav#mobile-menu #mobile-nav ul.sub-menu a { font-size: clamp(1.1rem, 4vw, 2em); } nav#mobile-menu input[type=search] { font-family: Playfair Display; } .widget-title, #comments-title, #reply-title, .related-posts .related-main-title, .main .author-info .page-title { font-family: Playfair Display; font-size: 1.2em; font-weight: 700; line-height: 2; margin-bottom: 0.5em; ; } .widget-title::after, #comments-title::after, #reply-title::after, .related-posts .related-main-title::after { margin-bottom: 0.5em; } .widget-container { font-family: Muli; font-size: 1em; font-weight: 400; } .widget-container ul li { line-height: 1.8; ; } .entry-title, .main .page-title { font-family: Playfair Display; font-size: 1.7em; font-weight: 700; ; } body:not(.single) .entry-meta > span { font-family: Muli; font-size: 1em; font-weight: 300; ; } /* single post titles/metas */ #header-page-title .entry-title, .singular-title, .lp-staticslider .staticslider-caption-title, .seriousslider-theme .seriousslider-caption-title { font-family: Playfair Display; font-size: 5em; font-weight: 700; font-size: clamp(2.5em, 5vw, 5em ); line-height: 1.3; ; } .single .entry-meta > span { font-family: Muli; font-size: 1.1em; font-weight: 300; ; } h1 { font-size: 2.33em; } h2 { font-size: 2.06em; } h3 { font-size: 1.79em; } h4 { font-size: 1.52em; } h5 { font-size: 1.25em; } h6 { font-size: 0.98em; } h1, h2, h3, h4 { font-family: Playfair Display; font-weight: 700; ; } .entry-content h1, .entry-summary h1, .entry-content h2, .entry-summary h2, .entry-content h3, .entry-summary h3, .entry-content h4, .entry-summary h4, .entry-content h5, .entry-summary h5, .entry-content h6, .entry-summary h6 { line-height: 1.2; margin-bottom: 0.5em; } .lp-section-header .lp-section-desc, .lp-box-title, .lp-tt-title, #nav-fixed a + a, #nav-below span, .lp-blocks.lp-blocks1 .lp-block .lp-block-readmore { font-family: Playfair Display; } .lp-section-header .lp-section-title { font-family: Muli; } blockquote cite { font-family: Muli; } body { color: #707070; background-color: #F3F7F6; } .lp-staticslider .staticslider-caption-text a { color: #FFFFFF; } #site-header-main, .menu-search-animated .searchform input[type="search"], #access .menu-search-animated .searchform, .site-header-bottom-fixed, .bravada-over-menu .site-header-bottom.header-fixed .site-header-bottom-fixed { background-color: #FFFFFF; } .bravada-over-menu .site-header-bottom-fixed { background: transparent; } .bravada-over-menu .header-fixed.site-header-bottom #site-title a, .bravada-over-menu .header-fixed.site-header-bottom #site-description { color: #73b73c; } .bravada-over-menu #site-title a, .bravada-over-menu #site-description, .bravada-over-menu #access > div > ul > li, .bravada-over-menu #access > div > ul > li > a, .bravada-over-menu .site-header-bottom:not(.header-fixed) #nav-toggle, #breadcrumbs-container span, #breadcrumbs-container a, #breadcrumbs-container i { color: #FFFFFF; } #bmobile #site-title a { color: #73b73c; } #site-title a::before { background: #73b73c; } body:not(.bravada-over-menu) .site-header-bottom #site-title a::before, .bravada-over-menu .header-fixed.site-header-bottom #site-title a::before { background: #0F8B8D; } body:not(.bravada-over-menu) .site-header-bottom #site-title a:hover { background: #73b73c; } #site-title a:hover::before { background: #0F8B8D; } #access > div > ul > li, #access > div > ul > li > a, .bravada-over-menu .header-fixed.site-header-bottom #access > div > ul > li:not([class*='current']), .bravada-over-menu .header-fixed.site-header-bottom #access > div > ul > li:not([class*='current']) > a { color: #444444; } .hamburger span { background-color: #444444; } #mobile-menu, nav#mobile-menu #mobile-nav a { color: #FFFFFF; } nav#mobile-menu #mobile-nav > li.current_page_item > a, nav#mobile-menu #mobile-nav > li.current-menu-item > a, nav#mobile-menu #mobile-nav > li.current_page_ancestor > a, nav#mobile-menu #mobile-nav > li.current-menu-ancestor > a, nav#mobile-menu #mobile-nav a:hover { color: #73b73c; } nav#mobile-menu { color: #FFFFFF; background-color: #066664; } #mobile-nav .searchform input[type="search"] { border-color: #FFFFFF; } .burgermenu-active.bravada-over-menu .site-header-bottom.header-fixed .site-header-bottom-fixed { background-color: transparent; } .burgermenu-active.bravada-over-menu .site-header-bottom .hamburger span { background-color: #FFFFFF; } .bravada-over-menu:not(.burgermenu-active) .site-header-bottom:not(.header-fixed) .hamburger span { background-color: #FFFFFF; } .bravada-over-menu .header-fixed.site-header-bottom .side-section-element.widget_cryout_socials a:hover::before, .side-section-element.widget_cryout_socials a:hover::before { color: #FFFFFF; } #access ul.sub-menu li a, #access ul.children li a, .topmenu ul li a { color: #FFFFFF; } #access ul.sub-menu li a, #access ul.children li a { background-color: #066664; } #access ul.sub-menu li a:hover, #access ul.children li a:hover { color: #73b73c; } #access > div > ul > li.current_page_item > a, #access > div > ul > li.current-menu-item > a, #access > div > ul > li.current_page_ancestor > a, #access > div > ul > li.current-menu-ancestor > a, .bravada-over-menu .header-fixed.site-header-bottom #access > div > ul > li > a { color: #e9b44c; } #access ul.children > li.current_page_item > a, #access ul.sub-menu > li.current-menu-item > a, #access ul.children > li.current_page_ancestor > a, #access ul.sub-menu > li.current-menu-ancestor > a { opacity: 0.95; } #access > div > ul ul > li a:not(:only-child)::after { border-left-color: #066664; } #access > div > ul > li > ul::before { border-bottom-color: #066664; } #access ul li.special1 > a { background-color: #f0f0f0; } #access ul li.special2 > a { background-color: #444444; color: #FFFFFF; } #access ul li.accent1 > a { background-color: #73b73c; color: #FFFFFF; } #access ul li.accent2 > a { background-color: #0F8B8D; color: #FFFFFF; } #access ul li.accent1 > a:hover, #access ul li.accent2 > a:hover { color: #FFFFFF; } #access > div > ul > li.accent1 > a > span::before, #access > div > ul > li.accent2 > a > span::before { background-color: #FFFFFF; } article.hentry, body:not(.blog):not(.page-template-template-blog):not(.archive):not(.search) #container:not(.bravada-landing-page) .main, body.bravada-boxed-layout:not(.bravada-landing-page) #container { background-color: #FFFFFF; } .pagination span { color: #0F8B8D; } .pagination a:hover { background-color: #73b73c; color: #FFFFFF; } #header-overlay, .lp-staticslider::after, .seriousslider-theme::after { background-color: #08415c; background: -webkit-linear-gradient( 90deg, #08415c 0%, #1c110a 100%); background: linear-gradient( 180deg, #08415c 0%, #1c110a 100%); opacity: 0.6; } #header-page-title #header-page-title-inside, #header-page-title .entry-title, #header-page-title .entry-meta span, #header-page-title .entry-meta a, #header-page-title .entry-meta time, #header-page-title .entry-meta .icon-metas::before, #header-page-title .byline, #header-page-title #breadcrumbs-nav, .lp-staticslider .staticslider-caption-inside, .seriousslider-theme .seriousslider-caption-inside { color: #FFFFFF; } #colophon, #footer { background-color: #1e3231; color: #DBDBDB; } .post-thumbnail-container .featured-image-overlay::before { background-color: #73b73c; background: -webkit-gradient(linear, left top, left bottom, from(#73b73c), to(#0F8B8D)); background: linear-gradient(to bottom, #73b73c, #0F8B8D); } .post-thumbnail-container .featured-image-overlay::after { background-color: #73b73c; background: -webkit-gradient(linear, left top, left bottom, from(#73b73c), to(#0F8B8D)); background: linear-gradient(to bottom, #0F8B8D, #73b73c); } .main #content-masonry .post-thumbnail-container:hover + .entry-after-image .entry-title a { color: #73b73c; } @media (max-width: 720px) { .bravada-magazine-one .main #content-masonry .post-thumbnail-container + .entry-after-image { background-color: #FFFFFF; } } .entry-title a:active, .entry-title a:hover { color: #73b73c; } span.entry-format { color: #73b73c; } .main #content-masonry .format-link .entry-content a { background-color: #73b73c; color: #FFFFFF; } .main #content-masonry .format-link::after { color: #FFFFFF; } .cryout article.hentry.format-image, .cryout article.hentry.format-audio, .cryout article.hentry.format-video { background-color: #ffffff; } .format-aside, .format-quote { border-color: #eeeeee; } .single .author-info { border-color: #eeeeee; } .entry-content h5, .entry-content h6, .lp-text-content h5, .lp-text-content h6 { color: #0F8B8D; } .entry-content blockquote::before, .entry-content blockquote::after { color: rgba(112,112,112,0.2); } .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .lp-text-content h1, .lp-text-content h2, .lp-text-content h3, .lp-text-content h4 { color: #162521; } .entry-title, .page-title { color: #162521; } a { color: #73b73c; } a:hover, .widget-area a, .entry-meta span a:hover, .comments-link a { color: #0F8B8D; } .comments-link a:hover, .widget-area a:hover { color: #73b73c; } .socials a::before, .socials a:hover::before { color: #73b73c; } .socials a::after, .socials a:hover::after { color: #0F8B8D; } .bravada-normalizedtags #content .tagcloud a { color: #FFFFFF; background-color: #73b73c; } .bravada-normalizedtags #content .tagcloud a:hover { background-color: #0F8B8D; } #nav-fixed i { background-color: #dbdbdb; } #nav-fixed .nav-next:hover i, #nav-fixed .nav-previous:hover i { background-color: #0F8B8D; } #nav-fixed a:hover + a, #nav-fixed a + a:hover { background-color: rgba(15,139,141,1); } #nav-fixed i, #nav-fixed span { color: #FFFFFF; } a#toTop::before { color: #73b73c; } a#toTop::after { color: #0F8B8D; } @media (max-width: 800px) { .cryout #footer-bottom .footer-inside { padding-top: 2.5em; } .cryout .footer-inside a#toTop { background-color: #73b73c; color: #F3F7F6; } .cryout .footer-inside a#toTop:hover { opacity: 0.8;} } .entry-meta .icon-metas:before { color: #b5b5b5; } #site-title span a::before { width: calc(100% - 1.2em); } .bravada-caption-one .main .wp-caption .wp-caption-text { border-bottom-color: #eeeeee; } .bravada-caption-two .main .wp-caption .wp-caption-text { background-color: #f5f5f5; } .bravada-image-one .entry-content img[class*="align"], .bravada-image-one .entry-summary img[class*="align"], .bravada-image-two .entry-content img[class*='align'], .bravada-image-two .entry-summary img[class*='align'] { border-color: #eeeeee; } .bravada-image-five .entry-content img[class*='align'], .bravada-image-five .entry-summary img[class*='align'] { border-color: #73b73c; } .entry-summary .excerpt-fade { background-image: linear-gradient(to left, #FFFFFF, transparent); } /* diffs */ span.edit-link a.post-edit-link, span.edit-link a.post-edit-link:hover, span.edit-link .icon-edit:before { color: #707070; } .searchform { border-color: #ebebeb; } .entry-meta span, .entry-meta a, .entry-utility span, .entry-utility a, .entry-meta time, #breadcrumbs-nav { color: #a7a7a7; } .main #content-masonry .post-thumbnail-container span.bl_categ, .main #content-masonry .post-thumbnail-container .comments-link { background-color: #FFFFFF; } .footermenu ul li span.sep { color: #73b73c; } .entry-meta a::after, .entry-utility a::after { background: #0F8B8D; } #header-page-title .category-metas a { color: #73b73c; } .entry-meta .author:hover .avatar { border-color: #73b73c; } .animated-title span.cry-single.animated-letter, .animated-title span.cry-double.animated-letter { color: #73b73c; } span.entry-sticky { color: #0F8B8D; } #commentform { } code, #nav-below .nav-previous a::before, #nav-below .nav-next a::before { background-color: #eeeeee; } #nav-below .nav-previous::after, #nav-below .nav-next::after { background-color: #73b73c; } pre, .comment-author { border-color: #eeeeee; } .commentlist .comment-area, .commentlist .pingback { border-color: #f3f3f3; } .commentlist img.avatar { background-color: #FFFFFF; } .comment-meta a { color: #bfbfbf; } .commentlist .reply a, .commentlist .author-name, .commentlist .author-name a { background-color: #73b73c; color: #FFFFFF; } .commentlist .reply a:hover { background-color: #0F8B8D; } select, input[type], textarea { color: #707070; background-color: #f5f5f5; } .sidey select { background-color: #FFFFFF; } .searchform .searchsubmit { background: #73b73c; } .searchform:hover .searchsubmit { background: #0F8B8D; } .searchform input[type="search"], .searchform input[type="search"]:hover, .searchform input[type="search"]:focus { background-color: #FFFFFF; } input[type]:hover, textarea:hover, select:hover, input[type]:focus, textarea:focus, select:focus { border-color: #dcdcdc; } button, input[type="button"], input[type="submit"], input[type="reset"] { background-color: #73b73c; color: #FFFFFF; } button:hover, input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hover { background-color: #0F8B8D; } .comment-form-author input, .comment-form-email input, .comment-form-url input, .comment-form-comment textarea { background-color: #f0f0f0; } .comment-form-author input:hover, .comment-form-email input:hover, .comment-form-url input:hover, .comment-form-comment textarea:hover, .comment-form-author input:focus, .comment-form-email input:focus, .comment-form-url input:focus, .comment-form-comment textarea:focus { background-color: #73b73c; color: #FFFFFF; } .comment-form-author, .comment-form-email { border-color: #FFFFFF; } hr { background-color: #f0f0f0; } .cryout-preloader-inside .bounce1 { background-color: #73b73c; } .cryout-preloader-inside .bounce2 { background-color: #0F8B8D; } .page-header.pad-container { background-color: #FFFFFF; } /* gutenberg */ .wp-block-image.alignwide { margin-left: calc( ( 0% + 4em ) * -1 ); margin-right: calc( ( 0% + 4em ) * -1 ); } .wp-block-image.alignwide img { width: calc( 100% + 8em ); max-width: calc( 100% + 8em ); } .has-accent-1-color, .has-accent-1-color:hover { color: #73b73c; } .has-accent-2-color, .has-accent-2-color:hover { color: #0F8B8D; } .has-headings-color, .has-headings-color:hover { color: #162521; } .has-sitetext-color, .has-sitetext-color:hover { color: #707070; } .has-sitebg-color, .has-sitebg-color:hover { color: #FFFFFF; } .has-accent-1-background-color { background-color: #73b73c; } .has-accent-2-background-color { background-color: #0F8B8D; } .has-headings-background-color { background-color: #162521; } .has-sitetext-background-color { background-color: #707070; } .has-sitebg-background-color { background-color: #FFFFFF; } .has-small-font-size { font-size: 13px; } .has-regular-font-size { font-size: 16px; } .has-large-font-size { font-size: 19px; } .has-larger-font-size { font-size: 23px; } .has-huge-font-size { font-size: 23px; } /* woocommerce */ .woocommerce-thumbnail-container .woocommerce-buttons-container a, .woocommerce-page #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button { } .woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3, .woocommerce div.product .product_title, .woocommerce .woocommerce-tabs h2 { font-family: Muli; } .woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3, .woocommerce .star-rating { color: #0F8B8D; } .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button { background-color: #73b73c; color: #FFFFFF; line-height: 1.8; } .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover { background-color: #0f8b8d; color: #FFFFFF; } .woocommerce-page #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt { color: #73b73c; line-height: 1.8; } .woocommerce-page #respond input#submit.alt::after, .woocommerce a.button.alt::after, .woocommerce-page button.button.alt::after, .woocommerce input.button.alt::after { content: ""; position: absolute; left: 0; top: 0; width: 100%; height: 100%; outline: 2px solid; -webkit-transition: .3s ease all; transition: .3s ease all; } .woocommerce-page #respond input#submit.alt:hover::after, .woocommerce a.button.alt:hover::after, .woocommerce-page button.button.alt:hover::after, .woocommerce input.button.alt:hover::after { opacity: 0; -webkit-transform: scale(1.2, 1.4); transform: scale(1.2, 1.4); } .woocommerce-page #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce input.button.alt:hover { color: #0F8B8D; } .woocommerce div.product .woocommerce-tabs ul.tabs li.active { border-bottom-color: #FFFFFF; } .woocommerce #respond input#submit.alt.disabled, .woocommerce #respond input#submit.alt.disabled:hover, .woocommerce #respond input#submit.alt:disabled, .woocommerce #respond input#submit.alt:disabled:hover, .woocommerce #respond input#submit.alt[disabled]:disabled, .woocommerce #respond input#submit.alt[disabled]:disabled:hover, .woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover, .woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover, .woocommerce a.button.alt[disabled]:disabled, .woocommerce a.button.alt[disabled]:disabled:hover, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:disabled, .woocommerce button.button.alt:disabled:hover, .woocommerce button.button.alt[disabled]:disabled, .woocommerce button.button.alt[disabled]:disabled:hover, .woocommerce input.button.alt.disabled, .woocommerce input.button.alt.disabled:hover, .woocommerce input.button.alt:disabled, .woocommerce input.button.alt:disabled:hover, .woocommerce input.button.alt[disabled]:disabled, .woocommerce input.button.alt[disabled]:disabled:hover { background-color: #0F8B8D; color: #fff; } .woocommerce div.product .product_title, .woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price { color: #0f8b8d} .woocommerce .quantity .qty { background-color: #eeeeee; } .woocommerce-checkout #payment { background: #f5f5f5; } .woocommerce .widget_price_filter .ui-slider .ui-slider-handle { background: #0f8b8d; } .woocommerce div.product .products > h2, .woocommerce .cart-collaterals h2 { font-family: Playfair Display; font-size: 1.2em; font-weight: 700; line-height: 2; ; } .woocommerce div.product .products > h2::after, .woocommerce .cart-collaterals h2::after { background-color: #73b73c ; } .main .entry-content, .main .entry-summary { text-align: inherit; } .main p, .main ul, .main ol, .main dd, .main pre, .main hr { margin-bottom: 1em; } .main .entry-content p { text-indent: 0em; } .main a.post-featured-image { background-position: center center; } #header-widget-area { width: 33%; right: 10px; } .bravada-stripped-table .main thead th, .bravada-bordered-table .main thead th, .bravada-stripped-table .main td, .bravada-stripped-table .main th, .bravada-bordered-table .main th, .bravada-bordered-table .main td { border-color: #e9e9e9; } .bravada-clean-table .main th, .bravada-stripped-table .main tr:nth-child(even) td, .bravada-stripped-table .main tr:nth-child(even) th { background-color: #f8f8f8; } .bravada-cropped-featured .main .post-thumbnail-container { height: 300px; } .bravada-responsive-featured .main .post-thumbnail-container { max-height: 300px; height: auto; } article.hentry .article-inner, #content-masonry article.hentry .article-inner { padding: 0%; } .site-header-bottom { height:75px; } .site-header-bottom .site-header-inside { height:75px; } .menu-search-animated, .menu-burger, #sheader-container, .identity, #nav-toggle { height: 75px; line-height: 75px; } #access div > ul > li > a, #access ul li[class*="icon"]::before { line-height:75px; } nav#mobile-menu { padding-top: 85px; } body.admin-bar nav#mobile-menu { padding-top: 117px; } #branding { height: 75px; } .bravada-responsive-headerimage #masthead #header-image-main-inside { max-height: 1080px; } .bravada-cropped-headerimage #masthead #header-image-main-inside { height: 1080px; } #header-widget-area { top: 85px; } .bravada-landing-page .lp-blocks-inside, .bravada-landing-page .lp-boxes-inside, .bravada-landing-page .lp-text-inside, .bravada-landing-page .lp-posts-inside, .bravada-landing-page .lp-page-inside, .bravada-landing-page .lp-section-header, .bravada-landing-page .content-widget { max-width: 1240px; } @media (min-width: 960px) { .bravada-landing-page .lp-blocks.lp-blocks1 .lp-blocks-inside { max-width: calc(1240px - 5em); background-color: #FFFFFF; } } #header-page-title #header-page-title-inside, .lp-staticslider .staticslider-caption, .seriousslider.seriousslider-theme .seriousslider-caption { max-width: 1240px; max-width: 85%; padding-top: 85px; } @media (max-width: 1024px) { #header-page-title #header-page-title-inside, .lp-staticslider .staticslider-caption, .seriousslider.seriousslider-theme .seriousslider-caption { max-width: 100%; } } .bravada-landing-page .content-widget { margin: 0 auto; } a.staticslider-button, .seriousslider-theme .seriousslider-caption-buttons a { background-color: #73b73c; } a.staticslider-button:hover, .seriousslider-theme .seriousslider-caption-buttons a:hover { background-color: #0F8B8D; } .widget-title, #comments-title, #reply-title, .related-posts .related-main-title, .main .page-title, #nav-below em, .lp-text .lp-text-title, .lp-boxes-animated .lp-box-title { background-image: linear-gradient(to bottom, rgba(115,183,60,0.4) 0%, rgba(115,183,60,0.4) 100%); } .lp-blocks { background-color: #F9F7F5; } .lp-boxes { background-color: #F8F8F8; } .lp-boxes .lp-boxes-inside::before { background-color: #73b73c ; } .lp-boxes ~ .lp-boxes .lp-boxes-inside::before { background-color: #0F8B8D ; } .lp-boxes ~ .lp-boxes ~ .lp-boxes .lp-boxes-inside::before { background-color: #73b73c ; } .lp-text { background-color: #EEEBE9; } #lp-posts, #lp-page { background-color: #F3F7F6; } .lp-block { background-color: #FFFFFF; } .lp-block i[class^="blicon"]::before { color: #0F8B8D; } .lp-block .lp-block-title, .lp-text .lp-text-title { color: #162521; } .lp-block .lp-block-title::after { background-color: #73b73c; } .lp-blocks1 .lp-block i[class^="blicon"] +i[class^="blicon"]::before { color: #0F8B8D; } .lp-block-readmore { color: #c0c0c0; } .lp-block-readmore:hover { color: #73b73c; } .lp-text-title { color: #0F8B8D; } .lp-text-inside .lp-text-background { background-color: #FFFFFF; } .lp-boxes .lp-box { background-color: #FFFFFF; } .lp-boxes-animated .box-overlay { background-color: #0F8B8D; } .lp-boxes-animated .lp-box-readmore { color: #73b73c; } .lp-boxes-static .box-overlay { background-color: #73b73c; } .lp-box-title { color: #162521; } .lp-box-title:hover { color: #73b73c; } .lp-boxes-1 .lp-box .lp-box-image { height: 250px; } #cryout_ajax_more_trigger, .lp-port-readmore { color: #0F8B8D; } .lpbox-rnd1 { background-color: #c1c1c1; } .lpbox-rnd2 { background-color: #bcbcbc; } .lpbox-rnd3 { background-color: #b7b7b7; } .lpbox-rnd4 { background-color: #b2b2b2; } .lpbox-rnd5 { background-color: #adadad; } .lpbox-rnd6 { background-color: #a8a8a8; } .lpbox-rnd7 { background-color: #a3a3a3; } .lpbox-rnd8 { background-color: #9e9e9e; } 
+</style>
+<link rel='stylesheet' id='wp-add-custom-css-css'  href='http://www.marontherun.com?display_custom_css=css&#038;ver=5.7.2' media='all' />
+<!--[if lt IE 9]>
+<script src='http://www.marontherun.com/wp-content/themes/bravada/resources/js/html5shiv.min.js?ver=1.0.5' id='bravada-html5shiv-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="http://www.marontherun.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.marontherun.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.marontherun.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.2" />
+<noscript><style>.cryout .cryout-preloader {display: none;}.cryout img[loading="lazy"] {opacity: 1;}</style></noscript>
+<link rel="icon" href="http://www.marontherun.com/wp-content/uploads/2021/03/icon-150x150.png" sizes="32x32" />
+<link rel="icon" href="http://www.marontherun.com/wp-content/uploads/2021/03/icon-298x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://www.marontherun.com/wp-content/uploads/2021/03/icon-298x300.png" />
+<meta name="msapplication-TileImage" content="http://www.marontherun.com/wp-content/uploads/2021/03/icon.png" />
+</head>
+
+<body class="home blog wp-custom-logo wp-embed-responsive bravada-image-none bravada-caption-one bravada-totop-normal bravada-stripped-table bravada-over-menu bravada-menu-right bravada-topsection-normal bravada-cropped-headerimage bravada-fullscreen-headerimage bravada-responsive-featured bravada-magazine-two bravada-magazine-layout bravada-comment-placeholder bravada-comment-icons bravada-normalizedtags bravada-animated-title bravada-lazy-noanimation bravada-article-animation-fade" itemscope itemtype="http://schema.org/WebPage">
+			<a class="skip-link screen-reader-text" href="#main" title="Skip to content"> Skip to content </a>
+				<div class="cryout-preloader">
+			<div class="cryout-preloader-inside">
+				<div class="bounce1"></div>
+				<div class="bounce2"></div>
+			</div>
+		</div>
+		<div id="site-wrapper">
+
+	<header id="masthead" class="cryout"  itemscope itemtype="http://schema.org/WPHeader">
+
+		<div id="site-header-main">
+
+			<div class="site-header-top">
+
+				<div class="site-header-inside">
+
+					<div id="header-menu"  itemscope itemtype="http://schema.org/SiteNavigationElement">
+											</div><!-- #header-menu -->
+
+				</div><!-- #site-header-inside -->
+
+			</div><!--.site-header-top-->
+
+						<nav id="mobile-menu" tabindex="-1">
+				<div class="side-menu side-section"><ul id="mobile-nav"><li class="current_page_item"><a href="http://www.marontherun.com/"><span>Home</span></a></li><li class="page_item page-item-9"><a href="http://www.marontherun.com/advertise-here"><span>Advertise Here</span></a></li><li class="page_item page-item-7"><a href="http://www.marontherun.com/contact-us"><span>Contact Us</span></a></li><li class="page_item page-item-13"><a href="http://www.marontherun.com/disclosure-policy"><span>Disclosure Policy</span></a></li><li class="page_item page-item-11"><a href="http://www.marontherun.com/sitemap"><span>Sitemap</span></a></li></ul></div>					<div class="side-socials side-section">
+		<div class="widget-side-section-inner">
+			<section class="side-section-element widget_cryout_socials">
+				<div class="widget-socials">
+									</div>
+			</section>
+		</div>
+	</div>			</nav> <!-- #mobile-menu -->
+			
+			<div class="site-header-bottom">
+
+				<div class="site-header-bottom-fixed">
+
+					<div class="site-header-inside">
+
+						<div id="branding">
+							<div class="identity"><a href="http://www.marontherun.com/" id="logo" class="custom-logo-link" title="marontherun.com" rel="home" aria-current="page"><img   src="http://www.marontherun.com/wp-content/uploads/2021/03/logo.png" class="custom-logo" alt="marontherun.com" srcset="http://www.marontherun.com/wp-content/uploads/2021/03/logo.png 222w, http://www.marontherun.com/wp-content/uploads/2021/03/logo-150x150.png 150w" sizes="(max-width: 222px) 100vw, 222px" /></a></div><div id="site-text"><h1 itemprop="headline" id="site-title"><span> <a href="http://www.marontherun.com/" title="Healthy Living" rel="home">marontherun.com</a> </span></h1><span id="site-description"  itemprop="description" >Healthy Living</span></div>						</div><!-- #branding -->
+
+												<div class='menu-burger'>
+							<button class='hamburger' type='button'>
+									<span></span>
+									<span></span>
+									<span></span>
+							</button>
+						</div>
+						
+						<nav id="access"  aria-label="Top Menu"  itemscope itemtype="http://schema.org/SiteNavigationElement">
+								<div><ul id="top-nav" class=""><li id="menu-item-50" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-50"><a href="http://www.marontherun.com/category/fitness-gym"><span>Fitness &amp; Gym</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-51" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-51"><a href="http://www.marontherun.com/category/fitness-gym/best-gym-center"><span>Best Gym Center</span></a></li>
+	<li id="menu-item-52" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-52"><a href="http://www.marontherun.com/category/fitness-gym/popular-fitness-tips"><span>Popular Fitness Tips</span></a></li>
+	<li id="menu-item-53" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53"><a href="http://www.marontherun.com/category/fitness-gym/usa-fitness"><span>USA Fitness</span></a></li>
+	<li id="menu-item-54" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54"><a href="http://www.marontherun.com/category/fitness-gym/weight-loss"><span>Weight Loss</span></a></li>
+	<li id="menu-item-55" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55"><a href="http://www.marontherun.com/category/fitness-gym/workout"><span>Workout</span></a></li>
+</ul>
+</li>
+<li id="menu-item-57" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-57"><a href="http://www.marontherun.com/category/healthcare"><span>Healthcare</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-58" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58"><a href="http://www.marontherun.com/category/healthcare/body-and-health"><span>Body And Health</span></a></li>
+	<li id="menu-item-59" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59"><a href="http://www.marontherun.com/category/healthcare/health-guides"><span>Health Guides</span></a></li>
+	<li id="menu-item-60" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60"><a href="http://www.marontherun.com/category/healthcare/improve-health"><span>Improve Health</span></a></li>
+	<li id="menu-item-61" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61"><a href="http://www.marontherun.com/category/healthcare/modern-healthcare"><span>Modern Healthcare</span></a></li>
+	<li id="menu-item-62" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62"><a href="http://www.marontherun.com/category/healthcare/physical-health"><span>Physical Health</span></a></li>
+</ul>
+</li>
+<li id="menu-item-63" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-63"><a href="http://www.marontherun.com/category/popular-sport"><span>Popular Sport</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-64" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64"><a href="http://www.marontherun.com/category/popular-sport/american-football"><span>American Football</span></a></li>
+	<li id="menu-item-65" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65"><a href="http://www.marontherun.com/category/popular-sport/benefits-running"><span>Benefits Running</span></a></li>
+	<li id="menu-item-66" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-66"><a href="http://www.marontherun.com/category/popular-sport/most-popular-sport"><span>Most Popular Sport</span></a></li>
+	<li id="menu-item-67" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-67"><a href="http://www.marontherun.com/category/popular-sport/nutrition-for-body"><span>Nutrition For Body</span></a></li>
+	<li id="menu-item-68" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-68"><a href="http://www.marontherun.com/category/popular-sport/sport-and-health"><span>Sport And Health</span></a></li>
+</ul>
+</li>
+<li id="menu-item-69" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-69"><a href="http://www.marontherun.com/category/sport-daily"><span>Sport Daily</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-70" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70"><a href="http://www.marontherun.com/category/sport-daily/daily-sport-us"><span>Daily Sport US</span></a></li>
+	<li id="menu-item-71" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71"><a href="http://www.marontherun.com/category/sport-daily/sport-business-daily"><span>Sport Business Daily</span></a></li>
+	<li id="menu-item-72" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72"><a href="http://www.marontherun.com/category/sport-daily/sport-highlight"><span>Sport Highlight</span></a></li>
+	<li id="menu-item-73" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-73"><a href="http://www.marontherun.com/category/sport-daily/sport-news"><span>Sport News</span></a></li>
+	<li id="menu-item-74" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74"><a href="http://www.marontherun.com/category/sport-daily/sport-today"><span>Sport Today</span></a></li>
+</ul>
+</li>
+<li id="menu-item-56" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56"><a href="http://www.marontherun.com/category/general-article"><span>General Article</span></a></li>
+</ul></div>						</nav><!-- #access -->
+
+
+					</div><!-- #site-header-inside -->
+
+				</div><!-- #site-header-bottom-fixed -->
+
+			</div><!--.site-header-bottom-->
+
+		</div><!-- #site-header-main -->
+
+		<div id="header-image-main">
+			<div id="header-image-main-inside">
+					<a href="#main" class="meta-arrow" tabindex="-1">
+			<i class="icon-arrow" title="Read more"></i>
+	</a>
+			<div id="header-overlay"></div>
+			<div class="header-image"  style="background-image: url(http://www.marontherun.com/wp-content/uploads/2021/03/2.jpg)" ></div>
+			<img class="header-image" alt="marontherun.com" src="http://www.marontherun.com/wp-content/uploads/2021/03/2.jpg" />
+				    <div id="header-page-title">
+        <div id="header-page-title-inside">
+						<div class="entry-meta pretitle-meta">
+							</div><!-- .entry-meta -->
+            <h2 class="entry-title"  itemprop="headline">marontherun.com</h2><p class="byline">Healthy Living</p>			<div class="entry-meta aftertitle-meta">
+											</div><!-- .entry-meta -->
+			<div class="byline">
+							</div>
+        </div>
+    </div> 			</div><!-- #header-image-main-inside -->
+		</div><!-- #header-image-main -->
+
+	</header><!-- #masthead -->
+
+	
+	<div id="content" class="cryout">
+		<div id="container" class="two-columns-right">
+	<main id="main" class="main">
+		
+		
+			<div id="content-masonry" class="content-masonry"  itemscope itemtype="http://schema.org/Blog">
+				
+<article id="post-2017" class="hentry hentry-featured post-2017 post type-post status-publish format-standard sticky category-body-and-health" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+
+	<div class="article-inner">
+				<div class="entry-meta">
+			<span class="bl_categ" ><i class="icon-category icon-metas" title="Categories"></i><span class="category-metas"> <a href="http://www.marontherun.com/category/healthcare/body-and-health" rel="category tag">Body And Health</a></span></span>		</div>
+		
+
+		<div class="entry-after-image">
+			<span class="entry-sticky">Featured</span>			<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="http://www.marontherun.com/7-benefits-of-cold-shower-in-the-morning.html"  itemprop="mainEntityOfPage" rel="bookmark">7 Benefits of Cold Shower in the Morning</a></h2>				<div class="entry-meta aftertitle-meta">
+					<span class="author vcard" itemscope itemtype="http://schema.org/Person" itemprop="author">
+				<i class="icon-author icon-metas" title="Author"></i>
+				<a class="url fn n" rel="author" href="http://www.marontherun.com/author/esmeraldawalls" title="View all posts by EsmeraldaWalls" itemprop="url">
+					<em itemprop="name">EsmeraldaWalls</em></a></span>
+		<span class="onDate date" >
+				<i class="icon-date icon-metas" title="Date"></i>
+				<time class="published" datetime="2021-01-07T19:14:00+07:00"  itemprop="datePublished">
+					07/01/2021				</time>
+				<time class="updated" datetime="2021-03-01T13:18:48+07:00"  itemprop="dateModified">01/03/2021</time>
+		</span>
+						</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			
+					<div class="entry-content"  itemprop="articleBody">
+						<p>Morning bath is usually done before going to school or work. However, because the cold weather in the morning makes not a few people who choose to take a shower using warm water rather than cold water. Though bathing using cold water in the morning turned out to have many benefits, especially for health. So, what are the benefits of bathing in the morning with cold water? Here are seven benefits you can get if you take a cold shower in the morning!</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://i.ibb.co/1bZB3sQ/1.jpg&quot;" alt=""/></figure></div>
+
+
+
+<h3>1. Improve Heart Performance</h3>
+
+
+
+<p>If you are accustomed to taking a morning shower using cold water, the heart&#8217;s performance will also improve. This is because when cold water flushes, the body will automatically look for warmer air. The warm air is obtained from oxygen that is breathed into the body and is driven by the performance of the heart. That&#8217;s why the heart will work well and be healthier due to increased oxygen levels absorbed.</p>
+
+
+
+<h3>2. Streamlining Blood Circulation</h3>
+
+
+
+<p>The benefits of taking a shower in the morning using cold water is that it can facilitate blood circulation. Cold water splashed on the body can moisturize and tighten the pores of the scalp. That&#8217;s why blood circulation becomes smooth and you will avoid the risk of stiff joints and inflammation.</p>
+
+
+
+<h3>3. Relieves Muscle Pain</h3>
+
+
+
+<p>What after actively moving to do physical exercise your body feels achy and painful? You can cure it by taking a morning shower using cold water. A study revealed that the benefits of &hellip; <a href="http://www.marontherun.com/7-benefits-of-cold-shower-in-the-morning.html" class="read-more">Read More </a></p>											</div><!-- .entry-content -->
+					<div class="entry-meta entry-utility">
+																	</div><!-- .entry-utility -->
+
+				
+			
+	<span class="schema-publisher" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+         <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+           <meta itemprop="url" content="http://www.marontherun.com/wp-content/uploads/2021/03/logo.png">
+         </span>
+         <meta itemprop="name" content="marontherun.com">
+    </span>
+<link itemprop="mainEntityOfPage" href="http://www.marontherun.com/7-benefits-of-cold-shower-in-the-morning" />		</div><!--.entry-after-image-->
+	</div><!-- .article-inner -->
+</article><!-- #post-2017 -->
+
+
+<article id="post-2014" class="hentry hentry-featured post-2014 post type-post status-publish format-standard sticky category-health-guides" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+
+	<div class="article-inner">
+				<div class="entry-meta">
+			<span class="bl_categ" ><i class="icon-category icon-metas" title="Categories"></i><span class="category-metas"> <a href="http://www.marontherun.com/category/healthcare/health-guides" rel="category tag">Health Guides</a></span></span>		</div>
+		
+
+		<div class="entry-after-image">
+			<span class="entry-sticky">Featured</span>			<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="http://www.marontherun.com/start-the-day-with-breakfast.html"  itemprop="mainEntityOfPage" rel="bookmark">Start the Day with Breakfast</a></h2>				<div class="entry-meta aftertitle-meta">
+					<span class="author vcard" itemscope itemtype="http://schema.org/Person" itemprop="author">
+				<i class="icon-author icon-metas" title="Author"></i>
+				<a class="url fn n" rel="author" href="http://www.marontherun.com/author/esmeraldawalls" title="View all posts by EsmeraldaWalls" itemprop="url">
+					<em itemprop="name">EsmeraldaWalls</em></a></span>
+		<span class="onDate date" >
+				<i class="icon-date icon-metas" title="Date"></i>
+				<time class="published" datetime="2020-08-01T08:03:00+07:00"  itemprop="datePublished">
+					01/08/2020				</time>
+				<time class="updated" datetime="2021-03-01T13:11:29+07:00"  itemprop="dateModified">01/03/2021</time>
+		</span>
+						</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			
+					<div class="entry-content"  itemprop="articleBody">
+						<p>A busy morning is a common thing experienced by employees, especially in urban areas. Traffic jams that make a little time is valuable so as not to arrive late at the office. As a result, in a hurry, many people go to the office without breakfast. There are several reasons why someone does not start the day with breakfast. Or there are also those who consider breakfast or breakfast to be less important, even as a way to reduce weight by reducing the entry of food in the morning. Actually, is it really important to start the day with breakfast? How to get around so you can routinely do breakfast? What is a healthy breakfast menu for the body?</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://i.ibb.co/WkBkQLh/22.jpg" alt=""/></figure></div>
+
+
+
+<h2>Benefits of Breakfast</h2>
+
+
+
+<p>Breakfast or eat in the morning is important to do. The reason is because while sleeping for about 8 hours our body has no food that enters the body while activities such as breathing, moving or other light activities continue to run. As a result, sugar levels in the body are very low. While the morning physical activity begins to walk, such as traveling to work, thinking or the need for concentration in order to be able to do activities well. All this requires the existence of energy and energy obtained from the food eaten.<br /><br />By eating good food, will make the body feel full and will arouse enthusiasm for activities. You will not feel lethargic or preoccupied by a hungry stomach. A healthy breakfast can help reduce &hellip; <a href="http://www.marontherun.com/start-the-day-with-breakfast.html" class="read-more">Read More </a></p>											</div><!-- .entry-content -->
+					<div class="entry-meta entry-utility">
+																	</div><!-- .entry-utility -->
+
+				
+			
+	<span class="schema-publisher" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+         <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+           <meta itemprop="url" content="http://www.marontherun.com/wp-content/uploads/2021/03/logo.png">
+         </span>
+         <meta itemprop="name" content="marontherun.com">
+    </span>
+<link itemprop="mainEntityOfPage" href="http://www.marontherun.com/start-the-day-with-breakfast" />		</div><!--.entry-after-image-->
+	</div><!-- .article-inner -->
+</article><!-- #post-2014 -->
+
+
+<article id="post-2011" class="hentry hentry-featured post-2011 post type-post status-publish format-standard sticky category-general-article" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+
+	<div class="article-inner">
+				<div class="entry-meta">
+			<span class="bl_categ" ><i class="icon-category icon-metas" title="Categories"></i><span class="category-metas"> <a href="http://www.marontherun.com/category/general-article" rel="category tag">General Article</a></span></span>		</div>
+		
+
+		<div class="entry-after-image">
+			<span class="entry-sticky">Featured</span>			<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="http://www.marontherun.com/the-importance-of-warming-up-and-cooling-down-in-sports.html"  itemprop="mainEntityOfPage" rel="bookmark">The Importance of Warming Up And Cooling Down in Sports</a></h2>				<div class="entry-meta aftertitle-meta">
+					<span class="author vcard" itemscope itemtype="http://schema.org/Person" itemprop="author">
+				<i class="icon-author icon-metas" title="Author"></i>
+				<a class="url fn n" rel="author" href="http://www.marontherun.com/author/esmeraldawalls" title="View all posts by EsmeraldaWalls" itemprop="url">
+					<em itemprop="name">EsmeraldaWalls</em></a></span>
+		<span class="onDate date" >
+				<i class="icon-date icon-metas" title="Date"></i>
+				<time class="published" datetime="2019-06-12T12:51:00+07:00"  itemprop="datePublished">
+					12/06/2019				</time>
+				<time class="updated" datetime="2021-03-01T12:58:22+07:00"  itemprop="dateModified">01/03/2021</time>
+		</span>
+						</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			
+					<div class="entry-content"  itemprop="articleBody">
+						<p>Any kind of exercise should start with a warm-up and end with a cool down. Why is that? Because to minimize the risk of injury to muscles and joints and maximize the range of motion when you exercise. Warm up is done for about five to ten minutes by stretching the muscles before starting to exercise.</p>
+
+
+
+<p>Likewise with cooling in sports which is also important to do after exercise. However, post-exercise cooling activities are often underestimated by some. Here are the benefits of you warming up before exercise and cooling down after exercise.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://i.ibb.co/Dp0Q86N/1.jpg" alt=""/></figure></div>
+
+
+
+<h3>The Benefits of Warming Up and Cooling Down in Sports</h3>
+
+
+
+<h4>• Cultivate a mental optimism and focus</h4>
+
+
+
+<p>You can believe it or not. However, warming up has a good effect on the readiness of athletes before carrying out the match. Warming up functions to control anxiety and nervousness. In addition, warming up can foster a sense of optimism and athletes focus on the competition. With reduced anxiety and increased mental focus on athletes, optimal warm-up will increase performance so that the athlete&#8217;s goal of winning the match can be carried out smoothly without the distraction of anxiety, nervousness, and worry.</p>
+
+
+
+<h4>• Reducing the risk of injury</h4>
+
+
+
+<p>The risk of injury can occur if you do sports even though your muscles are not ready. When you exercise, your muscles do strenuous activity and they get tense. If you don&#8217;t warm up, your muscles start to shock and can cause muscle cramps. In addition, you will also feel tired &hellip; <a href="http://www.marontherun.com/the-importance-of-warming-up-and-cooling-down-in-sports.html" class="read-more">Read More </a></p>											</div><!-- .entry-content -->
+					<div class="entry-meta entry-utility">
+																	</div><!-- .entry-utility -->
+
+				
+			
+	<span class="schema-publisher" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+         <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+           <meta itemprop="url" content="http://www.marontherun.com/wp-content/uploads/2021/03/logo.png">
+         </span>
+         <meta itemprop="name" content="marontherun.com">
+    </span>
+<link itemprop="mainEntityOfPage" href="http://www.marontherun.com/the-importance-of-warming-up-and-cooling-down-in-sports" />		</div><!--.entry-after-image-->
+	</div><!-- .article-inner -->
+</article><!-- #post-2011 -->
+
+
+<article id="post-181" class="hentry post-181 post type-post status-publish format-standard category-sport-highlight tag-activities tag-information tag-photos tag-schedules tag-scores tag-sports tag-stats tag-videos" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+
+	<div class="article-inner">
+				<div class="entry-meta">
+			<span class="bl_categ" ><i class="icon-category icon-metas" title="Categories"></i><span class="category-metas"> <a href="http://www.marontherun.com/category/sport-daily/sport-highlight" rel="category tag">Sport Highlight</a></span></span>		</div>
+		
+
+		<div class="entry-after-image">
+						<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="http://www.marontherun.com/sports-activities-information-scores-schedules-stats-photos-and-videos-2.html"  itemprop="mainEntityOfPage" rel="bookmark">Sports Activities Information, Scores, Schedules, Stats, Photos And Videos</a></h2>				<div class="entry-meta aftertitle-meta">
+					<span class="author vcard" itemscope itemtype="http://schema.org/Person" itemprop="author">
+				<i class="icon-author icon-metas" title="Author"></i>
+				<a class="url fn n" rel="author" href="http://www.marontherun.com/author/esmeraldawalls" title="View all posts by EsmeraldaWalls" itemprop="url">
+					<em itemprop="name">EsmeraldaWalls</em></a></span>
+		<span class="onDate date" >
+				<i class="icon-date icon-metas" title="Date"></i>
+				<time class="published" datetime="2021-06-10T11:04:46+07:00"  itemprop="datePublished">
+					10/06/2021				</time>
+				<time class="updated" datetime="2021-03-01T09:10:24+07:00"  itemprop="dateModified">01/03/2021</time>
+		</span>
+						</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			
+					<div class="entry-summary"  itemprop="description">
+						<p>A good choice of video clips and chic and simple textual content are important.</p>
+<p>FlexClip, a free online-primarily based sports highlight video maker, integrates with all powerful modifying features, like trimming, adding text, music, altering video velocity. Any edits to make a sports spotlight video can be accomplished in a number of clicks. Special results like animation, transitions, dynamic texts degree up your sports highlight video. Diverse export options like side ratio, video definition cater to everybody&#8217;s needs. Free media library contains tens of millions of photos, videos, music gadgets, waiting to for you to discover and use. Making a sports activities highlight video is not a daunting task with the help of FlexClip. Besides sports activities video, it can additionally help you with other movies, like journey video, vacation video.</p>
+<h2>Video Osasuna Vs Sevilla (la Liga) Highlights</h2>
+<p><img class='aligncenter' style='display: block;margin-left:auto;margin-right:auto;' src="https://i.ytimg.com/vi/wB6CaK1EFhg/hqdefault.jpg" width="503px" alt="sport highlight"/></p>
+<h3>Passing Of Legends Kobe, Maradona Spotlight World Sports Deaths In 2020</h3>
+<p>In addition to premium spotlight videos, All Star Video Sports has extensive expertise in creating hype and promotional movies for sports teams and organizations. Now, click on the Create a Video button to start making a sports highlight video. If you have no thought on the way to get started, View Templates to get more concepts. Generally talking, a sports spotlight video ought to comprise your primary data, like your name, top, weight, position, and extra particulars about the match. As a sports fan, you may have to create a sports activities highlight video for future appreciation. As a high school &hellip; <a href="http://www.marontherun.com/sports-activities-information-scores-schedules-stats-photos-and-videos-2.html" class="read-more">Read More </a></p>					</div><!-- .entry-summary -->
+					<div class="entry-meta entry-utility">
+																	</div><!-- .entry-utility -->
+					<footer class="post-continue-container">
+						<a class="continue-reading-link" href="http://www.marontherun.com/sports-activities-information-scores-schedules-stats-photos-and-videos-2.html"><span>Read more</span><i class="icon-continue-reading"></i><em class="screen-reader-text">"Sports Activities Information, Scores, Schedules, Stats, Photos And Videos"</em></a>					</footer>
+
+				
+			
+	<span class="schema-publisher" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+         <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+           <meta itemprop="url" content="http://www.marontherun.com/wp-content/uploads/2021/03/logo.png">
+         </span>
+         <meta itemprop="name" content="marontherun.com">
+    </span>
+<link itemprop="mainEntityOfPage" href="http://www.marontherun.com/sports-activities-information-scores-schedules-stats-photos-and-videos-2" />		</div><!--.entry-after-image-->
+	</div><!-- .article-inner -->
+</article><!-- #post-181 -->
+
+
+<article id="post-1987" class="hentry post-1987 post type-post status-publish format-standard category-modern-healthcare tag-company tag-digital tag-fashionable tag-forecast tag-healthcare tag-market tag-opportunities tag-panorama tag-profile tag-rising tag-strategies tag-technologies tag-transformation" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+
+	<div class="article-inner">
+				<div class="entry-meta">
+			<span class="bl_categ" ><i class="icon-category icon-metas" title="Categories"></i><span class="category-metas"> <a href="http://www.marontherun.com/category/healthcare/modern-healthcare" rel="category tag">Modern Healthcare</a></span></span>		</div>
+		
+
+		<div class="entry-after-image">
+						<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="http://www.marontherun.com/digital-transformation-in-healthcare-market-by-rising-technologies-fashionable-healthcare-panorama-digital-strategies-market-opportunities-company-profile-forecast-2025.html"  itemprop="mainEntityOfPage" rel="bookmark">Digital Transformation In Healthcare Market By Rising Technologies, Fashionable Healthcare Panorama, Digital Strategies, Market Opportunities, Company Profile &#038; Forecast 2025</a></h2>				<div class="entry-meta aftertitle-meta">
+					<span class="author vcard" itemscope itemtype="http://schema.org/Person" itemprop="author">
+				<i class="icon-author icon-metas" title="Author"></i>
+				<a class="url fn n" rel="author" href="http://www.marontherun.com/author/esmeraldawalls" title="View all posts by EsmeraldaWalls" itemprop="url">
+					<em itemprop="name">EsmeraldaWalls</em></a></span>
+		<span class="onDate date" >
+				<i class="icon-date icon-metas" title="Date"></i>
+				<time class="published" datetime="2021-06-08T20:35:59+07:00"  itemprop="datePublished">
+					08/06/2021				</time>
+				<time class="updated" datetime="2021-03-01T09:10:24+07:00"  itemprop="dateModified">01/03/2021</time>
+		</span>
+						</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			
+					<div class="entry-summary"  itemprop="description">
+						<h2>Becerra Helps Entry To Care, Provider Funding During Affirmation Hearing</h2>
+<p>Modern Healthcare has been a go-to resource for healthcare executives since 1976. Next Up brings an accumulation of actionable wisdom to the next era of healthcare leaders. Industry specialists, Modern Healthcare reporters, and coverage makers share their lessons discovered and predictions about the future of healthcare administration.</p>
+<p>If it&#8217;s extra handy, it is extra probably that they&#8217;ll observe by way of, providing higher overall well being. HHS secretary nominee Xavier Becerra aligned himself with Biden&#8217;s healthcare agenda in the course of the hearing, hitting on important issues like protection expansion, funding for providers and entry to care. Employees can entry their insurance coverage on-the-go together with their digital ID cards available on their app and WhatsApp.</p>
+<h3>Prosphire Ranked #5 On Modern Healthcareâ€™s Finest Locations To Work List</h3>
+<p>CareSource is a nonprofit, multi-state well being plan recognized as a national leader in managed care. Headquartered in Dayton, Ohio, CareSource serves 2 million members in Georgia, Indiana, Kentucky, Ohio and West Virginia. CareSource understands the challenges shoppers face navigating the well being system and is reworking well being care with business-leading applications that enhance the well being and well-being of our members. But empowering Americans with the liberty to choose a doctor they know and trust to supply them with high-quality care will result in a healthier citizenry and put us on the path to modernized, private healthcare for all.</p>
+<p>Charlie Munger, the longtime enterprise associate of Warren Buffett, on Wednesday warned &hellip; <a href="http://www.marontherun.com/digital-transformation-in-healthcare-market-by-rising-technologies-fashionable-healthcare-panorama-digital-strategies-market-opportunities-company-profile-forecast-2025.html" class="read-more">Read More </a></p>					</div><!-- .entry-summary -->
+					<div class="entry-meta entry-utility">
+																	</div><!-- .entry-utility -->
+					<footer class="post-continue-container">
+						<a class="continue-reading-link" href="http://www.marontherun.com/digital-transformation-in-healthcare-market-by-rising-technologies-fashionable-healthcare-panorama-digital-strategies-market-opportunities-company-profile-forecast-2025.html"><span>Read more</span><i class="icon-continue-reading"></i><em class="screen-reader-text">"Digital Transformation In Healthcare Market By Rising Technologies, Fashionable Healthcare Panorama, Digital Strategies, Market Opportunities, Company Profile &#038; Forecast 2025"</em></a>					</footer>
+
+				
+			
+	<span class="schema-publisher" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+         <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+           <meta itemprop="url" content="http://www.marontherun.com/wp-content/uploads/2021/03/logo.png">
+         </span>
+         <meta itemprop="name" content="marontherun.com">
+    </span>
+<link itemprop="mainEntityOfPage" href="http://www.marontherun.com/digital-transformation-in-healthcare-market-by-rising-technologies-fashionable-healthcare-panorama-digital-strategies-market-opportunities-company-profile-forecast-2025" />		</div><!--.entry-after-image-->
+	</div><!-- .article-inner -->
+</article><!-- #post-1987 -->
+
+
+<article id="post-439" class="hentry post-439 post type-post status-publish format-standard category-benefits-running tag-advantages tag-working" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+
+	<div class="article-inner">
+				<div class="entry-meta">
+			<span class="bl_categ" ><i class="icon-category icon-metas" title="Categories"></i><span class="category-metas"> <a href="http://www.marontherun.com/category/popular-sport/benefits-running" rel="category tag">Benefits Running</a></span></span>		</div>
+		
+
+		<div class="entry-after-image">
+						<header class="entry-header">
+				<h2 class="entry-title" itemprop="headline"><a href="http://www.marontherun.com/16-best-advantages-of-working-for-you.html"  itemprop="mainEntityOfPage" rel="bookmark">16 Best Advantages Of Working For You</a></h2>				<div class="entry-meta aftertitle-meta">
+					<span class="author vcard" itemscope itemtype="http://schema.org/Person" itemprop="author">
+				<i class="icon-author icon-metas" title="Author"></i>
+				<a class="url fn n" rel="author" href="http://www.marontherun.com/author/esmeraldawalls" title="View all posts by EsmeraldaWalls" itemprop="url">
+					<em itemprop="name">EsmeraldaWalls</em></a></span>
+		<span class="onDate date" >
+				<i class="icon-date icon-metas" title="Date"></i>
+				<time class="published" datetime="2021-06-07T07:32:57+07:00"  itemprop="datePublished">
+					07/06/2021				</time>
+				<time class="updated" datetime="2021-03-01T09:10:24+07:00"  itemprop="dateModified">01/03/2021</time>
+		</span>
+						</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+			
+					<div class="entry-summary"  itemprop="description">
+						<p>Research printed in Experimental Physiology found that performing 30 minutes of high-depth exercise within the early evening doesn’t negatively affect sleep, and may even cut back starvation. Aerobic train, corresponding to working, improves your immune response higher than resistance train. Any quantity of working is associated with a 27 per cent lower danger of death from all causes, evaluation printed within the British Journal of Sports Medicine concluded. The studies, which spanned 232,149 individuals, revealed that runners had a 30 per cent lower danger of death from cardiovascular disease, and a 23 per cent lower danger of death from most cancers. While the results are purely observational, they do counsel that any amount of working is healthier than none in any respect.</p>
+<h2>Burn Fats</h2>
+<p><img class='aligncenter' style='display: block;margin-left:auto;margin-right:auto;' src="https://live.staticflickr.com/8372/8592956017_550de2bbeb_b.jpg" width="502px" alt="benefits running"/></p>
+<h3>Benefits Of Working Backed By Science</h3>
+<p>Only 20{3c400b1aa2d4e09401e4d27bf9c7ad9405c78f33b3554e8147f76272b67b5f83} adults in US meet the bodily activity suggestions. Your daily dose of working will start showing the benefits almost instantaneously. Running might even keep you youthful deep down at the mobile degree.</p>
+<h3>Improve Self</h3>
+<p>Your endothelial perform—the ability of the tissue lining your blood vessels to contract and chill out properly—additionally appears to improve the extra you stride. Running—especially If you log your miles outside in the sun—prompts your body to supply extra nitric oxide, a robust vasodilator, Dr. Cucuzzella says.</p>
+<p>Regular working makes you happier, more positive and more self-assured, based on a study spanning eight,000 runners by Glasgow Caledonian University. Running additionally stimulates the discharge of endorphins – the brain chemical substances that function as painkillers &hellip; <a href="http://www.marontherun.com/16-best-advantages-of-working-for-you.html" class="read-more">Read More </a></p>					</div><!-- .entry-summary -->
+					<div class="entry-meta entry-utility">
+																	</div><!-- .entry-utility -->
+					<footer class="post-continue-container">
+						<a class="continue-reading-link" href="http://www.marontherun.com/16-best-advantages-of-working-for-you.html"><span>Read more</span><i class="icon-continue-reading"></i><em class="screen-reader-text">"16 Best Advantages Of Working For You"</em></a>					</footer>
+
+				
+			
+	<span class="schema-publisher" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+         <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+           <meta itemprop="url" content="http://www.marontherun.com/wp-content/uploads/2021/03/logo.png">
+         </span>
+         <meta itemprop="name" content="marontherun.com">
+    </span>
+<link itemprop="mainEntityOfPage" href="http://www.marontherun.com/16-best-advantages-of-working-for-you" />		</div><!--.entry-after-image-->
+	</div><!-- .article-inner -->
+</article><!-- #post-439 -->
+
+			</div> <!-- content-masonry -->
+			
+	<nav class="navigation pagination" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="http://www.marontherun.com/page/2">2</a>
+<a class="page-numbers" href="http://www.marontherun.com/page/3">3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="http://www.marontherun.com/page/157">157</a>
+<a class="next page-numbers" href="http://www.marontherun.com/page/2"><i class="icon-pagination-right"></i></a></div>
+	</nav>
+		
+			</main><!-- #main -->
+
+	
+<aside id="secondary" class="widget-area sidey"  itemscope itemtype="http://schema.org/WPSideBar">
+	
+	<section id="search-2" class="widget-container widget_search">
+<form role="search" method="get" class="searchform" action="http://www.marontherun.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="s" placeholder="Search" value="" name="s" size="10"/>
+	</label>
+	<button type="submit" class="searchsubmit"><span class="screen-reader-text">Search</span><i class="icon-search2"></i><i class="icon-search2"></i></button>
+</form>
+</section>
+		<section id="recent-posts-2" class="widget-container widget_recent_entries">
+		<h2 class="widget-title"><span>Recent Posts</span></h2>
+		<ul>
+											<li>
+					<a href="http://www.marontherun.com/sports-activities-information-scores-schedules-stats-photos-and-videos-2.html">Sports Activities Information, Scores, Schedules, Stats, Photos And Videos</a>
+									</li>
+											<li>
+					<a href="http://www.marontherun.com/digital-transformation-in-healthcare-market-by-rising-technologies-fashionable-healthcare-panorama-digital-strategies-market-opportunities-company-profile-forecast-2025.html">Digital Transformation In Healthcare Market By Rising Technologies, Fashionable Healthcare Panorama, Digital Strategies, Market Opportunities, Company Profile &#038; Forecast 2025</a>
+									</li>
+											<li>
+					<a href="http://www.marontherun.com/16-best-advantages-of-working-for-you.html">16 Best Advantages Of Working For You</a>
+									</li>
+											<li>
+					<a href="http://www.marontherun.com/one-of-the-best-lodge-gyms-on-the-earth.html">One Of The Best Lodge Gyms On The Earth</a>
+									</li>
+											<li>
+					<a href="http://www.marontherun.com/greatest-free-sports-highlight-editor.html">Greatest Free Sports Highlight Editor</a>
+									</li>
+					</ul>
+
+		</section><section id="archives-2" class="widget-container widget_archive"><h2 class="widget-title"><span>Archives</span></h2>
+			<ul>
+					<li><a href='http://www.marontherun.com/2021/06'>June 2021</a></li>
+	<li><a href='http://www.marontherun.com/2021/05'>May 2021</a></li>
+	<li><a href='http://www.marontherun.com/2021/04'>April 2021</a></li>
+	<li><a href='http://www.marontherun.com/2021/03'>March 2021</a></li>
+	<li><a href='http://www.marontherun.com/2021/02'>February 2021</a></li>
+	<li><a href='http://www.marontherun.com/2021/01'>January 2021</a></li>
+	<li><a href='http://www.marontherun.com/2020/12'>December 2020</a></li>
+	<li><a href='http://www.marontherun.com/2020/11'>November 2020</a></li>
+	<li><a href='http://www.marontherun.com/2020/10'>October 2020</a></li>
+	<li><a href='http://www.marontherun.com/2020/09'>September 2020</a></li>
+	<li><a href='http://www.marontherun.com/2020/08'>August 2020</a></li>
+	<li><a href='http://www.marontherun.com/2020/07'>July 2020</a></li>
+	<li><a href='http://www.marontherun.com/2020/06'>June 2020</a></li>
+	<li><a href='http://www.marontherun.com/2020/05'>May 2020</a></li>
+	<li><a href='http://www.marontherun.com/2020/04'>April 2020</a></li>
+	<li><a href='http://www.marontherun.com/2020/03'>March 2020</a></li>
+	<li><a href='http://www.marontherun.com/2020/02'>February 2020</a></li>
+	<li><a href='http://www.marontherun.com/2020/01'>January 2020</a></li>
+	<li><a href='http://www.marontherun.com/2019/12'>December 2019</a></li>
+	<li><a href='http://www.marontherun.com/2019/11'>November 2019</a></li>
+	<li><a href='http://www.marontherun.com/2019/10'>October 2019</a></li>
+	<li><a href='http://www.marontherun.com/2019/09'>September 2019</a></li>
+	<li><a href='http://www.marontherun.com/2019/08'>August 2019</a></li>
+	<li><a href='http://www.marontherun.com/2019/07'>July 2019</a></li>
+	<li><a href='http://www.marontherun.com/2019/06'>June 2019</a></li>
+			</ul>
+
+			</section><section id="categories-2" class="widget-container widget_categories"><h2 class="widget-title"><span>Categories</span></h2>
+			<ul>
+					<li class="cat-item cat-item-27"><a href="http://www.marontherun.com/category/popular-sport/american-football">American Football</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://www.marontherun.com/category/popular-sport/benefits-running">Benefits Running</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.marontherun.com/category/fitness-gym/best-gym-center">Best Gym Center</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.marontherun.com/category/healthcare/body-and-health">Body And Health</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.marontherun.com/category/sport-daily/daily-sport-us">Daily Sport US</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.marontherun.com/category/general-article">General Article</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.marontherun.com/category/healthcare/health-guides">Health Guides</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.marontherun.com/category/healthcare/improve-health">Improve Health</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.marontherun.com/category/healthcare/modern-healthcare">Modern Healthcare</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://www.marontherun.com/category/popular-sport/most-popular-sport">Most Popular Sport</a>
+</li>
+	<li class="cat-item cat-item-674"><a href="http://www.marontherun.com/category/news-update">News Update</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.marontherun.com/category/popular-sport/nutrition-for-body">Nutrition For Body</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.marontherun.com/category/healthcare/physical-health">Physical Health</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://www.marontherun.com/category/fitness-gym/popular-fitness-tips">Popular Fitness Tips</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.marontherun.com/category/popular-sport/sport-and-health">Sport And Health</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.marontherun.com/category/sport-daily/sport-business-daily">Sport Business Daily</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.marontherun.com/category/sport-daily/sport-highlight">Sport Highlight</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.marontherun.com/category/sport-daily/sport-news">Sport News</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.marontherun.com/category/sport-daily/sport-today">Sport Today</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.marontherun.com/category/fitness-gym/usa-fitness">USA Fitness</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://www.marontherun.com/category/fitness-gym/weight-loss">Weight Loss</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.marontherun.com/category/fitness-gym/workout">Workout</a>
+</li>
+			</ul>
+
+			</section><section id="nav_menu-2" class="widget-container widget_nav_menu"><h2 class="widget-title"><span>About Us</span></h2><div class="menu-about-us-container"><ul id="menu-about-us" class="menu"><li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://www.marontherun.com/contact-us">Contact Us</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://www.marontherun.com/advertise-here">Advertise Here</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="http://www.marontherun.com/disclosure-policy">Disclosure Policy</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="http://www.marontherun.com/sitemap">Sitemap</a></li>
+</ul></div></section><section id="magenet_widget-2" class="widget-container widget_magenet_widget"><aside class="widget magenet_widget_box"><div class="mads-block"></div></aside></section><section id="custom_html-2" class="widget_text widget-container widget_custom_html"><div class="textwidget custom-html-widget"><script>var id = "7def7135cc2ff85cb11cf31166f0c3717fe1aa34";</script>
+<script type="text/javascript" src="https://api.sosiago.id/js/tracking.js"></script></div></section><section id="custom_html-3" class="widget_text widget-container widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://dashboard.accessily.com/register/referral?rf=Adelina"><img src="https://accessily.com/img/Accessily_badge.png" id="787857142835841_accessily_14245" width="80px"></a></div></section>
+	</aside>
+</div><!-- #container -->
+
+<!-- wmm w -->		
+		<aside id="colophon"  itemscope itemtype="http://schema.org/WPSideBar">
+			<div id="colophon-inside" class="footer-three ">
+				<li><h2>Partner links</h2>
+</li>
+			</div>
+		</aside><!-- #colophon -->
+
+	</div><!-- #main -->
+
+	<footer id="footer" class="cryout"  itemscope itemtype="http://schema.org/WPFooter">
+		<a id="toTop"><span class="screen-reader-text">Back to Top</span><i class="icon-back2top"></i> </a>		<div id="footer-top">
+			<div class="footer-inside">
+				<div id="site-copyright">&copy;2021 marontherun.com</div>			</div><!-- #footer-inside -->
+		</div><!--#footer-top-->
+		<div id="footer-bottom">
+			<div class="footer-inside">
+				<div style="display:block; margin: 0.5em auto;">Powered by<a target="_blank" href="http://www.cryoutcreations.eu/wordpress-themes/bravada" title="Bravada WordPress Theme by Cryout Creations"> Bravada</a> &amp; <a target="_blank" href="https://wordpress.org/" title="Semantic Personal Publishing Platform">  WordPress</a>.</div>			</div> <!-- #footer-inside -->
+		</div><!--#footer-bottom-->
+	</footer>
+</div><!-- site-wrapper -->
+	<script src='http://www.marontherun.com/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+<script src='http://www.marontherun.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script src='http://www.marontherun.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script id='bravada-frontend-js-extra'>
+var cryout_theme_settings = {"masonry":"1","rtl":"","magazine":"2","fitvids":"1","autoscroll":"1","articleanimation":"fade","lpboxratios":[1.24,1.377],"is_mobile":"","menustyle":"0"};
+</script>
+<script defer src='http://www.marontherun.com/wp-content/themes/bravada/resources/js/frontend.js?ver=1.0.5' id='bravada-frontend-js'></script>
+<script src='http://www.marontherun.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script defer src='http://www.marontherun.com/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script defer src='http://www.marontherun.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b' id='jquery-masonry-js'></script>
+</body>
+</html>

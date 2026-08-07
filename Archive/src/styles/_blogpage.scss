@@ -1,0 +1,13 @@
+.blog_item {
+  margin-bottom: 2rem;
+
+  .blog_item_title {
+    margin: 0px;
+    a {
+      color: $black-coral;
+    }
+  }
+  .blog_item_date {
+    color: $dark-blue-gray;
+  }
+}
