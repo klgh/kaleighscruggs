@@ -1,0 +1,55 @@
+{
+	"folders": [
+		{
+			"path": "../"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Bearded Theme feat. Melle Julie Light",
+		"editor.fontSize": 14,
+		"editor.tabSize": 2,
+		"vue.format.style.enabled": true,
+		"vue.format.wrapAttributes": "aligned-multiple",
+		"vue.inlayHints.destructuredProps": true,
+		"vue.inlayHints.inlineHandlerLeading": true,
+		"vue.inlayHints.missingProps": true,
+		"vue.inlayHints.optionsWrapper": true,
+		"vue.inlayHints.vBindShorthand": true,
+		"vue.format.template.enabled": true,
+		"vue.format.script.enabled": true,
+		"vue.format.template.initialIndent": true,
+		"vue.format.script.initialIndent": true,
+		"vue.format.style.initialIndent": true,
+		// "vite.autoStart": false,
+		"editor.wordWrap": "wordWrapColumn",
+		// "prettier.configPath": "./.prettierrc.json",
+		"prettier.requireConfig": true,
+		"prettier.resolveGlobalModules": true,
+		// "prettier.prettierPath": "../",
+		"prettier.enableDebugLogs": true,
+		// "prettier.ignorePath": "../.prettierignore",
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"[html]": {
+			"editor.defaultFormatter": "esbenp.prettier-vscode"
+		},
+		"[jsonc]": {
+			"editor.defaultFormatter": "vscode.json-language-features"
+		},
+		"[javascript]": {
+			"editor.defaultFormatter": "esbenp.prettier-vscode"
+		},
+		"[javascriptreact]": {
+			"editor.defaultFormatter": "esbenp.prettier-vscode"
+		},
+		"[json]": {
+			"editor.defaultFormatter": "esbenp.prettier-vscode"
+		},
+		"[markdown]": {
+			"editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+		},
+		"[vue]": {
+			"editor.defaultFormatter": "Vue.volar",
+			"editor.formatOnSave": true
+		},
+	}
+}
