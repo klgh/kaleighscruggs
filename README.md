@@ -1,73 +1,124 @@
-# Welcome to your Lovable project
+<div align="center">
 
-## Project info
+<img src="./src/assets/kslogo.svg" alt="Kaleigh Scruggs" width="96" />
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+# Kaleigh Scruggs
 
-## How can I edit this code?
+*A personal digital garden — notes on software, baking, and travel*
 
-There are several ways of editing your application.
+[![Site](https://img.shields.io/badge/site-kaleigh.dev-2A4A3C?style=flat-square)](https://kaleigh.dev/)
+[![Vue](https://img.shields.io/badge/Vue-3-42b883?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Vite](https://img.shields.io/badge/Vite-5-646cff?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Netlify](https://api.netlify.com/api/v1/badges/48671009-7c68-4ba2-b955-512669493300/deploy-status)](https://app.netlify.com/projects/kaleigh/deploys)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
-**Use Lovable**
+[Overview](#overview) • [Getting started](#getting-started) • [Scripts](#scripts) • [Garden posts](#garden-posts) • [Project structure](#project-structure)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+</div>
 
-Changes made via Lovable will be committed automatically to this repo.
+Personal site and digital garden for [Kaleigh Scruggs](https://kaleigh.dev/) — a Vue 3 + Vite app with markdown notes, a `/now` page, and a `/uses` page. Deployed on Netlify.
 
-**Use your preferred IDE**
+## Overview
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+This site is a small SPA that treats writing as a garden: notes grow over time, get featured on the home page, or stay as drafts until ready.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+| Route | Purpose |
+| --- | --- |
+| `/` | Home — hero, featured garden notes, about |
+| `/garden` | All published garden posts |
+| `/garden/:slug` | Individual markdown post |
+| `/now` | What I'm up to |
+| `/uses` | Tools and setup |
 
-Follow these steps:
+**Stack:** Vue 3, Vue Router, TypeScript, Vite, Tailwind CSS, Vitest. Garden posts live as markdown in `src/content/garden/` and are loaded at build time via `import.meta.glob`.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## Getting started
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+**Prerequisites**
 
-# Step 3: Install the necessary dependencies.
-npm i
+- [Node.js](https://nodejs.org/) matching [`.nvmrc`](.nvmrc) (currently `24.18.0`) — [nvm](https://github.com/nvm-sh/nvm) recommended
+- npm (comes with Node)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```bash
+git clone https://github.com/klgh/kaleighscruggs.git
+cd kaleighscruggs
+nvm use
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The app runs at [http://localhost:8080](http://localhost:8080).
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Scripts
 
-**Use GitHub Codespaces**
+| Command | Description |
+| --- | --- |
+| `npm run dev` | Start Vite dev server |
+| `npm run build` | Production build → `dist/` |
+| `npm run preview` | Preview the production build |
+| `npm run test` | Run Vitest once |
+| `npm run test:watch` | Vitest in watch mode |
+| `npm run lint` | ESLint on TypeScript and Vue files |
+| `npm run typecheck` | `vue-tsc` type check |
+| `npm run prettier` | Format TS, Vue, JSON, and Markdown |
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Garden posts
 
-## What technologies are used for this project?
+Add a new note by creating a markdown file in `src/content/garden/`. The filename (without `.md`) becomes the URL slug.
 
-This project is built with:
+```md
+---
+title: "My note title"
+excerpt: Short summary for cards and lists
+category: tech
+featured: true
+date: '2026-08-07'
+readTime: 5 min
+draft: false
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Your markdown content here.
+```
 
-## How can I deploy this project?
+| Frontmatter | Notes |
+| --- | --- |
+| `title` | Display title |
+| `excerpt` | Short blurb for cards |
+| `category` | `tech` \| `travel` \| `life` \| `baking` |
+| `featured` | Show on the home garden preview when `true` |
+| `date` | ISO date string; used for sorting |
+| `readTime` | Optional reading-time label |
+| `draft` | Hidden from lists and routes when `true` |
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+### Images
 
-## Can I connect a custom domain to my Lovable project?
+Put images under `public/garden/<slug>/` and reference them from the post:
 
-Yes, you can!
+```md
+![Short description](/garden/<slug>/photo.jpg)
+```
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+See [`public/garden/README.md`](public/garden/README.md) for the folder convention.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## Project structure
+
+```text
+├── public/garden/          # Static images per post slug
+├── src/
+│   ├── assets/             # Brand mark and static assets
+│   ├── components/         # Layout and section components
+│   ├── content/garden/     # Markdown garden posts
+│   ├── data/               # Typed data for /now and /uses
+│   ├── lib/garden.ts       # Frontmatter parsing and post helpers
+│   ├── pages/              # Route-level Vue pages
+│   └── router/             # Vue Router config
+├── netlify.toml            # Build + SPA redirects
+└── vite.config.ts
+```
+
+## Deploy
+
+Builds with `npm run build` and publishes `dist/`. SPA routing is handled by the Netlify redirect in [`netlify.toml`](netlify.toml) (`/*` → `/index.html`).
+
+Live site: [https://kaleigh.dev/](https://kaleigh.dev/)

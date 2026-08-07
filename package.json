@@ -1,17 +1,17 @@
 {
   "name": "klgh-garden",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "my digital garden",
   "keywords": [
     "digital garden"
   ],
-  "homepage": "https://github.com/klgh/klgh-11ty-grdn#readme",
+  "homepage": "https://github.com/klgh/kaleighscruggs#readme",
   "bugs": {
-    "url": "https://github.com/klgh/klgh-11ty-grdn/issues"
+    "url": "https://github.com/klgh/kaleighscruggs/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/klgh/klgh-11ty-grdn.git"
+    "url": "git+https://github.com/klgh/kaleighscruggs.git"
   },
   "license": "MIT",
   "author": "Kaleigh Scruggs",
@@ -51,9 +51,7 @@
   ],
   "dependencies": {
     "@lucide/vue": "^1.29.0",
-    "clsx": "^2.1.1",
     "marked": "^15.0.0",
-    "tailwind-merge": "^2.6.0",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   },
