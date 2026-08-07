@@ -8,7 +8,7 @@
 
 [![Site](https://img.shields.io/badge/site-kaleigh.dev-2A4A3C?style=flat-square)](https://kaleigh.dev/)
 [![Vue](https://img.shields.io/badge/Vue-3-42b883?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Vite](https://img.shields.io/badge/Vite-5-646cff?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Vite](https://img.shields.io/badge/Vite-6-646cff?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Netlify](https://api.netlify.com/api/v1/badges/48671009-7c68-4ba2-b955-512669493300/deploy-status)](https://app.netlify.com/projects/kaleigh/deploys)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
