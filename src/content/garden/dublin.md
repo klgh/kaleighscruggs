@@ -3,7 +3,7 @@ title: "Dublin"
 excerpt: My trip to Dublin in 2015
 category: travel
 featured: false
-date: '2015-08-03'
+date: "2015-08-03"
 draft: true
 ---
 

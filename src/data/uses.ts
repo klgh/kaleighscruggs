@@ -14,15 +14,18 @@ export interface UsesCategory {
 }
 
 export const usesPage = {
-  intro:
-    "What I use to work",
+  intro: "What I use to work",
   categories: [
     {
       title: "🖥️ Hardware",
       items: [
         {
-          name: "MacBook Pro",
-          description: "Primary machine for work. M1 Pro 16GB RAM.",
+          name: "MacBook Pro 16-inch M4 Max",
+          description: "Primary machine for work.",
+        },
+        {
+          name: "MacBook Pro 13-inch",
+          description: "Personal machine",
         },
         {
           name: "Magic trackpad",
@@ -31,59 +34,53 @@ export const usesPage = {
       ],
     },
     {
-      title: "💻 Software",
+      title: "💻 Favorite Extensions",
       items: [
         {
-          name: "TypeScript",
-          description: "Default language for app and library work.",
-          url: "https://www.typescriptlang.org",
+          name: "Project Manager",
+          description:
+            "The easiest way to switch between projects in VSCode and Cursor, and use different workspaces and extensions for each project.",
+          url: "https://open-vsx.org/extension/alefragnani/project-manager",
         },
         {
-          name: "Angular",
-          description: "Primary stack at work for large product surfaces.",
-          url: "https://angular.dev",
-        },
-        {
-          name: "React",
-          description: "Still in the toolkit for consulting and side projects.",
-          url: "https://react.dev",
-        },
-        {
-          name: "Oh My Zsh",
-          description: "Shell config and helpers on top of zsh.",
-          url: "https://ohmyz.sh",
+          name: "Wallaby.js",
+          description: "Makes testing your code so much easier.",
+          url: "https://wallabyjs.com",
         },
       ],
     },
-    {
-      title: "📱 Apps",
-      items: [
-        {
-          name: "Cursor",
-          description: "Daily driver for coding with AI-assisted editing.",
-          url: "https://cursor.com",
-        },
-        {
-          name: "Notion",
-          description: "Notes, travel guides, and personal knowledge base.",
-          url: "https://www.notion.so",
-        },
-      ],
-    },
+    // {
+    //   title: '📱 Apps',
+    //   items: [
+    //     {
+    //       name: 'Cursor',
+    //       description: 'Daily driver for coding with AI-assisted editing.',
+    //       url: 'https://cursor.com',
+    //     },
+    //     {
+    //       name: 'Notion',
+    //       description: 'Notes, travel guides, and personal knowledge base.',
+    //       url: 'https://www.notion.so',
+    //     },
+    //   ],
+    // },
     {
       title: "🎒 EDC",
       items: [
         {
           name: "Pixel Buds Pro 2",
-          description: "Just got these, but they're already my favorite.",
+          description: "Just got these, but they're already great",
+          url: "https://store.google.com/product/pixel_buds_pro_2",
         },
         {
           name: "Pixel 10 Pro XL",
           description: "My 5th pixel phone, and my favorite.",
+          url: "https://store.google.com/config/pixel_10_pro",
         },
         {
           name: "Google Pixel Watch 3",
-          description: "My favorite smartwatch",
+          description: "First smartwatch after using Fitbits for 10+ years",
+          url: "https://store.google.com/product/pixel_watch_3",
         },
       ],
     },

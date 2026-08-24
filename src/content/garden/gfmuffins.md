@@ -4,7 +4,7 @@ excerpt: these are one of my favorite things to make
 category: baking
 readTime: 4 min
 featured: true
-date: '2026-08-07'
+date: "2026-08-07"
 ---
 
 <!-- Drop photos in public/garden/gfmuffins/ then use paths like /garden/gfmuffins/filename.jpg -->
