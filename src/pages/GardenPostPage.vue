@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { computed } from "vue";
+import { computed, watchEffect } from "vue";
+import { setPageMeta } from "@/lib/meta";
 import { useRoute, RouterLink } from "vue-router";
 import { marked } from "marked";
 import { ArrowLeft } from "@lucide/vue";
@@ -25,6 +26,28 @@ const htmlBody = computed(() => {
 });
 
 const readTime = computed(() => (post.value?.meta.readTime ?? "").trim());
+
+watchEffect(() => {
+  const currentPost = post.value;
+
+  if (!currentPost) {
+    setPageMeta({
+      title: "Post Not Found",
+      description: "The requested garden post could not be found.",
+      path: route.path,
+    });
+
+    return;
+  }
+
+  setPageMeta({
+    title: currentPost.meta.title,
+    description: currentPost.meta.excerpt,
+    path: `/garden/${currentPost.slug}`,
+    type: "article",
+    publishedTime: currentPost.meta.date,
+  });
+});
 </script>
 
 <template>
