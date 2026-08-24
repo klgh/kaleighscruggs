@@ -1,0 +1,4 @@
+yarn lint
+yarn prettier
+yarn test
+yarn build
