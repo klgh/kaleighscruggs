@@ -21,13 +21,13 @@ Personal site and digital garden for [Kaleigh Scruggs](https://kaleigh.dev/) —
 
 This site is a small SPA that treats writing as a garden: notes grow over time, get featured on the home page, or stay as drafts until ready.
 
-| Route | Purpose |
-| --- | --- |
-| `/` | Home — hero, featured garden notes, about |
-| `/garden` | All published garden posts |
-| `/garden/:slug` | Individual markdown post |
-| `/now` | What I'm up to |
-| `/uses` | Tools and setup |
+| Route           | Purpose                                   |
+| --------------- | ----------------------------------------- |
+| `/`             | Home — hero, featured garden notes, about |
+| `/garden`       | All published garden posts                |
+| `/garden/:slug` | Individual markdown post                  |
+| `/now`          | What I'm up to                            |
+| `/uses`         | Tools and setup                           |
 
 **Stack:** Vue 3, Vue Router, TypeScript, Vite, Tailwind CSS, Vitest. Garden posts live as markdown in `src/content/garden/` and are loaded at build time via `import.meta.glob`.
 
@@ -50,16 +50,16 @@ The app runs at [http://localhost:8080](http://localhost:8080).
 
 ## Scripts
 
-| Command | Description |
-| --- | --- |
-| `yarn dev` | Start Vite dev server |
-| `yarn build` | Production build → `dist/` |
-| `yarn preview` | Preview the production build |
-| `yarn test` | Run Vitest once |
-| `yarn test:watch` | Vitest in watch mode |
-| `yarn lint` | ESLint on TypeScript and Vue files |
-| `yarn typecheck` | `vue-tsc` type check |
-| `yarn prettier` | Format TS, Vue, JSON, and Markdown |
+| Command           | Description                        |
+| ----------------- | ---------------------------------- |
+| `yarn dev`        | Start Vite dev server              |
+| `yarn build`      | Production build → `dist/`         |
+| `yarn preview`    | Preview the production build       |
+| `yarn test`       | Run Vitest once                    |
+| `yarn test:watch` | Vitest in watch mode               |
+| `yarn lint`       | ESLint on TypeScript and Vue files |
+| `yarn typecheck`  | `vue-tsc` type check               |
+| `yarn prettier`   | Format TS, Vue, JSON, and Markdown |
 
 ## Garden posts
 
@@ -71,7 +71,7 @@ title: "My note title"
 excerpt: Short summary for cards and lists
 category: tech
 featured: true
-date: '2026-08-07'
+date: "2026-08-07"
 readTime: 5 min
 draft: false
 ---
@@ -79,15 +79,15 @@ draft: false
 Your markdown content here.
 ```
 
-| Frontmatter | Notes |
-| --- | --- |
-| `title` | Display title |
-| `excerpt` | Short blurb for cards |
-| `category` | `tech` \| `travel` \| `life` \| `baking` |
-| `featured` | Show on the home garden preview when `true` |
-| `date` | ISO date string; used for sorting |
-| `readTime` | Optional reading-time label |
-| `draft` | Hidden from lists and routes when `true` |
+| Frontmatter | Notes                                       |
+| ----------- | ------------------------------------------- |
+| `title`     | Display title                               |
+| `excerpt`   | Short blurb for cards                       |
+| `category`  | `tech` \| `travel` \| `life` \| `baking`    |
+| `featured`  | Show on the home garden preview when `true` |
+| `date`      | ISO date string; used for sorting           |
+| `readTime`  | Optional reading-time label                 |
+| `draft`     | Hidden from lists and routes when `true`    |
 
 ### Images
 
@@ -119,4 +119,4 @@ See [`public/garden/README.md`](public/garden/README.md) for the folder conventi
 
 Builds with `yarn build` and publishes `dist/`. SPA routing is handled by the Netlify redirect in [`netlify.toml`](netlify.toml) (`/*` → `/index.html`).
 
-Live site: [https://kaleigh.dev/](https://kaleigh.dev/)
+Live site: [https://kaleigh.dev/](https://kaleigh.dev/) and/or [https://kaleighscruggs.com/](https://kaleighscruggs.com/)
