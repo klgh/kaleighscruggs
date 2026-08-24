@@ -2012,7 +2012,7 @@ __metadata:
   version: 2.3.3
   resolution: "fsevents@npm:2.3.3::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Ffsevents%2F-%2Ffsevents-2.3.3.tgz"
   dependencies:
-    node-gyp: "npm:latest"
+    node-gyp: "npm:^13.0.1"
   checksum: 10c0/a1f0c44595123ed717febbc478aa952e47adfc28e2092be66b8ab1635147254ca6cfe1df792a8997f22716d4cbafc73309899ff7bfac2ac3ad8cf2e4ecc3ec60
   conditions: os=darwin
   languageName: node
