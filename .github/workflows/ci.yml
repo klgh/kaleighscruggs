@@ -24,7 +24,7 @@ jobs:
         with:
           node-version-file: .nvmrc
           cache: yarn
-      - run: yarn install --immutable
+      - run: yarn install
       - run: yarn lint
       - run: yarn prettier
 
@@ -38,7 +38,7 @@ jobs:
         with:
           node-version-file: .nvmrc
           cache: yarn
-      - run: yarn install --immutable
+      - run: yarn install
       - run: yarn typecheck
 
   test-and-build:
@@ -52,6 +52,6 @@ jobs:
         with:
           node-version-file: .nvmrc
           cache: yarn
-      - run: yarn install --immutable
+      - run: yarn install
       - run: yarn test
       - run: yarn build
