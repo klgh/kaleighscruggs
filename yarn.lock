@@ -2022,7 +2022,7 @@ __metadata:
   version: 2.3.3
   resolution: "fsevents@patch:fsevents@npm%3A2.3.3%3A%3A__archiveUrl=https%253A%252F%252Fregistry.npmjs.org%252Ffsevents%252F-%252Ffsevents-2.3.3.tgz#optional!builtin<compat/fsevents>::version=2.3.3&hash=df0bf1"
   dependencies:
-    node-gyp: "npm:latest"
+    node-gyp: "npm:^13.0.1"
   conditions: os=darwin
   languageName: node
   linkType: hard
