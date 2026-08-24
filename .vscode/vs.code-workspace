@@ -52,5 +52,10 @@
       "editor.defaultFormatter": "Vue.volar",
       "editor.formatOnSave": true
     },
+    "cSpell.words": [
+      "Frontmatter",
+      "kaleighscruggs",
+      "kslogo"
+    ],
   }
 }

@@ -4,8 +4,6 @@
 
 # Kaleigh Scruggs
 
-*A personal digital garden — notes on software, baking, and travel*
-
 [![Site](https://img.shields.io/badge/site-kaleigh.dev-2A4A3C?style=flat-square)](https://kaleigh.dev/)
 [![Vue](https://img.shields.io/badge/Vue-3-42b883?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Vite](https://img.shields.io/badge/Vite-8-646cff?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -35,17 +33,17 @@ This site is a small SPA that treats writing as a garden: notes grow over time, 
 
 ## Getting started
 
-**Prerequisites**
+### Prerequisites
 
-- [Node.js](https://nodejs.org/) matching [`.nvmrc`](.nvmrc) (currently `24.18.0`) — [nvm](https://github.com/nvm-sh/nvm) recommended
-- npm (comes with Node)
+- [Node.js](https://nodejs.org/) matching [`.nvmrc`](.nvmrc)— [nvm](https://github.com/nvm-sh/nvm) recommended
+- [Yarn](https://yarnpkg.com/)
 
 ```bash
 git clone https://github.com/klgh/kaleighscruggs.git
 cd kaleighscruggs
 nvm use
-npm install
-npm run dev
+yarn install
+yarn dev
 ```
 
 The app runs at [http://localhost:8080](http://localhost:8080).
@@ -54,14 +52,14 @@ The app runs at [http://localhost:8080](http://localhost:8080).
 
 | Command | Description |
 | --- | --- |
-| `npm run dev` | Start Vite dev server |
-| `npm run build` | Production build → `dist/` |
-| `npm run preview` | Preview the production build |
-| `npm run test` | Run Vitest once |
-| `npm run test:watch` | Vitest in watch mode |
-| `npm run lint` | ESLint on TypeScript and Vue files |
-| `npm run typecheck` | `vue-tsc` type check |
-| `npm run prettier` | Format TS, Vue, JSON, and Markdown |
+| `yarn dev` | Start Vite dev server |
+| `yarn build` | Production build → `dist/` |
+| `yarn preview` | Preview the production build |
+| `yarn test` | Run Vitest once |
+| `yarn test:watch` | Vitest in watch mode |
+| `yarn lint` | ESLint on TypeScript and Vue files |
+| `yarn typecheck` | `vue-tsc` type check |
+| `yarn prettier` | Format TS, Vue, JSON, and Markdown |
 
 ## Garden posts
 
@@ -119,6 +117,6 @@ See [`public/garden/README.md`](public/garden/README.md) for the folder conventi
 
 ## Deploy
 
-Builds with `npm run build` and publishes `dist/`. SPA routing is handled by the Netlify redirect in [`netlify.toml`](netlify.toml) (`/*` → `/index.html`).
+Builds with `yarn build` and publishes `dist/`. SPA routing is handled by the Netlify redirect in [`netlify.toml`](netlify.toml) (`/*` → `/index.html`).
 
 Live site: [https://kaleigh.dev/](https://kaleigh.dev/)
