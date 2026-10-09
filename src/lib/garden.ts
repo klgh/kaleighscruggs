@@ -1,4 +1,4 @@
-export type GardenCategory = "tech" | "travel" | "life" | "baking";
+export type GardenCategory = "tech" | "travel" | "life" | "baking" | "food";
 
 export interface GardenPostMeta {
   title: string;

@@ -39,7 +39,7 @@ import { usesPage } from "@/data/uses";
                     :href="item.url"
                     target="_blank"
                     rel="noopener noreferrer"
-                    class="transition-colors hover:text-accent"
+                    class="text-link"
                   >
                     {{ item.name }}
                   </a>
@@ -61,7 +61,7 @@ import { usesPage } from "@/data/uses";
             href="https://github.com/wesbos/awesome-uses"
             target="_blank"
             rel="noopener noreferrer"
-            class="text-foreground underline decoration-border underline-offset-4 hover:text-accent hover:decoration-accent"
+            class="text-link"
             >uses</a
           >.
         </p>

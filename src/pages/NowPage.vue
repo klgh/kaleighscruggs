@@ -45,7 +45,7 @@ import { nowPage } from "@/data/now";
             href="https://nownownow.com/about"
             target="_blank"
             rel="noopener noreferrer"
-            class="text-foreground underline decoration-border underline-offset-4 hover:text-accent hover:decoration-accent"
+            class="text-link"
             >/now</a
           >
           page.

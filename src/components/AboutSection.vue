@@ -57,7 +57,7 @@ const { el: bodyEl, visible: bodyVisible } = useReveal({ delayMs: 100 });
                 :href="link.href"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="font-body text-sm font-medium text-foreground underline decoration-border underline-offset-4 transition-colors duration-200 hover:text-accent hover:decoration-accent"
+                class="text-link font-body text-sm font-medium"
               >
                 {{ link.label }}
               </a>

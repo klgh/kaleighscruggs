@@ -29,7 +29,7 @@ const links = [
             href="https://maggieappleton.com/garden-history"
             target="_blank"
             rel="noopener noreferrer"
-            class="underline transition-colors duration-200 hover:text-foreground"
+            class="text-link"
           >
             digital garden</a
           >, tended with care 🌿
@@ -43,7 +43,7 @@ const links = [
           v-bind="
             link.to.startsWith('/#') ? { href: link.to } : { to: link.to }
           "
-          class="font-body text-xs text-muted-foreground transition-colors duration-200 hover:text-foreground"
+          class="text-link font-body text-xs"
         >
           {{ link.label }}
         </component>
@@ -51,7 +51,7 @@ const links = [
           href="https://github.com/klgh"
           target="_blank"
           rel="noopener noreferrer"
-          class="font-body text-xs text-muted-foreground transition-colors duration-200 hover:text-foreground"
+          class="text-link font-body text-xs"
         >
           GitHub
         </a>

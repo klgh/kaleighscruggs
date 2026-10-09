@@ -83,7 +83,7 @@ Your markdown content here.
 | ----------- | ------------------------------------------- |
 | `title`     | Display title                               |
 | `excerpt`   | Short blurb for cards                       |
-| `category`  | `tech` \| `travel` \| `life` \| `baking`    |
+| `category`  | `tech` \| `travel` \| `life` \| `baking` \| `food` |
 | `featured`  | Show on the home garden preview when `true` |
 | `date`      | ISO date string; used for sorting           |
 | `readTime`  | Optional reading-time label                 |

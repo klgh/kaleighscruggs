@@ -73,7 +73,7 @@ function printResume(): void {
             <span class="text-muted-foreground">{{ resume.location }}</span>
             <a
               :href="`mailto:${resume.email}`"
-              class="text-foreground underline decoration-border underline-offset-4 transition-colors hover:text-accent hover:decoration-accent"
+              class="text-link"
             >
               {{ resume.email }}
             </a>
@@ -83,7 +83,7 @@ function printResume(): void {
               :href="link.href"
               target="_blank"
               rel="noopener noreferrer"
-              class="text-foreground underline decoration-border underline-offset-4 transition-colors hover:text-accent hover:decoration-accent"
+              class="text-link"
             >
               {{ link.label }}
             </a>

@@ -27,6 +27,9 @@
 
     --accent: 168 42% 36%;
     --accent-foreground: 150 12% 97%;
+    /* Same hue as accent, darkened so underlined links clear 4.5:1 on the page. */
+    --link: 168 42% 28%;
+    --link-hover: 168 42% 22%;
 
     --destructive: 0 72% 48%;
     --destructive-foreground: 0 0% 100%;
@@ -103,6 +106,9 @@
   .garden-tag-travel {
     @apply garden-tag bg-accent/15 text-accent;
   }
+  .garden-tag-food {
+    @apply garden-tag bg-accent/15 text-accent;
+  }
 
   .garden-tag-baking {
     @apply garden-tag bg-accent/15 text-accent;
@@ -110,6 +116,47 @@
 
   .garden-tag-life {
     @apply garden-tag bg-secondary text-muted-foreground;
+  }
+
+  /* Inline links: same green as the accent, darkened so the line reads at rest. */
+  .text-link {
+    color: hsl(var(--link));
+    text-decoration-line: underline;
+    text-decoration-color: hsl(var(--link));
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 0.22em;
+    transition:
+      color 200ms cubic-bezier(0.16, 1, 0.3, 1),
+      text-decoration-color 200ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .text-link:hover {
+    color: hsl(var(--link-hover));
+    text-decoration-color: hsl(var(--link-hover));
+  }
+
+  .garden-prose a {
+    color: hsl(var(--link));
+    font-weight: 500;
+    text-decoration-line: underline;
+    text-decoration-color: hsl(var(--link));
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 0.22em;
+    transition:
+      color 200ms cubic-bezier(0.16, 1, 0.3, 1),
+      text-decoration-color 200ms cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .garden-prose a:hover {
+    color: hsl(var(--link-hover));
+    text-decoration-color: hsl(var(--link-hover));
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .text-link,
+    .garden-prose a {
+      transition: none;
+    }
   }
 
   /* Subtle film grain — breaks flat digital surfaces */
@@ -135,8 +182,7 @@
     background:
       radial-gradient(ellipse 80% 60% at 85% 20%, hsl(168 35% 70% / 0.28), transparent 55%),
       radial-gradient(ellipse 50% 40% at 10% 80%, hsl(158 25% 55% / 0.18), transparent 50%),
-      radial-gradient(ellipse 60% 50% at 50% 100%, hsl(150 12% 90% / 0.9), transparent 60%),
-      hsl(var(--background));
+      radial-gradient(ellipse 60% 50% at 50% 100%, hsl(150 12% 90% / 0.9), transparent 60%), hsl(var(--background));
   }
 
   /* ATS contact line is print-only; screen uses linked contact row */
