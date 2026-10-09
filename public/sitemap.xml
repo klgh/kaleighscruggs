@@ -21,14 +21,50 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://kaleighscruggs.com/garden/gfmuffins</loc>
-    <lastmod>2026-08-07</lastmod>
+    <loc>https://kaleighscruggs.com/garden/asheville</loc>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kaleighscruggs.com/garden/londontravel</loc>
+    <loc>https://kaleighscruggs.com/garden/atlglutenfree</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kaleighscruggs.com/garden/doorcounty</loc>
+    <lastmod>2026-07-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kaleighscruggs.com/garden/gfmuffins</loc>
+    <lastmod>2021-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kaleighscruggs.com/garden/london</loc>
     <lastmod>2025-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kaleighscruggs.com/garden/sanfrancisco</loc>
+    <lastmod>2022-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kaleighscruggs.com/garden/savannah</loc>
+    <lastmod>2023-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kaleighscruggs.com/garden/scotland</loc>
+    <lastmod>2025-02-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

@@ -71,10 +71,7 @@ function printResume(): void {
             class="no-print screen-contact mt-3 flex flex-wrap gap-x-4 gap-y-1 font-body text-sm"
           >
             <span class="text-muted-foreground">{{ resume.location }}</span>
-            <a
-              :href="`mailto:${resume.email}`"
-              class="text-link"
-            >
+            <a :href="`mailto:${resume.email}`" class="text-link">
               {{ resume.email }}
             </a>
             <a

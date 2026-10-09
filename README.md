@@ -79,15 +79,15 @@ draft: false
 Your markdown content here.
 ```
 
-| Frontmatter | Notes                                       |
-| ----------- | ------------------------------------------- |
-| `title`     | Display title                               |
-| `excerpt`   | Short blurb for cards                       |
+| Frontmatter | Notes                                              |
+| ----------- | -------------------------------------------------- |
+| `title`     | Display title                                      |
+| `excerpt`   | Short blurb for cards                              |
 | `category`  | `tech` \| `travel` \| `life` \| `baking` \| `food` |
-| `featured`  | Show on the home garden preview when `true` |
-| `date`      | ISO date string; used for sorting           |
-| `readTime`  | Optional reading-time label                 |
-| `draft`     | Hidden from lists and routes when `true`    |
+| `featured`  | Show on the home garden preview when `true`        |
+| `date`      | ISO date string; used for sorting                  |
+| `readTime`  | Optional reading-time label                        |
+| `draft`     | Hidden from lists and routes when `true`           |
 
 ### Images
 

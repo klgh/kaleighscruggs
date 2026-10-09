@@ -11,4 +11,3 @@ date: "2026-10-09"
 <br />
 
 I also have a [google map](https://maps.app.goo.gl/fvJTm7jWaknyi7pA7)!
-
